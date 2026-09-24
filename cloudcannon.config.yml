@@ -1,0 +1,36 @@
+paths:
+  static: static
+  uploads: static/uploads
+timezone: Europe/Madrid
+markdown:
+  engine: commonmark
+  options:
+    gfm: true
+    linkify: false
+    table: false
+    strikethrough: false
+    subscript: false
+    superscript: false
+    heading_ids: false
+    breaks: false
+    xhtml: false
+    attributes: false
+    typographer: false
+    treat_indentation_as_code: true
+_snippets_imports:
+  hugo:
+    exclude:
+      - hugo_instagram
+collections_config:
+  content:
+    path: content
+    icon: wysiwyg
+  themes_mi_tema_archetypes:
+    path: themes/mi-tema/archetypes
+    icon: home_iot_device
+  themes_mi_tema_content:
+    path: themes/mi-tema/content
+    icon: sentiment_content
+  themes_mi_tema_layouts:
+    path: themes/mi-tema/layouts
+    icon: responsive_layout
