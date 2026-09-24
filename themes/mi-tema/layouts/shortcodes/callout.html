@@ -1,0 +1,8 @@
+<div class="article-callout">
+  {{ if .Get "title" }}
+    <h3 class="callout-title">{{ .Get "title" }}</h3>
+  {{ end }}
+  <div class="callout-content">
+    {{ .Inner | markdownify }}
+  </div>
+</div>

@@ -1,0 +1,11 @@
+<div class="custom-table-wrapper">
+  <div class="custom-table-container">
+    {{ .Inner | markdownify }}
+  </div>
+  {{ if .Get "caption" }}
+    <div class="table-caption">
+      <span class="caption-bar"></span>
+      <p>{{ .Get "caption" | markdownify }}</p>
+    </div>
+  {{ end }}
+</div>

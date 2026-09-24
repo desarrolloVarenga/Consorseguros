@@ -1,0 +1,91 @@
+<header class="site-header">
+  <!-- Topbar Roja -->
+  <div class="top-bar">
+    <div class="container">
+      <nav class="top-nav">
+        
+        <!-- Contenedor Suscripción -->
+        <div class="subscription-dropdown-container">
+          <button id="sub-toggle-btn" class="sub-toggle-btn">
+            {{ if eq .Language.Lang "en" }}Subscription{{ else }}Suscripción{{ end }}
+          </button>
+          
+          <!-- Pop-up formulario -->
+          <div id="sub-dropdown-menu" class="sub-dropdown-menu">
+            <p class="sub-intro">
+              {{ if eq .Language.Lang "en" }}Send us your email and we will keep you informed about new issues.{{ else }}Envíanos tu mail y te informaremos puntualmente de la publicación de nuevos números{{ end }}
+            </p>
+            
+            <form action="#" method="POST" class="sub-form">
+              <div class="form-group">
+                <label for="sub-nombre">{{ if eq .Language.Lang "en" }}Name{{ else }}Nombre{{ end }}</label>
+                <input type="text" id="sub-nombre" name="nombre">
+              </div>
+
+              <div class="form-group">
+                <label for="sub-apellidos">{{ if eq .Language.Lang "en" }}Last Name{{ else }}Apellidos{{ end }}</label>
+                <input type="text" id="sub-apellidos" name="apellidos">
+              </div>
+
+              <div class="form-group">
+                <label for="sub-email">Email *</label>
+                <input type="email" id="sub-email" name="email" required>
+              </div>
+
+              <div class="form-checkbox">
+                <input type="checkbox" id="sub-privacy" required>
+                <label for="sub-privacy">
+                  {{ if eq .Language.Lang "en" }}
+                    I have read and accept the <a href="{{ "/aviso-legal/" | relLangURL }}">legal notice</a> and <a href="{{ "/politica-privacidad/" | relLangURL }}">privacy policy</a>.
+                  {{ else }}
+                    He leído y acepto el <a href="{{ "/aviso-legal/" | relLangURL }}">aviso legal</a> y la <a href="{{ "/politica-privacidad/" | relLangURL }}">política de privacidad</a>.
+                  {{ end }}
+                </label>
+              </div>
+
+              <p class="legal-text">
+                En cumplimiento de la normativa vigente en materia de protección de datos personales...
+              </p>
+
+              <button type="submit" class="btn-submit">
+                {{ if eq .Language.Lang "en" }}Subscribe{{ else }}Suscribirse{{ end }}
+              </button>
+            </form>
+          </div>
+        </div>
+
+        <!-- Contacto con ruta dinámica por idioma -->
+        <a href="{{ "/contacto/" | relLangURL }}">&gt; {{ if eq .Language.Lang "en" }}Contact{{ else }}Contacto{{ end }}</a>
+        
+        <!-- Selector dinámico de idioma (Muestra solo el OTRO idioma disponible) -->
+        {{ if .IsTranslated }}
+          {{ range .Translations }}
+            <a href="{{ .RelPermalink }}">&gt; {{ .Language.LanguageName }}</a>
+          {{ end }}
+        {{ else }}
+          {{ range .Site.Languages }}
+            {{ if ne . $.Site.Language }}
+              <a href="/{{ .Lang }}/">&gt; {{ .LanguageName }}</a>
+            {{ end }}
+          {{ end }}
+        {{ end }}
+
+      </nav>
+    </div>
+  </div>
+
+  <!-- Header Principal -->
+  <div class="main-header container">
+    <div class="logo">
+      <a href="{{ .Site.Home.RelPermalink }}">
+        <img src="/images/logo_Consorseguros.png" alt="{{ .Site.Title }}">
+      </a>
+    </div>
+    <div class="header-actions">
+      <span>{{ if eq .Language.Lang "en" }}Previous issues{{ else }}Revistas anteriores{{ end }}</span>
+      <a href="{{ "/revistas/" | relLangURL }}" class="btn-primary">
+        {{ if eq .Language.Lang "en" }}View all issues{{ else }}Ver todos los números{{ end }}
+      </a>
+    </div>
+  </div>
+</header>

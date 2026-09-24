@@ -1,0 +1,3 @@
+<a href="{{ .Get "href" }}" class="tooltip-link" {{ if .Get "target" }}target="{{ .Get "target" }}"{{ end }} rel="noopener">
+  {{ .Get "text" | default (.Get "href") }}
+</a>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Nº 24 Primavera 2026 on My New Hugo Project</title>
+		<link>http://localhost:1313/revistas/numero-24/</link>
+		<description>Recent content in Nº 24 Primavera 2026 on My New Hugo Project</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/revistas/numero-24/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Editorial</title>
+				<link>http://localhost:1313/revistas/numero-24/editorial/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-24/editorial/</guid>
+				<description>El Consorcio de Compensación de Seguros (CCS), muy consciente de que una de las funciones que le otorga su Estatuto Legal en su artículo 16.c es «elaborar planes y programas de prevención y reducción de siniestros y desarrollarlos a través de las correspondientes campañas y medidas preventivas», vuelve a dedicar este vigesimocuarto número de su revista digital a la cuestión de la prevención y al papel que el seguro puede desempeñar en ella.</description>
+			</item>
+			<item>
+				<title>Hoja de ruta de adaptación del sector asegurador frente al cambio climático: de la compensación de daños a la prevención mediante el ejemplo de la restauración a gran escala</title>
+				<link>http://localhost:1313/revistas/numero-24/hoja-de-ruta/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-24/hoja-de-ruta/</guid>
+				<description>El seguro ha sido históricamente un instrumento esencial para compensar daños y facilitar la recuperación tras eventos extremos. Sin embargo, el aumento de pérdidas asociadas al cambio climático obliga a ampliar esta función para, no solo cubrir las pérdidas después del desastre, sino también para ver cómo contribuir a reducir el riesgo mediante la prevención.</description>
+			</item>
+			<item>
+				<title>Proyecto ICARIA: impactos económicos por inundaciones en el Área Metropolitana de Barcelona</title>
+				<link>http://localhost:1313/revistas/numero-24/icaria/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-24/icaria/</guid>
+				<description>En las últimas dos décadas, las inundaciones globales han afectado a más de 1.600 millones de personas, generando pérdidas económicas multimillonarias.</description>
+			</item>
+	</channel>
+</rss>

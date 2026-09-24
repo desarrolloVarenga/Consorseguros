@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>My New Hugo Project</title>
+		<link>http://localhost:1313/en/</link>
+		<description>Recent content on My New Hugo Project</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/en/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Editorial</title>
+				<link>http://localhost:1313/en/revistas/numero-24/editorial/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-24/editorial/</guid>
+				<description>El Consorcio de Compensación de Seguros (CCS), muy consciente de que una de las funciones que le otorga su Estatuto Legal en su artículo 16.c es «elaborar planes y programas de prevención y reducción de siniestros y desarrollarlos a través de las correspondientes campañas y medidas preventivas», vuelve a dedicar este vigesimocuarto número de su revista digital a la cuestión de la prevención y al papel que el seguro puede desempeñar en ella.</description>
+			</item>
+			<item>
+				<title>Contact</title>
+				<link>http://localhost:1313/en/contacto/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/contacto/</guid>
+				<description></description>
+			</item>
+	</channel>
+</rss>

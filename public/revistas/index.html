@@ -1,0 +1,223 @@
+<!DOCTYPE html>
+<html lang="es">
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+  
+    <link rel="stylesheet" href="/css/style.css">
+</head>
+<body>
+  <header class="site-header">
+  
+  <div class="top-bar">
+    <div class="container">
+      <nav class="top-nav">
+        
+        
+        <div class="subscription-dropdown-container">
+          <button id="sub-toggle-btn" class="sub-toggle-btn">
+            Suscripción
+          </button>
+          
+          
+          <div id="sub-dropdown-menu" class="sub-dropdown-menu">
+            <p class="sub-intro">
+              Envíanos tu mail y te informaremos puntualmente de la publicación de nuevos números
+            </p>
+            
+            <form action="#" method="POST" class="sub-form">
+              <div class="form-group">
+                <label for="sub-nombre">Nombre</label>
+                <input type="text" id="sub-nombre" name="nombre">
+              </div>
+
+              <div class="form-group">
+                <label for="sub-apellidos">Apellidos</label>
+                <input type="text" id="sub-apellidos" name="apellidos">
+              </div>
+
+              <div class="form-group">
+                <label for="sub-email">Email *</label>
+                <input type="email" id="sub-email" name="email" required>
+              </div>
+
+              <div class="form-checkbox">
+                <input type="checkbox" id="sub-privacy" required>
+                <label for="sub-privacy">
+                  
+                    He leído y acepto el <a href="/aviso-legal/">aviso legal</a> y la <a href="/politica-privacidad/">política de privacidad</a>.
+                  
+                </label>
+              </div>
+
+              <p class="legal-text">
+                En cumplimiento de la normativa vigente en materia de protección de datos personales...
+              </p>
+
+              <button type="submit" class="btn-submit">
+                Suscribirse
+              </button>
+            </form>
+          </div>
+        </div>
+
+        
+        <a href="/contacto/">&gt; Contacto</a>
+        
+        
+        
+          
+            <a href="/en/revistas/">&gt; English</a>
+          
+        
+
+      </nav>
+    </div>
+  </div>
+
+  
+  <div class="main-header container">
+    <div class="logo">
+      <a href="/">
+        <img src="/images/logo_Consorseguros.png" alt="My New Hugo Project">
+      </a>
+    </div>
+    <div class="header-actions">
+      <span>Revistas anteriores</span>
+      <a href="/revistas/" class="btn-primary">
+        Ver todos los números
+      </a>
+    </div>
+  </div>
+</header>
+
+  <main>
+    
+<div class="revistas-container">
+  
+  
+  <header class="revistas-header">
+    <h1>Revistas anteriores</h1>
+    
+      <p class="revistas-subtitulo">En esta sección puedes consultar los números anteriores. Todos ellos están disponibles online y en formato PDF para su descarga.</p>
+    
+  </header>
+
+  
+  <div class="divider-star">
+    <span>★</span>
+  </div>
+
+  
+  <div class="revistas-grid">
+    
+    
+    
+    
+    
+    
+
+    <article class="revista-card">
+      <div class="card-body">
+        
+        
+        
+        <div class="card-cover">
+          <a href="/revistas/numero-23/">
+            <img src="/images/numero-24/mini_portada_23.png" alt="Nº 23 Primavera 2026">
+          </a>
+        </div>
+        
+
+        
+        <h2 class="card-title">Nº 23 Primavera 2026</h2>
+        
+        
+        
+          <p class="card-description">Prevención, adaptación y respuestas frente al riesgo</p>
+        
+
+        
+        <a href="/revistas/numero-23/" class="card-link">
+          <span class="icon">↳</span> Ver número completo
+        </a>
+
+      </div>
+    </article>
+    
+    
+    
+    
+
+    <article class="revista-card">
+      <div class="card-body">
+        
+        
+        
+        <div class="card-cover">
+          <a href="/revistas/numero-22/">
+            <img src="/images/numero-24/mini_portada_23.png" alt="Nº 22 Primavera 2026">
+          </a>
+        </div>
+        
+
+        
+        <h2 class="card-title">Nº 22 Primavera 2026</h2>
+        
+        
+        
+          <p class="card-description">Prevención, adaptación y respuestas frente al riesgo</p>
+        
+
+        
+        <a href="/revistas/numero-22/" class="card-link">
+          <span class="icon">↳</span> Ver número completo
+        </a>
+
+      </div>
+    </article>
+    
+  </div>
+
+</div>
+
+  </main>
+
+  <footer class="site-footer">
+    <div class="container footer-content">
+        <div class="footer-left">
+            <img src="/images/logo_CCS.png" alt="Consorcio de Compensación de Seguros" class="footer-logo">
+            <ul class="footer-links">
+                <li><a href="#">Aviso Legal</a></li>
+                <li><a href="#">Política de Privacidad</a></li>
+                <li><a href="#">Política de Cookies</a></li>
+                <li><a href="#">Accesibilidad</a></li>
+            </ul>
+            <p class="copyright">© CONSORCIO DE COMPENSACIÓN DE SEGUROS E.P.E.</p>
+        </div>
+        <div class="footer-right">
+            <img src="/images/gob.png" alt="Gobierno de España" class="gov-logo">
+        </div>
+    </div>
+    <script>
+  document.addEventListener("DOMContentLoaded", function () {
+    const toggleBtn = document.getElementById("sub-toggle-btn");
+    const dropdownMenu = document.getElementById("sub-dropdown-menu");
+
+    if (toggleBtn && dropdownMenu) {
+      toggleBtn.addEventListener("click", function (e) {
+        e.stopPropagation();
+        dropdownMenu.classList.toggle("active");
+      });
+
+      dropdownMenu.addEventListener("click", function (e) {
+        e.stopPropagation();
+      });
+
+      document.addEventListener("click", function () {
+        dropdownMenu.classList.remove("active");
+      });
+    }
+  });
+</script>
+</footer>
+</body>
+</html>

@@ -1,0 +1,189 @@
+<!DOCTYPE html>
+<html lang="es">
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+  
+    <link rel="stylesheet" href="/css/style.css">
+</head>
+<body>
+  <header class="site-header">
+  
+  <div class="top-bar">
+    <div class="container">
+      <nav class="top-nav">
+        
+        
+        <div class="subscription-dropdown-container">
+          <button id="sub-toggle-btn" class="sub-toggle-btn">
+            Subscription
+          </button>
+          
+          
+          <div id="sub-dropdown-menu" class="sub-dropdown-menu">
+            <p class="sub-intro">
+              Send us your email and we will keep you informed about new issues.
+            </p>
+            
+            <form action="#" method="POST" class="sub-form">
+              <div class="form-group">
+                <label for="sub-nombre">Name</label>
+                <input type="text" id="sub-nombre" name="nombre">
+              </div>
+
+              <div class="form-group">
+                <label for="sub-apellidos">Last Name</label>
+                <input type="text" id="sub-apellidos" name="apellidos">
+              </div>
+
+              <div class="form-group">
+                <label for="sub-email">Email *</label>
+                <input type="email" id="sub-email" name="email" required>
+              </div>
+
+              <div class="form-checkbox">
+                <input type="checkbox" id="sub-privacy" required>
+                <label for="sub-privacy">
+                  
+                    I have read and accept the <a href="/en/aviso-legal/">legal notice</a> and <a href="/en/politica-privacidad/">privacy policy</a>.
+                  
+                </label>
+              </div>
+
+              <p class="legal-text">
+                En cumplimiento de la normativa vigente en materia de protección de datos personales...
+              </p>
+
+              <button type="submit" class="btn-submit">
+                Subscribe
+              </button>
+            </form>
+          </div>
+        </div>
+
+        
+        <a href="/en/contacto/">&gt; Contact</a>
+        
+        
+        
+          
+            <a href="/contacto/">&gt; Español</a>
+          
+        
+
+      </nav>
+    </div>
+  </div>
+
+  
+  <div class="main-header container">
+    <div class="logo">
+      <a href="/en/">
+        <img src="/images/logo_Consorseguros.png" alt="My New Hugo Project">
+      </a>
+    </div>
+    <div class="header-actions">
+      <span>Previous issues</span>
+      <a href="/en/revistas/" class="btn-primary">
+        View all issues
+      </a>
+    </div>
+  </div>
+</header>
+
+  <main>
+    
+<div class="contacto-container container">
+  
+  <h1 class="contacto-title">Contact</h1>
+
+  <div class="contacto-grid">
+    
+    
+    <div class="contacto-form-col">
+      <form action="#" method="POST" class="contacto-form">
+        
+        <div class="form-row">
+          <div class="form-group">
+            <label for="nombre">Nombre *</label>
+            <input type="text" id="nombre" name="nombre" required>
+          </div>
+          <div class="form-group">
+            <label for="email">E-mail *</label>
+            <input type="email" id="email" name="email" required>
+          </div>
+        </div>
+
+        <div class="form-group">
+          <label for="asunto">Asunto</label>
+          <input type="text" id="asunto" name="asunto">
+        </div>
+
+        <div class="form-group">
+          <label for="mensaje">Mensaje *</label>
+          <textarea id="mensaje" name="mensaje" rows="7" required></textarea>
+        </div>
+
+        <p class="legal-notice">
+          En cumplimiento de la normativa vigente en materia de protección de datos personales, le informamos de que los datos personales que nos facilite mediante el presente formulario serán tratados por el Consorcio de Compensación de Seguros con la finalidad de atender su consulta y/o petición. Puede ejercer sus derechos en materia de protección de datos mediante comunicación dirigida a nuestro Delegado de Protección de Datos en el correo electrónico <a href="mailto:dpo@consorseguros.es">dpo@consorseguros.es</a>. Puede obtener más información sobre el tratamiento de sus datos personales en nuestra <a href="/politica-privacidad/">Política de Privacidad</a>.
+        </p>
+
+        <div class="form-checkbox">
+          <input type="checkbox" id="privacy" required>
+          <label for="privacy">He leído y acepto el aviso legal y la política de privacidad</label>
+        </div>
+
+        <button type="submit" class="btn-enviar">Enviar</button>
+      </form>
+    </div>
+
+    
+    <div class="contacto-info-col">
+      <p><strong>Dirección:</strong> Pº Castellana 32, 28046, Madrid</p>
+      <p><strong>Teléfono:</strong> +34 91 339 55 00</p>
+      <p><strong>E-mail:</strong> <a href="mailto:estudiosrrii@consorseguros.es">estudiosrrii@consorseguros.es</a></p>
+    </div>
+
+  </div>
+</div>
+
+  </main>
+
+  <footer class="site-footer">
+    <div class="container footer-content">
+        <div class="footer-left">
+            <img src="/images/logo_CCS.png" alt="Consorcio de Compensación de Seguros" class="footer-logo">
+            <ul class="footer-links">
+                <li><a href="#">Aviso Legal</a></li>
+                <li><a href="#">Política de Privacidad</a></li>
+                <li><a href="#">Política de Cookies</a></li>
+                <li><a href="#">Accesibilidad</a></li>
+            </ul>
+            <p class="copyright">© CONSORCIO DE COMPENSACIÓN DE SEGUROS E.P.E.</p>
+        </div>
+        <div class="footer-right">
+            <img src="/images/gob.png" alt="Gobierno de España" class="gov-logo">
+        </div>
+    </div>
+    <script>
+  document.addEventListener("DOMContentLoaded", function () {
+    const toggleBtn = document.getElementById("sub-toggle-btn");
+    const dropdownMenu = document.getElementById("sub-dropdown-menu");
+
+    if (toggleBtn && dropdownMenu) {
+      toggleBtn.addEventListener("click", function (e) {
+        e.stopPropagation();
+        dropdownMenu.classList.toggle("active");
+      });
+
+      dropdownMenu.addEventListener("click", function (e) {
+        e.stopPropagation();
+      });
+
+      document.addEventListener("click", function () {
+        dropdownMenu.classList.remove("active");
+      });
+    }
+  });
+</script>
+</footer>
+</body>
+</html>

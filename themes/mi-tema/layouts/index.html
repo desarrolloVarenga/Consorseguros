@@ -1,0 +1,37 @@
+{{ define "main" }}
+<!-- Obtenemos la sección 'revistas' y traemos su primer número más reciente por fecha -->
+{{ $revistasSection := site.GetPage "section" "revistas" }}
+{{ $latest := index ($revistasSection.Pages.ByDate.Reverse) 0 }}
+
+<!-- Si el número más reciente tiene 'cover_image', usamos esa imagen; si no, la de Unsplash por defecto -->
+{{ $bgImage := "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1600&q=80" }}
+{{ if and $latest $latest.Params.cover_image }}
+  {{ $bgImage = $latest.Params.cover_image | relURL }}
+{{ end }}
+
+<section class="hero-home" style="background-image: url('{{ $bgImage }}');">
+  <div class="hero-overlay">
+    <div class="container hero-content">
+      
+      {{ if $latest }}
+        <!-- Título/Frase del número más reciente -->
+        <h1 class="hero-title">
+          {{ $latest.Params.hero_title | default $latest.Title }}
+        </h1>
+
+        <!-- Botón con enlace al número más reciente -->
+        <a href="{{ $latest.RelPermalink }}" class="badge-issue">
+          {{ $latest.Title }} <span class="arrow">&rsaquo;</span>
+        </a>
+      {{ else }}
+        <!-- Respaldo por si acaso no encuentra revistas -->
+        <h1 class="hero-title">{{ .Params.hero_title | default "Prevención, adaptación y respuestas frente al riesgo" }}</h1>
+        <a href="/revistas/numero-24/" class="badge-issue">
+          Nº 24 Primavera 2026 <span class="arrow">&rsaquo;</span>
+        </a>
+      {{ end }}
+
+    </div>
+  </div>
+</section>
+{{ end }}

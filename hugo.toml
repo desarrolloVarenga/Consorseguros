@@ -1,0 +1,17 @@
+baseURL = 'https://example.org/'
+locale = 'en-us'
+title = 'My New Hugo Project'
+theme = 'mi-tema'
+defaultContentLanguage = "es"
+defaultContentLanguageInSubdir = false
+
+[languages]
+  [languages.es]
+    languageName = "Español"
+    languageCode = "es-ES"
+    weight = 1
+
+  [languages.en]
+    languageName = "English"
+    languageCode = "en-US"
+    weight = 2

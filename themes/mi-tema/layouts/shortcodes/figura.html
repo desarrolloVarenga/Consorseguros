@@ -1,0 +1,14 @@
+<figure class="article-figure">
+  <img src="{{ .Get "src" | relURL }}" alt="{{ .Get "caption" | default "Figura" }}">
+  
+  {{ if or (.Get "caption") (.Get "source") }}
+  <figcaption class="figure-caption">
+    {{ if .Get "caption" }}
+      <p class="caption-text">{{ .Get "caption" | markdownify | safeHTML }}</p>
+    {{ end }}
+    {{ if .Get "source" }}
+      <p class="caption-source">Fuente: {{ .Get "source" | markdownify }}</p>
+    {{ end }}
+  </figcaption>
+  {{ end }}
+</figure>

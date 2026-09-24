@@ -1,0 +1,55 @@
+{{ define "main" }}
+<div class="contacto-container container">
+  
+  <h1 class="contacto-title">{{ .Title }}</h1>
+
+  <div class="contacto-grid">
+    
+    <!-- Columna Izquierda: Formulario -->
+    <div class="contacto-form-col">
+      <form action="#" method="POST" class="contacto-form">
+        
+        <div class="form-row">
+          <div class="form-group">
+            <label for="nombre">Nombre *</label>
+            <input type="text" id="nombre" name="nombre" required>
+          </div>
+          <div class="form-group">
+            <label for="email">E-mail *</label>
+            <input type="email" id="email" name="email" required>
+          </div>
+        </div>
+
+        <div class="form-group">
+          <label for="asunto">Asunto</label>
+          <input type="text" id="asunto" name="asunto">
+        </div>
+
+        <div class="form-group">
+          <label for="mensaje">Mensaje *</label>
+          <textarea id="mensaje" name="mensaje" rows="7" required></textarea>
+        </div>
+
+        <p class="legal-notice">
+          En cumplimiento de la normativa vigente en materia de protección de datos personales, le informamos de que los datos personales que nos facilite mediante el presente formulario serán tratados por el Consorcio de Compensación de Seguros con la finalidad de atender su consulta y/o petición. Puede ejercer sus derechos en materia de protección de datos mediante comunicación dirigida a nuestro Delegado de Protección de Datos en el correo electrónico <a href="mailto:dpo@consorseguros.es">dpo@consorseguros.es</a>. Puede obtener más información sobre el tratamiento de sus datos personales en nuestra <a href="/politica-privacidad/">Política de Privacidad</a>.
+        </p>
+
+        <div class="form-checkbox">
+          <input type="checkbox" id="privacy" required>
+          <label for="privacy">He leído y acepto el aviso legal y la política de privacidad</label>
+        </div>
+
+        <button type="submit" class="btn-enviar">Enviar</button>
+      </form>
+    </div>
+
+    <!-- Columna Derecha: Información de contacto -->
+    <div class="contacto-info-col">
+      <p><strong>Dirección:</strong> Pº Castellana 32, 28046, Madrid</p>
+      <p><strong>Teléfono:</strong> +34 91 339 55 00</p>
+      <p><strong>E-mail:</strong> <a href="mailto:estudiosrrii@consorseguros.es">estudiosrrii@consorseguros.es</a></p>
+    </div>
+
+  </div>
+</div>
+{{ end }}

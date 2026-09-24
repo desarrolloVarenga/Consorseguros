@@ -1,0 +1,8 @@
+<span class="tooltip-wrapper">
+  <a href="{{ .Get "url" | default "#" }}" target="_blank" class="tooltip-link">
+    {{ .Get "text" }}<sup class="footnote-num">({{ .Get "num" | default "1" }})</sup>
+  </a>
+  <span class="tooltip-box">
+    {{ .Inner }}
+  </span>
+</span>

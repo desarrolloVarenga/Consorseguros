@@ -1,0 +1,49 @@
+{{ define "main" }}
+<div class="revistas-container">
+  
+  <!-- Cabecera -->
+  <header class="revistas-header">
+    <h1>{{ .Title }}</h1>
+    {{ with .Params.description }}
+      <p class="revistas-subtitulo">{{ . }}</p>
+    {{ end }}
+  </header>
+
+  <!-- Separador con estrella -->
+  <div class="divider-star">
+    <span>★</span>
+  </div>
+
+  <!-- Grid de tarjetas -->
+  <div class="revistas-grid">
+    {{ range .Pages }}
+    <article class="revista-card">
+      <div class="card-body">
+        
+        <!-- Imagen única de portada completa -->
+        {{ with .Params.portada }}
+        <div class="card-cover">
+          <a href="{{ $.RelPermalink }}">
+            <img src="{{ . | relURL }}" alt="{{ $.Title }}">
+          </a>
+        </div>
+        {{ end }}
+
+        <!-- Título y subtítulo/descripción -->
+        <h2 class="card-title">{{ .Title }}</h2>
+        {{ with .Params.hero_title }}
+          <p class="card-description">{{ . }}</p>
+        {{ end }}
+
+        <!-- Enlace -->
+        <a href="{{ .RelPermalink }}" class="card-link">
+          <span class="icon">↳</span> Ver número completo
+        </a>
+
+      </div>
+    </article>
+    {{ end }}
+  </div>
+
+</div>
+{{ end }}

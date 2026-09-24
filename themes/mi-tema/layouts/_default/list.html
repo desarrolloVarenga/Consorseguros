@@ -1,0 +1,77 @@
+{{ define "main" }}
+<!-- Sub-header propio del Número (Barra blanca con menú) -->
+<nav class="issue-nav-bar">
+  <div class="container issue-nav-container">
+    <div class="issue-nav-links">
+      <a href="{{ .RelPermalink }}" class="active">PORTADA</a>
+      <a href="#sumario">SUMARIO &rsaquo;</a>
+      <a href="#">BUSCADOR</a>
+      <a href="#">CONSEJO EDITORIAL</a>
+    </div>
+  </div>
+</nav>
+
+<!-- Hero Principal del Número -->
+<section class="numero-hero" style="background-image: url('{{ .Params.cover_image | default "/images/num-24/portada.jpg" }}');">
+  <div class="numero-hero-overlay">
+    <div class="container">
+      <h1 class="numero-hero-title">{{ .Params.hero_title | default .Title }}</h1>
+    </div>
+  </div>
+
+  <!-- Botón Flotante PDF -->
+  {{ if .Params.pdf_download }}
+  <a href="{{ .Params.pdf_download }}" class="pdf-floating-btn" target="_blank" download>
+    <span class="pdf-icon">&#128196;</span> PDF
+  </a>
+  {{ end }}
+</section>
+
+<!-- Separador e Intro -->
+<div id="sumario" class="container text-center num-intro">
+  <h2 class="section-subtitle">En este número...</h2>
+  <div class="header-divider"><span>★</span></div>
+</div>
+
+<!-- Parrilla de Artículos (3 Columnas) -->
+<main class="container page-content">
+  <div class="articles-grid">
+    {{ range .Pages.ByWeight }}
+    <article class="article-card-num">
+      
+      <!-- Imagen del Artículo -->
+      <div class="card-thumb">
+        <a href="{{ .RelPermalink }}">
+          {{ $img := .Resources.GetMatch .Params.image }}
+          {{ if $img }}
+            <img src="{{ $img.RelPermalink }}" alt="{{ .Title }}">
+          {{ else if .Params.image }}
+            <img src="{{ .Params.image }}" alt="{{ .Title }}">
+          {{ else }}
+            <div class="img-placeholder"></div>
+          {{ end }}
+        </a>
+      </div>
+
+      <!-- Contenido de la Tarjeta -->
+      <div class="card-content">
+        <h3 class="card-title-num">
+          <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+        </h3>
+
+        {{ if .Params.category }}
+          <span class="category-tag">{{ .Params.category }}</span>
+        {{ end }}
+
+        <p class="card-excerpt">{{ .Summary }}</p>
+
+        <a href="{{ .RelPermalink }}" class="read-more-link">
+          <span class="arrow">&rsaquo;</span> Leer más
+        </a>
+      </div>
+
+    </article>
+    {{ end }}
+  </div>
+</main>
+{{ end }}

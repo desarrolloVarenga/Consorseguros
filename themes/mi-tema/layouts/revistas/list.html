@@ -1,0 +1,77 @@
+{{ define "main" }}
+<!-- Sub-header propio del Número (Barra blanca superior) -->
+<nav class="issue-nav-bar">
+  <div class="container issue-nav-container">
+    <div class="issue-nav-links">
+      <a href="{{ .RelPermalink }}" class="active">PORTADA</a>
+      <a href="#sumario">SUMARIO &rsaquo;</a>
+      <a href="#">BUSCADOR</a>
+      <a href="#">CONSEJO EDITORIAL</a>
+    </div>
+  </div>
+</nav>
+
+<!-- Hero Principal del Número (Con la imagen de cabecera y el botón de PDF anclado) -->
+<section class="numero-hero" style="background-image: url('{{ .Params.cover_image | default "/images/num-24/portada.jpg" | relURL }}');">
+  <div class="numero-hero-overlay">
+    <div class="container">
+      <h1 class="numero-hero-title">{{ .Params.hero_title | default .Title }}</h1>
+    </div>
+  </div>
+
+  <!-- Botón PDF (Pegado al borde derecho del banner hero) -->
+  {{ if .Params.pdf_download }}
+  <a href="{{ .Params.pdf_download | relURL }}" class="pdf-floating-btn" target="_blank" download>
+    <span class="pdf-icon">&#128196;</span> PDF
+  </a>
+  {{ end }}
+</section>
+
+<!-- Separador e Introducción -->
+<div id="sumario" class="container text-center num-intro">
+  <h2 class="section-subtitle">En este número...</h2>
+  <div class="header-divider"><span>★</span></div>
+</div>
+
+<!-- Parrilla de Artículos (Editorial + Colaboraciones) -->
+<main class="container page-content">
+  <div class="articles-grid">
+    {{ range .Pages.ByWeight }}
+    <article class="article-card-num">
+      
+      <!-- Miniatura de la tarjeta (Carga imagen tanto para Editorial como para el resto) -->
+      {{ if .Params.image }}
+      <div class="card-thumb">
+        <a href="{{ .RelPermalink }}">
+          <img src="{{ .Params.image | relURL }}" alt="{{ .Title }}">
+        </a>
+      </div>
+      {{ end }}
+
+      <!-- Contenido de la tarjeta -->
+      <div class="card-content">
+        
+        <!-- Título principal de la tarjeta -->
+        <h3 class="card-title-num">
+          <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+        </h3>
+
+        <!-- Etiqueta de Categoría (EDITORIAL, COLABORACIONES, etc.) -->
+        {{ if .Params.category }}
+          <span class="category-tag">{{ .Params.category }}</span>
+        {{ end }}
+
+        <!-- Breve resumen del artículo -->
+        <p class="card-excerpt">{{ .Summary }}</p>
+
+        <!-- Enlace 'Leer más' con icono de flecha -->
+        <a href="{{ .RelPermalink }}" class="read-more-link">
+          <span class="arrow">&#8627;</span> Leer más
+        </a>
+      </div>
+
+    </article>
+    {{ end }}
+  </div>
+</main>
+{{ end }}

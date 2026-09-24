@@ -1,0 +1,149 @@
+{{ define "main" }}
+<!-- Sub-header propio del Número (Barra blanca) -->
+<nav class="issue-nav-bar">
+  <div class="container issue-nav-container">
+    <div class="issue-nav-links">
+      <a href="{{ .Parent.RelPermalink }}">PORTADA</a>
+      <a href="{{ .Parent.RelPermalink }}#sumario">SUMARIO &rsaquo;</a>
+      <a href="#">BUSCADOR</a>
+      <a href="#">CONSEJO EDITORIAL</a>
+    </div>
+  </div>
+</nav>
+
+<!-- Botón Flotante PDF (Pegado a la derecha de la pantalla) -->
+{{ if .Params.pdf_download }}
+<a href="{{ .Params.pdf_download }}" class="pdf-floating-btn" target="_blank" download>
+  <span class="pdf-icon">&#128196;</span> PDF
+</a>
+{{ end }}
+
+<!-- Franja gris superior (Header de la entrada) -->
+<header class="article-header-banner">
+  <div class="container">
+    <h1 class="banner-title">{{ .Params.category | default .Section }}</h1>
+    <span class="banner-category">{{ .Title }}</span>
+  </div>
+</header>
+
+<!-- Contenedor Principal del Artículo -->
+<div class="container article-container">
+
+  <!-- Título interior y redes sociales -->
+  <div class="article-meta-header">
+    <h2 class="article-main-title">{{ .Title }}</h2>
+    {{ if .Params.authors }}
+    <div class="authors-box">
+      <ul>
+        {{ range .Params.authors }}
+        <li>
+          <strong>{{ .name }}</strong>{{ if .institution }} - <span class="institution">{{ .institution }}</span>{{ end
+          }}
+        </li>
+        {{ end }}
+      </ul>
+    </div>
+    {{ end }}
+    <div class="social-share-buttons">
+      <a href="https://www.facebook.com/sharer/sharer.php?u={{ .Permalink }}" target="_blank"
+        class="social-icon fb">f</a>
+      <a href="https://twitter.com/intent/tweet?url={{ .Permalink }}&text={{ .Title }}" target="_blank"
+        class="social-icon tw">X</a>
+      <a href="https://www.linkedin.com/shareArticle?mini=true&url={{ .Permalink }}" target="_blank"
+        class="social-icon in">in</a>
+    </div>
+  </div>
+
+  <!-- Rejilla del contenido (Cuerpo + Sidebar) -->
+  <div class="article-body-grid">
+
+    <!-- Columna Izquierda: Texto del artículo -->
+    <main class="article-content">
+      {{ .Content }}
+    </main>
+
+    <!-- Columna Derecha: Sidebar con destacado (Si hay imagen o texto lateral) -->
+    {{ if or .Params.sidebar_image .Params.sidebar_text }}
+    <aside class="article-sidebar">
+      <div class="sidebar-box">
+        {{ if .Params.sidebar_image }}
+        <img src="{{ .Params.sidebar_image | relURL }}" alt="Imagen destacada" class="sidebar-img">
+        {{ end }}
+
+        {{ if .Params.sidebar_text }}
+        <div class="sidebar-card-red">
+          <p>{{ .Params.sidebar_text }}</p>
+        </div>
+        {{ end }}
+      </div>
+    </aside>
+    {{ end }}
+
+  </div>
+
+  <!-- Botón Subir arriba -->
+  <div class="back-to-top-container">
+    <a href="#" class="back-to-top">SUBIR &#129045;</a>
+  </div>
+
+</div>
+<!-- Modal Lightbox para ampliado de figuras -->
+<div id="imageModal" class="image-modal" onclick="closeImageModal(event)">
+  <span class="modal-close" onclick="closeImageModal(event)">&times;</span>
+  <div class="modal-content-wrapper">
+    <img id="modalImage" class="modal-img" src="" alt="Imagen ampliada">
+    <div id="modalCaption" class="modal-caption-text"></div>
+  </div>
+</div>
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  // 1. Asignar evento de clic dinámicamente a todas las imágenes dentro de figuras
+  const images = document.querySelectorAll('.article-content figure img');
+
+  images.forEach(function(img) {
+    img.style.cursor = 'pointer'; // Cursor de lupa/mano al pasar por encima
+    img.addEventListener('click', function() {
+      openImageModal(this);
+    });
+  });
+});
+
+function openImageModal(imgElement) {
+  const modal = document.getElementById('imageModal');
+  const modalImg = document.getElementById('modalImage');
+  const modalCaption = document.getElementById('modalCaption');
+  
+  // Buscar la etiqueta <figcaption> dentro del mismo <figure>
+  const figure = imgElement.closest('figure');
+  const caption = figure ? figure.querySelector('figcaption') : null;
+
+  // Cargar imagen y texto en la ventana flotante
+  modalImg.src = imgElement.src;
+  modalCaption.innerHTML = caption ? caption.innerHTML : '';
+  
+  // Mostrar modal y bloquear scroll de fondo
+  modal.classList.add('active');
+  document.body.style.overflow = 'hidden';
+}
+
+function closeImageModal(event) {
+  // Cerrar haciendo clic en el fondo oscuro o en la 'X'
+  if (event.target.classList.contains('image-modal') || event.target.classList.contains('modal-close')) {
+    const modal = document.getElementById('imageModal');
+    modal.classList.remove('active');
+    document.body.style.overflow = 'auto'; // Restaurar scroll
+  }
+}
+
+// Cerrar con la tecla Escape
+document.addEventListener('keydown', function(event) {
+  if (event.key === 'Escape') {
+    const modal = document.getElementById('imageModal');
+    if (modal && modal.classList.contains('active')) {
+      modal.classList.remove('active');
+      document.body.style.overflow = 'auto';
+    }
+  }
+});
+</script>
+{{ end }}
