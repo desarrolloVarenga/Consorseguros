@@ -74,7 +74,21 @@
 				<link>http://localhost:1313/revistas/numero-24/icaria/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/revistas/numero-24/icaria/</guid>
-				<description>En las últimas dos décadas, las inundaciones globales han afectado a más de 1.600 millones de personas, generando pérdidas económicas multimillonarias.</description>
+				<description>En las últimas dos décadas, las inundaciones globales han afectado a más de 1.600 millones de personas, generando pérdidas económicas multimillonarias (UNDRR, 2020). Las áreas urbanas son especialmente vulnerables a estos eventos debido a su alta densidad demográfica e infraestructural, lo que propicia fallos en cascada en los servicios esenciales</description>
+			</item>
+			<item>
+				<title>El Servicio de Gestión de Emergencias de Copernicus: herramientas espaciales de la UE para la gestión de catástrofes y crisis</title>
+				<link>http://localhost:1313/revistas/numero-24/servicio-de-gesti%C3%B3n-de-emergencias-de-copernicus/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-24/servicio-de-gesti%C3%B3n-de-emergencias-de-copernicus/</guid>
+				<description>Cuando las inundaciones anegan una ciudad, los incendios forestales se extienden o la sequía amenaza el suministro de agua, las autoridades necesitan información rápida y precisa. Para ello, recurren a científicos y profesionales que recopilan, generan e interpretan datos fiables casi en tiempo real. A lo largo de este artículo mostramos cómo la información geoespacial obtenida por satélite ha ayudado a España a prepararse para las catástrofes, darles respuesta y recuperarse tras ellas.</description>
+			</item>
+			<item>
+				<title>Prevención de incendios forestales en un contexto de riesgo emergente</title>
+				<link>http://localhost:1313/revistas/numero-24/incendios/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-24/incendios/</guid>
+				<description>Si bien la mayoría de los incendios forestales se originan por causas humanas, su comportamiento y propagación están influenciados en gran medida por las características y la distribución del combustible forestal, estrechamente vinculadas a la gestión del territorio. En algunas regiones como la mediterránea, la acumulación de combustibles en los paisajes debido al abandono rural, junto con la expansión de la matriz urbano-forestal, aumentan aún más el riesgo.</description>
 			</item>
 			<item>
 				<title>Post 3</title>
