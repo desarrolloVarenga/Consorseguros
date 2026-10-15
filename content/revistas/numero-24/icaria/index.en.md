@@ -1,0 +1,169 @@
+---
+title: "ICARIA Project: the Economic Impact of Flooding in the Barcelona Metropolitan Area"
+category: "Contributions"
+image: "/images/numero-24/foto_portada_ICARIA.jpg"
+sidebar_image: "/images/numero-24/foto_portada_ICARIA.jpg"
+sidebar_text: "The study area covered the 36 municipalities of the AMB, with an approximate area of 636 km². The territorial complexity of the area under analysis—combining densely urbanised zones, critical infrastructure, industrial areas and particularly exposed coastal sectors—made it necessary to develop a large-scale model with a high level of detail."
+summary: "Over the past two decades, floods worldwide have affected more than 1.6 billion people, causing economic losses running into the billions (UNDRR, 2020). Urban areas are particularly vulnerable to these events due to their high population and infrastructure density, which leads to cascading failures in essential services."
+pdf_download: "/pdf/num24/ICARIA.pdf"
+weight: 3
+authors:
+  - name: "Àlex de la Cruz Coronas "
+    institution: "Engineer. Climate Change & Resilience Unit, AQUATEC (AGBAR Group). FLUMEN Research Institute. Universitat Politècnica de Catalunya (UPC-BarcelonaTECH) – International Centre for Numerical Methods in Engineering (CIMNE)"
+  - name: "Beniamino Russo"
+    institution: " Professor. FLUMEN Research Institute, Universitat Politècnica de Catalunya (UPC-BarcelonaTECH) – International Centre for Numerical Methods in Engineering (CIMNE)"
+  - name: "Sofía Pacho Gómez"
+    institution: "Technician. Climate Change & Resilience Unit, AQUATEC (AGBAR Group)"
+  - name: "Daniel Yubero Peña"
+    institution: "Technician. Climate Change & Resilience Unit, AQUATEC (AGBAR Group)"
+---
+## Introduction
+Over the past two decades, floods worldwide have affected more than 1.6 billion people, causing economic losses running into the billions (UNDRR, 2020). Urban areas are particularly vulnerable to these events due to their high population and infrastructure density, which leads to cascading failures in essential services (Cea & Costabile, 2022; Russo et al., 2023). This situation is exacerbated in coastal regions—home to approximately 41% of the population in Spain and Europe—due to the confluence of pluvial, fluvial and sea flooding. These combined events, when occurring simultaneously or in succession, drastically amplify the impacts on the territory (Del-Rosal-Salido et al., 2025; Sanuy et al., 2021). All of this implies a paradigm shift in addressing the issue of urban rainwater flooding, as highlighted in a recent article by Molina-López et al., 2026.
+
+Within this framework, the Horizon Europe ICARIA project (https://www.icaria-project.eu/) has as its main objective the promotion of asset-level modelling practices to improve the resilience of critical infrastructure in the face of multi-hazard events (Leone et al., 2025).
+
+The project, which ran for 39 months (January 2023 to March 2026), was structured around three case studies representing three European regions with different climatic, morphological and socio-economic characteristics: the Barcelona Metropolitan Area (AMB, Spain), the Salzburg region (Austria) and the South Aegean region (Greece). For each case, advanced models have been developed for various climate hazards, enabling the assessment of their potential impacts on the population and critical infrastructure, as well as any possible cascade effects that may arise.
+
+The case of the AMB (Barcelona Metropolitan Area), with 3.3 million inhabitants, many of whom live in coastal areas, is that of a region particularly vulnerable to risks associated with extreme hydrological events, such as those linked to heavy rainfall. The research presented in this paper assesses the effect of climate change on extreme rainfall and on the economic impacts resulting from urban flooding across the AMB. The scenarios considered were single hazard (rain-induced flooding), multi-hazard (urban and storm surge flooding) and adaptation (considering different adaptation measures).
+
+## Methodology
+
+From a methodological perspective, the study of the socioeconomic impacts of flooding in the AMB was based on the risk analysis framework recommended by institutions such as the IPCC (1) (IPCC, 2023) and the UNDRR (2) (UNDRR, 2015). In accordance with this methodological framework, risk is defined as the combination of three factors: hazard, exposure and vulnerability. In the case of urban flooding and the analysis of direct economic impacts on those at risk, this framework has been adapted as shown in Figure 1: hazard corresponds to flood maps showing the water depths observed during an event, exposure reflects the location of exposed buildings and infrastructure, and vulnerability describes the damage that water can cause to the affected elements.
+
+It is important to highlight that a key step in this methodology is the adaptation of flood map values (hazard) to the study context. In this regard, it is known that economic damage to buildings is caused by water accumulation inside properties, not by water depths in the streets. Due to the short duration of urban rainwater flooding, it is uncommon for a steady-state situation to be reached where water depths inside and outside properties become equal. Consequently, it is essential to apply criteria that allow for correlating water depths outside and inside buildings. In this study, the impermeability coefficients proposed in Martínez-Gomariz et al. (2021) were used.
+
+{{< figura src="/images/numero-24/eng/ICARIA_figura1_En.png" caption="Figure 1. Methodology for quantifying flood risk." source="own work." >}}
+
+### Metropolitan flood model
+
+To assess pluvial flooding across the entire AMB (636 km²), a coupled 1D/2D hydrodynamic model was developed using Infoworks Ultimate (v2026.2). In line with the state of the art in this field, this type of model represents the most advanced and accurate option for studying flooding in urban environments. Given the high complexity of urbanised areas, with small-scale features that alter the preferential runoff flows, and the presence of drainage systems that collect rainwater, it is essential to opt for modelling techniques representing both environments.
+
+The study area covered the 36 municipalities of the AMB, with an approximate area of 636 km². The territorial complexity of the area under analysis—combining densely urbanised zones, critical infrastructure, industrial areas and particularly exposed coastal sectors—made it necessary to develop a large-scale model with a high level of detail.
+
+The two-dimensional (2D) component of the model represented surface runoff using a high-resolution digital terrain model and a variable hydraulic grid adapted to the urban characteristics of the area. In the most urbanised areas, a particularly fine discretisation was used to accurately reproduce water accumulations and the preferred routes of surface flow. In total, a grid of 6.8 million elements was achieved (de La Cruz-Coronas et al., 2026).
+
+The one-dimensional (1D) component modelled the hydraulic behaviour of the metropolitan and municipal sewerage network. The model incorporated more than 4,950 kilometres of sewers and around 181,000 sewer nodes, including pumping stations, storage tanks, valves, syphons and other specific regulating elements. This integration made it possible to provide a continuous representation of how the urban drainage system operates at a metropolitan scale in a continuous manner, something uncommon in regional flood studies.
+
+It is worth noting that, globally, there are very few flood models covering an area of this size in such detail. Figure 2 shows a diagram of the resulting model.
+
+{{< figura src="/images/numero-24/ICARIA_figura2.png" caption="Figure 2. Diagram of the 1D/2D model developed." source="own work" >}}
+
+### Simulated scenarios
+
+In line with ICARIA’s objectives, a total of three flood scenarios were simulated using the developed model:
+
+* The first scenario, known as single-hazard (SH), considered only flooding caused by heavy rainfall. Design storms associated with return periods of 1, 10, 50, 100 and 500 years were used, representative of extreme events typical of the Mediterranean climate (Barcelona City Council, 2019). These simulations were run for both historical conditions and three future climate change horizons (2015–2040, 2041–2070 and 2071–2100), incorporating increases in rainfall intensity derived from regionalised climate projections. In total, this scenario comprised 20 simulations (De La Cruz-Coronas et al., 2026).
+
+* The second scenario, known as multi-hazard (MH), incorporated the simultaneous interaction between extreme rainfall and storm surges. This approach made it possible to analyse the so-called backwater effect, a phenomenon especially relevant in urban coastal areas, where high sea levels hinder drainage from the sewer system and exacerbate flooding. To this end, equivalent rainfall and sea-level events were combined for each return period, using the same climate projections as in the SH scenario. This approach made it possible to assess the additional impact that the marine component can have on economic damage and urban impact, particularly in coastal municipalities. As in the previous scenario, 20 multi-hazard simulations were carried out.
+
+* Finally, the adaptation scenario (AD) assessed the potential of various urban resilience measures to reduce flood risk. The simulations incorporated nature-based solutions and sustainable urban drainage systems, such as permeable pavements, green roofs and infiltration areas (De La Cruz-Coronas et al., 2026). These measures were represented by hydrological and hydraulic modifications in the model, mainly related to the reduction of surface runoff and the increase in the urban system’s retention and infiltration capacity. The AD scenario reproduced the same climatic conditions and multi-hazard combinations considered previously, allowing for a direct comparison of the effectiveness of adaptation measures against different levels of severity. This section included a further 20 simulations.
+
+### Risk quantification methods
+
+In the case of economic impacts on buildings, depth-damage curves were used, which relate the level of flooding inside buildings to the expected economic losses according to the type of land use. These curves are one of the most important elements of the methodology, as they were developed using actual claims data provided by Consorcio de Compensación de Seguros (CCS) and the expertise of specialists in assessing flood-related damage.
+
+To this end, CCS provided an extensive database of flood claims for the Barcelona Metropolitan Area, compiled between 2010 and 2022. This data was georeferenced at the census tract scale. This information enabled the damage model to be calibrated and the results to be validated by linking the compensated damages with the estimated water depths for each event, as determined by hydraulic modelling. In summary, empirical damage functions were generated, adapted to the urban and socioeconomic conditions of the study area.
+
+These curves were developed as part of the RESCCUE project, in which these functions were calibrated and validated using historical flood records and the corresponding compensation claims managed by CCS (Martínez-Gomariz et al., 2021; Martínez-Gomariz, Guerrero-Hidalga, et al., 2020). In the ICARIA project, this methodology was revisited and expanded to include recent damage reports for application at the metropolitan scale, keeping the same conceptual basis and once again using the information provided by CCS to ensure the robustness and representativeness of the results. Specifically, a set of damage curves was developed for each of the 36 municipalities in the AMB, using the Barcelona curves as a basis, which were modified according to a set of socioeconomic criteria defined in Martínez-Gomariz, Forero-Ortiz, et al., 2020.
+
+In order to facilitate its practical application, the damage was aggregated according to the 14 use categories listed in the cadastral data, enabling a consistent estimation of the economic losses associated with various current and future flood scenarios.
+
+{{< figura src="/images/numero-24/eng/ICARIA_figura3_En.png" caption="Figure 3. Economic damage curves for buildings used." source="Martínez-Gomariz et al., 2019." >}}
+
+## Results
+
+The results obtained show a consistent trend of increased flood risk in the Barcelona Metropolitan Area (AMB) under climate change scenarios, both in terms of economic damage and the impact on pedestrians and urban mobility. Furthermore, the analysis confirms that multi-hazard events—combining heavy rainfall and storm surges—generally exacerbate the impacts compared to simulations involving rainfall alone.
+
+### Economic impact on buildings
+
+The simulations show a progressive and consistent increase in direct economic losses associated with urban flooding for all return periods considered. Under the rainfall scenario (single-hazard, SH), losses associated with a 10-year return period (T10) event rise from approximately €217 million under historical conditions to around €294 million by the end of the century. For more severe events, such as T100 and T500, the damage exceeds €875 million and €1,450 million, respectively, demonstrating the cumulative effect that climate change can have on the economic losses resulting from urban flooding.
+
+The inclusion of the marine component in the multi-hazard (MH) scenario results in additional damage increases, generally ranging from 4% to 7% compared to simulations based solely on rainfall. This increase is mainly due to the backwater effect caused by high sea levels at the drainage network’s discharge points, reducing its drainage capacity and leading to surface water accumulation. Although this effect is particularly significant in coastal municipalities, its influence extends to a large part of the metropolitan drainage network due to the high degree of hydraulic interconnection.
+
+Figure 4 shows the spatial distribution of damage across the various municipalities of the AMB. Barcelona accounts for the highest absolute economic losses, reaching values exceeding €50 million for T10 events under current conditions and exceeding €80 million in projections for the end of the century. Other municipalities with high exposure, such as Badalona, Castelldefels, Sant Boi de Llobregat, Sant Cugat del Vallès, Montcada i Reixac and Viladecans, also face significant potential damage. In general, the spatial distribution of losses is strongly influenced by the concentration of exposed assets and by local hydraulic characteristics, with a clear correlation observed between urban density and the magnitude of the damage.
+
+{{< figura src="/images/numero-24/ICARIA_figura4.png" caption="Figure 4. Economic losses by municipality in the AMB under the rainfall scenario (single-hazard SH)." source="own work." >}}
+
+Beyond the damage associated with individual events, the Expected Annual Damage (EAD) indicator provides a more comprehensive view of risk by incorporating the probability of occurrence of different flood scenarios. The results show a sustained increase in EAD across all the scenarios analysed. In the case of the SH scenario, the EAD rises from €139.8 million under historical conditions to €190.3 million by the end of the century, representing an increase of over 36%. Under MH conditions, the EAD reaches €199.2 million, confirming that the interaction between pluvial flooding and marine drivers systematically amplifies metropolitan economic risk (see Table 1).
+
+{{< tabla caption="Table 1. Expected Annual Damage results for the AMB." >}}
+| Climate projection period | EAD for the SH scenario | EAD for the MH scenario | EAD for the AD scenario |
+| :--- | :---: | :---: | :---: |
+| Historical | €139.8M | €145.9M | €121.2M |
+| Period 1 (2015-2040) | €162.3M | €170.2M | €144.6M |
+| Period 2 (2041-2070) | €171.1M | €179.4M | €154.7M |
+| Period 3 (2071-2100) | €190.3M | €199.2M | €167.9M |
+{{< /tabla >}}
+
+### Effect of adaptation measures
+
+The adaptation scenario shows a consistent reduction in impacts compared with the multi-hazard simulations. Measures based on sustainable urban drainage and nature-based solutions, such as permeable pavements, green roofs and infiltration areas, reduce economic damage by between 10% and 18% for frequent and intermediate events, by promoting the temporary retention of runoff and reducing inflows into the drainage network during the initial phases of storms.
+
+The benefits are particularly significant for events with shorter return periods, where such measures manage to significantly reduce both the volume of flooding and the frequency of risk situations activation. In terms of expected annual damage (EAD), the simulations show reductions of between 12% and 17% compared to the MH scenario, confirming the potential of these measures to improve urban resilience to the recurring impacts of flooding. However, the effectiveness of these measures decreases progressively as the severity of events increases. During extreme events, the infiltration and storage capacity provided by nature-based solutions proves insufficient to fully offset the increases in runoff associated with climate change and the interaction with marine storms.
+
+Overall, the results show that adaptation strategies based on nature-based solutions are an effective tool for reducing the risk of urban flooding, particularly in the face of frequent and moderate events. However, their implementation should be complemented by conventional structural measures, improvements to drainage system capacity, and land-use planning measures in order to adequately address the most extreme scenarios predicted for the end of the century.
+
+## DSS: Decision Support System
+
+A key aspect of the ICARIA project has been to ensure the transferability and replicability of the methodologies developed for climate risk assessment. To this end, the ICARIA Decision Support System (ICARIA DSS) has been developed—an open web platform designed to support decision-making on climate adaptation and resilience. The tool integrates climate information, multi-hazard risk models, GIS capabilities and impact assessment methodologies for assets such as buildings, infrastructure and urban services. Among its main features is the Risk Assessment module, which combines hazard, exposure and vulnerability information to automate the analysis of impacts associated with extreme weather events. In the specific context of flooding, the DSS natively incorporates depth-damage curves developed from historical claims data provided by Consorcio de Compensación de Seguros (CCS) and previously used in the RESCCUE and ICARIA projects. In this way, the platform enables the semi-automation of the estimation of economic damage to buildings based on flood mapping, facilitating the application of the methodology presented in this work to new territories and analysis scenarios.
+
+To facilitate its use in other regions and geographical contexts, the tool also allows for the incorporation of customised vulnerability curves, enabling users to adapt the damage models to the construction, economic or insurance characteristics of their own study areas. To estimate economic flood damage, the DSS requires four main sets of input data:
+
+* Hazard: a flood map showing the maximum water depths associated with the event under analysis.
+* Exposure: a database of buildings or assets exposed to risk, using the cadastral information available for the Barcelona Metropolitan Area in this study.
+* Vulnerability: depth-damage curves, including those derived from CCS’s historical claims records or any other user-defined curve.
+* Aggregation of results: the administrative or territorial area for which damage information is to be summarised (municipalities, districts, neighbourhoods or other units of analysis).
+
+Figure 5 shows an example of results generated by the ICARIA DSS, in which damage to buildings caused by rainwater flooding is aggregated by census tract.
+
+{{< figura src="/images/numero-24/ICARIA_figura5.png" caption="Figure 5. Example of results generated using the ICARIA DSS." source="ICARIA" >}}
+
+In addition to risk analysis, the ICARIA DSS incorporates a comprehensive catalogue of adaptation measures and a methodological framework for climate resilience assessment (Resilience Assessment Framework, RAF), which allows for the comparison of different climate scenarios, the analysis of adaptation strategies and the evaluation of their effectiveness using risk reduction indicators and cost-benefit analyses. The tool is available openly and free of charge via the ICARIA project portal (https://www.icaria-project.eu/toolkit/).
+
+{{< destacado-rojo >}}
+## Conclusions
+This study provides an assessment of the socioeconomic impact of urban flooding in the Barcelona Metropolitan Area under current and future climate change scenarios. Using a high-resolution coupled 1D/2D hydrodynamic model, 60 simulations corresponding to different climate scenarios, extreme events and adaptation measures have been analysed.
+
+The results show a significant increase in flood risk over the course of this century. Under scenarios involving rainfall alone, the expected annual damage (EAD) increases by more than 36% by the end of the century, whilst multi-hazard events—which combine extreme rainfall and storm surges—have particularly significant additional impacts on coastal municipalities. This trend confirms the growing importance of considering the interaction between urban drainage and marine dynamics in coastal metropolitan areas. The study also shows an increase in high-risk urban areas for pedestrians and vehicles. The greatest impacts are concentrated in densely urbanised areas with high economic exposure.
+
+Adaptation simulations show that nature-based solutions and sustainable urban drainage systems can significantly reduce the impacts associated with frequent and intermediate events. However, their capacity is limited when faced with extreme events under severe climate scenarios, highlighting the need to combine these strategies with conventional hydraulic infrastructure and integrated urban resilience policies.
+
+Taken together, the findings provide a solid technical basis for guiding urban planning, risk management, and climate adaptation strategies in Mediterranean metropolitan areas.
+{{< /destacado-rojo >}}
+
+## Acknowledgements
+Funded by the Horizon Europe project ICARIA: Improving Climate Resilience of Critical Assets (GA 101093806).
+
+
+{{< referencias >}}
+
+Ajuntament de Barcelona. (2019). Pla Director Integral de Sanejament de la Ciutat de Barcelona—PDISBA: Estudi de Pluges.
+
+Cea, L., & Costabile, P. (2022). Flood Risk in Urban Areas: Modelling, Management and Adaptation to Climate Change. A Review. Hydrology, 9(3), 50. https://doi.org/10.3390/hydrology9030050
+
+De La Cruz-Coronas, À., Russo, B., Pacho-Gómez, S., & Yubero-Peña, D. (2026). Socio-Economic Impacts of Pluvial Floods in the Metropolitan Area of Barcelona in a Climate Change Context. Sustainability, 18(9), 4530. https://doi.org/10.3390/su18094530
+
+Del-Rosal-Salido, J., Bermúdez, M., Ortega-Sánchez, M., Sanuy, M., Silva-Santana, M., & Jiménez, J. A. (2025). A composite index framework for compound flood risk assessment. Communications Earth & Environment, 6(1), 342. https://doi.org/10.1038/s43247-025-02331-z
+
+IPCC. (2023). Climate Change 2022 – Impacts, Adaptation and Vulnerability: Working Group II Contribution to the Sixth Assessment Report of the Intergovernmental Panel on Climate Change (1.a ed.). Cambridge University Press. https://doi.org/10.1017/9781009325844
+
+Leone, M. F., Zuccaro, G., De Gregorio, D., Turchi, A., Tedeschi, A., Büegelmayer-Blaschek, M., Sfetsos, A., Zarikos, I., Coronas, A. D. L. C., & Russo, B. (2025). A holistic asset-level modelling framework for a comprehensive multi-hazard risk/impact assessment: Insights from the ICARIA project. International Journal of Disaster Risk Reduction, 119, 105319. https://doi.org/10.1016/j.ijdrr.2025.105319
+
+Martínez-Gomariz, E., Forero-Ortiz, E., Guerrero-Hidalga, M., Castán, S., & Gómez, M. (2020). Flood Depth-Damage Curves for Spanish Urban Areas. Sustainability, 12(7), 2666. https://doi.org/10.3390/su12072666
+
+Martínez-Gomariz, E., Forero-Ortiz, E., Russo, B., Locatelli, L., Guerrero-Hidalga, M., Yubero, D., & Castan, S. (2021). A novel expert opinion-based approach to compute estimations of flood damage to property in dense urban environments. Barcelona case study. Journal of Hydrology, 598, 126244. https://doi.org/10.1016/J.JHYDROL.2021.126244
+
+Martínez-Gomariz, E., Guerrero-Hidalga, M., Forero-Ortiz, E., Castán, S., Velasco, M., & Villanueva, Á. (2020). Rain flooding in Spanish urban zones: a damage estimation model based on adjustment experience. Consorseguros, (12). https://consorsegurosdigital.com/almacen/pdf/rain-flooding-in-spanish-urban-zones-a-damage-estimation-model-based-on-adjustment-experience.pdf
+
+Martínez-Gomariz, E., Guerrero-Hidalga, M., Russo, B., Yubero, D., Gómez, M., & Castán, S. (2019). Development and application of depth damage and sealing coefficient curves to estimate urban flooding economic impact on Spanish urban areas. Ingeniería del Agua, 23(4), 229. https://doi.org/10.4995/ia.2019.12137
+
+Molina-López, P., De La Cruz-Coronas, À., Russo, B., & Bladé I Castellet, E. (2026). Flood risk assessment: current status and future perspectives in Spain. Ingeniería del Agua, 30(2), 136-152. https://doi.org/10.4995/ia.24696
+
+Russo, B., Coronas, À. de la C., Leone, M., Evans, B., Brito, R. S., Havlik, D., Bügelmayer-Blaschek, M., Pacheco, D., & Sfetsos, A. (2023). Improving Climate Resilience of Critical Assets: The ICARIA Project. Sustainability, 15(19), 14090.
+
+Sanuy, M., Rigo, T., Jiménez, J. A., & Llasat, M. C. (2021). Classifying compound coastal storm and heavy rainfall events in the north-western Spanish Mediterranean. Hydrology and Earth System Sciences, 25(6), 3759-3781. https://doi.org/10.5194/hess-25-3759-2021
+
+UNDRR. (2015). Sendai Framework for Disaster Risk Reduction 2015—2030 (p. 37). https://www.undrr.org/media/16176/download?startDownload=20250107
+
+UNDRR. (2020). Human cost for disasters: An overview of the last 20 years. https://www.undrr.org/publication/human-cost-disasters-overview-last-20-years-2000-2019
+{{< /referencias >}}

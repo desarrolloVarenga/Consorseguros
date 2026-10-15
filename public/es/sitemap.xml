@@ -23,20 +23,80 @@
     <loc>http://localhost:1313/revistas/numero-23/hoja-de-ruta/</loc>
   </url><url>
     <loc>http://localhost:1313/revistas/numero-24/hoja-de-ruta/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/revistas/numero-24/hoja-de-ruta/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/revistas/numero-24/hoja-de-ruta/"
+                />
   </url><url>
     <loc>http://localhost:1313/revistas/numero-22/icaria/</loc>
   </url><url>
     <loc>http://localhost:1313/revistas/numero-23/icaria/</loc>
   </url><url>
     <loc>http://localhost:1313/revistas/numero-24/icaria/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/revistas/numero-24/icaria/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/revistas/numero-24/icaria/"
+                />
   </url><url>
     <loc>http://localhost:1313/revistas/numero-24/servicio-de-gesti%C3%B3n-de-emergencias-de-copernicus/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/revistas/numero-24/servicio-de-gesti%C3%B3n-de-emergencias-de-copernicus/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/revistas/numero-24/servicio-de-gesti%C3%B3n-de-emergencias-de-copernicus/"
+                />
   </url><url>
     <loc>http://localhost:1313/revistas/numero-24/incendios/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/revistas/numero-24/incendios/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/revistas/numero-24/incendios/"
+                />
   </url><url>
     <loc>http://localhost:1313/revistas/numero-24/cambio_climatico/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/revistas/numero-24/cambio_climatico/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/revistas/numero-24/cambio_climatico/"
+                />
   </url><url>
     <loc>http://localhost:1313/revistas/numero-24/cartografia/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/revistas/numero-24/cartografia/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/revistas/numero-24/cartografia/"
+                />
   </url><url>
     <loc>http://localhost:1313/revistas/numero-24/proyecto_impacto/</loc>
   </url><url>

@@ -7,7 +7,7 @@
       <p class="caption-text">{{ .Get "caption" | markdownify | safeHTML }}</p>
     {{ end }}
     {{ if .Get "source" }}
-      <p class="caption-source">Fuente: {{ .Get "source" | markdownify }}</p>
+      <p class="caption-source">{{ if eq .Site.Language.Lang "en" }}Source:{{ else }}Fuente:{{ end }} {{ .Get "source" | markdownify }}</p>
     {{ end }}
   </figcaption>
   {{ end }}

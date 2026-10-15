@@ -18,7 +18,56 @@
 				<link>http://localhost:1313/en/revistas/numero-24/editorial/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/en/revistas/numero-24/editorial/</guid>
-				<description>El Consorcio de Compensación de Seguros (CCS), muy consciente de que una de las funciones que le otorga su Estatuto Legal en su artículo 16.c es «elaborar planes y programas de prevención y reducción de siniestros y desarrollarlos a través de las correspondientes campañas y medidas preventivas», vuelve a dedicar este vigesimocuarto número de su revista digital a la cuestión de la prevención y al papel que el seguro puede desempeñar en ella.</description>
+				<description>Consorcio de Compensación de Seguros (CCS) is fully aware that one of the functions conferred upon it by Section 16 c of its Enabling Statute is &amp;rsquo;to draw up loss prevention and mitigation plans and programmes and to carry out the corresponding prevention campaigns and measures to implement them&amp;rsquo;. Therefore, once again CCS dedicates this twenty-fourth issue of its digital magazine to the matter of prevention and the role that insurance can play in it.</description>
+			</item>
+			<item>
+				<title>A Roadmap for the Adaptation of the Insurance Sector to Climate Change: from Compensating for Damage to Prevention, Using the Example of Large-scale Restoration</title>
+				<link>http://localhost:1313/en/revistas/numero-24/hoja-de-ruta/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-24/hoja-de-ruta/</guid>
+				<description>Insurance has historically been an essential tool for compensating for damage and facilitating recovery following extreme events. However, the growing losses associated with climate change means that this role should be expanded to not only cover losses after a disaster, but also to explore how to help reduce risk through prevention.</description>
+			</item>
+			<item>
+				<title>ICARIA Project: the Economic Impact of Flooding in the Barcelona Metropolitan Area</title>
+				<link>http://localhost:1313/en/revistas/numero-24/icaria/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-24/icaria/</guid>
+				<description>Over the past two decades, floods worldwide have affected more than 1.6 billion people, causing economic losses running into the billions (UNDRR, 2020). Urban areas are particularly vulnerable to these events due to their high population and infrastructure density, which leads to cascading failures in essential services.</description>
+			</item>
+			<item>
+				<title>The Copernicus Emergency Management Service: an invitation to use EU space-based tools for disaster and crisis management</title>
+				<link>http://localhost:1313/en/revistas/numero-24/servicio-de-gesti%C3%B3n-de-emergencias-de-copernicus/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-24/servicio-de-gesti%C3%B3n-de-emergencias-de-copernicus/</guid>
+				<description>When floods inundate a city, wildfires spread, or drought threatens water supplies, authorities need fast, accurate information. They rely on scientists and practitioners to find, generate, and interpret near real-time, trustworthy data. Throughout this article we illustrate how satellite-derived geospatial information has helped Spain prepare for, respond to, and recover from disasters.</description>
+			</item>
+			<item>
+				<title>Wildfire Prevention in a Context of Emerging Risks</title>
+				<link>http://localhost:1313/en/revistas/numero-24/incendios/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-24/incendios/</guid>
+				<description>Whilst most wildfires are caused by human activity, their behaviour and spread are largely influenced by the characteristics and distribution of forest fuel, which are closely linked to land management. In some regions, such as the Mediterranean, the accumulation of fuel in the landscape due to rural depopulation, together with the expansion of the Wildland-Urban Interface, further increases the risk.</description>
+			</item>
+			<item>
+				<title>Climate Change Adaptation and Coastal Risk Reduction: Lessons Learned from the LIFE Garachico and LIFE AdaptaBlues Projects</title>
+				<link>http://localhost:1313/en/revistas/numero-24/cambio_climatico/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-24/cambio_climatico/</guid>
+				<description>European coastal areas are facing an increased risk of flooding due to climate change, driven by rising sea levels and more intense extreme weather events. This situation calls for adaptation approaches that reduce both physical risk and economic losses.</description>
+			</item>
+			<item>
+				<title>Cartography of Flood-prone Areas in Spain: The National Flood Zone Mapping System as a Risk Management Tool</title>
+				<link>http://localhost:1313/en/revistas/numero-24/cartografia/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-24/cartografia/</guid>
+				<description>This article analyses what the SNCZI is, where its information is located, the mechanisms and methodologies used in its development, and the crucial legal implications introduced by the Public Hydraulic Domain Regulations (RGDPH for its initials in Spanish) regarding restrictions on land use in flood-prone areas.</description>
+			</item>
+			<item>
+				<title>IMPACTO Project. The First Step towards the Creation of the National Registry of Emergency and Catastrophe Data in Spain by the General Directorate for Civil Protection and Emergencies</title>
+				<link>http://localhost:1313/en/revistas/numero-24/proyecto_impacto/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-24/proyecto_impacto/</guid>
+				<description>The IMPACTO project is an inter-institutional collaborative initiative aimed at sharing data and statistics on natural and technological events considered priorities for civil protection and causing damage and losses in Spain.</description>
 			</item>
 	</channel>
 </rss>

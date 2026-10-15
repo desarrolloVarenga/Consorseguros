@@ -1,5 +1,5 @@
 <section class="seccion-referencias">
-  <h2>Referencias</h2>
+  <h2>{{ if eq .Site.Language.Lang "en" }}References{{ else }}Referencias{{ end }}</h2>
   <div class="lista-referencias">
     {{ .Inner | markdownify }}
   </div>

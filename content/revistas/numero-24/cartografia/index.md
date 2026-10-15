@@ -36,7 +36,7 @@ Los mapas elaborados para dar cumplimiento a la segunda fase de la directiva son
 
 En la siguiente imagen se resume la zonificación del espacio fluvial asociada a la información disponible en el SNCZI:
 
-{{< figura src="/images/numero-24/cambio_climatico_1.png" caption="Figura 1. Zonificación del espacio fluvial." source="Ministerio de Agricultura, Alimentación y Medio Ambiente." >}}
+{{< figura src="/images/numero-24/cartografia-figura-1.png" caption="Figura 1. Zonificación del espacio fluvial." source="Ministerio de Agricultura, Alimentación y Medio Ambiente." >}}
 
 Tras la modificación del año 2023, se regula detalladamente en el RDPH el procedimiento de incorporación de nueva cartografía al SNCZI.
 
@@ -118,12 +118,12 @@ Las experiencias acumuladas han demostrado que la modelización hidráulica debe
 
 Este enfoque multidisciplinar resulta especialmente importante para delimitar zonas de alta peligrosidad y para interpretar correctamente el funcionamiento natural de los sistemas fluviales, así como el propio resultado de los modelos matemáticos.
 
-Elaboración final de los mapas
+### Elaboración final de los mapas
 Con toda esta información se elaboran finalmente los mapas oficiales de peligrosidad y riesgo de inundación.
 
 Los mapas de riesgo, que identifican las consecuencias adversas potenciales de la inundación sobre la población, las actividades económicas, los puntos de especial interés y las áreas de importancia ambiental se elaboran cruzando los mapas de peligrosidad con la información disponible para cada uno de esos factores en riesgo.
 
-{{< figura src="/images/numero-24/cambio_climatico_2.png" caption="Figura 2. Esquema de elaboración de cartografía." source="elaboración propia generada por IA." >}}
+{{< figura src="/images/numero-24/cartografia-figura-2.png" caption="Figura 2. Esquema de elaboración de cartografía." source="elaboración propia generada por IA." >}}
 
 Los resultados son sometidos a consulta pública y a controles de calidad que permitan mantener la coherencia de los distintos estudios incorporados al sistema. Para garantizar esto último, y a medida que más y más información se ha ido incorporando al sistema, la guía original se ha ido completando con otros documentos de referencia.
 
@@ -136,7 +136,7 @@ El SNCZI integra actualmente una gran variedad de capas cartográficas relaciona
 
 La información se encuentra disponible públicamente mediante visor cartográfico y servicios interoperables de descarga y visualización. Además, gran parte de la información puede consultarse también a través de la {{< link href="https://www.miteco.gob.es/es/agua/temas/evaluacion-de-los-recursos-hidricos/app-infoagua.html" text="app InfoAgua" target="_blank" >}}, que facilita la consulta en campo de la situación.
 
-{{< figura src="/images/numero-24/cambio_climatico_3.png" caption="Figura 3. Aspecto del visor del SNCZI." source="elaboración propia." >}}
+{{< figura src="/images/numero-24/cartografia-figura-3.png" caption="Figura 3. Aspecto del visor del SNCZI." source="elaboración propia." >}}
 
 Veamos a continuación el contenido resumido de las capas más relevantes para la gestión del riesgo de inundación disponibles actualmente en el SNCZI:
 
@@ -152,7 +152,7 @@ Conceptualmente, tanto la extensión de zona inundable o de ZFP como las capas r
 
 **Dominio Público Hidráulico, Zona de Policía y Zona de Servidumbre.** El SNCZI incluye zonas de delimitación del DPH cartográfico —obtenido mediante métodos hidrológico-hidráulicos y geomorfológicos— y del DPH deslindado, resultante de un procedimiento administrativo oficial basado en los mismos cálculos que el DPH cartográfico. Para ambos se incluyen también las zonas de servidumbre y de policía. Estas capas constituyen una referencia esencial para los organismos de cuenca a la hora de emitir informes sobre autorizaciones en DPH y zona de policía.
 
-{{< figura src="/images/numero-24/cambio_climatico_4.png" caption="Figura 4. Zona inundable (T500), ZFP y DPH (visor del SNCZI)" source="elaboración propia." >}}
+{{< figura src="/images/numero-24/cartografia-figura-4.png" caption="Figura 4. Zona inundable (T500), ZFP y DPH (visor del SNCZI)" source="elaboración propia." >}}
 
 **Mapas de riesgo para los períodos de retorno de 10, 100 y 500 años.** Se elaboran cuatro tipologías, partiendo siempre de los mapas de extensión de zona inundable:
 
@@ -163,7 +163,7 @@ Conceptualmente, tanto la extensión de zona inundable o de ZFP como las capas r
 
 Los mapas de riesgo se encuentran disponibles solo para las zonas ARPSI.
 
-{{< figura src="/images/numero-24/cambio_climatico_5.png" caption="Figura 5. Mapa de riesgo a la población (visor del SNCZI)." source="SNCZI." >}}
+{{< figura src="/images/numero-24/cartografia-figura-5.png" caption="Figura 5. Mapa de riesgo a la población (visor del SNCZI)." source="SNCZI." >}}
 
 ## Limitaciones a los usos del suelo en zona inundable
 Con la modificación del RDPH efectuada en 2016 se introdujeron limitaciones a los usos del suelo en zona inundable para evitar el aumento de exposición en zonas de peligro.

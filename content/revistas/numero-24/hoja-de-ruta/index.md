@@ -157,12 +157,44 @@ Estos son riesgos compartidos, no solo en el momento del pago, sino a lo largo d
 
 {{< referencias >}}
 
-Bérczi-Siket, A., Gyura, G. y Vigh, P. (2026). *A biztosítás új dimenziója: hogyan erősíthetik a természetalapú megoldások a klímavédelmet.* Telex / Valor Nominal, mayo de 2026.
+Bérczi-Siket, A., Gyura, G. y Vigh, P. (2026). A biztosítás új dimenziója: hogyan erősíthetik a természetalapú megoldások a klímavédelmet. Telex / Valor Nominal, mayo de 2026.
 
-Blackstock, K. L. *et al.* (2025). *Cross-Sectoral Routemap for Mainstreaming Freshwater Nature-based Solutions in Europe.* [Deliverable D4.7 - MERLIN project](https://project-merlin.eu/).
+Blackstock, K. L. et al. (2025). Cross-Sectoral Routemap for Mainstreaming Freshwater Nature-based Solutions in Europe. Deliverable D4.7 - MERLIN project.
 
-Comisión Europea. (2025). *Estrategia europea de resiliencia hídrica.* COM (2025) 280 final. Comunicación de la Comisión al Parlamento Europeo, al Consejo, al Comité Económico y Social Europeo y al Comité de las Regiones.
+Comisión Europea. (2025). Estrategia europea de resiliencia hídrica. COM (2025) 280 final. Comunicación de la Comisión al Parlamento Europeo, al Consejo, al Comité Económico y Social Europeo y al Comité de las Regiones.
 
-Confederación Hidrográfica del Cantábrico. (2022a). *Revisión y actualización del Plan de Gestión del Riesgo de Inundación. Demarcación Hidrográfica del Cantábrico Oriental. 2.º ciclo.*
+Confederación Hidrográfica del Cantábrico. (2022a). Revisión y actualización del Plan de Gestión del Riesgo de Inundación. Demarcación Hidrográfica del Cantábrico Oriental. 2.º ciclo.
+
+Confederación Hidrográfica del Cantábrico. (2022b). Anejo 3. Justificación de las medidas estructurales del Plan de Gestión del Riesgo de Inundación. Demarcación Hidrográfica del Cantábrico Oriental.
+
+Consorcio de Compensación de Seguros. (2026a). Información de gestión de indemnizaciones por la DANA de 26 de octubre a 4 de noviembre de 2024. Actualización a 27 de marzo de 2026.
+
+Consorseguros. (2022). Análisis de los 7 eventos más importantes cubiertos por el Consorcio de Compensación de Seguros en la serie 2009–2021. Consorseguros Digital, nº 16.
+
+European Environment Agency (EEA). (2026). Exposure of European Ecosystems to Drought. WISE Freshwater – Water Information System for Europe. Actualizado el 26 de mayo de 2026.
+
+Gallagher Re (2026). Natural Catastrophe and Climate Report (Natural Catastrophe and Climate Report January 2026)
+
+IPCC. (2022). Climate Change 2022: Impacts, Adaptation and Vulnerability. Working Group II Contribution to the Sixth Assessment Report.
+
+Johannes-Gold, J. et al. (2026). Compendium of Nature-related Insurance Products and Guidance for Insurers and Policymakers. NATURANCE Deliverable D5.4.
+
+Luque Armand, O. et al. (2026). SOTERIA Replication Manual: How to Design and Implement Innovative Insurance-Based Solutions for Climate Adaptation. Horizon Europe Project SOTERIA.
+
+MERLIN. (2025). Resumen Ejecutivo MERLIN. Restauración del río Deba / Basque Country. Case study 02 - MERLIN project.
+
+OECC. (2025). Evaluación de Riesgos e Impactos derivados del Cambio Climático en España (ERICC-2025). Edición 2025.
+
+Pott, T. et al. (2025). Mapping multiple benefits in large-scale freshwater restoration: A theory of change approach. Nature-Based Solutions, 8, 100240.
+
+Reglamento (UE) 2024/1991 del Parlamento Europeo y del Consejo, de 24 de junio de 2024, relativo a la restauración de la naturaleza.
+
+Schwerk, A., Carvalho, L., Spears, B., Williamson, J., Pott, T., Kajner, P., et al. (2025). Manuscript and policy briefing evaluating success of large landscape-scale restoration. MERLIN Deliverable D1.6.
+
+Swiss Re (2026). Natural catastrophes in 2025: the persistent rise of wildfire and storm risk. Sigma 01/2026.
+
+UNDRR. (2015). Sendai Framework for Disaster Risk Reduction 2015–2030. United Nations Office for Disaster Risk Reduction.
+
+Vion Loisel, A., López-Gunn, E., Ebeltoft, M. y Nanu, F. (2025). Mainstreaming Nature-based Solutions in Insurance Activities – A Sectoral Strategy. MERLIN Deliverable D4.5.
 
 {{< /referencias >}}
