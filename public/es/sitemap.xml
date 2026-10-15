@@ -34,6 +34,12 @@
   </url><url>
     <loc>http://localhost:1313/revistas/numero-24/incendios/</loc>
   </url><url>
+    <loc>http://localhost:1313/revistas/numero-24/cambio_climatico/</loc>
+  </url><url>
+    <loc>http://localhost:1313/revistas/numero-24/cartografia/</loc>
+  </url><url>
+    <loc>http://localhost:1313/revistas/numero-24/proyecto_impacto/</loc>
+  </url><url>
     <loc>http://localhost:1313/revistas/numero-24/</loc>
     <lastmod>2026-03-20T00:00:00+00:00</lastmod>
     <xhtml:link

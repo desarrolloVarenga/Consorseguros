@@ -48,5 +48,26 @@
 				<guid>http://localhost:1313/revistas/numero-24/incendios/</guid>
 				<description>Si bien la mayoría de los incendios forestales se originan por causas humanas, su comportamiento y propagación están influenciados en gran medida por las características y la distribución del combustible forestal, estrechamente vinculadas a la gestión del territorio. En algunas regiones como la mediterránea, la acumulación de combustibles en los paisajes debido al abandono rural, junto con la expansión de la matriz urbano-forestal, aumentan aún más el riesgo.</description>
 			</item>
+			<item>
+				<title>Adaptación al cambio climático y reducción del riesgo costero: lecciones aprendidas en los proyectos LIFE Garachico y LIFE AdaptaBlues</title>
+				<link>http://localhost:1313/revistas/numero-24/cambio_climatico/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-24/cambio_climatico/</guid>
+				<description>Las zonas costeras europeas están experimentando un aumento del riesgo de inundación debido al cambio climático, impulsado por la subida del nivel del mar y la intensificación de eventos extremos. Este contexto exige enfoques de adaptación que reduzcan tanto el riesgo físico como las pérdidas económicas.</description>
+			</item>
+			<item>
+				<title>La cartografía de zonas inundables en España: el SNCZI como herramienta para la gestión del riesgo</title>
+				<link>http://localhost:1313/revistas/numero-24/cartografia/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-24/cartografia/</guid>
+				<description>Este artículo analiza qué es el SNCZI, dónde se localiza su información, los mecanismos y metodologías empleados para su elaboración, y las cruciales repercusiones legales que introduce el Reglamento del Dominio Público Hidráulico (RGDPH) en la limitación de los usos del suelo en las zonas inundables.</description>
+			</item>
+			<item>
+				<title>Proyecto IMPACTO. El primer paso para la creación del Registro Nacional de Datos sobre Emergencias y Catástrofes en España de la Dirección General de Protección Civil y Emergencias</title>
+				<link>http://localhost:1313/revistas/numero-24/proyecto_impacto/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-24/proyecto_impacto/</guid>
+				<description>El proyecto IMPACTO surge como una iniciativa de colaboración interinstitucional para la compartición de datos y estadísticas sobre eventos, tanto naturales como tecnológicos, considerados prioritarios para protección civil y que ocasionan daños y pérdidas en España.</description>
+			</item>
 	</channel>
 </rss>

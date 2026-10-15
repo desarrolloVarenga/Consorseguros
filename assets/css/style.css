@@ -547,6 +547,8 @@ body {
   line-height: 1.5;
   font-weight: normal;
   transition: opacity 0.2s ease-in-out, visibility 0.2s ease-in-out;
+  left: 0;                   /* Arranca desde el borde izquierdo de la palabra */
+  transform: translateX(-10px);
 }
 
 /* Flechita apuntando hacia abajo */
@@ -1316,4 +1318,95 @@ h3 {
   margin: 0;
   font-size: 0.88rem;
   color: #4a4a4a;
+}
+
+.tabla-inundable-container {
+  width: 100%;
+  margin: 2rem 0;
+  font-family: system-ui, -apple-system, sans-serif;
+  overflow-x: visible;
+}
+
+.tabla-inundable {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.72rem; /* Tamaño de fuente reducido para compactar el texto */
+  line-height: 1.25;
+  color: #333333;
+  table-layout: fixed; /* Fuerza a que respete los anchos de columna */
+  word-wrap: break-word; /* Rompe palabras si es necesario */
+}
+
+/* Encabezado Granate */
+.tabla-inundable thead th {
+  background-color: #9e0b2b;
+  color: #ffffff;
+  padding: 6px 4px; /* Relleno compacto */
+  text-align: center;
+  font-weight: 600;
+  border: 1px solid #7a0821;
+  vertical-align: middle;
+}
+
+.tabla-inundable thead small {
+  font-weight: normal;
+  font-size: 0.85em;
+  opacity: 0.9;
+}
+
+/* Celdas del cuerpo */
+.tabla-inundable tbody td {
+  padding: 6px 4px; /* Relleno compacto */
+  border: 1px solid #dcdcdc;
+  vertical-align: middle;
+  background-color: #ffffff;
+}
+
+/* Fondo rosado para la columna Usos */
+.tabla-inundable tbody td.col-uso {
+  background-color: #f7ebed;
+  color: #2c2c2c;
+}
+
+/* Distribución de anchos de columna */
+/* Columnas de Usos (aproximadamente 28% en total) */
+.tabla-inundable th:nth-child(1),
+.tabla-inundable td:nth-child(1) {
+  width: 20%;
+}
+
+.tabla-inundable td:nth-child(2) {
+  width: 8%;
+}
+
+/* Resto de columnas de datos (distribuyen el 72% restante) */
+.tabla-inundable th:not([colspan]),
+.tabla-inundable tbody tr td:not(.col-uso) {
+  width: 14.4%;
+}
+
+.tabla-inundable .text-center {
+  text-align: center;
+}
+
+/* Pie de figura */
+.tabla-pie {
+  display: flex;
+  align-items: stretch;
+  margin-top: 12px;
+  gap: 10px;
+}
+
+.tabla-pie .linea-decorativa {
+  width: 3px;
+  background-color: #8a8a8a;
+  border-radius: 2px;
+  flex-shrink: 0;
+}
+
+.tabla-pie p {
+  margin: 0;
+  font-size: 0.8rem;
+  color: #4a4a4a;
+  line-height: 1.35;
 }
