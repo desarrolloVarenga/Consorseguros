@@ -1,0 +1,23 @@
+---
+title: "Editorial"
+category: "Editorial"
+pdf_download: "/pdf/num24/editorial.pdf"
+sidebar_image: "/images/numero-23/foto_portada_editorial_23.jpg"
+sidebar_text: "Perhaps the most general conclusion we can draw from this catastrophe and its management is that there is no other means as effective as insurance to ensure rapid economic recovery from damage."
+weight: 1
+image: "/images/numero-23/foto_portada_editorial_23.jpg"
+summary: "On 29 October 2024, the most severe catastrophic event in our country’s recent history occurred, and certainly the most significant in the history of Spanish insurance. In this issue of our periodical, we will describe the response provided by this institution to the catastrophe and how each and every one of the players in the insurance sector have played key roles in ensuring swift and efficient compensation for the damage caused by the floods triggered by the cut-off low (DANA in Spanish)."
+authors:
+  - name: "José Antonio Fernández de Pinto"
+  - institution: "Director General of Insurance and Pension Funds"
+  - institution: "President of Consorcio de Compensación de Seguros"
+---
+On 29 October 2024, the most severe catastrophic event in our country’s recent history occurred, and certainly the most significant in the history of Spanish insurance. In this issue of our periodical, we will describe the response provided by this institution to the catastrophe and how each and every one of the players in the insurance sector – regulatory body, private insurers and Consorcio de Compensación de Seguros (CCS), brokers, loss adjusters and other essential service providers, such as IT support, customer service lines or other service companies – have played key roles in ensuring swift and efficient compensation for the damage caused by the floods triggered by the cut-off low (DANA in Spanish).
+
+From a regulatory standpoint, measures were quickly adopted, such as waiving the 7% deductible for businesses and industries with an annual turnover below €6 million, or other criteria that improved the market value of the tens of thousands of vehicles affected. Both measures benefit households and small and medium-sized enterprises, which were severely impacted by the flooding. The work carried out by the Ministry of Economy, Trade and Business, CCS and the rest of the insurance sector stands out at all times. The main result of this work was undoubtedly the Special Operating Procedure (POE for its initial in Spanish) signed at the Ministry on 13 November 2024, which has significantly accelerated the speed of the compensation process. The POE Monitoring Committee remains active and has demonstrated the capacity of the Spanish insurance sector, which is based on public-private partnership, to adapt quickly to events of this magnitude.
+
+The managers of the main insurance companies involved in providing coverage for the floods caused by the cut-off low of late October and early November 2024 contribute to this issue of the magazine: the President of Unespa, Mirenchu del Valle; the President of Agroseguro, Ignacio Machetti; the President of the General Council of Insurance Brokers, Javier Barberá; the president of APCAS, professional association of insurance loss adjusters, Francisco de la Puente; and the General Director of CCS, Flavia Rodríguez-Ponga.
+
+CCS adds further depth to the study with four additional contributions, including one from the Director of Operations, Celedonio Villamayor; one from the Expertise Area, signed by its Assistant Director Pablo López and his team; another one from the Assistant Director of the Technical Area and Reinsurance, Belén Soriano, who puts this loss event into its historical context; and a final contribution from the CCS Regional Office in the Region of Valencia, signed by its representative, Luis Delibes.
+
+Perhaps the most general conclusion we can draw from this catastrophe and its management is that there is no other means as effective as insurance to ensure rapid economic recovery from damage. Spain has a mechanism that provides virtually universal coverage at an affordable price, offering coverage that in other neighbouring countries is optional and significantly more expensive. Furthermore, this mechanism has proven its financial solvency, even in the face of events whose cost is completely out of scale compared to previous records, and that public-private partnership fosters a climate of mutual trust that allows for agile and flexible responses. Another key takeaway concerns policyholders: it is important to be insured and to have adequate coverage and capital in policies for very high-impact events.

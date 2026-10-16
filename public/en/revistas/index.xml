@@ -10,8 +10,15 @@
 		
 		
 		
-			<lastBuildDate></lastBuildDate>
+			<lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
 		
 			<atom:link href="http://localhost:1313/en/revistas/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Editorial</title>
+				<link>http://localhost:1313/en/revistas/numero-23/editorial/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-23/editorial/</guid>
+				<description>On 29 October 2024, the most severe catastrophic event in our country’s recent history occurred, and certainly the most significant in the history of Spanish insurance. In this issue of our periodical, we will describe the response provided by this institution to the catastrophe and how each and every one of the players in the insurance sector have played key roles in ensuring swift and efficient compensation for the damage caused by the floods triggered by the cut-off low (DANA in Spanish).</description>
+			</item>
 	</channel>
 </rss>

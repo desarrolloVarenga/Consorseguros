@@ -15,6 +15,13 @@
 			<atom:link href="http://localhost:1313/en/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Editorial</title>
+				<link>http://localhost:1313/en/revistas/numero-23/editorial/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-23/editorial/</guid>
+				<description>On 29 October 2024, the most severe catastrophic event in our country’s recent history occurred, and certainly the most significant in the history of Spanish insurance. In this issue of our periodical, we will describe the response provided by this institution to the catastrophe and how each and every one of the players in the insurance sector have played key roles in ensuring swift and efficient compensation for the damage caused by the floods triggered by the cut-off low (DANA in Spanish).</description>
+			</item>
+			<item>
+				<title>Editorial</title>
 				<link>http://localhost:1313/en/revistas/numero-24/editorial/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/en/revistas/numero-24/editorial/</guid>
@@ -53,7 +60,7 @@
 				<link>http://localhost:1313/en/revistas/numero-24/cambio_climatico/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/en/revistas/numero-24/cambio_climatico/</guid>
-				<description>Las zonas costeras europeas están experimentando un aumento del riesgo de inundación debido al cambio climático, impulsado por la subida del nivel del mar y la intensificación de eventos extremos. Este contexto exige enfoques de adaptación que reduzcan tanto el riesgo físico como las pérdidas económicas.</description>
+				<description>European coastal areas are facing an increased risk of flooding due to climate change, driven by rising sea levels and more intense extreme weather events. This situation calls for adaptation approaches that reduce both physical risk and economic losses.</description>
 			</item>
 			<item>
 				<title>Cartography of Flood-prone Areas in Spain: The National Flood Zone Mapping System as a Risk Management Tool</title>
@@ -61,6 +68,13 @@
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/en/revistas/numero-24/cartografia/</guid>
 				<description>This article analyses what the SNCZI is, where its information is located, the mechanisms and methodologies used in its development, and the crucial legal implications introduced by the Public Hydraulic Domain Regulations (RGDPH for its initials in Spanish) regarding restrictions on land use in flood-prone areas.</description>
+			</item>
+			<item>
+				<title>IMPACTO Project. The First Step towards the Creation of the National Registry of Emergency and Catastrophe Data in Spain by the General Directorate for Civil Protection and Emergencies</title>
+				<link>http://localhost:1313/en/revistas/numero-24/proyecto_impacto/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-24/proyecto_impacto/</guid>
+				<description>The IMPACTO project is an inter-institutional collaborative initiative aimed at sharing data and statistics on natural and technological events considered priorities for civil protection and causing damage and losses in Spain.</description>
 			</item>
 			<item>
 				<title>Contact</title>
