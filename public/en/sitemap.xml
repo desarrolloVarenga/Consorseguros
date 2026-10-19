@@ -38,6 +38,18 @@
                 href="http://localhost:1313/en/revistas/numero-24/hoja-de-ruta/"
                 />
   </url><url>
+    <loc>http://localhost:1313/en/revistas/numero-23/riesgos-extraordinarios/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/revistas/numero-23/riesgos-extraordinarios/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/revistas/numero-23/riesgos-extraordinarios/"
+                />
+  </url><url>
     <loc>http://localhost:1313/en/revistas/numero-24/icaria/</loc>
     <xhtml:link
                 rel="alternate"
@@ -50,6 +62,30 @@
                 href="http://localhost:1313/en/revistas/numero-24/icaria/"
                 />
   </url><url>
+    <loc>http://localhost:1313/en/revistas/numero-23/lecciones_dana/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/revistas/numero-23/lecciones_dana/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/revistas/numero-23/lecciones_dana/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/en/revistas/numero-23/agroseguros/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/revistas/numero-23/agroseguros/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/revistas/numero-23/agroseguros/"
+                />
+  </url><url>
     <loc>http://localhost:1313/en/revistas/numero-24/servicio-de-gesti%C3%B3n-de-emergencias-de-copernicus/</loc>
     <xhtml:link
                 rel="alternate"
@@ -60,6 +96,18 @@
                 rel="alternate"
                 hreflang="en-US"
                 href="http://localhost:1313/en/revistas/numero-24/servicio-de-gesti%C3%B3n-de-emergencias-de-copernicus/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/en/revistas/numero-23/apcas/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/revistas/numero-23/apcas/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/revistas/numero-23/apcas/"
                 />
   </url><url>
     <loc>http://localhost:1313/en/revistas/numero-24/incendios/</loc>
@@ -86,6 +134,18 @@
                 href="http://localhost:1313/en/revistas/numero-24/cambio_climatico/"
                 />
   </url><url>
+    <loc>http://localhost:1313/en/revistas/numero-23/aprendizajes/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/revistas/numero-23/aprendizajes/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/revistas/numero-23/aprendizajes/"
+                />
+  </url><url>
     <loc>http://localhost:1313/en/revistas/numero-24/cartografia/</loc>
     <xhtml:link
                 rel="alternate"
@@ -96,6 +156,18 @@
                 rel="alternate"
                 hreflang="en-US"
                 href="http://localhost:1313/en/revistas/numero-24/cartografia/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/en/revistas/numero-23/dana_valencia/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/revistas/numero-23/dana_valencia/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/revistas/numero-23/dana_valencia/"
                 />
   </url><url>
     <loc>http://localhost:1313/en/revistas/numero-24/proyecto_impacto/</loc>

@@ -56,6 +56,13 @@
 				<description>En la noche del 29 de octubre, contemplamos desolados –como todos los ciudadanos de este país y del resto del mundo– el drama que se estaba desarrollando en una gran zona metropolitana de España y en otras áreas próximas. Muy pronto fuimos conscientes de que la magnitud de la catástrofe iba a ser devastadora, como desgraciadamente lo fue en pérdida de vidas humanas y en daños materiales, y del reto que iba a suponer su gestión.</description>
 			</item>
 			<item>
+				<title>Lecciones aseguradoras de la DANA de Valencia</title>
+				<link>http://localhost:1313/revistas/numero-23/lecciones_dana/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-23/lecciones_dana/</guid>
+				<description>El 29 de octubre de 2024 una DANA, una Depresión Aislada en Niveles Altos, descargó más de 770 litros por metro cuadrado en solo 24 horas. A modo de referencia: ese es el volumen de precipitaciones que recibe la provincia de Valencia en 19 meses.</description>
+			</item>
+			<item>
 				<title>Proyecto ICARIA: impactos económicos por inundaciones en el Área Metropolitana de Barcelona</title>
 				<link>http://localhost:1313/revistas/numero-22/icaria/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -68,6 +75,13 @@
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/revistas/numero-24/icaria/</guid>
 				<description>En las últimas dos décadas, las inundaciones globales han afectado a más de 1.600 millones de personas, generando pérdidas económicas multimillonarias (UNDRR, 2020). Las áreas urbanas son especialmente vulnerables a estos eventos debido a su alta densidad demográfica e infraestructural, lo que propicia fallos en cascada en los servicios esenciales</description>
+			</item>
+			<item>
+				<title>El seguro agrario: experiencia y compromiso</title>
+				<link>http://localhost:1313/revistas/numero-23/agroseguros/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-23/agroseguros/</guid>
+				<description>Año tras año, los fenómenos extremos, sean meteorológicos, geológicos o político-sociales, ponen de relieve la vulnerabilidad de las vidas y las propiedades en la sociedad actual. Y uno muy especial –esta vez, meteorológico– acaba de cumplir un año. Me refiero, claro, a la DANA que arrasó parte del litoral mediterráneo el 29 de octubre de 2024.</description>
 			</item>
 			<item>
 				<title>El Servicio de Gestión de Emergencias de Copernicus: herramientas espaciales de la UE para la gestión de catástrofes y crisis</title>
@@ -84,6 +98,13 @@
 				<description>Si bien la mayoría de los incendios forestales se originan por causas humanas, su comportamiento y propagación están influenciados en gran medida por las características y la distribución del combustible forestal, estrechamente vinculadas a la gestión del territorio. En algunas regiones como la mediterránea, la acumulación de combustibles en los paisajes debido al abandono rural, junto con la expansión de la matriz urbano-forestal, aumentan aún más el riesgo.</description>
 			</item>
 			<item>
+				<title>Visibilización del papel del perito de seguros</title>
+				<link>http://localhost:1313/revistas/numero-23/apcas/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-23/apcas/</guid>
+				<description>Durante este año, APCAS ha participado en distintos foros para colaborar con el análisis de las consecuencias y circunstancias de la DANA y la atención a los siniestros producidos.</description>
+			</item>
+			<item>
 				<title>Adaptación al cambio climático y reducción del riesgo costero: lecciones aprendidas en los proyectos LIFE Garachico y LIFE AdaptaBlues</title>
 				<link>http://localhost:1313/revistas/numero-24/cambio_climatico/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -91,11 +112,32 @@
 				<description>Las zonas costeras europeas están experimentando un aumento del riesgo de inundación debido al cambio climático, impulsado por la subida del nivel del mar y la intensificación de eventos extremos. Este contexto exige enfoques de adaptación que reduzcan tanto el riesgo físico como las pérdidas económicas.</description>
 			</item>
 			<item>
+				<title>Aprendizajes de la DANA</title>
+				<link>http://localhost:1313/revistas/numero-23/aprendizajes/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-23/aprendizajes/</guid>
+				<description>Cada catástrofe natural es un recordatorio de la necesidad de mantener un sistema asegurador fuerte, accesible y bien articulado. El papel de la Mediación, lejos de ser accesorio, es central.</description>
+			</item>
+			<item>
 				<title>La cartografía de zonas inundables en España: el SNCZI como herramienta para la gestión del riesgo</title>
 				<link>http://localhost:1313/revistas/numero-24/cartografia/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/revistas/numero-24/cartografia/</guid>
 				<description>Este artículo analiza qué es el SNCZI, dónde se localiza su información, los mecanismos y metodologías empleados para su elaboración, y las cruciales repercusiones legales que introduce el Reglamento del Dominio Público Hidráulico (RGDPH) en la limitación de los usos del suelo en las zonas inundables.</description>
+			</item>
+			<item>
+				<title>La DANA de Valencia 2024: El gran examen del sistema asegurador español</title>
+				<link>http://localhost:1313/revistas/numero-23/dana_valencia/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-23/dana_valencia/</guid>
+				<description>La Depresión Aislada en Niveles Altos (DANA) que golpeó a la Comunidad Valenciana a finales de octubre de 2024 ha trascendido la crónica meteorológica para consolidarse como el mayor siniestro por inundación jamás gestionado por el Consorcio de Compensación de Seguros (CCS).</description>
+			</item>
+			<item>
+				<title>La gestión pericial de la DANA de Valencia: retos, medidas y lecciones aprendidas</title>
+				<link>http://localhost:1313/revistas/numero-23/gestion_pericial/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-23/gestion_pericial/</guid>
+				<description>Este artículo describe las medidas adoptadas por el Consorcio y sus peritos colaboradores para afrontar una siniestralidad inédita, tanto por el número de siniestros como por la gravedad de los daños y su repercusión social y mediática.</description>
 			</item>
 			<item>
 				<title>Proyecto IMPACTO. El primer paso para la creación del Registro Nacional de Datos sobre Emergencias y Catástrofes en España de la Dirección General de Protección Civil y Emergencias</title>
