@@ -15,6 +15,13 @@
 			<atom:link href="http://localhost:1313/en/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Editorial</title>
+				<link>http://localhost:1313/en/revistas/numero-22/editorial/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-22/editorial/</guid>
+				<description>1980, 45 years ago, is the first year of the Multi-Peril Agricultural Insurance Scheme in Spain. This insurance scheme, acknowledged as a successful exemplary model is based upon Act 87/1978, of 28 December, of Multi-Peril Agricultural Insurance, still in full force and effect and completely developed along this period of time, that has known the implementation of the scheme, its development until becoming a key element in the management of a sector so strategic for a nation as the primary one and, in the most recent years, the more and more conspicuous effects of the climate crisis.</description>
+			</item>
+			<item>
+				<title>Editorial</title>
 				<link>http://localhost:1313/en/revistas/numero-23/editorial/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/en/revistas/numero-23/editorial/</guid>
@@ -105,6 +112,13 @@
 				<description>This article analyses what the SNCZI is, where its information is located, the mechanisms and methodologies used in its development, and the crucial legal implications introduced by the Public Hydraulic Domain Regulations (RGDPH for its initials in Spanish) regarding restrictions on land use in flood-prone areas.</description>
 			</item>
 			<item>
+				<title>Loss Adjustment for the Valencia Floods: Challenges, Steps Taken, and Lessons Learned</title>
+				<link>http://localhost:1313/en/revistas/numero-23/gestion_pericial/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-23/gestion_pericial/</guid>
+				<description>This article describes the measures taken by Consorcio and its collaborating loss adjusters to cope with this loss event, unprecedented in terms of the number of claims, the severity of the damage, and its social and media impacts.</description>
+			</item>
+			<item>
 				<title>The 2024 Valencia Floods: The Ultimate Test for the Spanish Insurance System</title>
 				<link>http://localhost:1313/en/revistas/numero-23/dana_valencia/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -112,11 +126,25 @@
 				<description>The cut-off low (DANA in Spanish) that struck the Region of Valencia at the end of October 2024 went beyond meteorological chronicles to become the largest flood-related loss ever managed by Consorcio de Compensación de Seguros (CCS).</description>
 			</item>
 			<item>
+				<title>Comparativa de la DANA de Valencia de octubre de 2024 frente a los principales eventos de inundación en la serie 1971-2024</title>
+				<link>http://localhost:1313/en/revistas/numero-23/comparativa_dana/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-23/comparativa_dana/</guid>
+				<description>Partiendo de la información contenida en la publicación «Estadística de Riesgos Extraordinarios, Serie 1971-2024», disponible en la página web del CCS, seleccionamos los mayores eventos por inundación en la serie histórica de los últimos 54 años.</description>
+			</item>
+			<item>
 				<title>IMPACTO Project. The First Step towards the Creation of the National Registry of Emergency and Catastrophe Data in Spain by the General Directorate for Civil Protection and Emergencies</title>
 				<link>http://localhost:1313/en/revistas/numero-24/proyecto_impacto/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/en/revistas/numero-24/proyecto_impacto/</guid>
 				<description>The IMPACTO project is an inter-institutional collaborative initiative aimed at sharing data and statistics on natural and technological events considered priorities for civil protection and causing damage and losses in Spain.</description>
+			</item>
+			<item>
+				<title>The View from Valencia</title>
+				<link>http://localhost:1313/en/revistas/numero-23/vision/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-23/vision/</guid>
+				<description>The Regional Branch of Consorcio de Compensación de Seguros (CCS) in Valencia plays a crucial role in managing extraordinary risks.</description>
 			</item>
 			<item>
 				<title>Contact</title>

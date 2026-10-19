@@ -2,6 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/en/revistas/numero-22/editorial/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/revistas/numero-22/editorial/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/revistas/numero-22/editorial/"
+                />
+  </url><url>
     <loc>http://localhost:1313/en/revistas/numero-23/editorial/</loc>
     <xhtml:link
                 rel="alternate"
@@ -158,6 +170,18 @@
                 href="http://localhost:1313/en/revistas/numero-24/cartografia/"
                 />
   </url><url>
+    <loc>http://localhost:1313/en/revistas/numero-23/gestion_pericial/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/revistas/numero-23/gestion_pericial/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/revistas/numero-23/gestion_pericial/"
+                />
+  </url><url>
     <loc>http://localhost:1313/en/revistas/numero-23/dana_valencia/</loc>
     <xhtml:link
                 rel="alternate"
@@ -170,6 +194,18 @@
                 href="http://localhost:1313/en/revistas/numero-23/dana_valencia/"
                 />
   </url><url>
+    <loc>http://localhost:1313/en/revistas/numero-23/comparativa_dana/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/revistas/numero-23/comparativa_dana/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/revistas/numero-23/comparativa_dana/"
+                />
+  </url><url>
     <loc>http://localhost:1313/en/revistas/numero-24/proyecto_impacto/</loc>
     <xhtml:link
                 rel="alternate"
@@ -180,6 +216,18 @@
                 rel="alternate"
                 hreflang="en-US"
                 href="http://localhost:1313/en/revistas/numero-24/proyecto_impacto/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/en/revistas/numero-23/vision/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/revistas/numero-23/vision/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/revistas/numero-23/vision/"
                 />
   </url><url>
     <loc>http://localhost:1313/en/</loc>
@@ -219,6 +267,32 @@
                 rel="alternate"
                 hreflang="en-US"
                 href="http://localhost:1313/en/revistas/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/en/revistas/numero-23/</loc>
+    <lastmod>2025-10-15T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/revistas/numero-23/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/revistas/numero-23/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/en/revistas/numero-22/</loc>
+    <lastmod>2025-07-15T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/revistas/numero-22/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/revistas/numero-22/"
                 />
   </url><url>
     <loc>http://localhost:1313/en/categories/</loc>

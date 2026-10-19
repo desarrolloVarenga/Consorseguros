@@ -1,0 +1,23 @@
+---
+title: "Editorial"
+category: "Editorial"
+pdf_download: "/pdf/num24/editorial.pdf"
+sidebar_image: "/images/numero-22/foto_portada_editorial_22.jpg"
+sidebar_text: "This twenty second issue of the online magazine of Consorcio de Compensación de Seguros deals with the subject of agricultural insurance with contributions written by the main characters of a good part of the history of the Spanish Multi-Peril Agricultural Insurance and with other contributions highlighting the importance of agricultural insurance as a key element in global food security."
+weight: 1
+image: "/images/numero-22/foto_portada_editorial_22.jpg"
+summary: "1980, 45 years ago, is the first year of the Multi-Peril Agricultural Insurance Scheme in Spain. This insurance scheme, acknowledged as a successful exemplary model is based upon Act 87/1978, of 28 December, of Multi-Peril Agricultural Insurance, still in full force and effect and completely developed along this period of time, that has known the implementation of the scheme, its development until becoming a key element in the management of a sector so strategic for a nation as the primary one and, in the most recent years, the more and more conspicuous effects of the climate crisis."
+---
+1980, 45 years ago, is the first year of the Multi-Peril Agricultural Insurance Scheme in Spain. This insurance scheme, acknowledged as a successful exemplary model is based upon Act 87/1978, of 28 December, of Multi-Peril Agricultural Insurance, still in full force and effect and completely developed along this period of time, that has known the implementation of the scheme, its development until becoming a key element in the management of a sector so strategic for a nation as the primary one and, in the most recent years, the more and more conspicuous effects of the climate crisis.
+
+In this twenty-second issue of the online magazine of Consorcio de Compensación de Seguros (CCS) we tackle this topic with contributions written by the main characters of a good part of this history, representing the three key entities to make crop insurance work in Spain: Agroseguro, the State Agency for Agricultural Insurance (ENESA) and the own CCS.
+
+Ignacio Machetti, President of Agroseguro, signs a contribution that goes back to the decisions taken 45 years ago and how these have shaped the current insurance scheme. Sílvia Marques, Director of Production and Communication, together with Aitor Moriyón and Jessica Hernández, from Agroseguro’s Department of Communication, write another contribution analysing the scheme current status and the recent measures taken to adapt it to the current circumstances.
+
+ENESA’s Director, Miguel Pérez Cimas, explains in other interesting contribution how this Agency, depending from the Ministry of Agriculture, Fisheries and Food, key for the functioning of the scheme through premiums subsidies, has been applying different policies along this 45 years.
+
+On behalf of CCS, the Assistant Director for Agricultural Insurance, José Antonio Hurtado, and the senior experts in his department, Marta Piniés and Marina Martínez tell this story from our company’s viewpoint, reflected in the different ways CCS has adopted its three roles in this scheme as co-insurer, reinsurer and assessment’s auditor, provided by Act 87/1978. For their part, the Assistant Director for the Technical and Reinsurance Department, Belén Soriano and María Ángeles Horrillo, senior expert in that department, give a detailed overview of the evolution of CCS’s role as compulsory reinsurer of the scheme.
+
+In order to make an insurance scheme work correctly it is necessary to apply all the knowledge available, counting with first-level scientific research as they do at the Research Centre for Agricultural and Environental Risks (Ceigram, for the Spanish), joint research centre of the Technical University of Madrid, in which also ENESA and Agroseguro participate. Its Director, Isabel Bardají, together with its Assistant Director, Ana María Tarquís and its Secretary, Esther Hernández, sign another contribution detailing how their research help planning this insurance scheme in this climate change context.
+
+Crop insurance is a key element in world food security, and this issue of our magazine counts with the privilege of a contribution from Máximo Torero, Chief Economist at the United Nations Food and Agriculture Organization (FAO), in which he explains the workings of the recently developed Financing for Shock-Driven Food Crisis Facility (FSFC), joining early warning with insurance instrument to provide instant relief to disadvantaged collectives in developing countries, thus avoiding humanitarian crises.

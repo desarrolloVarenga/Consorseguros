@@ -16,7 +16,8 @@
 
   <!-- Grid de tarjetas -->
   <div class="revistas-grid">
-    {{ range .Pages }}
+    <!-- CAMBIO CLAVE: .Sections en lugar de .Pages -->
+    {{ range .Sections }}
     <article class="revista-card">
       <div class="card-body">
         

@@ -18,7 +18,7 @@
 				<link>http://localhost:1313/revistas/numero-22/editorial/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/revistas/numero-22/editorial/</guid>
-				<description>El Consorcio de Compensación de Seguros (CCS), muy consciente de que una de las funciones que le otorga su Estatuto Legal en su artículo 16.c es «elaborar planes y programas de prevención y reducción de siniestros y desarrollarlos a través de las correspondientes campañas y medidas preventivas», vuelve a dedicar este vigesimocuarto número de su revista digital a la cuestión de la prevención y al papel que el seguro puede desempeñar en ella.</description>
+				<description>En 1980, hace 45 años, se ponía en marcha el modelo de Seguro Agrario Combinado en España. Este seguro, reconocido dentro y fuera del país como un modelo ejemplar y de éxito se basa en la Ley 87/1978, de 28 de diciembre, de Seguros Agrarios Combinados, que se mantiene en pleno vigor y que se ha desarrollado en su totalidad a lo largo de este periodo que ha conocido la puesta en marcha del modelo, su expansión hasta llegar a ser un elemento clave en la gestión de un sector tan estratégico para un país como el agrario y, en los años más recientes, los impactos cada vez más evidentes de la crisis climática.</description>
 			</item>
 			<item>
 				<title>Editorial</title>
@@ -35,11 +35,11 @@
 				<description>El Consorcio de Compensación de Seguros (CCS), muy consciente de que una de las funciones que le otorga su Estatuto Legal en su artículo 16.c es «elaborar planes y programas de prevención y reducción de siniestros y desarrollarlos a través de las correspondientes campañas y medidas preventivas», vuelve a dedicar este vigesimocuarto número de su revista digital a la cuestión de la prevención y al papel que el seguro puede desempeñar en ella.</description>
 			</item>
 			<item>
-				<title>Hoja de ruta de adaptación del sector asegurador frente al cambio climático: de la compensación de daños a la prevención mediante el ejemplo de la restauración a gran escala</title>
-				<link>http://localhost:1313/revistas/numero-22/hoja-de-ruta/</link>
+				<title>1980. Decisiones que hacen historia</title>
+				<link>http://localhost:1313/revistas/numero-22/1980/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/revistas/numero-22/hoja-de-ruta/</guid>
-				<description>El seguro ha sido históricamente un instrumento esencial para compensar daños y facilitar la recuperación tras eventos extremos. Sin embargo, el aumento de pérdidas asociadas al cambio climático obliga a ampliar esta función para, no solo cubrir las pérdidas después del desastre, sino también para ver cómo contribuir a reducir el riesgo mediante la prevención.</description>
+				<guid>http://localhost:1313/revistas/numero-22/1980/</guid>
+				<description>La Agrupación Española de Entidades Aseguradoras de los Seguros Agrarios Combinados, S.A. se constituyó en 1980 gracias al impulso inicial y el compromiso de 25 entidades aseguradoras y tras un extenso trabajo legislativo de los representantes políticos de la época. Fue, no cabe duda, un proceso desarrollado en un momento histórico para nuestro país y nuestra democracia, en el que se consideró que un seguro agrario era un pilar para la España que se quería construir.</description>
 			</item>
 			<item>
 				<title>Hoja de ruta de adaptación del sector asegurador frente al cambio climático: de la compensación de daños a la prevención mediante el ejemplo de la restauración a gran escala</title>
@@ -61,13 +61,6 @@
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/revistas/numero-23/lecciones_dana/</guid>
 				<description>El 29 de octubre de 2024 una DANA, una Depresión Aislada en Niveles Altos, descargó más de 770 litros por metro cuadrado en solo 24 horas. A modo de referencia: ese es el volumen de precipitaciones que recibe la provincia de Valencia en 19 meses.</description>
-			</item>
-			<item>
-				<title>Proyecto ICARIA: impactos económicos por inundaciones en el Área Metropolitana de Barcelona</title>
-				<link>http://localhost:1313/revistas/numero-22/icaria/</link>
-				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/revistas/numero-22/icaria/</guid>
-				<description>En las últimas dos décadas, las inundaciones globales han afectado a más de 1.600 millones de personas, generando pérdidas económicas multimillonarias.</description>
 			</item>
 			<item>
 				<title>Proyecto ICARIA: impactos económicos por inundaciones en el Área Metropolitana de Barcelona</title>
@@ -140,11 +133,25 @@
 				<description>Este artículo describe las medidas adoptadas por el Consorcio y sus peritos colaboradores para afrontar una siniestralidad inédita, tanto por el número de siniestros como por la gravedad de los daños y su repercusión social y mediática.</description>
 			</item>
 			<item>
+				<title>Comparativa de la DANA de Valencia de octubre de 2024 frente a los principales eventos de inundación en la serie 1971-2024</title>
+				<link>http://localhost:1313/revistas/numero-23/comparativa_dana/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-23/comparativa_dana/</guid>
+				<description>Partiendo de la información contenida en la publicación «Estadística de Riesgos Extraordinarios, Serie 1971-2024», disponible en la página web del CCS, seleccionamos los mayores eventos por inundación en la serie histórica de los últimos 54 años.</description>
+			</item>
+			<item>
 				<title>Proyecto IMPACTO. El primer paso para la creación del Registro Nacional de Datos sobre Emergencias y Catástrofes en España de la Dirección General de Protección Civil y Emergencias</title>
 				<link>http://localhost:1313/revistas/numero-24/proyecto_impacto/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/revistas/numero-24/proyecto_impacto/</guid>
 				<description>El proyecto IMPACTO surge como una iniciativa de colaboración interinstitucional para la compartición de datos y estadísticas sobre eventos, tanto naturales como tecnológicos, considerados prioritarios para protección civil y que ocasionan daños y pérdidas en España.</description>
+			</item>
+			<item>
+				<title>La visión desde Valencia</title>
+				<link>http://localhost:1313/revistas/numero-23/vision/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-23/vision/</guid>
+				<description>La Delegación Territorial del Consorcio de Compensación de Seguros (CCS) en Valencia tiene un papel crucial en la gestión de los riesgos extraordinarios.</description>
 			</item>
 			<item>
 				<title>Post 3</title>
