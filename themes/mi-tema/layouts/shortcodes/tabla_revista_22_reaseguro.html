@@ -1,0 +1,74 @@
+<div class="custom-table-wrapper" style="width: 100%; overflow-x: auto; margin: 1.5rem 0;">
+  <style>
+    .tabla-estatica-planes {
+      width: 100%;
+      border-collapse: collapse;
+      font-family: inherit;
+      margin: 0;
+      border: 1px solid #ccc;
+    }
+    .tabla-estatica-planes th {
+      background-color: #a81c3f;
+      color: #ffffff;
+      text-align: center;
+      padding: 10px 8px;
+      border: 1px solid #ffffff;
+      font-weight: bold;
+      vertical-align: middle;
+    }
+    .tabla-estatica-planes td {
+      text-align: center;
+      padding: 8px;
+      border: 1px solid #e0e0e0;
+      vertical-align: middle;
+    }
+    .tabla-estatica-planes tr.seccion-separador td {
+      border-bottom: 3px solid #b0b0b0;
+    }
+  </style>
+
+  <table class="tabla-estatica-planes">
+    <thead>
+      <tr>
+        <th rowspan="2" scope="col">PLANES</th>
+        <th rowspan="2" scope="col">%s/</th>
+        <th colspan="3" scope="colgroup">Grupo A (experimental)</th>
+        <th rowspan="2" scope="col">Grupo B (viable)</th>
+        <th rowspan="2" scope="col">Grupo C<br>(RyD)</th>
+      </tr>
+      <tr>
+        <th scope="col">Reducida</th>
+        <th scope="col">General</th>
+        <th scope="col">Incrementada</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr><td>2005</td><td>PC</td><td>18,0 %</td><td>23,0 %</td><td>28,0 %</td><td>18,0 %</td><td>3 % (Gr.A)</td></tr>
+      <tr><td>2006</td><td>PC</td><td>13,78 %</td><td>18,61 %</td><td>23,42 %</td><td>13,78 %</td><td>1,95 %<br>(Gr. A)</td></tr>
+      <tr class="seccion-separador"><td>2007</td><td>PC</td><td>13,78 %</td><td>18,61 %</td><td>23,42 %</td><td>13,78 %</td><td>1,95 %<br>(Gr. A)</td></tr>
+      <tr><td>2008</td><td>PC</td><td>12,0 %</td><td>16,0 %</td><td>20,0 %</td><td>12,0 %</td><td>1,7 %</td></tr>
+      <tr><td>2009</td><td>PC</td><td>10,0 %</td><td>15,0 %</td><td>18,0 %</td><td>10,0 %</td><td>1,0 %</td></tr>
+      <tr><td>2010</td><td>PC</td><td>10,0 %</td><td>15,0 %</td><td>18,0 %</td><td>10,0 %</td><td>1,0 %</td></tr>
+      <tr><td>2011</td><td>PC</td><td>7,0 %</td><td>10,5 %</td><td>12,6 %</td><td>7,0 %</td><td>1,0 %</td></tr>
+      <tr><td>2012</td><td>PC</td><td>7,0 %</td><td>10,5 %</td><td>12,6 %</td><td>7,0 %</td><td>1,0 %</td></tr>
+      <tr><td>2013</td><td>PC</td><td>5,6 %</td><td>8,4 %</td><td>10,0 %</td><td>5,6 %</td><td>1,0 %</td></tr>
+      <tr><td>2014</td><td>PC</td><td>5,6 %</td><td>8,4 %</td><td>10,0 %</td><td>5,6 %</td><td>1,0 %</td></tr>
+      <tr class="seccion-separador"><td>2015</td><td>PC</td><td>5,6 %</td><td>8,4 %</td><td>10,0 %</td><td>5,6 %</td><td>1,0 %</td></tr>
+      <tr><td>2016</td><td>PR</td><td>7,3 %</td><td>11,5 %</td><td>13,7 %</td><td>7,3 %</td><td>1,2 %</td></tr>
+      <tr><td>2017</td><td>PR</td><td>7,3 %</td><td>11,5 %</td><td>13,7 %</td><td>7,3 %</td><td>1,2 %</td></tr>
+      <tr><td>2018</td><td>PR</td><td>7,3 %</td><td>11,5 %</td><td>13,7 %</td><td>7,3 %</td><td>1,2 %</td></tr>
+      <tr><td>2019</td><td>PR</td><td>7,3 %</td><td>11,5 %</td><td>13,7 %</td><td>7,3 %</td><td>1,2 %</td></tr>
+      <tr><td>2020</td><td>PR</td><td>7,3 %</td><td>11,5 %</td><td>13,7 %</td><td>7,3 %</td><td>1,2 %</td></tr>
+      <tr><td>2021</td><td>PR</td><td>7,3 %</td><td>11,5 %</td><td>13,7 %</td><td>7,3 %</td><td>1,2 %</td></tr>
+      <tr><td>2022</td><td>PR</td><td>7,3 %</td><td>11,5 %</td><td>13,7 %</td><td>7,3 %</td><td>1,2 %</td></tr>
+      <tr><td>2023</td><td>PR</td><td>7,3 %</td><td>11,5 %</td><td>13,7 %</td><td>7,3 %</td><td>1,2 %</td></tr>
+      <tr><td>2024</td><td>PR</td><td>7,3 %</td><td>11,5 %</td><td>13,7 %</td><td>7,3 %</td><td>1,2 %</td></tr>
+    </tbody>
+  </table>
+
+  {{ if .Get "caption" }}
+    <div class="table-caption">
+      {{ .Get "caption" | markdownify }}
+    </div>
+  {{ end }}
+</div>

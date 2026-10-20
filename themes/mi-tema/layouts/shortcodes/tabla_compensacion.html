@@ -1,0 +1,51 @@
+<div class="custom-table-wrapper" style="width: 100%; overflow-x: auto; margin: 1.5rem 0;">
+  <style>
+    .tabla-estatica-compensacion {
+      width: 100%;
+      border-collapse: collapse;
+      font-family: inherit;
+      margin: 0;
+      border: 1px solid #ccc;
+    }
+    .tabla-estatica-compensacion th {
+      background-color: #a81c3f;
+      color: #ffffff;
+      text-align: center;
+      padding: 10px 8px;
+      border: 1px solid #ffffff;
+      font-weight: bold;
+      vertical-align: middle;
+    }
+    .tabla-estatica-compensacion td {
+      padding: 8px 12px;
+      border: 1px solid #e0e0e0;
+      vertical-align: middle;
+    }
+  </style>
+
+  <table class="tabla-estatica-compensacion">
+    <thead>
+      <tr>
+        <th scope="col">Tramo de siniestralidad</th>
+        <th scope="col" colspan="2">Porcentaje compensación sobre el exceso</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td style="text-align: left;">Desde PRR hasta 90 % PC</td>
+        <td style="text-align: center;">72,5 %</td>
+        <td style="text-align: left;">Si 27,5 % &gt; X mill. € → + el exceso sobre X mill. €</td>
+      </tr>
+      <tr>
+        <td style="text-align: left;">Más 90 % PC</td>
+        <td colspan="2" style="text-align: left; padding-left: 18px;">100 %</td>
+      </tr>
+    </tbody>
+  </table>
+
+  {{ if .Get "caption" }}
+    <div class="table-caption">
+      {{ .Get "caption" | markdownify }}
+    </div>
+  {{ end }}
+</div>
