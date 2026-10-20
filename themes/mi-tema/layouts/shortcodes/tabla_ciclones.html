@@ -1,0 +1,124 @@
+<div class="custom-table-wrapper" style="width: 100%; overflow-x: auto; margin: 1.5rem 0;">
+  <style>
+    .tabla-estatica-ciclones {
+      width: 100%;
+      border-collapse: collapse;
+      font-family: inherit;
+      margin: 0;
+      border: 1px solid #e0e0e0;
+    }
+    .tabla-estatica-ciclones th {
+      background-color: #a81c3f;
+      color: #ffffff;
+      text-align: center;
+      padding: 10px 8px;
+      border: 1px solid #ffffff;
+      font-weight: bold;
+      vertical-align: middle;
+    }
+    .tabla-estatica-ciclones td {
+      text-align: center;
+      padding: 8px 12px;
+      border: 1px solid #e0e0e0;
+      vertical-align: middle;
+    }
+    .tabla-estatica-ciclones .fondo-rojo {
+      background-color: #f7e6e8;
+    }
+    .tabla-estatica-ciclones .bold {
+      font-weight: bold;
+    }
+  </style>
+
+  <table class="tabla-estatica-ciclones">
+    <thead>
+      <tr>
+        <th rowspan="2" style="width: 25%;" scope="col">Temporada</th>
+        <th rowspan="2" style="width: 15%;" scope="col">Ciclón</th>
+        <th colspan="4" scope="colgroup">Detalles del episodio</th>
+      </tr>
+      <tr>
+        <th scope="col">Comienzo del episodio</th>
+        <th scope="col">Final del episodio</th>
+        <th scope="col">Fecha de cierre del periodo de reclamación</th>
+        <th scope="col">Horas de ARPC en riesgo</th>
+      </tr>
+    </thead>
+    <tbody>
+      <!-- Temporada 2023 -->
+      <tr>
+        <td rowspan="5" class="bold">Temporada de ciclones de 2023</td>
+        <td>Jasper</td>
+        <td>10/12/2023 4:00PM</td>
+        <td>13/12/2023 11:59PM</td>
+        <td>15/12/2023 11:59PM</td>
+        <td>128</td>
+      </tr>
+      <tr>
+        <td>Anggrek</td>
+        <td>15/01/2024 10:00PM</td>
+        <td>31/01/2024 4:00PM</td>
+        <td>2/02/2024 4:00PM</td>
+        <td>426</td>
+      </tr>
+      <tr>
+        <td>Kirrilly</td>
+        <td>24/01/2024 4:00PM</td>
+        <td>26/01/2024 4:00AM</td>
+        <td>28/01/2024 4:00AM</td>
+        <td>84</td>
+      </tr>
+      <tr>
+        <td>Lincoln</td>
+        <td>16/02/2024 10:00AM</td>
+        <td>16/02/2024 10:00PM</td>
+        <td>18/02/2024 10:00PM</td>
+        <td>60</td>
+      </tr>
+      <tr>
+        <td>Megan</td>
+        <td>16/03/2024 4:00PM</td>
+        <td>19/03/2024 7:00AM</td>
+        <td>21/03/2024 7:00AM</td>
+        <td>111</td>
+      </tr>
+
+      <!-- Temporada 2024 -->
+      <tr>
+        <td rowspan="4" class="fondo-rojo bold">Temporada de ciclones 2024</td>
+        <td class="fondo-rojo">Darian</td>
+        <td class="fondo-rojo">18/12/2022 5:00PM</td>
+        <td class="fondo-rojo">30/12/2022 10:00PM</td>
+        <td class="fondo-rojo">1/01/2023 10:00PM</td>
+        <td class="fondo-rojo">341</td>
+      </tr>
+      <tr>
+        <td class="fondo-rojo">Ellie</td>
+        <td class="fondo-rojo">22/12/2022 7:00PM</td>
+        <td class="fondo-rojo">23/12/2022 10:00AM</td>
+        <td class="fondo-rojo">25/12/2022 10:00AM</td>
+        <td class="fondo-rojo">63</td>
+      </tr>
+      <tr>
+        <td class="fondo-rojo">Gabrielle</td>
+        <td class="fondo-rojo">9/02/2023 11:00AM</td>
+        <td class="fondo-rojo">12/02/2023 3:00AM</td>
+        <td class="fondo-rojo">14/02/2023 3:00AM</td>
+        <td class="fondo-rojo">112</td>
+      </tr>
+      <tr>
+        <td class="fondo-rojo">Ilsa</td>
+        <td class="fondo-rojo">11/04/2023 4:00PM</td>
+        <td class="fondo-rojo">14/04/2023 9:00PM</td>
+        <td class="fondo-rojo">16/04/2023 4:00PM</td>
+        <td class="fondo-rojo">125</td>
+      </tr>
+    </tbody>
+  </table>
+
+  {{ if .Get "caption" }}
+    <div class="table-caption">
+      {{ .Get "caption" | markdownify }}
+    </div>
+  {{ end }}
+</div>

@@ -1,0 +1,21 @@
+---
+title: "Editorial"
+category: "Editorial"
+pdf_download: "/pdf/num22/editorial.pdf"
+sidebar_image: "/images/numero-21/foto_portada_editorial_21.jpg"
+sidebar_text: "This twenty first issue of Consorseguros Digital coincides with two outstanding events for Consorcio de Compensación de Seguros (CCS): one, the 70th anniversary of the company, that took place on December 16th 2024, and the other, far less festive, the management of the most important loss event that Spain and this entity has had, at least in these 70 years: the floods caused by the cut-off low (dana, for the Spanish) affecting multiple areas of the south and east of mainland Spain and the Balearic Islands, much particularly on October 29th around Valencia."
+weight: 1
+image: "/images/numero-21/foto_portada_editorial_21.jpg"
+summary: "En 1980, hace 45 años, se ponía en marcha el modelo de Seguro Agrario Combinado en España. Este seguro, reconocido dentro y fuera del país como un modelo ejemplar y de éxito se basa en la Ley 87/1978, de 28 de diciembre, de Seguros Agrarios Combinados, que se mantiene en pleno vigor y que se ha desarrollado en su totalidad a lo largo de este periodo que ha conocido la puesta en marcha del modelo, su expansión hasta llegar a ser un elemento clave en la gestión de un sector tan estratégico para un país como el agrario y, en los años más recientes, los impactos cada vez más evidentes de la crisis climática."
+---
+This twenty first issue of Consorseguros Digital coincides with two outstanding events for Consorcio de Compensación de Seguros (CCS): one, the 70th anniversary of the company, that took place on December 16th 2024, and the other, far less festive, the management of the most important loss event that Spain and this entity has had, at least in these 70 years: the floods caused by the cut-off low (dana, for the Spanish) affecting multiple areas of the south and east of mainland Spain and the Balearic Islands, much particularly on October 29th around Valencia.
+
+The original idea of the Editorial Board of Consorseguros Digital, adopted in summer 2024, was even reinforced by these circumstances: we wanted to articulate this issue around the management of risks to ensure their future insurability. In the framework of growing loss, insurance must be increasingly integrated into the risk management chain, so that it can keep providing an economic response to losses and also can help keep risks at bay in other to maintain its insurability. These ideas shape the analysis article of this issue.
+
+Around the world, the insurance industry is being increasingly proactive to allow the insurability of the growing risks. In this issue we have the privilege to count with first-hand information about the experiences of the catastrophe risk insurance schemes from Australia, New Zealand and Türkiye, respectively written by Alexander Drake, Tina Mitchell and Musa Alphan Bahar. They explain in their contributions how these schemes are being adapted to cover new hazards and how their institutional and operational frameworks are being modified to allow for more protection and better prevention.
+
+We also count with contributions about examples of measures that can allow for the reduction of the ever growing risks: Fernando Pulido, from the University of Extremadura presents an innovative and effective preventive measure to control the intensity and extension of wildfires through forest and land management.
+
+In another contribution Fernando Aranda, Technical Director of the Guadiana River Basin Authority, explains the risk reduction measures taken in the Badajoz province after the serious and tragic floods of November 1997.
+
+The issue is round up with the contributions of Javier Bonhome, Assistant Director for the Economic Regime of the Winding-up Activity of CCS, about the conference of the International Forum of Insurance Guarantee Schemes (IFIGS) organised by CCS last October 2024 in Madrid, as well as with a case-law contribution from José Antonio Badillo.

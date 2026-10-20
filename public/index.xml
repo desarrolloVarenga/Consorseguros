@@ -15,6 +15,13 @@
 			<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Editorial</title>
+				<link>http://localhost:1313/revistas/numero-21/editorial/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-21/editorial/</guid>
+				<description>En 1980, hace 45 años, se ponía en marcha el modelo de Seguro Agrario Combinado en España. Este seguro, reconocido dentro y fuera del país como un modelo ejemplar y de éxito se basa en la Ley 87/1978, de 28 de diciembre, de Seguros Agrarios Combinados, que se mantiene en pleno vigor y que se ha desarrollado en su totalidad a lo largo de este periodo que ha conocido la puesta en marcha del modelo, su expansión hasta llegar a ser un elemento clave en la gestión de un sector tan estratégico para un país como el agrario y, en los años más recientes, los impactos cada vez más evidentes de la crisis climática.</description>
+			</item>
+			<item>
+				<title>Editorial</title>
 				<link>http://localhost:1313/revistas/numero-22/editorial/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/revistas/numero-22/editorial/</guid>
@@ -56,6 +63,20 @@
 				<description>En la noche del 29 de octubre, contemplamos desolados –como todos los ciudadanos de este país y del resto del mundo– el drama que se estaba desarrollando en una gran zona metropolitana de España y en otras áreas próximas. Muy pronto fuimos conscientes de que la magnitud de la catástrofe iba a ser devastadora, como desgraciadamente lo fue en pérdida de vidas humanas y en daños materiales, y del reto que iba a suponer su gestión.</description>
 			</item>
 			<item>
+				<title>Riesgos crecientes: el papel del seguro</title>
+				<link>http://localhost:1313/revistas/numero-21/riesgos_crecientes/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-21/riesgos_crecientes/</guid>
+				<description>Ante un contexto cada vez más complejo, el seguro puede seguir siendo una herramienta que aporte resiliencia y sostenibilidad, siempre que los propios sistemas aseguradores lo sean y que se diseñen de forma que la resiliencia económica que aportan se sume al esfuerzo de otros estamentos, coordinadamente, para aumentar la resiliencia física.</description>
+			</item>
+			<item>
+				<title>El Pool de riesgo de ciclón australiano. El camino hasta aquí y lo que nos dicen los datos</title>
+				<link>http://localhost:1313/revistas/numero-21/australia/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-21/australia/</guid>
+				<description>Desde el año 2003, la Sociedad Australiana del Pool de Reaseguro (Australian Reinsurance Pool Corporation – ARPC –) ha sido el mecanismo del Gobierno de Australia para proveer cobertura de reaseguro de catástrofe, primero para el riesgo de terrorismo y desde 2022 para los riesgos de ciclón y de inundación relacionada con un ciclón.</description>
+			</item>
+			<item>
 				<title>Lecciones aseguradoras de la DANA de Valencia</title>
 				<link>http://localhost:1313/revistas/numero-23/lecciones_dana/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -91,6 +112,13 @@
 				<description>Cuando las inundaciones anegan una ciudad, los incendios forestales se extienden o la sequía amenaza el suministro de agua, las autoridades necesitan información rápida y precisa. Para ello, recurren a científicos y profesionales que recopilan, generan e interpretan datos fiables casi en tiempo real. A lo largo de este artículo mostramos cómo la información geoespacial obtenida por satélite ha ayudado a España a prepararse para las catástrofes, darles respuesta y recuperarse tras ellas.</description>
 			</item>
 			<item>
+				<title>El sistema asegurador de riesgos naturales en Nueva Zelanda se basa en las lecciones del pasado</title>
+				<link>http://localhost:1313/revistas/numero-21/nueva_zelanda/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-21/nueva_zelanda/</guid>
+				<description>La nueva legislación cambió el nombre del programa de Comisión de Terremotos (EQC, por su nombre en inglés) a Comisión de Riesgos Naturales (Natural Hazards Commission). Este nuevo nombre es un indicativo importante para que los propietarios sepan que la cobertura está disponible para una serie de riesgos naturales, no solamente terremotos. No se han incluido nuevos peligros, el nuevo nombre solo sirve para recalcar que la cobertura está disponible para un conjunto de peligros más allá del sísmico.</description>
+			</item>
+			<item>
 				<title>Los seguros agrarios: 45 años protegiendo al sector agrario</title>
 				<link>http://localhost:1313/revistas/numero-22/enesa/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -103,6 +131,13 @@
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/revistas/numero-22/ccs_y_su_apoyo_al_sac/</guid>
 				<description>La Agrupación Española de Entidades Aseguradoras de los Seguros Agrarios Combinados, S.A. se constituyó en 1980 gracias al impulso inicial y el compromiso de 25 entidades aseguradoras y tras un extenso trabajo legislativo de los representantes políticos de la época. Fue, no cabe duda, un proceso desarrollado en un momento histórico para nuestro país y nuestra democracia, en el que se consideró que un seguro agrario era un pilar para la España que se quería construir.</description>
+			</item>
+			<item>
+				<title>La transición del seguro obligatorio de terremotos al seguro obligatorio de riesgos catastróficos en Turquía</title>
+				<link>http://localhost:1313/revistas/numero-21/transicion_seguro_obligatorio/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-21/transicion_seguro_obligatorio/</guid>
+				<description>El Pool de Seguros de Catástrofe de Turquía (Turkish Catastrophe Insurance Pool, TCIP por su nombre en inglés o DASK por su denominación en turco) se creó en el año 2000 tras los devastadores terremotos de la región de Mármara el 18 de agosto de 1999. Aunque la Ley de Seguros de Catástrofe permite que TCIP proporciones cobertura de seguro y/o reaseguro frente a peligros naturales, desde su creación, TCIP proporciona únicamente cobertura de seguro de terremotos para propiedades residenciales en Turquía.</description>
 			</item>
 			<item>
 				<title>Prevención de incendios forestales en un contexto de riesgo emergente</title>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Nº 21 Otoño 2024 on My New Hugo Project</title>
+		<link>http://localhost:1313/en/revistas/numero-21/</link>
+		<description>Recent content in Nº 21 Otoño 2024 on My New Hugo Project</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/en/revistas/numero-21/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Editorial</title>
+				<link>http://localhost:1313/en/revistas/numero-21/editorial/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-21/editorial/</guid>
+				<description>En 1980, hace 45 años, se ponía en marcha el modelo de Seguro Agrario Combinado en España. Este seguro, reconocido dentro y fuera del país como un modelo ejemplar y de éxito se basa en la Ley 87/1978, de 28 de diciembre, de Seguros Agrarios Combinados, que se mantiene en pleno vigor y que se ha desarrollado en su totalidad a lo largo de este periodo que ha conocido la puesta en marcha del modelo, su expansión hasta llegar a ser un elemento clave en la gestión de un sector tan estratégico para un país como el agrario y, en los años más recientes, los impactos cada vez más evidentes de la crisis climática.</description>
+			</item>
+			<item>
+				<title>Growing risks: the role of insurance</title>
+				<link>http://localhost:1313/en/revistas/numero-21/riesgos_crecientes/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-21/riesgos_crecientes/</guid>
+				<description>Given an increasingly complex environment, insurance can keep being a tool adding resilience and sustainability, providing the own insurance schemes are so and are designed in such a way that the economic resilience they provide is added to the effort of other bodies, in a coordinated manner, to add physical resilience.</description>
+			</item>
+			<item>
+				<title>Australia’s cyclone pool: the journey so far, and what its data is telling us</title>
+				<link>http://localhost:1313/en/revistas/numero-21/australia/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-21/australia/</guid>
+				<description>Since 2003, the Australian Reinsurance Pool Corporation (ARPC) has been the Australian Government’s provider of catastrophic reinsurance cover – first, for terrorism risk, and since 2022, for cyclone and cyclone related flooding risk. This paper focuses on the cyclone pool – from the creation of ARPC over two decades ago, the nature of cyclone risk in Australia, the commencement of the cyclone pool in 2022, its accepting risk from customers for the first time in January 2023, and official and community responses to its operations since then.</description>
+			</item>
+			<item>
+				<title>New Zealand’s natural hazards insurance scheme is based on lessons of the past</title>
+				<link>http://localhost:1313/en/revistas/numero-21/nueva_zelanda/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-21/nueva_zelanda/</guid>
+				<description>The new legislation changed the name of the scheme from the Earthquake Commission (EQC) to the Natural Hazards Commission. The new name is an important signal to homeowners that cover is available for a range of natural hazards, not just earthquakes. There is no additional hazards covered – the new name is just to make it clear that the cover available is for a range of hazards.</description>
+			</item>
+			<item>
+				<title>Transition of compulsory earthquake insurance policy to compulsory disaster insurance policy in Türkiye</title>
+				<link>http://localhost:1313/en/revistas/numero-21/transicion_seguro_obligatorio/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-21/transicion_seguro_obligatorio/</guid>
+				<description>Turkish Catastrophe Insurance Pool, TCIP (&amp;amp; DASK in Turkish) was established in 2000 following the devastating earthquake at Marmara region on 18 August 1999. Although Catastrophe Insurance Law allows TCIP to provide insurance and/or reinsurance cover against Nat-Cat perils, TCIP provides only earthquake insurance coverage for residential dwellings in Türkiye since its establishment.</description>
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,150 @@
+---
+title: "El Pool de riesgo de ciclón australiano. El camino hasta aquí y lo que nos dicen los datos"
+category: "Contribuciones"
+pdf_download: "/pdf/num22/editorial.pdf"
+sidebar_image: "/images/numero-21/foto_portada_australia.jpg"
+sidebar_text: "Desde el año 2003, la Sociedad Australiana del Pool de Reaseguro (Australian Reinsurance Pool Corporation –ARPC–) ha sido el mecanismo del Gobierno de Australia para proveer cobertura de reaseguro de catástrofe, primero para el riesgo de terrorismo y desde 2022 para los riesgos de ciclón y de inundación relacionada con un ciclón. Este artículo se centra en el Pool de riesgo de ciclón, desde la creación de la ARPC hace más de dos décadas, la naturaleza del riesgo de ciclón, la puesta en marcha del Pool de riesgo de ciclón en 2022 y la aceptación de riesgos de sus clientes por primera vez en enero de 2023 y las subsiguientes respuestas oficiales y de la sociedad."
+weight: 3
+image: "/images/numero-21/foto_portada_australia.jpg"
+summary: "Desde el año 2003, la Sociedad Australiana del Pool de Reaseguro (Australian Reinsurance Pool Corporation – ARPC –) ha sido el mecanismo del Gobierno de Australia para proveer cobertura de reaseguro de catástrofe, primero para el riesgo de terrorismo y desde 2022 para los riesgos de ciclón y de inundación relacionada con un ciclón."
+authors:
+    - name: "Francisco Espejo Gil"
+    - institution: "Subdirector de Estudios y Relaciones Internacionales"
+    - institution: "Consorcio de Compensación de Seguros"
+---
+
+Desde el año 2003, la Sociedad Australiana del Pool de Reaseguro (Australian Reinsurance Pool Corporation –ARPC–) ha sido el mecanismo del Gobierno de Australia para proveer cobertura de reaseguro de catástrofe, primero para el riesgo de terrorismo y desde 2022 para los riesgos de ciclón y de inundación relacionada con un ciclón. Este artículo se centra en el pool de riesgo de ciclón, desde la creación de la ARPC hace más de dos décadas, la naturaleza del riesgo de ciclón, la puesta en marcha del pool de riesgo de ciclón en 2022 y la aceptación de riesgos de sus clientes por primera vez en enero de 2023 y las subsiguientes respuestas oficiales y de la sociedad.
+
+## La creación de la ARPC: el pool de riesgo de terrorismo
+La necesidad de la ARPC surgió de los ataques terroristas del 11 de septiembre de 2001 en Nueva York. Estos ataques supusieron la retirada las coberturas de terrorismo por las entidades aseguradoras y reaseguradoras y motivaron que el Gobierno de Australia de la época interviniera en el mercado para hacer que una serie de propiedades comerciales pudieran asegurarse de nuevo contra el riesgo de terrorismo. Estos ataques llegaron pocos meses después del colapso de la que entonces era la segunda aseguradora de Australia, la mayor quiebra empresarial de la historia de Australia en aquel momento.
+
+Para volver a hacer viable la cobertura aseguradora de terrorismo en propiedades comerciales, como parte de un compromiso político más amplio para hacer el seguro general más asequible y accesible, el Gobierno Australiano facilitó la aprobación parlamentaria de la que después se conocería como Ley de Aseguramiento de Terrorismo y Ciclones de 2003 ({{< link href="https://arpc.gov.au/reinsurance-pools/the-act/" text="la Ley" target="_blank" >}}).
+
+La Ley creó la ARPC como la entidad gubernamental encargada de proporcionar cobertura de reaseguro a las entidades aseguradoras para los daños admisibles por terrorismo a través de su pool de reaseguro del riesgo de terrorismo, proporcionando reaseguro para los bienes de naturaleza comercial y las pérdidas de beneficios asociadas, en el caso de la declaración de un evento de naturaleza terrorista. El pool de riesgo de terrorismo sigue funcionando con éxito en la actualidad.
+
+## El riesgo de ciclón tropical en Australia
+Puesto que la frecuencia e intensidad de los desastres naturales sigue creciendo, cada vez más personas y empresas tienen dificultades para encontrar un seguro asequible. El riesgo de ciclón tropical supone una pesada carga económica tanto para las aseguradoras como para los consumidores de Australia, especialmente en aquellas regiones con mayor riesgo de ciclón tropical, que pueden definirse groseramente como las partes de Australia al norte del Trópico de Capricornio, en particular las zonas costeras.
+
+Desde que las primeras entidades aseguradoras se adhirieron al pool de riesgo de ciclón en enero de 2023 se han declarado varios episodios de ciclón tropical en el territorio australiano. La tabla que figura a continuación muestra la serie de ciclones desde la entrada en funcionamiento del pool.
+
+{{< tabla_ciclones caption="" >}}
+
+Adicionalmente, este mapa ilustra sus trayectorias por Queensland, el Territorio del Norte y Australia Occidental, y demuestra que el pool de riesgo de ciclón tiene más importancia en el norte.
+
+{{< figura src="/images/numero-21/eng/australia02.png" caption="" source="" >}}
+
+Estas áreas tienen un riesgo mucho mayor de sufrir daños por un ciclón tropical que el resto de Australia. Los eventos de ciclón tropical pueden causar daños considerables en viviendas y empresas y afectar seriamente a la vida de muchas personas. El episodio de ciclón más importante de los últimos años fue el ciclón tropical Yasi de 2011, que fue uno de los más intensos registrado en la región.
+
+Debido a este alto riesgo de ciclón y a los daños potenciales que pueden producirse, las primas del seguro pueden ser significativamente más caras en el norte de Australia, en comparación con las primas más bajas que se pagan en la otra mitad del país. Además, algunas aseguradoras eran más reacias a aceptar riesgos en las zonas con mayor riesgo de ciclón y el menor número de participantes en el mercado también implicaba menos opciones entre las que elegir para los consumidores.
+
+La reticencia de las aseguradoras a aceptar riesgos en las zonas más afectadas por los ciclones hizo que las coberturas fueran menos asequibles y accesibles para los consumidores de la región. La Comisión Australiana para los Consumidores y la Competencia (ACCC, por sus siglas en inglés) reveló que en 2018-19 la prima media para una vivienda de una póliza combinada de contenido y continente era de unos 2.500 dólares australianos (AUD, unos 1.500 euros al cambio actual) para el norte de Australia, comparados con unos 1.400 AUD (850 euros) para el resto del país.
+
+## La creación del pool de riesgo de ciclón
+El 4 de mayo de 2021, el Gobierno de Australia anunció su intención de crear un pool de reaseguro para cubrir el ciclón y su riesgo asociado de inundación. El pool de riesgo de ciclón proporcionaría reaseguro a un coste inferior al del mercado mediante una garantía pública renovable anualmente de 10.000 millones de AUD (unos 6.000 millones de euros) que permite que las tarifas de las primas del pool de riesgo de ciclón excluyan los márgenes de beneficio y de rendimiento del capital.
+
+El anuncio llegó tras una década de consideraciones por parte del gobierno y de comités parlamentarios. Todos estos trabajos apuntaron al aumento de primas de seguro en el norte de Australia por el riesgo de ciclón y todos ellos buscaron formas de cerrar esta brecha.
+
+## Consultas sobre el pool de riesgo de ciclón, modificaciones legislativas y puesta en marcha
+Un grupo de trabajo gubernamental llevó a cabo {{< link href="https://treasury.gov.au/consultation/c2021-175678" text="consultas con representantes del sector y de las comunidades afectadas" target="_blank" >}} así como con otras partes interesadas, sobre el pool de riesgo de ciclón.
+
+El gobierno tomó en consideración las recomendaciones del grupo de trabajo, que resultaron en la creación del actual pool mediante una {{< link href="https://www.aph.gov.au/Parliamentary_Business/Bills_LEGislation/Bills_Search_Results/Result?bId=r6847" text="nueva legislación" target="_blank" >}} que modifica la Ley. La nueva legislación de aprobó por unanimidad por el parlamento australiano y el pool de riesgo de ciclón entró en vigor el 1 de julio de 2022.
+
+El pool es la última iniciativa política dentro de un ámbito más amplio para mejorar la accesibilidad y la asequibilidad del seguro llevada a cabo por los sucesivos gobiernos australianos desde 2001.
+
+## Características del pool de riesgo de ciclón
+El pool de riesgo de ciclón es un mecanismo de reaseguro entre las aseguradoras y la ARPC. El pool de riesgo de ciclón cubre las pólizas de viviendas, comunidades de vecinos y de pequeños comercios y empresas en la totalidad de Australia, pero centra su apoyo en las zonas más propensas a los ciclones tropicales y proporciona reaseguro a las aseguradoras que operan en esas zonas.
+
+El pool de ciclón cubre el 100 % de los daños del ciclón y de la inundación asociada al mismo, lo cual incluye daños por viento, lluvia, agua de lluvia, escorrentía pluvial, marea de tempestad e inundación fluvial causada por un ciclón tropical.
+
+Al igual que el pool de riesgo de terrorismo, el pool de riesgo de ciclón está respaldado por una garantía gubernamental de 10.000 millones de AUD. Si es probable que se supere esta garantía en un ejercicio anual, el gobierno de Australia la aumentará de forma que el pool de riesgo de ciclón pueda cumplir todas sus obligaciones.
+
+El servicio meteorológico australiano, el Bureau of Meteorology (BoM), observa la fecha y la hora en la que un ciclón tropical se forma y desaparece, y en algunos casos vuelve a ganar intensidad. A partir del informe del BoM, la ARPC debe declarar el comienzo y el final de un episodio de ciclón tropical.
+
+El pool de riesgo de ciclón cubre las solicitudes de indemnización por daños por ciclón y daños de inundación relacionados que tengan lugar durante un episodio de ciclón, que dura desde la formación de un ciclón hasta 48 después de su desaparición, lo que se denomina el periodo del episodio de ciclón tropical.
+
+El pool de ciclón cubre daños en pólizas de viviendas, comunidades de vecinos y pequeños comercios y empresas, incluyendo:
+
+* Propiedades residenciales y su contenido, incluido el seguro de propietarios arrendadores y la cobertura de propiedades rústicas;
+
+* comunidades de vecinos, incluidos edificios de uso mixto (en los que el 50 por ciento o más de la superficie se dedique a uso residencial);
+
+* pólizas comerciales con un máximo de 5 millones de AUD (3 millones de euros) de capital asegurado entre todas las coberturas del pool (daños en el continente, en el contenido y pérdida de beneficios).
+
+La participación es obligatoria para las aseguradoras generales con pólizas admisibles. Los asegurados tienen completa libertad de elección de aseguradora y las entidades seguirán gestionando todas las solicitudes de indemnización, según lo estipulado en la póliza de seguros original.
+
+Este diagrama muestra la penetración en el mercado del pool de riesgo de ciclón, a fecha 1 de julio de 2024.
+
+{{< figura src="/images/numero-21/australia03.png" caption="" source="" >}}
+
+## ¿Cómo tarifica el pool el riesgo?
+La fórmula de tarificación utiliza datos a nivel de propiedad como la geografía, las características de la construcción y las medidas de reducción del riesgo. Se ha desarrollado según los principios de que el pool de riesgo de ciclón:
+
+* no tendrá coste para el gobierno a largo plazo;
+
+* hará bajar el coste del reaseguro para la mayoría de las pólizas que tengan una exposición media o alta al riesgo de ciclón tropical:
+
+* tendrá un impacto mínimo sobre las primas de las pólizas con un menor riesgo de ciclón; y
+
+* mantendrá los incentivos para la reducción del riesgo y ofrecerá deducciones a los bienes que adopten medidas de mitigación.
+
+Las tarifas originales entraron en vigor el 1 de octubre de 2022, tres meses antes de que las primeras aseguradoras se unieran al pool de riesgo de ciclón el 1 de enero de 2023.
+
+Durante junio y julio de 2024, la ARPC llevó a cabo una revisión de las tarifas del pool de riesgo de ciclón para comprobar que las primas seguían alineadas con los principios anteriores y para crear deducciones en la prima para comunidades de vecinos que adoptasen medidas de reducción del riesgo. La conclusión fue que los objetivos legislativos del pool de riesgo de ciclón se siguen cumpliendo. La ARPC publicó posteriormente las nuevas tarifas del pool de riesgo de ciclón, que entrarán en vigor a partir del 1 de abril de 2025.
+
+## El papel de la ACCC en el análisis del funcionamiento del pool de riesgo de ciclón.
+El propósito último del pool de riesgo de ciclón es hacer bajar los precios de las primas que pagan los asegurados en zonas propensas al riesgo de ciclón tropical y la agencia que tiene encomendada la tarea de supervisar este efecto es la ACCC (Comisión Australiana para los Consumidores y la Competencia).
+
+La ACCC recopila datos de las entidades aseguradoras, de los consumidores y de otras partes interesadas para evaluar el impacto del pool de riesgo de ciclón y para determinar si el ahorro que genera el pool de riesgo de ciclón se traslada a los asegurados. Posteriormente publica un informe de seguimiento anual.
+
+El tercer informe, publicado el 19 de septiembre de 2024 con datos hasta el 30 de septiembre de 2023, concluyó que el pool de ciclones había comenzado a reducir las primas en las regiones más expuestas al riesgo de ciclón.
+
+El informe de septiembre reconoció que el pool de riesgo de ciclón había supuesto ahorros para los tomadores de pólizas de las regiones con mayor riesgo de ciclón y que las aseguradoras estaban haciendo cambios para permitir transferir el ahorro generado por el pool de riesgo de ciclón a los consumidores.
+
+También destacó que los factores económicos y medioambientales más allá del control o del cometido del pool de ciclones tienen una influencia negativa en el montante total de las primas que tienen que pagar los consumidores, que están compensando el ahorro que genera el pool. Estos costes incluyen el endurecimiento de los mercados mundiales de reaseguro, los eventos meteorológicos extremos en todo el mundo y el aumento de precio de los materiales y de la mano de obra de construcción.
+
+En su informe, la ACCC comparó cómo cambiaban las primas con la entrada de las aseguradoras al pool de riesgo de ciclón. También evaluó la forma en la que las aseguradoras enfocaban su entrada en el pool de ciclones, incluyendo la forma de considerar las medidas de reducción del riesgo en los bienes asegurados.
+
+De las pólizas que se renovaron después de la entrada de la aseguradora en el pool de riesgo de ciclón, se produjo, según la ACCC, un descenso de la prima en un 27 % de las pólizas residenciales combinadas de contenido y continente en zonas de riesgo medio a alto. En comparación, solo se produjeron descensos en la prima para el 12 % de aquellas pólizas residenciales de contenido y continente en zonas de riesgo medio a alto que se renovaron antes de que la aseguradora se uniera al pool.
+
+La ACCC encontró también que el 16 % de las pólizas de comunidades de vecinos en zonas con riesgo de ciclón de medio a alto tuvieron un descenso de prima en la renovación después de que la aseguradora se hubiera incorporado al pool de riesgo de ciclón, comparado con el 10 % de las renovadas antes de la incorporación de la aseguradora al pool.
+
+## Las pruebas de la mejora de la asequibilidad y accesibilidad de la ARPC.
+En mayo de 2024, la ARPC publicó su propio análisis de las primas del seguro del hogar en las regiones más expuestas al riesgo de ciclón de Australia, que también apuntaban a una mejora de la asequibilidad de los seguros generales. El informe se basaba en solicitudes en línea de cotizaciones de primas de seguro antes de que las aseguradoras se unieran al pool, comparadas con datos más recientes (enero de 2024). Las conclusiones principales de este análisis se pueden sintetizar en que:
+
+* en zonas de los centros regionales del norte como Broome, Townsville, Proserpine y Mackay, las ofertas generadas para seguro del hogar eran hasta un 38 % inferiores a las anteriores a la creación del pool de riesgo de ciclón en 2022;
+
+* las cotizaciones de seguros para pequeñas empresas en esas mismas áreas registraban reducciones medias de las primas de hasta el 38 %; y
+
+* varias zonas de Cairns, Ingham y el Cabo York en el extremo norte de Queensland también presentaron reducciones medias de hasta el 22 % en seguro del hogar y del 24 % en el seguro de pequeñas empresas.
+
+Este análisis sigue a otros que sugerían que la accesibilidad al seguro también estaba mejorando para los habitantes de zonas con riesgo significativo de ciclón tropical, incluidos en el primer informe de perspectivas financieras de la ARPC (FOR, por su denominación en inglés), publicado en diciembre de 2023.
+
+Los datos demuestran que el pool de riesgo de ciclones está funcionando como se pretendía: hay ahorros de prima mayores en las zonas con mayor riesgo de ciclón tropical, dado que esas regiones tienen mayor necesidad de aliviar sus cargas financieras. Por ejemplo, la Tabla 1.2 del FOR muestra cuánto puede variar la prima del pool de riesgo de ciclón entre la tercera mayor ciudad de Australia, Brisbane (146 AUD, unos 88 €, para la cobertura de ciclón en el seguro del hogar) y Townsville (709 AUD, unos 426 €), que es una ciudad de casi 250.000 habitantes unos 1.350 km al norte de Brisbane por carretera.
+
+## Primeros indicios de infraseguro significativo
+Una vez que la participación en el pool de riesgo de ciclón es obligatoria para las aseguradoras, la ARPC puede comparar el número de propiedades que tienen cobertura en las regiones con alto riesgo de ciclón incluidas en el pool con otras fuentes de datos, como el catastro, que identifican el número de residencias (unifamiliares o en comunidades de vecinos), o de pequeñas empresas.
+
+Los primeros resultados de esta comparación sugieren que el norte de Australia presenta un infraseguro significativamente superior al esperado con anterioridad, y que este patrón se produce independientemente de los recursos económicos de la región. El diagrama siguiente (clasificado según las bandas de riesgo de viento que utiliza la ARPC, definidas por orden alfabético correlacionado con el nivel de riesgo de ciclón), muestra este patrón.
+
+{{< figura src="/images/numero-21/australia03.png" caption="" source="" >}}
+
+## Perspectivas: el futuro del pool de riesgo de ciclón más allá de 2024
+Durante 2024, la falta de un seguro asequible y accesible en Australia ha sido objeto de tres consultas parlamentarias en paralelo: {{< link href="https://www.aph.gov.au/Parliamentary_Business/Committees/House/Economics/FloodInsuranceInquiry/Report" text="la consulta de la respuesta aseguradora a las grandes inundaciones de 2022, el impacto del riesgo climático sobre las primas del seguro y su disponibilidad y el informe sobre la operativa y puesta en marcha del Pool de Reaseguro de riesgo de Ciclón" target="_blank" >}}. Las tres consultas han examinado el pool de riesgo de ciclón, su eficacia y si se debería cambiar su propósito.
+
+Las cuestiones más recurrentes en esta discusión han sido si se debería cambiar el actual periodo de 48 horas para la cobertura del riesgo de ciclón o si se deberían añadir otros peligros naturales entre los cubiertos por el pool. Dos de los tres informes han sugerido que el gobierno tenga en consideración la posibilidad de añadir el riesgo de inundación a las coberturas del pool de riesgo de ciclón, quizás de forma limitada y temporal. El otro informe aún no está terminado.
+
+Aunque estas consultas no son vinculantes para el gobierno en ejercicio, reflejan las consideraciones de políticos clave y es posible que tengan influencia sobre otros colegas que son ministros del gobierno (y que establecen las políticas).
+
+Es más, la Ley establece que se haga una revisión del pool de riesgo de ciclón en 2025. Esta tarea será informada por un grupo de trabajo anunciado por el ministro responsable de la ARPC, el parlamentario Sr. Stephen Jones, como parte del Presupuesto de Australia en 2024. El Grupo de Trabajo sobre Asequibilidad del Seguro y Reducción de Riesgos Naturales pretende abordar la cuestión de los costes del seguro generados por eventos meteorológicos adversos más frecuentes e intensos, mejorando la asequibilidad. Aún no se sabe cuándo se harán públicas sus recomendaciones.
+
+Con el pool de riesgo de ciclón plenamente operativo, la ARPC dispondrá de más datos para poner a disposición del público, lo que será una importante herramienta para que los tomadores de decisiones políticas puedan comprobar la eficacia del pool. La provisión de datos y perspectivas también serán útiles para el trabajo de otras agencias gubernamentales, como la Autoridad Nacional de Gestión de Emergencias (NEMA, por su nombre en inglés) y su trabajo en la gestión de los peligros naturales. Los primeros trabajos citados en este artículo sobre la verdadera escala de infraseguro en el norte de Australia son un indicador inicial de cómo pueden utilizarse los datos generados por la ARPC. Con varios informes para publicar a lo largo de 2025, el efecto del pool de riesgo de ciclón se irá poniendo aún más de manifiesto, añadiendo claridad que ayudará a definir políticas.
+
+{{< destacado-rojo >}}
+### Conclusión
+Aglutinando recursos y riesgos a nivel nacional, el pool de riesgo de ciclones es un mecanismo que ofrece un amortiguador frente a eventos importantes de ciclones tropicales, garantizando que el seguro sigue siendo una herramienta fiable para la recuperación y la gestión de los riesgos incluso en este contexto de impactos climáticos crecientes.
+
+Como sucede en otras partes del mundo, Australia está experimentando la presión de un elevado coste de la vida en un momento de crecimiento económico modesto. Las comunidades del norte de Australia tienen grandes expectativas de que el pool de riesgo de ciclón les proporcione a los consumidores una reducción significativa y tangible en el coste de sus primas del seguro.
+
+Para algunas comunidades, el riesgo de ciclón tropical puede ser el componente de mayor peso para calcular la prima de un seguro del hogar, lo que hace que esta reducción sea particularmente importante. Tras un largo periodo de informes sobre el rendimiento del pool, seremos capaces de medir si el pool es una solución que satisface las expectativas a largo plazo de las comunidades y refuerza nuestra capacidad de respuesta colectiva a los riesgos futuros de ciclón tropical.
+
+{{< /destacado-rojo >}}

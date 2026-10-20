@@ -1,0 +1,21 @@
+---
+title: "Editorial"
+category: "Editorial"
+pdf_download: "/pdf/num22/editorial.pdf"
+sidebar_image: "/images/numero-21/foto_portada_editorial_21.jpg"
+sidebar_text: "El sector asegurador, en todo el mundo, está siendo cada vez más proactivo para permitir la asegurabilidad de los riesgos crecientes, y en este número tenemos el privilegio de conocer de primera mano las experiencias de los sistemas de seguro de riesgos catastróficos de Australia, Nueva Zelanda y Turquía, escritos respectivamente por Alexander Drake, Tina Mitchell y Musa Alphan Bahar, en la adaptación de estos sistemas para la cobertura de nuevos riesgos o en su encaje institucional y operativo para la cobertura y también para la prevención."
+weight: 1
+image: "/images/numero-21/foto_portada_editorial_21.jpg"
+summary: "En 1980, hace 45 años, se ponía en marcha el modelo de Seguro Agrario Combinado en España. Este seguro, reconocido dentro y fuera del país como un modelo ejemplar y de éxito se basa en la Ley 87/1978, de 28 de diciembre, de Seguros Agrarios Combinados, que se mantiene en pleno vigor y que se ha desarrollado en su totalidad a lo largo de este periodo que ha conocido la puesta en marcha del modelo, su expansión hasta llegar a ser un elemento clave en la gestión de un sector tan estratégico para un país como el agrario y, en los años más recientes, los impactos cada vez más evidentes de la crisis climática."
+---
+Este vigésimo primer número de la revista digital Consorseguros coincide con dos hechos más que relevantes para el Consorcio de Compensación de Seguros (CCS): por un lado el 70 aniversario de la entidad, cumplido el día 16 de diciembre de 2024, y por otro, mucho más triste, la gestión de la siniestralidad más importante que España y esta entidad han tenido, al menos en estos 70 años de historia: las inundaciones producidas por la depresión aislada en niveles altos (dana) que afectaron a múltiples zonas del sur y el este peninsular y Baleares a finales de octubre y principios de noviembre de 2024, muy en particular a la provincia de Valencia el 29 de octubre de 2024.
+
+En estas circunstancias se refuerza aún más la idea inicial del Consejo Editorial de la revista, tomada el verano pasado, de editar el número en torno a las ideas de la gestión de los riesgos para facilitar su asegurabilidad futura. En un contexto de daños crecientes, el seguro debe integrarse cada vez más en la cadena de la gestión de los riesgos de forma que se siga dando una respuesta económica a los daños y se facilite la contención de los riesgos para que puedan seguir siendo asegurables, lo que constituye el artículo de análisis de este número.
+
+El sector asegurador, en todo el mundo, está siendo cada vez más proactivo para permitir la asegurabilidad de los riesgos crecientes, y en este número tenemos el privilegio de conocer de primera mano las experiencias de los sistemas de seguro de riesgos catastróficos de Australia, Nueva Zelanda y Turquía, escritos respectivamente por Alexander Drake, Tina Mitchell y Musa Alphan Bahar, en la adaptación de estos sistemas para la cobertura de nuevos riesgos o en su encaje institucional y operativo para la cobertura y también para la prevención.
+
+Contamos además con contribuciones de ejemplos de medidas que pueden permitir una reducción de riesgos que son cada vez más graves: Fernando Pulido, de la Universidad de Extremadura presenta una innovadora y eficaz forma preventiva para controlar la intensidad y la extensión de los incendios forestales mediante la gestión forestal y territorial.
+
+En otro artículo, Fernando Aranda, Director Técnico de la Confederación Hidrográfica del Guadiana, explica las medidas que se adoptaron para la reducción del riesgo de inundación en la provincia de Badajoz tras las importantes y trágicas inundaciones de noviembre de 1997.
+
+Completamos el número con las contribuciones de Javier Bonhome, Subdirector de Régimen Económico de la Actividad Liquidadora del CCS, sobre la reunión del Foro Internacional de Sistemas de Garantía de Seguros (IFIGS), que tuvo lugar en octubre de 2024 y fue organizada por el CCS en Madrid, y con un artículo de jurisprudencia de José Antonio Badillo.

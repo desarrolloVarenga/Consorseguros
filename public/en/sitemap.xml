@@ -2,6 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/en/revistas/numero-21/editorial/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/revistas/numero-21/editorial/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/revistas/numero-21/editorial/"
+                />
+  </url><url>
     <loc>http://localhost:1313/en/revistas/numero-22/editorial/</loc>
     <xhtml:link
                 rel="alternate"
@@ -62,6 +74,18 @@
                 href="http://localhost:1313/en/revistas/numero-24/hoja-de-ruta/"
                 />
   </url><url>
+    <loc>http://localhost:1313/en/revistas/numero-21/riesgos_crecientes/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/revistas/numero-21/riesgos_crecientes/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/revistas/numero-21/riesgos_crecientes/"
+                />
+  </url><url>
     <loc>http://localhost:1313/en/revistas/numero-23/riesgos-extraordinarios/</loc>
     <xhtml:link
                 rel="alternate"
@@ -72,6 +96,18 @@
                 rel="alternate"
                 hreflang="en-US"
                 href="http://localhost:1313/en/revistas/numero-23/riesgos-extraordinarios/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/en/revistas/numero-21/australia/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/revistas/numero-21/australia/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/revistas/numero-21/australia/"
                 />
   </url><url>
     <loc>http://localhost:1313/en/revistas/numero-24/icaria/</loc>
@@ -134,6 +170,18 @@
                 href="http://localhost:1313/en/revistas/numero-22/enesa/"
                 />
   </url><url>
+    <loc>http://localhost:1313/en/revistas/numero-21/nueva_zelanda/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/revistas/numero-21/nueva_zelanda/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/revistas/numero-21/nueva_zelanda/"
+                />
+  </url><url>
     <loc>http://localhost:1313/en/revistas/numero-24/servicio-de-gesti%C3%B3n-de-emergencias-de-copernicus/</loc>
     <xhtml:link
                 rel="alternate"
@@ -156,6 +204,18 @@
                 rel="alternate"
                 hreflang="en-US"
                 href="http://localhost:1313/en/revistas/numero-22/ccs_y_su_apoyo_al_sac/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/en/revistas/numero-21/transicion_seguro_obligatorio/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/revistas/numero-21/transicion_seguro_obligatorio/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/revistas/numero-21/transicion_seguro_obligatorio/"
                 />
   </url><url>
     <loc>http://localhost:1313/en/revistas/numero-23/apcas/</loc>
@@ -365,6 +425,19 @@
                 rel="alternate"
                 hreflang="en-US"
                 href="http://localhost:1313/en/revistas/numero-22/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/en/revistas/numero-21/</loc>
+    <lastmod>2024-07-15T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/revistas/numero-21/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/revistas/numero-21/"
                 />
   </url><url>
     <loc>http://localhost:1313/en/categories/</loc>
