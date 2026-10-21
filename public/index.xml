@@ -15,6 +15,13 @@
 			<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Editorial</title>
+				<link>http://localhost:1313/revistas/numero-20/editorial/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-20/editorial/</guid>
+				<description>Uno de los temas que más interés suscita en los últimos tiempos es el de la inteligencia artificial (IA) y sus aplicaciones e implicaciones. En este número 20 de Consorseguros Digital ponemos el foco en este tema, haciendo énfasis en sus aplicaciones, y también en las implicaciones, para el sector asegurador.</description>
+			</item>
+			<item>
+				<title>Editorial</title>
 				<link>http://localhost:1313/revistas/numero-21/editorial/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/revistas/numero-21/editorial/</guid>
@@ -56,6 +63,13 @@
 				<description>El seguro ha sido históricamente un instrumento esencial para compensar daños y facilitar la recuperación tras eventos extremos. Sin embargo, el aumento de pérdidas asociadas al cambio climático obliga a ampliar esta función para, no solo cubrir las pérdidas después del desastre, sino también para ver cómo contribuir a reducir el riesgo mediante la prevención.</description>
 			</item>
 			<item>
+				<title>Inteligencia artificial en el sector asegurador: perspectivas de mercado y regulatorias</title>
+				<link>http://localhost:1313/revistas/numero-20/ia_perspectivas/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-20/ia_perspectivas/</guid>
+				<description>Dentro del intenso proceso de transformación digital en el que se encuentran inmersas la economía y la sociedad en general, observamos cómo en el sector financiero y, dentro de él, en el ámbito asegurador, se ha producido en los últimos años un notable avance en la utilización de nuevas tecnologías que han llegado para quedarse.</description>
+			</item>
+			<item>
 				<title>Las inundaciones de la DANA de octubre-noviembre de 2024: el mayor reto de la historia del Seguro de Riesgos Extraordinarios</title>
 				<link>http://localhost:1313/revistas/numero-23/riesgos-extraordinarios/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -77,6 +91,13 @@
 				<description>Desde el año 2003, la Sociedad Australiana del Pool de Reaseguro (Australian Reinsurance Pool Corporation – ARPC –) ha sido el mecanismo del Gobierno de Australia para proveer cobertura de reaseguro de catástrofe, primero para el riesgo de terrorismo y desde 2022 para los riesgos de ciclón y de inundación relacionada con un ciclón.</description>
 			</item>
 			<item>
+				<title>Inteligencia artificial, el motor del cambio en el sector asegurador</title>
+				<link>http://localhost:1313/revistas/numero-20/motor_del_cambio/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-20/motor_del_cambio/</guid>
+				<description>La inteligencia artificial, cuya base matemática se estableció hace décadas, ha experimentado una incursión global en todos los ámbitos de nuestra sociedad en estos tiempos, generando un proceso de cambio significativo a nivel empresarial. Aunque algunos podrían percibirlo como una mera moda tecnológica, parece que estamos inmersos en algo mucho más profundo, equiparable al impacto que tuvieron en su momento el uso de internet y la generalización del correo electrónico.</description>
+			</item>
+			<item>
 				<title>Lecciones aseguradoras de la DANA de Valencia</title>
 				<link>http://localhost:1313/revistas/numero-23/lecciones_dana/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -96,6 +117,13 @@
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/revistas/numero-22/radiografia/</guid>
 				<description>Realizar una radiografía de la realidad de una empresa resulta harto complicado a medida que su dimensión crece año tras año y cuanto más crecen sus magnitudes, más lo hace también su impacto en la sociedad. Además, en Agroseguro podríamos afirmar que ese impacto redunda de múltiples maneras, porque el objeto de nuestro aseguramiento –las producciones agrícolas y ganaderas– es fundamental para la supervivencia de la mayor parte de los pueblos españoles y para la alimentación de todos nosotros, vivamos en pleno medio rural o en el centro de las ciudades.</description>
+			</item>
+			<item>
+				<title>Anatomía de la inteligencia artificial en la cadena de valor del seguro</title>
+				<link>http://localhost:1313/revistas/numero-20/anatomia_ia/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-20/anatomia_ia/</guid>
+				<description>La IA está transformando cada aspecto de la cadena de valor de la industria aseguradora, desde la personalización de productos hasta la gestión de reclamaciones y la atención al cliente. A medida que la tecnología avanza, se espera que su integración en el sector asegurador se profundice aún más, llevando a una mayor eficiencia y mejores resultados para las empresas y sus clientes</description>
 			</item>
 			<item>
 				<title>El seguro agrario: experiencia y compromiso</title>
@@ -140,6 +168,13 @@
 				<description>El Pool de Seguros de Catástrofe de Turquía (Turkish Catastrophe Insurance Pool, TCIP por su nombre en inglés o DASK por su denominación en turco) se creó en el año 2000 tras los devastadores terremotos de la región de Mármara el 18 de agosto de 1999. Aunque la Ley de Seguros de Catástrofe permite que TCIP proporciones cobertura de seguro y/o reaseguro frente a peligros naturales, desde su creación, TCIP proporciona únicamente cobertura de seguro de terremotos para propiedades residenciales en Turquía.</description>
 			</item>
 			<item>
+				<title>No todo cabe en un algoritmo</title>
+				<link>http://localhost:1313/revistas/numero-20/algoritmo/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-20/algoritmo/</guid>
+				<description>La inteligencia artificial (IA) es un campo en constante evolución, con una historia que abarca décadas de investigación y desarrollo. Desde su concepción en la década de 1950, cuando pioneros como Alan Turing y John McCarthy sentaron las bases teóricas de la inteligencia artificial, hasta su aplicación práctica en la actualidad, la IA ha recorrido un viaje que ha redefinido múltiples aspectos de nuestras vidas.</description>
+			</item>
+			<item>
 				<title>Prevención de incendios forestales en un contexto de riesgo emergente</title>
 				<link>http://localhost:1313/revistas/numero-24/incendios/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -175,6 +210,34 @@
 				<description>Cada catástrofe natural es un recordatorio de la necesidad de mantener un sistema asegurador fuerte, accesible y bien articulado. El papel de la Mediación, lejos de ser accesorio, es central.</description>
 			</item>
 			<item>
+				<title>Incendios del futuro: nuevos enfoques participativos basados en la planificación territorial</title>
+				<link>http://localhost:1313/revistas/numero-21/incendios_futuro/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-21/incendios_futuro/</guid>
+				<description>Varias revisiones científicas recientes sobre la problemática de los incendios forestales alertan sobre la gravedad creciente del problema, como lo atestigua el último informe de la ONU (2022). A nivel mundial, las condiciones meteorológicas asociadas a los incendios son más frecuentes en la mayoría de las regiones como consecuencia del cambio climático.</description>
+			</item>
+			<item>
+				<title>Inteligencia artificial para la prevención de riesgos naturales</title>
+				<link>http://localhost:1313/revistas/numero-20/prevencion_riesgos_naturales/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-20/prevencion_riesgos_naturales/</guid>
+				<description>A lo largo de la historia han existido desastres naturales que han forzado a las sociedades a adaptarse, prepararse y evolucionar, llevando a la humanidad al nivel de protección y desarrollo actual. Si bien es cierto que estas evoluciones nos han llevado a estar más protegidos de los peligros, la sensación es que la sociedad, en muchos casos, se olvida de que estos eventos existen y son posibles, y solo nos acordamos de ellos en el momento en el que ocurren.</description>
+			</item>
+			<item>
+				<title>Las riadas de noviembre de 1997 en la provincia de Badajoz y las actuaciones posteriores de la administración hidráulica</title>
+				<link>http://localhost:1313/revistas/numero-21/riadas_1997/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-21/riadas_1997/</guid>
+				<description>En noviembre de 1997 se generó una enorme borrasca que produjo riadas de graves consecuencias en las localidades de Badajoz, Valverde de Leganés y Mérida, además de en la comarca de las Vegas Bajas del Guadiana. En el presente artículo se describen los daños producidos por las mismas y las actuaciones de la administración hidráulica para reparar dichos daños y tratar de que no se vuelvan a producir.</description>
+			</item>
+			<item>
+				<title>El seguro de responsabilidad civil derivado de la circulación de vehículos de motor no cubre al conductor asegurado por la muerte de sus familiares causada por su propia conducta Sentencia de la Sala 1ª del Tribunal Supremo de 2 de abril de 2024. Ponente: Sr. Seoane Spiegelberg</title>
+				<link>http://localhost:1313/revistas/numero-20/seguro_responsabilidad_civil/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-20/seguro_responsabilidad_civil/</guid>
+				<description>La responsabilidad civil y el seguro son dos instituciones que van unidas cuando estamos ante seguros de responsabilidad civil, si bien son diferentes y hay que estudiarlas separadamente.</description>
+			</item>
+			<item>
 				<title>Estrategias de gestión riesgos agrarios y cambio climático</title>
 				<link>http://localhost:1313/revistas/numero-22/estrategias/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -203,6 +266,13 @@
 				<description>Este artículo describe las medidas adoptadas por el Consorcio y sus peritos colaboradores para afrontar una siniestralidad inédita, tanto por el número de siniestros como por la gravedad de los daños y su repercusión social y mediática.</description>
 			</item>
 			<item>
+				<title>Aproveche este momento para integrar inteligencia artificial en su empresa</title>
+				<link>http://localhost:1313/revistas/numero-20/aproveche_integrar_ia/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-20/aproveche_integrar_ia/</guid>
+				<description>La IA está transformando cada aspecto de la cadena de valor de la industria aseguradora, desde la personalización de productos hasta la gestión de reclamaciones y la atención al cliente. A medida que la tecnología avanza, se espera que su integración en el sector asegurador se profundice aún más, llevando a una mayor eficiencia y mejores resultados para las empresas y sus clientes.</description>
+			</item>
+			<item>
 				<title>Comparativa de la DANA de Valencia de octubre de 2024 frente a los principales eventos de inundación en la serie 1971-2024</title>
 				<link>http://localhost:1313/revistas/numero-23/comparativa_dana/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -224,11 +294,32 @@
 				<description>El proyecto IMPACTO surge como una iniciativa de colaboración interinstitucional para la compartición de datos y estadísticas sobre eventos, tanto naturales como tecnológicos, considerados prioritarios para protección civil y que ocasionan daños y pérdidas en España.</description>
 			</item>
 			<item>
+				<title>XI Conferencia Internacional y Asamblea General Anual de IFIGS</title>
+				<link>http://localhost:1313/revistas/numero-21/ifigs/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-21/ifigs/</guid>
+				<description>El Foro Internacional de Sistemas de Garantía de Seguros (International Forum of Insurance Guarantee Schemes –IFIGS–) celebró en Madrid su undécima reunión anual los días 16 al 18 de octubre, organizada por el Consorcio de Compensación de Seguros, que este año preside el foro internacional coincidiendo con el cuadragésimo aniversario de su actividad liquidadora de entidades aseguradoras.</description>
+			</item>
+			<item>
+				<title>Conductor versus ocupante de un vehí­culo</title>
+				<link>http://localhost:1313/revistas/numero-21/conductor_versus_ocupante/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-21/conductor_versus_ocupante/</guid>
+				<description>En este trabajo, basado esencialmente en una sentencia de la Audiencia Provincial de Cartagena y en una cuestión prejudicial planteada ante el Tribunal de Justicia de la Unión Europea (TJUE) por un tribunal de los Paí­ses Bajos, queremos profundizar sobre la consideración de lo que debe entenderse como conductor de un vehí­culo</description>
+			</item>
+			<item>
 				<title>La visión desde Valencia</title>
 				<link>http://localhost:1313/revistas/numero-23/vision/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/revistas/numero-23/vision/</guid>
 				<description>La Delegación Territorial del Consorcio de Compensación de Seguros (CCS) en Valencia tiene un papel crucial en la gestión de los riesgos extraordinarios.</description>
+			</item>
+			<item>
+				<title>Reseña de The Road to Conscious Machines. The Story of AI</title>
+				<link>http://localhost:1313/revistas/numero-20/road_to_conscious_machines/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-20/road_to_conscious_machines/</guid>
+				<description>Para Michael Wooldridge -autor del libro-, que se define a sí mismo como perteneciente a la primera generación de humanos que jugó con un ordenador en su adolescencia, la IA no es tan poderosa ni está tan avanzada como pensamos. De manera rigurosa, pero entretenida y con múltiples ejemplos para facilitar la comprensión, el autor va presentando los conceptos básicos de la IA y explica cómo se ha ido convirtiendo en la potente disciplina que hoy conocemos.</description>
 			</item>
 			<item>
 				<title>Post 3</title>

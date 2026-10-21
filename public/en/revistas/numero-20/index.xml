@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Nº 20 Primavera 2024 on My New Hugo Project</title>
+		<link>http://localhost:1313/en/revistas/numero-20/</link>
+		<description>Recent content in Nº 20 Primavera 2024 on My New Hugo Project</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/en/revistas/numero-20/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Editorial</title>
+				<link>http://localhost:1313/en/revistas/numero-20/editorial/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-20/editorial/</guid>
+				<description>One of the most exciting topics of recent times is that of Artificial Intelligence (AI) and its applications and repercussions. In this 20th issue of Consorseguros Digital we focus on AI, emphasizing their uses and implications for the insurance industry.</description>
+			</item>
+			<item>
+				<title>Artificial Intelligence and the Insurance Industry: Regulatory and Market Perspectives</title>
+				<link>http://localhost:1313/en/revistas/numero-20/ia_perspectivas/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-20/ia_perspectivas/</guid>
+				<description>Both the economy and society as a whole are caught up in a pervasive digital transformation, and in recent years significant advances in using new technologies have been made in the financial sector and within that sector, the insurance subsector. These advances are here to stay.</description>
+			</item>
+			<item>
+				<title>Artificial Intelligence, Driving Change in the Insurance Industry</title>
+				<link>http://localhost:1313/en/revistas/numero-20/motor_del_cambio/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-20/motor_del_cambio/</guid>
+				<description>Artificial intelligence&amp;rsquo;s mathematical underpinnings were laid down decades ago, and it is now expanding into every corner of today&amp;rsquo;s society and giving rise to sweeping changes in the business sphere. Some may look at it as just a technology fad, but we would seem to be in the midst of something that runs much deeper, comparable to the impact made by the Internet and widespread use of email in their day.</description>
+			</item>
+			<item>
+				<title>Anatomy of Artificial Intelligence in the Insurance Value Chain</title>
+				<link>http://localhost:1313/en/revistas/numero-20/anatomia_ia/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-20/anatomia_ia/</guid>
+				<description>AI is transforming every aspect of the insurance industry value chain from product personalisation to claims handling and customer service. As the technology advances, it is expected that it will be integrated further and deeper within the insurance sector, resulting in heightened efficiency and enhanced results for insurance companies and their customers .</description>
+			</item>
+			<item>
+				<title>Not Everything Fits into an Algorithm</title>
+				<link>http://localhost:1313/en/revistas/numero-20/algoritmo/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-20/algoritmo/</guid>
+				<description>La inteligencia artificial (IA) es un campo en constante evolución, con una historia que abarca décadas de investigación y desarrollo. Desde su concepción en la década de 1950, cuando pioneros como Alan Turing y John McCarthy sentaron las bases teóricas de la inteligencia artificial, hasta su aplicación práctica en la actualidad, la IA ha recorrido un viaje que ha redefinido múltiples aspectos de nuestras vidas.</description>
+			</item>
+			<item>
+				<title>Artificial Intelligence in Preventing Natural Perils</title>
+				<link>http://localhost:1313/en/revistas/numero-20/prevencion_riesgos_naturales/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-20/prevencion_riesgos_naturales/</guid>
+				<description>Natural disasters have occurred throughout history and have forced societies to adapt, prepare, and evolve, carrying mankind to its current level of safety and development. While development has brought us greater protection from hazards, it seems that society often forgets that events like these even exist and are a real possibility. They only come to mind when they actually occur.</description>
+			</item>
+			<item>
+				<title>Third-Party Liability Motor Vehicle Insurance Does Not Cover the Insured Driver against the Death of Family Members Caused by the Driver&#39;s Own Action Judgment by the First Chamber of the Spanish Supreme Court of 2 April 2024</title>
+				<link>http://localhost:1313/en/revistas/numero-20/seguro_responsabilidad_civil/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-20/seguro_responsabilidad_civil/</guid>
+				<description>Civil liability and insurance are two different concepts that need to be considered separately, even though they both come together in third-party liability insurance.</description>
+			</item>
+			<item>
+				<title>Leverage This Moment to Integrate Artificial Intelligence into Your Business</title>
+				<link>http://localhost:1313/en/revistas/numero-20/aproveche_integrar_ia/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-20/aproveche_integrar_ia/</guid>
+				<description>In a context where Artificial Intelligence (AI) no longer needs evangelists and even the Government of Spain has decided to invest massively in this technology, there arises both an opportunity and a simultaneous challenge for businesses and public administrations in the country.</description>
+			</item>
+			<item>
+				<title>Book review: The Road to Conscious Machines. The Story of AI</title>
+				<link>http://localhost:1313/en/revistas/numero-20/road_to_conscious_machines/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-20/road_to_conscious_machines/</guid>
+				<description>Michael Wooldridge, the author, describes himself as belonging to the first generation of humans that fooled around with computers as a teenager and thinks that AI is neither as powerful or as advanced as one might be led to believe. Without shying away from the technical details but in a highly readable manner with lots of examples that are easy to understand, he sets out the basic concepts of AI and explains how it has grown into the powerful field we know today</description>
+			</item>
+	</channel>
+</rss>

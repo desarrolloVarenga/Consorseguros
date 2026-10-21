@@ -15,6 +15,13 @@
 			<atom:link href="http://localhost:1313/en/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Editorial</title>
+				<link>http://localhost:1313/en/revistas/numero-20/editorial/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-20/editorial/</guid>
+				<description>One of the most exciting topics of recent times is that of Artificial Intelligence (AI) and its applications and repercussions. In this 20th issue of Consorseguros Digital we focus on AI, emphasizing their uses and implications for the insurance industry.</description>
+			</item>
+			<item>
+				<title>Editorial</title>
 				<link>http://localhost:1313/en/revistas/numero-21/editorial/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/en/revistas/numero-21/editorial/</guid>
@@ -56,6 +63,13 @@
 				<description>Insurance has historically been an essential tool for compensating for damage and facilitating recovery following extreme events. However, the growing losses associated with climate change means that this role should be expanded to not only cover losses after a disaster, but also to explore how to help reduce risk through prevention.</description>
 			</item>
 			<item>
+				<title>Artificial Intelligence and the Insurance Industry: Regulatory and Market Perspectives</title>
+				<link>http://localhost:1313/en/revistas/numero-20/ia_perspectivas/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-20/ia_perspectivas/</guid>
+				<description>Both the economy and society as a whole are caught up in a pervasive digital transformation, and in recent years significant advances in using new technologies have been made in the financial sector and within that sector, the insurance subsector. These advances are here to stay.</description>
+			</item>
+			<item>
 				<title>Growing risks: the role of insurance</title>
 				<link>http://localhost:1313/en/revistas/numero-21/riesgos_crecientes/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -68,6 +82,13 @@
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/en/revistas/numero-23/riesgos-extraordinarios/</guid>
 				<description>On the night of 29 October, we watched in dismay – like all citizens of this country and the rest of the world – the drama unfolding across a large metropolitan area of Spain and other nearby regions. We quickly realised that the magnitude of the catastrophe was going to be devastating, as it sadly was in terms of loss of human life and material damage, and the challenge its management would entail.</description>
+			</item>
+			<item>
+				<title>Artificial Intelligence, Driving Change in the Insurance Industry</title>
+				<link>http://localhost:1313/en/revistas/numero-20/motor_del_cambio/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-20/motor_del_cambio/</guid>
+				<description>Artificial intelligence&amp;rsquo;s mathematical underpinnings were laid down decades ago, and it is now expanding into every corner of today&amp;rsquo;s society and giving rise to sweeping changes in the business sphere. Some may look at it as just a technology fad, but we would seem to be in the midst of something that runs much deeper, comparable to the impact made by the Internet and widespread use of email in their day.</description>
 			</item>
 			<item>
 				<title>Australia’s cyclone pool: the journey so far, and what its data is telling us</title>
@@ -98,6 +119,13 @@
 				<description>Taking an x-ray of an enterprise&amp;rsquo;s situation is no easy matter when it is growing in size year by year and when its impact on society grows along with its size. Furthermore, Agroseguro&amp;rsquo;s impact can be said to have multiple benefits, since the focus of its insurance, crop and livestock insurance for farms, is essential to the survival of most Spanish towns and to food production to feed all those of us who live both in rural areas and in city centres.</description>
 			</item>
 			<item>
+				<title>Anatomy of Artificial Intelligence in the Insurance Value Chain</title>
+				<link>http://localhost:1313/en/revistas/numero-20/anatomia_ia/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-20/anatomia_ia/</guid>
+				<description>AI is transforming every aspect of the insurance industry value chain from product personalisation to claims handling and customer service. As the technology advances, it is expected that it will be integrated further and deeper within the insurance sector, resulting in heightened efficiency and enhanced results for insurance companies and their customers .</description>
+			</item>
+			<item>
 				<title>El seguro agrario: experiencia y compromiso</title>
 				<link>http://localhost:1313/en/revistas/numero-23/agroseguros/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -124,6 +152,13 @@
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/en/revistas/numero-24/servicio-de-gesti%C3%B3n-de-emergencias-de-copernicus/</guid>
 				<description>When floods inundate a city, wildfires spread, or drought threatens water supplies, authorities need fast, accurate information. They rely on scientists and practitioners to find, generate, and interpret near real-time, trustworthy data. Throughout this article we illustrate how satellite-derived geospatial information has helped Spain prepare for, respond to, and recover from disasters.</description>
+			</item>
+			<item>
+				<title>Not Everything Fits into an Algorithm</title>
+				<link>http://localhost:1313/en/revistas/numero-20/algoritmo/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-20/algoritmo/</guid>
+				<description>La inteligencia artificial (IA) es un campo en constante evolución, con una historia que abarca décadas de investigación y desarrollo. Desde su concepción en la década de 1950, cuando pioneros como Alan Turing y John McCarthy sentaron las bases teóricas de la inteligencia artificial, hasta su aplicación práctica en la actualidad, la IA ha recorrido un viaje que ha redefinido múltiples aspectos de nuestras vidas.</description>
 			</item>
 			<item>
 				<title>The Consorcio de Compensación de Seguros&#39; support for the Multi-peril Agricultural Insurance scheme</title>
@@ -154,6 +189,13 @@
 				<description>Whilst most wildfires are caused by human activity, their behaviour and spread are largely influenced by the characteristics and distribution of forest fuel, which are closely linked to land management. In some regions, such as the Mediterranean, the accumulation of fuel in the landscape due to rural depopulation, together with the expansion of the Wildland-Urban Interface, further increases the risk.</description>
 			</item>
 			<item>
+				<title>Artificial Intelligence in Preventing Natural Perils</title>
+				<link>http://localhost:1313/en/revistas/numero-20/prevencion_riesgos_naturales/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-20/prevencion_riesgos_naturales/</guid>
+				<description>Natural disasters have occurred throughout history and have forced societies to adapt, prepare, and evolve, carrying mankind to its current level of safety and development. While development has brought us greater protection from hazards, it seems that society often forgets that events like these even exist and are a real possibility. They only come to mind when they actually occur.</description>
+			</item>
+			<item>
 				<title>Climate Change Adaptation and Coastal Risk Reduction: Lessons Learned from the LIFE Garachico and LIFE AdaptaBlues Projects</title>
 				<link>http://localhost:1313/en/revistas/numero-24/cambio_climatico/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -166,6 +208,20 @@
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/en/revistas/numero-23/aprendizajes/</guid>
 				<description>Each natural catastrophe serves as a reminder of the need for a strong, accessible and well-structured insurance system. The role of brokerage, far from being ancillary, is central.</description>
+			</item>
+			<item>
+				<title>The 1997 floods in the province of Badajoz and subsequent measures taken by the water management authorities</title>
+				<link>http://localhost:1313/en/revistas/numero-21/riadas_1997/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-21/riadas_1997/</guid>
+				<description>A huge storm in November 1997 caused severe floods in the cities of Badajoz and Mérida and the town of Valverde de Leganés, and in the lowland region of Vegas Bajas del Guadiana. This article describes the damage caused by the floods and the steps taken by the water management authorities to repair the damage and to try to prevent this situation from repeating while at the same time taking the opportunity this presented to improve the urban areas surrounding the channels of the streams that had overflowed.</description>
+			</item>
+			<item>
+				<title>Wildfires of the future: new participatory approaches based on territorial planning</title>
+				<link>http://localhost:1313/en/revistas/numero-21/incendios_futuro/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-21/incendios_futuro/</guid>
+				<description>Several recent scientific reviews dealing with the issue of wildfires have called attention to the fact that the problem is growing more severe, as discussed in the latest UN report (2022) . Weather conditions associated with wildfires are becoming more frequent in most regions around the globe as a consequence of climate change.</description>
 			</item>
 			<item>
 				<title>Agricultural risk management strategies and climate change</title>
@@ -196,6 +252,20 @@
 				<description>The cut-off low (DANA in Spanish) that struck the Region of Valencia at the end of October 2024 went beyond meteorological chronicles to become the largest flood-related loss ever managed by Consorcio de Compensación de Seguros (CCS).</description>
 			</item>
 			<item>
+				<title>Third-Party Liability Motor Vehicle Insurance Does Not Cover the Insured Driver against the Death of Family Members Caused by the Driver&#39;s Own Action Judgment by the First Chamber of the Spanish Supreme Court of 2 April 2024</title>
+				<link>http://localhost:1313/en/revistas/numero-20/seguro_responsabilidad_civil/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-20/seguro_responsabilidad_civil/</guid>
+				<description>Civil liability and insurance are two different concepts that need to be considered separately, even though they both come together in third-party liability insurance.</description>
+			</item>
+			<item>
+				<title>Brief overview of the 11th International Conference and Annual General Meeting of IFIGS</title>
+				<link>http://localhost:1313/en/revistas/numero-21/ifigs/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-21/ifigs/</guid>
+				<description>The International Forum of Insurance Guarantee Schemes (IFIGS) held its eleventh annual meeting in Madrid from 16 to 18 October, hosted by the Consorcio de Compensación de Seguros, the IFIGS chair this year, which marks the 40th anniversary of its winding-up activity of insurance companies.</description>
+			</item>
+			<item>
 				<title>Comparativa de la DANA de Valencia de octubre de 2024 frente a los principales eventos de inundación en la serie 1971-2024</title>
 				<link>http://localhost:1313/en/revistas/numero-23/comparativa_dana/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -217,11 +287,32 @@
 				<description>The IMPACTO project is an inter-institutional collaborative initiative aimed at sharing data and statistics on natural and technological events considered priorities for civil protection and causing damage and losses in Spain.</description>
 			</item>
 			<item>
+				<title>Leverage This Moment to Integrate Artificial Intelligence into Your Business</title>
+				<link>http://localhost:1313/en/revistas/numero-20/aproveche_integrar_ia/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-20/aproveche_integrar_ia/</guid>
+				<description>In a context where Artificial Intelligence (AI) no longer needs evangelists and even the Government of Spain has decided to invest massively in this technology, there arises both an opportunity and a simultaneous challenge for businesses and public administrations in the country.</description>
+			</item>
+			<item>
+				<title>Book review: The Road to Conscious Machines. The Story of AI</title>
+				<link>http://localhost:1313/en/revistas/numero-20/road_to_conscious_machines/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-20/road_to_conscious_machines/</guid>
+				<description>Michael Wooldridge, the author, describes himself as belonging to the first generation of humans that fooled around with computers as a teenager and thinks that AI is neither as powerful or as advanced as one might be led to believe. Without shying away from the technical details but in a highly readable manner with lots of examples that are easy to understand, he sets out the basic concepts of AI and explains how it has grown into the powerful field we know today</description>
+			</item>
+			<item>
 				<title>The View from Valencia</title>
 				<link>http://localhost:1313/en/revistas/numero-23/vision/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/en/revistas/numero-23/vision/</guid>
 				<description>The Regional Branch of Consorcio de Compensación de Seguros (CCS) in Valencia plays a crucial role in managing extraordinary risks.</description>
+			</item>
+			<item>
+				<title>Vehicle driver vs passenger</title>
+				<link>http://localhost:1313/en/revistas/numero-21/conductor_versus_ocupante/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-21/conductor_versus_ocupante/</guid>
+				<description>This study is intended as an in-depth consideration of what is meant by vehicle driver. It is based chiefly on a judgment delivered by the Provincial Court of Appeal of Cartagena and a question referred by a Dutch court to the Court of Justice of the European Union (CJEU) for a preliminary ruling.</description>
 			</item>
 			<item>
 				<title>Contact</title>

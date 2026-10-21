@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Nº 20 Primavera 2024 on My New Hugo Project</title>
+		<link>http://localhost:1313/revistas/numero-20/</link>
+		<description>Recent content in Nº 20 Primavera 2024 on My New Hugo Project</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/revistas/numero-20/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Editorial</title>
+				<link>http://localhost:1313/revistas/numero-20/editorial/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-20/editorial/</guid>
+				<description>Uno de los temas que más interés suscita en los últimos tiempos es el de la inteligencia artificial (IA) y sus aplicaciones e implicaciones. En este número 20 de Consorseguros Digital ponemos el foco en este tema, haciendo énfasis en sus aplicaciones, y también en las implicaciones, para el sector asegurador.</description>
+			</item>
+			<item>
+				<title>Inteligencia artificial en el sector asegurador: perspectivas de mercado y regulatorias</title>
+				<link>http://localhost:1313/revistas/numero-20/ia_perspectivas/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-20/ia_perspectivas/</guid>
+				<description>Dentro del intenso proceso de transformación digital en el que se encuentran inmersas la economía y la sociedad en general, observamos cómo en el sector financiero y, dentro de él, en el ámbito asegurador, se ha producido en los últimos años un notable avance en la utilización de nuevas tecnologías que han llegado para quedarse.</description>
+			</item>
+			<item>
+				<title>Inteligencia artificial, el motor del cambio en el sector asegurador</title>
+				<link>http://localhost:1313/revistas/numero-20/motor_del_cambio/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-20/motor_del_cambio/</guid>
+				<description>La inteligencia artificial, cuya base matemática se estableció hace décadas, ha experimentado una incursión global en todos los ámbitos de nuestra sociedad en estos tiempos, generando un proceso de cambio significativo a nivel empresarial. Aunque algunos podrían percibirlo como una mera moda tecnológica, parece que estamos inmersos en algo mucho más profundo, equiparable al impacto que tuvieron en su momento el uso de internet y la generalización del correo electrónico.</description>
+			</item>
+			<item>
+				<title>Anatomía de la inteligencia artificial en la cadena de valor del seguro</title>
+				<link>http://localhost:1313/revistas/numero-20/anatomia_ia/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-20/anatomia_ia/</guid>
+				<description>La IA está transformando cada aspecto de la cadena de valor de la industria aseguradora, desde la personalización de productos hasta la gestión de reclamaciones y la atención al cliente. A medida que la tecnología avanza, se espera que su integración en el sector asegurador se profundice aún más, llevando a una mayor eficiencia y mejores resultados para las empresas y sus clientes</description>
+			</item>
+			<item>
+				<title>No todo cabe en un algoritmo</title>
+				<link>http://localhost:1313/revistas/numero-20/algoritmo/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-20/algoritmo/</guid>
+				<description>La inteligencia artificial (IA) es un campo en constante evolución, con una historia que abarca décadas de investigación y desarrollo. Desde su concepción en la década de 1950, cuando pioneros como Alan Turing y John McCarthy sentaron las bases teóricas de la inteligencia artificial, hasta su aplicación práctica en la actualidad, la IA ha recorrido un viaje que ha redefinido múltiples aspectos de nuestras vidas.</description>
+			</item>
+			<item>
+				<title>Inteligencia artificial para la prevención de riesgos naturales</title>
+				<link>http://localhost:1313/revistas/numero-20/prevencion_riesgos_naturales/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-20/prevencion_riesgos_naturales/</guid>
+				<description>A lo largo de la historia han existido desastres naturales que han forzado a las sociedades a adaptarse, prepararse y evolucionar, llevando a la humanidad al nivel de protección y desarrollo actual. Si bien es cierto que estas evoluciones nos han llevado a estar más protegidos de los peligros, la sensación es que la sociedad, en muchos casos, se olvida de que estos eventos existen y son posibles, y solo nos acordamos de ellos en el momento en el que ocurren.</description>
+			</item>
+			<item>
+				<title>El seguro de responsabilidad civil derivado de la circulación de vehículos de motor no cubre al conductor asegurado por la muerte de sus familiares causada por su propia conducta Sentencia de la Sala 1ª del Tribunal Supremo de 2 de abril de 2024. Ponente: Sr. Seoane Spiegelberg</title>
+				<link>http://localhost:1313/revistas/numero-20/seguro_responsabilidad_civil/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-20/seguro_responsabilidad_civil/</guid>
+				<description>La responsabilidad civil y el seguro son dos instituciones que van unidas cuando estamos ante seguros de responsabilidad civil, si bien son diferentes y hay que estudiarlas separadamente.</description>
+			</item>
+			<item>
+				<title>Aproveche este momento para integrar inteligencia artificial en su empresa</title>
+				<link>http://localhost:1313/revistas/numero-20/aproveche_integrar_ia/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-20/aproveche_integrar_ia/</guid>
+				<description>La IA está transformando cada aspecto de la cadena de valor de la industria aseguradora, desde la personalización de productos hasta la gestión de reclamaciones y la atención al cliente. A medida que la tecnología avanza, se espera que su integración en el sector asegurador se profundice aún más, llevando a una mayor eficiencia y mejores resultados para las empresas y sus clientes.</description>
+			</item>
+			<item>
+				<title>Reseña de The Road to Conscious Machines. The Story of AI</title>
+				<link>http://localhost:1313/revistas/numero-20/road_to_conscious_machines/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-20/road_to_conscious_machines/</guid>
+				<description>Para Michael Wooldridge -autor del libro-, que se define a sí mismo como perteneciente a la primera generación de humanos que jugó con un ordenador en su adolescencia, la IA no es tan poderosa ni está tan avanzada como pensamos. De manera rigurosa, pero entretenida y con múltiples ejemplos para facilitar la comprensión, el autor va presentando los conceptos básicos de la IA y explica cómo se ha ido convirtiendo en la potente disciplina que hoy conocemos.</description>
+			</item>
+	</channel>
+</rss>

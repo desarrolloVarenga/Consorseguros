@@ -1,0 +1,82 @@
+---
+title: "Third-Party Liability Motor Vehicle Insurance Does Not Cover the Insured Driver against the Death of Family Members Caused by the Driver's Own Action Judgment by the First Chamber of the Spanish Supreme Court of 2 April 2024"
+category: "Case law"
+pdf_download: "/pdf/num22/editorial.pdf"
+sidebar_image: "/images/numero-20/foto_portada_seguro_responsabilidad_civil.jpg"
+sidebar_text: "Civil liability always entails harm to another. This is specified in section 1902 of the Spanish Civil Code: whoever causes harm to another... Therefore, no civil liability arises when someone causes harm to oneself."
+weight: 7
+image: "/images/numero-20/foto_portada_seguro_responsabilidad_civil.jpg"
+summary: "Civil liability and insurance are two different concepts that need to be considered separately, even though they both come together in third-party liability insurance."
+authors:
+    - name: "José Antonio Badillo Arias"
+    - institution: "Adviser"
+    - institution: "Dirección General de Seguros y Fondos de Pensiones (General Directorate of Insurance and Pension Funds)"
+---
+
+### 1. Introduction
+Civil liability and insurance are two different concepts that need to be considered separately, even though they both come together in third-party liability insurance. The first issue that needs to be assessed is whether the insured party bears civil liability. If so, the insurance coverage then needs to be assessed. Thus, where not all requirements are satisfied and no civil liability arises, third-party liability insurance will not come into play, because as senior judge Fernández Entralgo put it, if there is no rain (civil liability), there is no call to open the umbrella (third-party liability insurance) to stay dry. 
+
+When discussing civil liability, it is common to speak of action and omission, harm, causation, unlawfulness, and fault. However, no special emphasis tends to be placed on the requirement of otherness, of injury to another, most likely because it is taken for granted. Civil liability always entails harm to another. This is specified in section 1902 of the Spanish Civil Code: “whoever causes harm to another…”. Therefore, no civil liability arises when someone causes harm to oneself . 
+
+The principle of alterum non laedere [no injury to another] has come down to us from Roman law. It is enshrined in section 1902 of the Spanish Civil Code (CC) and is inseparable from otherness, or harm to another. The existence of harm to another is an essential requirement for civil liability to arise. Consequently, in the case of harm caused to oneself, e.g., by suicide or when the injured party causes the harm, no civil liability comes into being, because the requirement of injury to another is absent.
+
+This brings to mind the legal rule by Pomponius in the Digest: Quod quis ex culpa sua damnum sentit, non intelligitur damnum sentire, that is, who suffers harm by their own fault has no right to complain, although under our positive law this could be settled pursuant to section 1 (1) of the Spanish Ley de responsabilidad civil en la circulación de vehículos a motor (LRCSCVM) [Motor Vehicle Civil Liability Insurance Act] or the above-mentioned section 1902 of the CC.
+
+Naturally, in the case of third-party liability insurance, the insurance company must share the fate of the insured. This means that if the insured bears no civil liability, the insurance will not have effect, even if the injured party is entitled to act directly against the insurer pursuant to section 76 of the Spanish Ley de contrato de seguro [Insurance Contract Act]. Therefore, in these cases, before examining whether or not insurance coverage exists, as sometimes tends to be the case, what needs to be examined is whether the insured bears civil liability. Thus, we need to consider all the elements of civil liability having in mind the insured’s actions, one of those elements being the requirement of otherness, of injury to another. When that has been examined, if civil liability is deemed to exist, it is then appropriate to examine whether or not the insurance provides coverage. 
+
+It is not uncommon to encounter traffic accidents where the driver of a vehicle fails to activate one of the safety devices (engaging the hand brake or leaving the car in gear) and is run over by their own car, or, as in the case that concerns us here, one of the passengers riding in the car is killed as a result of distraction by the driver, who is the spouse or mother, giving rise to the circumstance in which the driver is both the cause of the accident and a party injured by its effects.
+
+It is obvious that the vehicle’s compulsory third-party liability insurance (compulsory motor vehicle insurance, SOA, for its Spanish initials) does not apply, because the insured bears no civil liability in that the requirement of otherness, of injury to another, is not fulfilled. What sometimes happens is that insurance coverage is assessed without considering whether or not civil liability has arisen. For example, the passengers riding in the car, who have been killed, are held to have been covered by the compulsory motor vehicle insurance, which is correct, and the driver, the parent or spouse of the deceased passengers, to be an injured party, which is also correct. However, in these cases, it is overlooked that before ascertaining the insurance coverage, what needs to be determined is whether civil liability on the part of the insured actually arises, because if not, there is no point in talking about the insurance.
+
+By contrast, these cases in which the requirement of injury to a third party is not satisfied could be covered by personal accident insurance. It should be noted that this type of insurance is an accident policy and consequently that coverage is not subject to civil liability by the insured except in cases of wilful misconduct, which are excluded under the Spanish Ley de contrato de seguro (section 19) and the policy itself. The legal status of accident insurance is not the same as that of third-party liability insurance, compulsory motor vehicle insurance being one of the latter, and coverage does not depend on civil liability by the insured.
+
+### 2. Distinction between victim and injured party
+To look into these issues in somewhat more depth, a distinction must be drawn between the victim and the injured party, because though these two concepts are in most cases overlapping, this is not true when an accident victim dies. In these cases, the victim is not the same as the injured party. In the case considered in this judgment, the Provincial Court of Appeals held the party aggrieved by the death of her spouse to be the victim of the accident.
+
+The victim is the person who directly suffers the harmful consequences of the accident by being involved in it, which can be consistent with being involved in causing it. When that party survives after being hurt, it will also be a party injured by the events that have taken place. In that case victim and injured party are one and the same.
+
+However, when the victim in an accident dies, the parties injured by that death who suffer non-material harm and possibly material harm as well are persons who are not the victim, and because of their family ties or life partner relationship with the victim, they are considered injured by the victim’s death and as such entitled to compensation. In that case the victim and the injured party are not the same, and therefore for purposes of grounds for being cleared of fault, it would not be proper to speak of “sole fault of the injured party” as section 1(1) of the Spanish LRCSCVM does when that party has not played any role in commission of the accident. It would therefore be necessary to speak of “sole fault of the victim” rather than fault of the injured party as grounds for clearing the car driver from fault.
+
+It may happen, as in the judgment under discussion, that the victim is killed through the fault of the injured party. In that case the injured party’s fault would prevent them from being compensated, because they caused the harm to oneself.
+
+In any event, what should be understood is that the party injured by the death of another person is injured ex jure propio. This means it is a person’s own right recognised by law that arises after the death of the victim of the accident and is not part of the decedent’s estate. Therefore, in these cases the deceased family member or relative is the victim, and the injured party suffers non-material harm or possibly material harm as a result of the victim’s death. 
+
+### 3. The events in the judgment
+The events that gave rise to this judgment are summarised below. On 23 July 2012 Estefanía was driving her car in Aguilar de Campoo and crashed into the columns of a building. As a consequence of that crash, her husband, who was riding with her, suffered traumatic injuries that caused his death barely three months later.
+
+Estefanía was responsible for the accident, and that fact was not disputed. The car in question was covered by compulsory motor vehicle insurance that covered the driver’s liability vis-à-vis third parties. 
+
+The aspect of interest to us here is that the driver of the car put in a claim, as the injured party, for the corresponding indemnity for the death of her spouse.
+
+### 4. The lower courts' rulings
+Both the trial court and the Provincial Court of Appeals of Palencia ruled that the wife, who had caused the accident, was to be compensated for the death of her spouse, who was a passenger riding in the car.
+
+The judgment of the Provincial Court of Appeals “finds that the wife-driver of the decedent does not lose her status as victim”. Thus, the Court found that “the exclusion of the driver at fault is only in respect of ‘bodily injury’ (section 5 of the Spanish LRCSCVM). This means that the driver at fault does not cease to have the status of victim in respect of the non-material harm suffered due to the loss of a family member as a result of the accident, even though she was responsible for the accident. This was the finding of the Provincial Court of Appeals of Castellón dated 18 March 2013 in the case of the death of a child whose father was the driver at fault”.
+
+We can see that there is some confusion between the victim and the injured party. In particular, as already noted in the introduction, the Court made reference to the insurance (section 5 of the LRCSCVM), not to the existence of civil liability, even though in its appeal the insurer had argued that the requirement of harm to another had not been fulfilled: The appellant had argued that “the injured party caused the harm to herself”. To add to the confusion, the judgment stated that “fault for the accident is one thing, and the circumstances for assigning fault to be taken into account when setting guidelines for assessing the harm are another…”. This separates the assessment of harm from the assignment of civil liability, implying, as was stated in the operative part of the judgment, that harm can be assessed and compensated without demonstrating civil liability on the part of the party responsible.
+
+### 5. The Supreme Court’s reasoning
+As it had done in its judgment of 2 March 2020 in a similar case, the Supreme Court has settled the issue and in a manner of speaking has set things straight. 
+
+As it had done previously, the insurer that filed the appeal based its arguments on breach of section 1(1) of the Spanish LRCSCVM on grounds that the requirement of injury to another had not been fulfilled and on breach of section 5(1) of that same Act, which provides that “Compulsory motor vehicle insurance does not cover harm or losses from injury or death of the driver of the vehicle that has caused the accident”.
+
+### 5.1. Interpretation of section 5(1) of the Spanish LRCSCVM
+The Supreme Court accepted the insurer’s appeal and ruled in its favour in respect of section 5(1) of the Spanish LRCSCVM. It made reference to its judgment of 2 March 2020 and held that the reason for the new wording of the provision in question was to settle the issue of whether the relatives of a driver who had died in a traffic accident for which the driver was known to be solely and exclusively at fault were entitled to compensation for non-material and material harm resulting from the driver’s death to be paid by the insurer that had underwritten the driver’s compulsory motor vehicle insurance policy.
+
+The judgment ruled that section 5(1) of the Spanish LRCSCVM was to be construed to mean that the coverage exclusion also referred to indirect or ricochet harm or loss ensuing from bodily injury to the driver of the insured vehicle that was solely and exclusively responsible for causing the accident. Accordingly, the rewording of that provision in the Spanish Act 21/2007, of 11 July has cleared away the uncertainty that had existed before. That is, allowing entitlement to compensation for the death of relatives of the deceased driver solely at fault for an accident was the same as making a form of insurance designed and prescribed to be a third-party liability insurance equivalent to personal accident insurance without any legal basis for doing so. Reasons that might make it advisable to protect the victims of traffic accidents that are grounded in social considerations are to be taken into account only in legislation, and provisions of law are not to be interpreted in a manner contrary to the inferences drawn from a logical and systematic review.
+
+### 5.2. Requirement of otherness, of injury to another
+The other issue considered in the matter dealt with in the judgment concerned determining whether the claimant, as the cause of the unfortunate accident in which her spouse was killed, can be considered to be entitled to compensation for harm suffered as a result of that traffic accident.
+
+The Supreme Court held that third-party liability insurance covered harm for which the insured was liable but that the harm that she herself suffered was not covered by that type of insurance, not even, the Court added, non-material harm from the loss of family members. This was a direct result of the intrinsic nature of third-party liability insurance itself. The finding made in the judgment of 3 November 2008 should also be noted in this respect: “Compulsory insurance covers third-party liability that may be incurred by motor vehicle drivers for harm caused to people or property in road traffic, within the established limits (sections 1 and 2 of the Spanish Ley sobre Responsabilidad Civil y Seguro en la Circulación de Vehículos a Motor [Act relating to Insurance against Civil Liability in respect of the Use of Motor Vehicles]”.
+
+The judgment drew on the decision of 7 September 2017 by the Court of Justice of the European Union (CJEU), Sixth Chamber, Case C-506/2016, referring to the European Court for a preliminary ruling a question similar to the issue settled by the Supreme Court under discussion here in which the spouse of the driver responsible was a passenger in the vehicle and had been killed. 
+
+The CJEU held that the Community Directives on third-party liability insurance in respect of the use of motor vehicles did not preclude national law from excluding the right of the driver of a motor vehicle who is responsible, by their own fault, for a traffic accident as a result of which their spouse, a passenger in that vehicle, has died to receive compensation for the material harm which they have suffered as a result of that death.
+
+
+
+{{< destacado-rojo >}}
+### Conclusion
+Even though the judgment ruled that the driver of the vehicle was excluded from coverage under section 5(1) of the Spanish LRCSCVM, it does not appear to me that the case at hand concerns an insurance interpretation issue but rather an issue of what should be understood as civil liability and whether the requisite elements for that liability have been satisfied pursuant to section 1902 of the Spanish CC and section 1(1) of the Spanish LRCSCVM. The reason is that, as mentioned above, what needs to be determined first is whether or not the requirements proving the existence of civil liability have been met, not the coverage of the insurance. If a person causes harm to oneself, that is, or she is both the party at fault and the injured party, no civil liability arises; and in the absence of liability all the rest, namely, the coverage by the insurer, is moot.
+{{< /destacado-rojo >}}

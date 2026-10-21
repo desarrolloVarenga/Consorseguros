@@ -48,5 +48,33 @@
 				<guid>http://localhost:1313/revistas/numero-21/transicion_seguro_obligatorio/</guid>
 				<description>El Pool de Seguros de Catástrofe de Turquía (Turkish Catastrophe Insurance Pool, TCIP por su nombre en inglés o DASK por su denominación en turco) se creó en el año 2000 tras los devastadores terremotos de la región de Mármara el 18 de agosto de 1999. Aunque la Ley de Seguros de Catástrofe permite que TCIP proporciones cobertura de seguro y/o reaseguro frente a peligros naturales, desde su creación, TCIP proporciona únicamente cobertura de seguro de terremotos para propiedades residenciales en Turquía.</description>
 			</item>
+			<item>
+				<title>Incendios del futuro: nuevos enfoques participativos basados en la planificación territorial</title>
+				<link>http://localhost:1313/revistas/numero-21/incendios_futuro/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-21/incendios_futuro/</guid>
+				<description>Varias revisiones científicas recientes sobre la problemática de los incendios forestales alertan sobre la gravedad creciente del problema, como lo atestigua el último informe de la ONU (2022). A nivel mundial, las condiciones meteorológicas asociadas a los incendios son más frecuentes en la mayoría de las regiones como consecuencia del cambio climático.</description>
+			</item>
+			<item>
+				<title>Las riadas de noviembre de 1997 en la provincia de Badajoz y las actuaciones posteriores de la administración hidráulica</title>
+				<link>http://localhost:1313/revistas/numero-21/riadas_1997/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-21/riadas_1997/</guid>
+				<description>En noviembre de 1997 se generó una enorme borrasca que produjo riadas de graves consecuencias en las localidades de Badajoz, Valverde de Leganés y Mérida, además de en la comarca de las Vegas Bajas del Guadiana. En el presente artículo se describen los daños producidos por las mismas y las actuaciones de la administración hidráulica para reparar dichos daños y tratar de que no se vuelvan a producir.</description>
+			</item>
+			<item>
+				<title>XI Conferencia Internacional y Asamblea General Anual de IFIGS</title>
+				<link>http://localhost:1313/revistas/numero-21/ifigs/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-21/ifigs/</guid>
+				<description>El Foro Internacional de Sistemas de Garantía de Seguros (International Forum of Insurance Guarantee Schemes –IFIGS–) celebró en Madrid su undécima reunión anual los días 16 al 18 de octubre, organizada por el Consorcio de Compensación de Seguros, que este año preside el foro internacional coincidiendo con el cuadragésimo aniversario de su actividad liquidadora de entidades aseguradoras.</description>
+			</item>
+			<item>
+				<title>Conductor versus ocupante de un vehí­culo</title>
+				<link>http://localhost:1313/revistas/numero-21/conductor_versus_ocupante/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-21/conductor_versus_ocupante/</guid>
+				<description>En este trabajo, basado esencialmente en una sentencia de la Audiencia Provincial de Cartagena y en una cuestión prejudicial planteada ante el Tribunal de Justicia de la Unión Europea (TJUE) por un tribunal de los Paí­ses Bajos, queremos profundizar sobre la consideración de lo que debe entenderse como conductor de un vehí­culo</description>
+			</item>
 	</channel>
 </rss>

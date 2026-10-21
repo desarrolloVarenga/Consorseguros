@@ -2,6 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/en/revistas/numero-20/editorial/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/revistas/numero-20/editorial/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/revistas/numero-20/editorial/"
+                />
+  </url><url>
     <loc>http://localhost:1313/en/revistas/numero-21/editorial/</loc>
     <xhtml:link
                 rel="alternate"
@@ -74,6 +86,18 @@
                 href="http://localhost:1313/en/revistas/numero-24/hoja-de-ruta/"
                 />
   </url><url>
+    <loc>http://localhost:1313/en/revistas/numero-20/ia_perspectivas/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/revistas/numero-20/ia_perspectivas/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/revistas/numero-20/ia_perspectivas/"
+                />
+  </url><url>
     <loc>http://localhost:1313/en/revistas/numero-21/riesgos_crecientes/</loc>
     <xhtml:link
                 rel="alternate"
@@ -96,6 +120,18 @@
                 rel="alternate"
                 hreflang="en-US"
                 href="http://localhost:1313/en/revistas/numero-23/riesgos-extraordinarios/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/en/revistas/numero-20/motor_del_cambio/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/revistas/numero-20/motor_del_cambio/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/revistas/numero-20/motor_del_cambio/"
                 />
   </url><url>
     <loc>http://localhost:1313/en/revistas/numero-21/australia/</loc>
@@ -146,6 +182,18 @@
                 href="http://localhost:1313/en/revistas/numero-22/radiografia/"
                 />
   </url><url>
+    <loc>http://localhost:1313/en/revistas/numero-20/anatomia_ia/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/revistas/numero-20/anatomia_ia/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/revistas/numero-20/anatomia_ia/"
+                />
+  </url><url>
     <loc>http://localhost:1313/en/revistas/numero-23/agroseguros/</loc>
     <xhtml:link
                 rel="alternate"
@@ -192,6 +240,18 @@
                 rel="alternate"
                 hreflang="en-US"
                 href="http://localhost:1313/en/revistas/numero-24/servicio-de-gesti%C3%B3n-de-emergencias-de-copernicus/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/en/revistas/numero-20/algoritmo/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/revistas/numero-20/algoritmo/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/revistas/numero-20/algoritmo/"
                 />
   </url><url>
     <loc>http://localhost:1313/en/revistas/numero-22/ccs_y_su_apoyo_al_sac/</loc>
@@ -242,6 +302,18 @@
                 href="http://localhost:1313/en/revistas/numero-24/incendios/"
                 />
   </url><url>
+    <loc>http://localhost:1313/en/revistas/numero-20/prevencion_riesgos_naturales/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/revistas/numero-20/prevencion_riesgos_naturales/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/revistas/numero-20/prevencion_riesgos_naturales/"
+                />
+  </url><url>
     <loc>http://localhost:1313/en/revistas/numero-24/cambio_climatico/</loc>
     <xhtml:link
                 rel="alternate"
@@ -264,6 +336,30 @@
                 rel="alternate"
                 hreflang="en-US"
                 href="http://localhost:1313/en/revistas/numero-23/aprendizajes/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/en/revistas/numero-21/riadas_1997/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/revistas/numero-21/riadas_1997/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/revistas/numero-21/riadas_1997/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/en/revistas/numero-21/incendios_futuro/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/revistas/numero-21/incendios_futuro/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/revistas/numero-21/incendios_futuro/"
                 />
   </url><url>
     <loc>http://localhost:1313/en/revistas/numero-22/estrategias/</loc>
@@ -314,6 +410,30 @@
                 href="http://localhost:1313/en/revistas/numero-23/dana_valencia/"
                 />
   </url><url>
+    <loc>http://localhost:1313/en/revistas/numero-20/seguro_responsabilidad_civil/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/revistas/numero-20/seguro_responsabilidad_civil/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/revistas/numero-20/seguro_responsabilidad_civil/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/en/revistas/numero-21/ifigs/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/revistas/numero-21/ifigs/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/revistas/numero-21/ifigs/"
+                />
+  </url><url>
     <loc>http://localhost:1313/en/revistas/numero-23/comparativa_dana/</loc>
     <xhtml:link
                 rel="alternate"
@@ -350,6 +470,30 @@
                 href="http://localhost:1313/en/revistas/numero-24/proyecto_impacto/"
                 />
   </url><url>
+    <loc>http://localhost:1313/en/revistas/numero-20/aproveche_integrar_ia/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/revistas/numero-20/aproveche_integrar_ia/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/revistas/numero-20/aproveche_integrar_ia/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/en/revistas/numero-20/road_to_conscious_machines/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/revistas/numero-20/road_to_conscious_machines/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/revistas/numero-20/road_to_conscious_machines/"
+                />
+  </url><url>
     <loc>http://localhost:1313/en/revistas/numero-23/vision/</loc>
     <xhtml:link
                 rel="alternate"
@@ -360,6 +504,18 @@
                 rel="alternate"
                 hreflang="en-US"
                 href="http://localhost:1313/en/revistas/numero-23/vision/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/en/revistas/numero-21/conductor_versus_ocupante/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/revistas/numero-21/conductor_versus_ocupante/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/revistas/numero-21/conductor_versus_ocupante/"
                 />
   </url><url>
     <loc>http://localhost:1313/en/</loc>
@@ -438,6 +594,19 @@
                 rel="alternate"
                 hreflang="en-US"
                 href="http://localhost:1313/en/revistas/numero-21/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/en/revistas/numero-20/</loc>
+    <lastmod>2024-07-14T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/revistas/numero-20/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/revistas/numero-20/"
                 />
   </url><url>
     <loc>http://localhost:1313/en/categories/</loc>
