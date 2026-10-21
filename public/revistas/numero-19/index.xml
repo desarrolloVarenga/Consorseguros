@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Nº 19 Otoño 2023 on My New Hugo Project</title>
+		<link>http://localhost:1313/revistas/numero-19/</link>
+		<description>Recent content in Nº 19 Otoño 2023 on My New Hugo Project</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/revistas/numero-19/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Editorial</title>
+				<link>http://localhost:1313/revistas/numero-19/editorial/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-19/editorial/</guid>
+				<description>El pasado mes de agosto se cumplieron 40 años del acaecimiento de la que sigue siendo la siniestralidad más elevada en la historia del seguro de riesgos extraordinarios y del Consorcio de Compensación de Seguros: las inundaciones del País Vasco.</description>
+			</item>
+			<item>
+				<title>Documentación histórica relativa a las inundaciones del País Vasco de agosto de 1983</title>
+				<link>http://localhost:1313/revistas/numero-19/analisis_documentacion_historica/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-19/analisis_documentacion_historica/</guid>
+				<description>En este artículo se va a tratar de recopilar y ordenar la información disponible en los archivos y documentos del CCS de aquella época en lo que se refiere a resultados económicos de este evento para dejar constancia de este episodio y que esta información quede disponible.</description>
+			</item>
+	</channel>
+</rss>

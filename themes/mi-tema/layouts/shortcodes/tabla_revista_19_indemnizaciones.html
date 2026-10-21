@@ -1,0 +1,127 @@
+<div class="custom-table-wrapper" style="width: 100%; overflow-x: auto; margin: 1.5rem 0;">
+  <style>
+    .tabla-estatica-indemnizaciones {
+      width: 100%;
+      border-collapse: collapse;
+      font-family: inherit;
+      margin: 0;
+      border: 1px solid #ccc;
+    }
+    .tabla-estatica-indemnizaciones th {
+      background-color: #a81c3f;
+      color: #ffffff;
+      text-align: center;
+      padding: 10px 8px;
+      border: 1px solid #ffffff;
+      font-weight: bold;
+      vertical-align: middle;
+    }
+    .tabla-estatica-indemnizaciones td {
+      padding: 8px 12px;
+      border: 1px solid #e0e0e0;
+      vertical-align: middle;
+    }
+    .tabla-estatica-indemnizaciones .td-right {
+      text-align: right;
+    }
+    .tabla-estatica-indemnizaciones .texto-rojo {
+      color: #a81c3f;
+      font-weight: bold;
+    }
+  </style>
+
+  <table class="tabla-estatica-indemnizaciones">
+    <thead>
+      <tr>
+        <th rowspan="2" scope="col">1983</th>
+        <th rowspan="2" scope="col">Nº Exp</th>
+        <th colspan="4" scope="colgroup">INDEMNIZACIONES</th>
+        <th rowspan="2" scope="col">Coste medio actualizado 2022 en euros</th>
+      </tr>
+      <tr>
+        <th colspan="2" scope="col">Nominales en euros</th>
+        <th colspan="2" scope="col">Actualizadas 2022 en euros</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Inundación por desbordamiento</td>
+        <td class="td-right">13.555</td>
+        <td class="td-right" colspan="2">162.038.541</td>
+        <td class="td-right">612.639.782</td>
+        <td class="td-right texto-rojo">72 %</td>
+        <td class="td-right">45.197</td>
+      </tr>
+      <tr>
+        <td>Embate mar</td>
+        <td class="td-right">6</td>
+        <td class="td-right" colspan="2">31.346</td>
+        <td class="td-right">118.515</td>
+        <td class="td-right texto-rojo">0 %</td>
+        <td class="td-right">19.753</td>
+      </tr>
+      <tr>
+        <td>Huracán</td>
+        <td class="td-right">237</td>
+        <td class="td-right" colspan="2">304.368</td>
+        <td class="td-right">1.150.763</td>
+        <td class="td-right texto-rojo">0 %</td>
+        <td class="td-right">4.856</td>
+      </tr>
+      <tr>
+        <td>Lluvia</td>
+        <td class="td-right">16.959</td>
+        <td class="td-right" colspan="2">58.917.924</td>
+        <td class="td-right">222.758.512</td>
+        <td class="td-right texto-rojo">26 %</td>
+        <td class="td-right">13.135</td>
+      </tr>
+      <tr>
+        <td>Nieve</td>
+        <td class="td-right">5</td>
+        <td class="td-right" colspan="2">136.531</td>
+        <td class="td-right">516.200</td>
+        <td class="td-right texto-rojo">0 %</td>
+        <td class="td-right">103.240</td>
+      </tr>
+      <tr>
+        <td>Pedrisco</td>
+        <td class="td-right">247</td>
+        <td class="td-right" colspan="2">453.407</td>
+        <td class="td-right">1.714.254</td>
+        <td class="td-right texto-rojo">0 %</td>
+        <td class="td-right">6.940</td>
+      </tr>
+      <tr>
+        <td>Corrimiento tierra</td>
+        <td class="td-right">4</td>
+        <td class="td-right" colspan="2">16.472</td>
+        <td class="td-right">62.279</td>
+        <td class="td-right texto-rojo">0 %</td>
+        <td class="td-right">15.570</td>
+      </tr>
+      <tr>
+        <td>Terrorismo</td>
+        <td class="td-right">1.041</td>
+        <td class="td-right" colspan="2">2.592.656</td>
+        <td class="td-right">9.802.384</td>
+        <td class="td-right texto-rojo">1 %</td>
+        <td class="td-right">94.16</td>
+      </tr>
+      <tr style="font-weight: bold;">
+        <td>Total año 1983</td>
+        <td class="td-right">32.054</td>
+        <td class="td-right" colspan="2">224.491.246</td>
+        <td class="td-right">848.762.688</td>
+        <td class="td-right">100 %</td>
+        <td class="td-right texto-rojo">26.479</td>
+      </tr>
+    </tbody>
+  </table>
+
+  {{ if .Get "caption" }}
+    <div class="table-caption">
+      {{ .Get "caption" | markdownify }}
+    </div>
+  {{ end }}
+</div>
