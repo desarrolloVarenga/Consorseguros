@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Nº 18 Spring 2023 on My New Hugo Project</title>
+		<link>http://localhost:1313/en/revistas/numero-18/</link>
+		<description>Recent content in Nº 18 Spring 2023 on My New Hugo Project</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/en/revistas/numero-18/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Editorial</title>
+				<link>http://localhost:1313/en/revistas/numero-18/editorial/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-18/editorial/</guid>
+				<description>We devote this eighteenth issue of Consorcio de Compensación de Seguros&amp;rsquo; (CCS&amp;rsquo;) on-line magazine to review some current topics that we deem relevant for the insurance industry.</description>
+			</item>
+			<item>
+				<title>Digital applications: use in natural disaster management</title>
+				<link>http://localhost:1313/en/revistas/numero-18/aplicaciones_digitales/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-18/aplicaciones_digitales/</guid>
+				<description>New technologies are entering our daily lives every year. The use of these technologies has crystallised as a form of change that has turned society on its head in just a short span of time and will continue to do so.</description>
+			</item>
+			<item>
+				<title>Importance of computational modelling and risk forecasting in cardiovascular disease prevention to reduce morbidity, mortality, and health insurance claim rates</title>
+				<link>http://localhost:1313/en/revistas/numero-18/modelizacion_computacional/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-18/modelizacion_computacional/</guid>
+				<description>The different forms of computational science, whether descriptive, diagnostic, predictive, prescriptive, or preventive, are helpful in creating predictive models based on regression techniques.</description>
+			</item>
+	</channel>
+</rss>

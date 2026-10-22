@@ -27,5 +27,47 @@
 				<guid>http://localhost:1313/revistas/numero-19/analisis_documentacion_historica/</guid>
 				<description>En este artículo se va a tratar de recopilar y ordenar la información disponible en los archivos y documentos del CCS de aquella época en lo que se refiere a resultados económicos de este evento para dejar constancia de este episodio y que esta información quede disponible.</description>
 			</item>
+			<item>
+				<title>40 años de las inundaciones de 1983</title>
+				<link>http://localhost:1313/revistas/numero-19/inundaciones_1983/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-19/inundaciones_1983/</guid>
+				<description>La que hoy denominaríamos DANA (depresión aislada en niveles altos de la atmósfera) no es frecuente en la zona norte de España, pero entonces, proveniente del este, arrastró grandes masas de aire muy frío que provocaron las abundantísimas lluvias.</description>
+			</item>
+			<item>
+				<title>Análisis de la situación meteorológica que ocasionó las inundaciones de agosto de 1983 en el País Vasco</title>
+				<link>http://localhost:1313/revistas/numero-19/analisis_situacion_meteorologica/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-19/analisis_situacion_meteorologica/</guid>
+				<description>El análisis de la situación meteorológica que causó este episodio, junto con la que causó también muy graves inundaciones en Levante en 1982, resultó crucial para la meteorología española.</description>
+			</item>
+			<item>
+				<title>Las avenidas de agosto de 1983 en Euskadi: hechos y enseñanzas</title>
+				<link>http://localhost:1313/revistas/numero-19/portada_avenidas_agosto/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-19/portada_avenidas_agosto/</guid>
+				<description>La creciente, intensa e imprudentísima ocupación del territorio de las vegas inundables durante buena parte del siglo XX y, también, pero en segundo lugar, que lo que llovió en agosto de 1983 realmente fue un disparate, convirtieron el episodio en un infierno para el que las tecnologías predictivas, de comunicación y de operatividad del momento no estaban preparadas.</description>
+			</item>
+			<item>
+				<title>Representación espacio-temporal de los siniestros de riesgos extraordinarios por causas naturales</title>
+				<link>http://localhost:1313/revistas/numero-19/representacion_espacio_temporal/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-19/representacion_espacio_temporal/</guid>
+				<description>Este trabajo hace un análisis de la componente geográfica y temporal de los datos de indemnizaciones y de exposición de bienes asegurados de forma combinada.</description>
+			</item>
+			<item>
+				<title>Las bicicletas eléctricas no son vehículos a motor Comentario de la sentencia del Tribunal de Justicia de la Unión Europea, de 12 de octubre de 2023. Asunto C-286/22</title>
+				<link>http://localhost:1313/revistas/numero-19/bicicletas/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-19/bicicletas/</guid>
+				<description>Esta cuestión está dando lugar a una jurisprudencia ciertamente contradictoria con respecto al criterio de atribución de responsabilidad civil de los usuarios, así como de los propietarios y arrendadores de este tipo de vehículos.</description>
+			</item>
+			<item>
+				<title>Reseña de Disaster Insurance Reimagined</title>
+				<link>http://localhost:1313/revistas/numero-19/rese%C3%B1a/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-19/rese%C3%B1a/</guid>
+				<description>Disaster Insurance Reimagined (Reimaginando el seguro de catástrofes) es un oportuno libro, escrito por Paula Jarzabkowski, Konstantinos Chalkias, Eugenia Cacciatori y Rebecca Bednarek, disponible en acceso abierto, que aborda estas cuestiones sobre la base de un estudio de cinco años de 17 «Entidades para reducir la brecha de cobertura» (PGE, por sus siglas en inglés), entidades sin ánimo de lucro que ofrecen seguros en 49 países.</description>
+			</item>
 	</channel>
 </rss>

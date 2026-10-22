@@ -20,5 +20,54 @@
 				<guid>http://localhost:1313/en/revistas/numero-19/editorial/</guid>
 				<description>Last August marked the 40th anniversary of what today is still the highest loss event in the history of the Consorcio de Compensación de Seguros and extraordinary risk insurance, namely, the 1983 floods in the Basque Country.</description>
 			</item>
+			<item>
+				<title>Historical documentation on the August 1983 flooding in the Basque Country</title>
+				<link>http://localhost:1313/en/revistas/numero-19/analisis_documentacion_historica/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-19/analisis_documentacion_historica/</guid>
+				<description>In this article we shall therefore try to gather together and give some structure to the information available in CCS files and documentation from that era in regard to the economic fallout from the event, both to chronicle the episode and leave on record that this data remains accessible.</description>
+			</item>
+			<item>
+				<title>40 years after the 1983 floodings</title>
+				<link>http://localhost:1313/en/revistas/numero-19/inundaciones_1983/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-19/inundaciones_1983/</guid>
+				<description>What today is known as a cut-off low is not a common event in northern Spain, but at that time one swept in from the east pulling with it large masses of very cold air aloft that produced extremely heavy rains.</description>
+			</item>
+			<item>
+				<title>State of meteorology and weather conditions that led to the flooding in the Basque Country in August 1983</title>
+				<link>http://localhost:1313/en/revistas/numero-19/analisis_situacion_meteorologica/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-19/analisis_situacion_meteorologica/</guid>
+				<description>The analysis of the weather conditions that produced this event and the severe floods in Eastern Spain in 1982 proved to be a watershed moment for weather forecasting in Spain.</description>
+			</item>
+			<item>
+				<title>The August 1983 floods in the Basque Country: events and lessons</title>
+				<link>http://localhost:1313/en/revistas/numero-19/portada_avenidas_agosto/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-19/portada_avenidas_agosto/</guid>
+				<description>The heavy, ongoing and reckless settlement of floodplains throughout a good part of the twentieth century, secondarily intensified by the fact that a truly outlandish amount of rain fell in August 1983, made for a diabolical event that the weather forecasting, communications and operational technologies of the day were ill equipped to handle.</description>
+			</item>
+			<item>
+				<title>Geographical and temporal description of extraordinary risk loss data arising from natural causes</title>
+				<link>http://localhost:1313/en/revistas/numero-19/representacion_espacio_temporal/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-19/representacion_espacio_temporal/</guid>
+				<description>This paper conducts an analysis of the geographical and temporal component of the data on compensation pay-outs and exposure of property items insured in combination.</description>
+			</item>
+			<item>
+				<title>Electric cycles are not motor vehicles Comment on the judgment by the Court of Justice of the European Union of 12 October 2023. Case C-286/22</title>
+				<link>http://localhost:1313/en/revistas/numero-19/bicicletas/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-19/bicicletas/</guid>
+				<description>This issue is producing truly contradictory case law in regard to the criterion for attributing liability on the part of riders, as well as the owners and lessors of this sort of vehicle.</description>
+			</item>
+			<item>
+				<title>Review of Disaster Insurance Reimagined</title>
+				<link>http://localhost:1313/en/revistas/numero-19/rese%C3%B1a/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-19/rese%C3%B1a/</guid>
+				<description>Disaster Insurance Reimagined is a timely book, available in open access, written by Paula Jarzabkowski, Konstantinos Chalkias, Eugenia Cacciatori and Rebecca Bednarek, that addresses these questions on the basis of a five-year study of 17 &amp;lsquo;Protection Gap Entities&amp;rsquo; (PGEs) - not-for-profit entities that provide insurance in 49 countries.</description>
+			</item>
 	</channel>
 </rss>

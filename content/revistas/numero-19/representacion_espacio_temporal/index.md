@@ -1,0 +1,190 @@
+---
+title: "Representación espacio-temporal de los siniestros de riesgos extraordinarios por causas naturales"
+category: "Colaboraciones"
+pdf_download: "/pdf/num22/editorial.pdf"
+sidebar_image: "/images/numero-19/portada_representación-espacio-temporal.jpg"
+sidebar_text: "La relación entre los valores de costes de indemnizaciones, los bienes asegurados y los eventos naturales causantes de siniestros que se dan en el territorio muestra diversas características según la escala o el detalle de agregación con el que son observadas."
+weight: 6
+image: "/images/numero-19/portada_representación-espacio-temporal.jpg"
+summary: "Este trabajo hace un análisis de la componente geográfica y temporal de los datos de indemnizaciones y de exposición de bienes asegurados de forma combinada."
+authors:
+    - name: "Francisco Espejo Gil"
+    - name: "Urko Elosegi Gurmendi"
+    - institution: "Subdirección de Estudios y Relaciones Internacionales"
+    - institution: "Consorcio de Compensación de Seguros"
+---
+## Introducción y contexto
+El seguro es una de las fuentes de información más detalladas y exactas que se pueden utilizar para hacer análisis de riesgos catastróficos. De forma general, en la mayoría de los países existe un problema de disponibilidad de datos, normalmente dispersos entre las decenas o los centenares de aseguradoras que suelen operar en un mercado dado que, en ocasiones, tienen también problemas de confidencialidad o de políticas comerciales para ponerlos a disposición de los investigadores. Otro problema es la propia disponibilidad y la demanda (y contratación) de este producto. El caso general, en la gran mayoría de las jurisdicciones, es una contratación separada y voluntaria de pólizas específicas para determinados riesgos catastróficos. Cabe suponer que las personas que desean contratar estas coberturas son aquellas que están más expuestas al peligro, por lo que se suele presentar un problema de selección adversa que se traduce en un coste elevado de las primas y, por tanto, en una menor penetración de este seguro, con lo que los datos son, no solo dispersos, sino sesgados y relativamente escasos.
+
+Solo unos pocos países disponen de mecanismos regulatorios del mercado asegurador que facilitan la mutualización de determinados peligros, eliminando así el problema de la selección adversa, reduciendo el coste de las primas y maximizando la penetración del seguro. Uno de esos países es España, en el que es obligatorio extender la cobertura de casi todos los seguros de bienes a una serie de «riesgos extraordinarios», entre los que se incluyen la inundación, las tempestades de viento o determinados riesgos geológicos, como el terremoto, el maremoto y la erupción volcánica. Para este seguro de riesgos extraordinarios se aplica un recargo en las pólizas que se contratan con cualquier aseguradora privada que opere en el mercado español y que sirve para que una aseguradora pública, el Consorcio de Compensación de Seguros (CCS), indemnice los daños causados por esos peligros en todos los bienes asegurados. De esta forma, en España existe una situación comparativamente mucho más favorable para el estudio de estos riesgos naturales a partir de los datos de daños asegurados porque:
+
+1. La inmensa mayoría de los bienes asegurados lo están automáticamente contra los riesgos extraordinarios, eliminando la brecha de protección presente en otros países de nuestro entorno.
+2. Las indemnizaciones por este peligro son responsabilidad de una sola entidad, el Consorcio de Compensación de Seguros, que dispone de una larga serie de datos detallados de indemnizaciones por riesgos extraordinarios.
+
+Entre los objetivos del CCS se encuentra la promoción de la prevención y la reducción de los riesgos, mediante la colaboración con otras instituciones y la realización de actividades que contribuyan a minimizar los efectos de los eventos catastróficos. Sin duda, los datos de siniestralidad del CCS son una fuente extremadamente útil para lograr estos objetivos complementarios.
+
+## Metodología
+Este trabajo hace un análisis de la componente geográfica y temporal de los datos de indemnizaciones y de exposición de bienes asegurados de forma combinada. Estas dos informaciones provienen de distintos sistemas de información dentro del CCS y muestran distintas estructuras y características en origen.
+
+### Determinación de las componentes geográficas del análisis
+La relación entre los valores de costes de indemnizaciones, los bienes asegurados y los eventos naturales causantes de siniestros que se dan en el territorio muestra diversas características según la escala o el detalle de agregación con el que son observadas.
+
+La información operativa obrante en el CCS incluye, entre otros, el dato geográfico de código postal y municipio de las tramitaciones. El código postal establecido en España permite un análisis de área pequeña que aporta, especialmente en territorios altamente poblados, una significativa mejora del detalle que ofrece el dato a nivel municipal, permitiendo una segmentación más precisa de la información y un entendimiento más profundo de las características y necesidades de diferentes áreas dentro de esos municipios. El código postal puede funcionar, en procesos de tratamiento de datos geográficos, como un agregador que posibilita posicionar información cumpliendo las regulaciones de protección de datos personales. Es además un dato comúnmente recopilado e integrado en la actividad de múltiples sectores, como el sector asegurador, siendo ampliamente empleado en la elaboración de estudios de mercado (Sereno, 2009).
+
+Partiendo de la asignación de código postal y municipio con la que cuenta cada una de las tramitaciones de indemnización y del dato de estimación de capitales por código postal que provee el Sistema de Información de Recargos (SIR), sistema aplicado desde el año 2019 y en virtud del cual las aseguradoras informan al CCS del código postal donde se localizan todos sus riesgos asegurados sujetos al recargo de riesgos extraordinarios, se pueden vincular a todos los ámbitos supramunicipales que conforman distintos grados de agregación equivalentes a los niveles administrativos de España y de la Unión Europea, produciendo valiosos datos para facilitar la planificación y toma de decisiones, con el objetivo de diseñar estrategias altamente eficaces que impulsen iniciativas de gestión para conocer y reducir riesgos.
+
+### Transformación y modelado del dato
+La vinculación de datos de indemnizaciones y exposición por código postal, municipio, provincia, comunidad autónoma, demarcación hidrográfica, o los ámbitos estadísticos europeos NUTS1, 2 y 3 exige aplicar procesos de limpieza de datos y transformaciones a cada una de las dos fuentes de forma individualizada para, en último término, proceder a la unión de ámbitos geográficos, agregación y cálculo de variables de análisis.
+
+El modelado de la dimensión temporal ha consistido en caracterizar cada tramitación en base a la estación del año hidrometeorológico según la fecha de ocurrencia, identificando si sucedió en primavera (marzo, abril, mayo), verano (junio, julio, agosto), otoño (setiembre, octubre, noviembre) o invierno (diciembre, enero, febrero). Dicha «estacionalización» habilita la observación de los siniestros vinculados a fenómenos hidrometeorológicos de un modo fácilmente reconocible por el lector.
+
+Para su análisis espacial y representación gráfica, los datos de todos los ámbitos administrativos deben identificarse con los mismos códigos unívocos que proveen las autoridades publicadoras(1) de las capas geográficas utilizadas, por lo que resulta indispensable realizar procesos adicionales de verificación, normalización, y mejora de la información que posibilite dicha combinación para todo el ámbito de actuación del CCS(2).
+
+### Selección del periodo y mejora de la calidad del dato agregado
+El CCS cuenta con datos históricos de las indemnizaciones compensadas que se remontan a los inicios de la actividad de la entidad. Sin embargo, la información de tramitaciones individualizadas comenzó a gestionarse en formato digital en 1996, creando un histórico que posibilita un óptimo tratamiento y análisis de los últimos 27 años de actividad operativa.
+
+El análisis de la información individualizada revela un cierto número de registros con valores que han podido escribirse de forma errónea desde el origen. Esto sucede en algunas variables territoriales, las cuales son sujeto de geoprocesamiento en este estudio, como el código postal. Al ser este un dato normalmente aportado por las personas que contratan un seguro o solicitan una indemnización por siniestro, ocasionalmente se dan casos en los que el usuario indica el código postal que cree correcto, pero este resulta inexacto. La base de datos cuenta con expedientes no directamente asignables a códigos postales existentes, pero susceptibles de pertenecer a la misma provincia, comunidad autónoma o toda delimitación administrativa de superior rango. Es el caso de los códigos que, teniendo los dos primeros dígitos (que identifican la provincia), terminan en triple cero, como '10000', '28000', '35000'. Se trata de códigos postales no válidos según el sistema de codificación postal español actual. Identificando estos casos como errores de escritura, y únicamente con el objetivo de preservar la compleción de la información de las sumas dinerarias en los ámbitos de rango provincial o superior y dotando al conjunto de datos de una robustez estadística completa para los agregados supramunicipales, proponemos la aplicación de un proceso de normalización de códigos postales que implica identificarlos con el código postal correcto «más cercano» para la ubicación en cuestión, aplicando el criterio de sumar los costes de siniestros de aquellos registros no válidos, pero con código postal identificable en la misma provincia al más cercano terminado en 1, normalmente localizado en el centro de la capital de provincia. 
+
+Esto permite, en los datos de costes de siniestros, que unos 120 millones de euros, de los cerca de los casi 8.500 millones de euros que suman todas las indemnizaciones por causas naturales en España en el periodo entre 1996 y 2022, sean reasignados a partir del nivel de provincia, asignando una localización geográfica adicional a un total de 22.952 tramitaciones de 1.533.892 (1,49 %).
+
+Aplicando el mismo criterio en los datos de bienes asegurados, se consigue reincorporar a las sumas a partir del nivel de provincia cerca de 1.200 millones de euros de los casi 6,5 billones de euros que se estima que suman todos los capitales asegurados en España a 31 de diciembre de 2022, pudiendo determinar la localización adicional de un total de 7.361 pólizas de 60.651.203 (0,01 %).
+
+### Causas y ámbitos agregados: Geodatos resultantes
+El conjunto de datos transformados y homogeneizados por ámbitos permite su filtrado por el tipo de causa que se desee observar. Para el estudio que presentamos en este número de la revista hemos observado el efecto de las inundaciones, los embates de mar y las causas geológicas como terremotos, maremotos y erupciones volcánicas para el periodo histórico completo entre 1996 y 2022 y también el efecto de las tempestades ciclónicas atípicas (TCA) en los últimos 11 años. La razón de estos periodos temporales diferentes radica en que mientras para la inundación (fluvial y pluvial) y el embate de mar (la inundación costera) se ha aplicado el mismo criterio para la cobertura desde 1996, para la TCA (tempestades de viento muy fuerte) se ha variado el umbral de cobertura a lo largo de estos años, siendo homogéneo para el periodo 2012-2022, que es el que se estudia en detalle aquí.
+
+Como resultado de la unión y agregación de todas las tablas preprocesadas se obtienen tablas de información alfanumérica compatibles para unir con sus respectivas capas de geometrías, pudiendo visualizar mapas temáticos en base a los siguientes campos de atributos:
+
+{{< tabla caption="Tabla 1. Diccionario de datos de las tablas del histórico de estimaciones de costes de siniestros y capital asegurado según causas y ámbitos administrativos españoles. Nota: La causa TCA (Tempestad ciclónica atípica) comprende el periodo 2012- 2022. Fuente: CCS." >}}
+| Columna | Descripción |
+| :--- | :--- |
+| ID | Identificador de la unidad de ámbito. |
+| numero_siniestros | Número total de siniestros (Serie 1996-2022). |
+| coste_total | Indemnización en daños a los bienes por código postal indistintamente de la clase de riesgo (Serie 1996-2022). |
+| coste_viviendas | Indemnización en daños a los bienes por código postal en la clase de riesgo viviendas y comunidades de propietarios de viviendas (Serie 1996-2022). |
+| coste_vehiculos | Indemnización en daños a vehículos con matrícula española por código postal del domicilio del siniestro (Serie 1996-2022). |
+| coste_resto | Indemnización en daños a los bienes por código postal en las clases de riesgo oficinas, riesgos comerciales, industriales, infraestructuras y resto (Serie 1996-2022). |
+| numero_de_polizas | Número de pólizas vigentes válidas a 31-12-2022. |
+| total_capitales | Valor en euros del total de los capitales asegurados en daños a los bienes por código postal indistintamente de la clase de riesgo a 31-12-2022. |
+| capital_viviendas | Valor en euros de los capitales asegurados en daños a los bienes por código postal en la clase de riesgo viviendas y comunidades de propietarios de viviendas a 31-12-2022. |
+| capital_vehiculos | Estimación del valor en euros de los vehículos con matrícula española por código postal del domicilio del tomador a 31-12-2022. |
+| capital_resto | Valor en euros de los capitales asegurados en daños a los bienes por código postal en las clases de riesgo oficinas, riesgos comerciales, industriales, infraestructuras y resto a 31-12-2022. |
+| dt_primavera | Indemnización en daños a los bienes en periodo primaveral (marzo, abril y mayo) por código postal indistintamente de la clase de riesgo (Serie 1996-2022). |
+| dt_verano | Indemnización en daños a los bienes en periodo veraniego (junio, julio y agosto) por código postal indistintamente de la clase de riesgo (Serie 1996-2022). |
+| dt_otonno | Indemnización en daños a los bienes en periodo otoñal (septiembre, octubre y noviembre) por código postal indistintamente de la clase de riesgo (Serie 1996-2022). |
+| dt_invierno | Indemnización en daños a los bienes en periodo invernal (diciembre, enero y febrero) por código postal indistintamente de la clase de riesgo (Serie 1996-2022). |
+| est_max_dt | Periodo estacional con máxima indemnización en daños a los bienes por código postal indistintamente de la clase de riesgo (Serie 1996-2022). |
+| prop_max_dt | Valor proporcional respecto al total del periodo estacional con máxima indemnización en daños a los bienes por código postal indistintamente de la clase de riesgo (Serie 1996-2022). |
+| tasa_siniestralidad | Euros/año indemnizados por euro asegurado a 31-12-2022. |
+| tasa_sini_millon_aseg | Euros/año indemnizados por cada millón de euros asegurado a 31-12-2022. |
+{{< /tabla >}}
+
+## Resultados
+Si bien la información de origen tiene una resolución de código postal, de cara a la presentación de resultados de este trabajo, optaremos por una agregación por municipio, que resulta más intuitiva para el lector. En ocasiones agregaremos la información por provincias o por comunidades autónomas.
+
+La exposición de bienes asegurados por municipio mostrada en la figura 1 refleja extraordinariamente bien la estructura poblacional de España, con gran valor asegurado en la costa y en los valles del Guadalquivir y del Ebro, así como en Madrid y su zona de influencia. Los mínimos (gran cantidad de municipios que no alcanzan los 100 millones de euros en capital asegurado –acumulando viviendas, industrias, comercios, infraestructuras y automóviles–) aparecen en Castilla-León, la Ibérica aragonesa y castellano-manchega, el Prepirineo y otras zonas de montaña del interior peninsular.
+
+{{< figura src="/images/numero-19/Figura%2001_M_capitales_cBarras.jpg" caption="Figura 1. Capital asegurado en bienes (residenciales, comerciales, industriales, infraestructuras y automóviles) por término municipal a fecha 31 de diciembre de 2022." source="" >}}
+
+Agregando en la figura 2 esta información por comunidades autónomas, sólo dos, Cataluña y la Comunidad de Madrid, superan el billón de euros en capital asegurado; Andalucía y la Comunidad Valenciana están en el tramo entre los 500.000 millones y el billón de euros en capital asegurado. Las ciudades autónomas de Ceuta y Melilla son, lógicamente, las que menos capital asegurado tienen; Cantabria y La Rioja están en el grupo de entre 10.000 y 100.000 millones de capital asegurado y todas las demás comunidades están entre los 100.000 y 500.000 millones de euros. Como hemos indicado anteriormente, el capital asegurado total es del orden de los 6,5 billones de euros.
+
+{{< figura src="/images/numero-19/Figura%2002_A_capitales.jpg" caption="Figura 2. Capital asegurado en bienes (residenciales, comerciales, industriales, infraestructuras y automóviles) por comunidad autónoma a fecha 31 de diciembre de 2022." source="URA" >}}
+
+En cuanto a la siniestralidad por las causas naturales consideradas (inundación, embate de mar, viento y causas geológicas), la media anual de indemnizaciones a lo largo de ese periodo 1996-2022 se representa en la figura 3. Se aprecia una doble dependencia de la exposición (hay más indemnizaciones en municipios más grandes, como Barcelona, Madrid o Valencia) y del peligro (caso de Lorca, por ejemplo), pero en general, en aquellos municipios que destacan por el total de indemnizaciones (como Málaga, San Sebastián, Murcia o Córdoba) es la conjunción de ambos factores la responsable de una elevada media anual de indemnizaciones.
+
+{{< figura src="/images/numero-19/Figura%2003_M_cnat_indemni.jpg" caption="Figura 3. Media anual indemnizada por municipio por las causas naturales consideradas en el estudio (inundación extraordinaria, embate de mar, tempestad ciclónica atípica, terremoto, maremoto y erupción volcánica)." source="" >}}
+
+Para evitar la distorsión que producen las zonas con exposición (capitales asegurados) alta, procederemos en lo sucesivo a hacer el análisis a nivel municipal a partir de la división entre la media anual de las indemnizaciones anuales y la exposición anual del año 2022, lo que nos dará una tasa de siniestralidad de euros indemnizados al año por municipio por cada millón de euros asegurados en él. Somos conscientes de que estamos comparando una media de daños a lo largo de 27 años con la exposición de un año concreto (2022). Es obvio que, dado que la exposición a lo largo de ese periodo se ha multiplicado por 3, los daños han debido seguir una lógica similar (que se comprueba con el agregado total de los datos). O sea, estamos infrarrepresentando aquellas siniestralidades más antiguas y esto puede tener un reflejo en las conclusiones finales, aunque también es cierto que ese crecimiento se produjo de forma muy rápida entre 1996 y 2010, en el que el capital asegurado subió, en euros constantes de 2022, de 2,24 billones a 5,41 billones. Entre 2011 y 2022, cuando se alcanzó un capital asegurado de 6,46 billones de euros, este crecimiento se moderó, por lo que la exposición en grandes eventos, como el terremoto de Lorca de 2011 o las danas de 2012 o 2019, puede considerarse relativamente estable. En cuanto a los totales, el 51 % del total de los daños, se recuerda que en euros constantes, se ha producido en estos últimos 12 años, sobre el total de los 27 considerados en el estudio.
+
+### Inundación extraordinaria (inundación fluvial y pluvial)
+La figura 4 muestra la cantidad media anual en euros indemnizada por cada millón de euros asegurado por término municipal por causa de inundación fluvial y pluvial, lo que refleja una tasa de siniestralidad relativamente independiente de la acumulación de la exposición. Las zonas con tasas más altas de siniestralidad por inundación se localizan, en general, a lo largo de las costas, en los tramos centrales del Guadalquivir, Ebro y Guadiana y en las zonas de montaña media que presentan población.
+
+{{< figura src="/images/numero-19/Figura%2004_M_inun_tasa.jpg" caption="Figura 4. Tasa de siniestralidad (media anual de indemnizaciones [€]/capital asegurado [M€]) por causa de inundación extraordinaria, por término municipal." source="" >}}
+
+Más en concreto, el litoral mediterráneo levantino, desde el cabo de Gata hasta el delta del Ebro, junto con determinadas zonas de la Sierra de Tramuntana y el Llevant de la isla de Mallorca, así como la Costa Brava, presentan unas siniestralidades altas o muy altas. En algunas zonas, como el valle del Guadalentín, la Vega Baja del Segura o la cuenca del Mar Menor, estas tasas son extraordinariamente altas.
+
+En el litoral septentrional, las mayores tasas de siniestralidad se concentran en las Rías Bajas gallegas y en el Cantábrico central y oriental. Por cuanto a los valles de los grandes ríos, hay tasas de siniestralidad muy altas en determinados puntos del eje del Ebro y de sus principales afluentes, como el Arga o el Aragón, así como en la sección Córdoba-Sevilla del Guadalquivir y en la pacense del Guadiana.
+
+Aparece una característica interesante en las zonas de media montaña con población significativa, tanto en la cordillera Cantábrica (especialmente en la vertiente sur), el Prepirineo de Navarra, las cordilleras costeras catalanas, así como en Sierra Morena y los sistemas Béticos y Penibéticos (particularmente en la provincia de Málaga). Aparecen municipios con siniestralidades altas, muy altas y, en ocasiones extraordinariamente altas, resultado de inundaciones producidas en cursos con poco tiempo de respuesta en zonas llanas, de origen fluvial, muy construidas. Este es el mismo proceso que se presenta en las proximidades del estrecho de Gibraltar y, en general, en todas las zonas litorales manifestadas anteriormente.
+
+En cuanto a las islas Canarias, el extremo norte de Tenerife presenta siniestralidades muy altas y la tasa de siniestralidad es significativa en el suroeste de Gran Canaria y de Fuerteventura.
+
+{{< figura src="/images/numero-19/Figura%2005_M_inun_estacion.jpg" caption="Figura 5. Estacionalidad de la mayor frecuencia de daños por inundación y municipio." source="" >}}
+
+La estacionalidad del peligro de inundación se representa en la figura 5. Este mapa no representa la estación del año en la que llueve más, sino la estación en la que el CCS registra el máximo de siniestros por inundación, que no tienen por qué coincidir. Los máximos daños por inundación en otoño se concentran a lo largo de todo el litoral mediterráneo y Baleares, aunque también tienen presencia en otras zonas como las Béticas entre Córdoba y Málaga y el oeste de Extremadura. Sin duda, los efectos de las danas tienen una importancia clara en esta configuración espacial.
+
+Los máximos invernales se dan en las zonas abiertas a los flujos atlánticos y son el resultado del paso de borrascas en esta estación: Galicia, la cordillera Cantábrica, especialmente en su cara sur, el Sistema Central, los Montes de Toledo, Sierra Morena y grandes áreas de la cuenca del Guadalquivir, así como la zona del Estrecho, incluyendo las cuencas de los principales ríos malagueños. Estos flujos, por lo general del oeste o suroeste, acumulan grandes precipitaciones sobre estas orientaciones que se traducen en inundaciones y daños.
+
+La primavera es, en general, la estación en la que menos inundaciones se producen (y destacamos aquí la diferencia entre mayor acumulación de precipitación y mayor intensidad de las mismas, que es la que produce las inundaciones). Las inundaciones primaverales únicamente predominan en zonas dispersas del interior.
+
+Los máximos estivales aparecen en zonas del interior, como la Comunidad de Madrid, la Ibérica y también, lo que puede ser menos intuitivo, en el Pirineo Central y a lo largo de la costa cantábrica. De nuevo es relevante la diferencia entre cantidad de precipitación acumulada, que por ejemplo en la costa cantábrica es mayor en invierno, y precipitaciones muy intensas en poco tiempo, con origen convectivo, que causan daños.
+
+### Embate de mar (inundación costera)
+Interpretando el reglamento de riesgos extraordinarios, el embate de mar se define como el anegamiento del terreno producido por el mar o las rías o por la acción del oleaje sobre elementos situados sobre tierra firme. La totalidad de los daños por inundación costera no es muy grande en comparación con los daños por inundación extraordinaria (es del orden del 4 % de los primeros) pero, de su representación espacial pueden obtenerse algunas conclusiones interesantes, que se representan en la figura 6. Las tasas de siniestralidad (recordamos que no hablamos aquí de daños absolutos, sino de daños producidos frente a la exposición) son más altos en el golfo de Vizcaya y en la Costa Brava. En general, tienden a ser mayores en el Cantábrico oriental, con municipios como Bermeo (Bizkaia) con siniestralidades altas, y en el Mediterráneo al norte del cabo de la Nao, donde algunos municipios, como Colera y Portbou, en Girona, presentan altas tasas de siniestralidad. Lo mismo sucede en Sant Adriá de Besós (Barcelona), Peñíscola (Castellón) y en Escorca y Santa Margalida en Mallorca.
+
+Sin embargo, las tasas más altas de siniestralidad por embate de mar se dan en Canarias, con Valverde, en El Hierro, y Garachico, en Tenerife, marcando los máximos. En este caso suelen estar relacionados con episodios de mar de fondo con oleaje de grandes dimensiones que intercepta estas exposiciones del archipiélago.
+
+
+{{< figura src="/images/numero-19/Figura%2006_M_embate_tasa.jpg" caption="Figura 6. Tasa de siniestralidad por embate de mar por municipio." source="" >}}
+
+La estacionalidad de los daños por embate de mar se representa en la figura 7. En general, la mayor frecuencia se da en invierno en las costas gallegas y cantábricas, así como en Cataluña y en Canarias. Los máximos primaverales destacan en el litoral andaluz y en otoño en buena parte del litoral de Levante (aunque la provincia de Alicante y algunas zonas del norte de la de Valencia presentan máximos invernales, así como en el norte de Ibiza, el oeste de Mallorca y en Ciutadella y Maó en Menorca).
+
+{{< figura src="/images/numero-19/Figura%2007_M_embate_estacion.jpg" caption="Figura 7. Estacionalidad de la mayor frecuencia de los daños por embate de mar y municipio." source="" >}}
+
+Tempestad ciclónica atípica (tempestades de viento muy fuerte)
+El CCS indemniza daños por viento muy fuerte cuando estos presentan sobre un municipio una racha superior a 120 km/h en 3 segundos o cuando estos se manifiestan en forma de tornado. Estos umbrales de cobertura se establecieron en el año 2011, por lo que la serie estudiada en esta sección se refiere al periodo comprendido entre los años completos de 2012 a 2022, en los que se han mantenido estos criterios. Desde 1996 a 2011 se aplicaron dos umbrales y criterios de cobertura diferentes (ver artículo de Vilares y Asensio en el número 16 de esta revista digital), ampliando cada vez más las coberturas del CCS, por lo que son periodos no comparables y los excluimos de esta parte del estudio.
+
+{{< figura src="/images/numero-19/Figura%2008_M_tca_tasa.jpg" caption="Figura 8. Tasa de siniestralidad por tempestad ciclónica atípica y municipio." source="" >}}
+
+En la figura 8 se aprecia con claridad cómo las tasas de siniestralidad por este peligro son mayores en zonas muy concretas: Galicia y el Cantábrico occidental, la cordillera Cantábrica, prolongándose las zonas de alta siniestralidad por el sistema Ibérico y Central, aunque de forma más aislada, así como el sistema Bético y Penibético más oriental, incluyendo aquí a las islas Baleares. Otras zonas de montaña, como las cordilleras costeras catalanas y, de forma más aislada, los Pirineos, también presentan siniestralidades relativamente altas. En las islas Canarias las mayores tasas de siniestralidad se dan en las islas más occidentales, particularmente en zonas más abiertas al noroeste. En zonas llanas, por ejemplo en el valle del Ebro o en puntos de la Meseta Sur o incluso del valle del Guadalquivir, también se dan algunos puntos de altas tasas de siniestralidad, aunque alguno de ellos puede deberse a episodios concretos que afectasen instalaciones de alto valor, como parques eólicos u otras instalaciones energéticas e industriales, que pueden dar valores relativos muy altos en comparación con la escasa exposición de sus municipios.
+
+En pocos peligros hay una estacionalidad más marcada. La figura 9 muestra que, en general, los daños por viento se producen en invierno, como resultado del paso de borrascas de alto impacto o de procesos de ciclogénesis, salvo zonas muy concretas, por ejemplo el centro y sur de la Comunidad de Madrid y el eje de Ebro, donde los daños por viento están asociados a procesos convectivos estivales. En otras zonas más dispersas del tercio sur la máxima frecuencia de daños por viento se produce en otoño, asociados a la presencia de danas.
+
+{{< figura src="/images/numero-19/Figura%2009_M_tca_estacion.jpg" caption="Figura 9. Estacionalidad de la mayor frecuencia de los daños por tempestad ciclónica atípica y municipio." source="" >}}
+
+### Peligros geológicos
+Los peligros geológicos cubiertos en el seguro de riesgos extraordinarios son el terremoto (el más frecuente), el maremoto (en el periodo considerado solo se indemnizó uno, con muy pocos daños, en 2003) y la erupción volcánica que, igualmente solo supuso indemnizaciones en una ocasión, en la conocida erupción del macizo de Cumbre Vieja, de La Palma, en 2021. No tiene sentido hablar de estacionalidad en estos peligros, pero sí podemos hacer una representación espacial de la tasa de siniestralidad, con las distorsiones evidentes producidas por los dos episodios de mayor intensidad y daños: el terremoto de Lorca en 2011 y la mencionada erupción de La Palma. Estos datos se representan en la figura 10.
+
+{{< figura src="/images/numero-19/Figura%2010_M_geolo_tasa.jpg" caption="Figura 10. Tasa de siniestralidad por peligros geológicos y municipio." source="" >}}
+
+Obviamente, las mayores tasas por terremoto se concentran en el suroeste de la Región de Murcia, afectado por el sismo de Lorca el 11 de mayo de 2011, pero también por otros como el de Mula en 1999 o el de La Paca en 2002. Otras zonas donde se aprecia siniestralidad sísmica relevante es la Vega de Granada, afectada por el enjambre sísmico de 2021, la Ciudad Autónoma de Melilla, con un evento importante en 2016, u otras zonas con menor intensidad pero relativa frecuencia como el tercio norte de Navarra, el Ripollés en Girona o el área de Becerreá-Ancares en Lugo.
+
+La erupción volcánica de Cumbre Vieja en La Palma dejó su impronta en términos de muy altas tasas de siniestralidad en los municipios de El Paso, Los Llanos de Aridane y Tazacorte, directamente afectados por la erupción, pero también por el resto de los municipios de los dos tercios meridionales de la isla, afectados por cenizas y sismos relacionados con el proceso eruptivo.
+
+### Máxima frecuencia de peligros por municipio
+Dentro de la filosofía del seguro de riesgos extraordinarios está la compensación, que aparece en el nombre de nuestra entidad, entre distintos peligros que tienen una manifestación mayor o menor en distintas áreas geográficas. La figura 11 representa cuál es el peligro que causa más daños a lo largo del periodo estudiado en cada municipio. Al igual que en la totalidad de los daños indemnizados por el CCS, en los que la inundación supone 2 de cada 3 euros indemnizados, en la representación espacial domina la inundación en grandes áreas del territorio nacional. Posiblemente sea más breve identificar las zonas en las que otros peligros (de los considerados en este estudio) son los que más daños producen proporcionalmente.
+
+
+{{< figura src="/images/numero-19/Figura%2011_M_causaprin.jpg" caption="Figura 11. Clasificación del máximo de daños por municipio según los peligros considerados en este estudio." source="" >}}
+
+El viento domina en la práctica totalidad de Galicia y en el occidente asturleonés. También predomina en el arco de municipios que cubre el sistema Central, el Ibérico y la cordillera Cantábrica, así como en buena parte de los municipios pirenaicos y de las cordilleras costeras catalanas. Los daños por viento también predominan en Mallorca, los sistemas Béticos más orientales y la isla de Tenerife, así como en algunas zonas del oeste y centro de la Meseta Sur. El embate de mar es el peligro más costoso en La Gomera y El Hierro, así como en municipios aislados del litoral catalán, vasco y cántabro.
+
+Los peligros geológicos dominan en el suroeste de Murcia, en la Vega de Granada, Melilla, la isla de La Palma, pero también en determinados municipios manchegos y en las citadas zonas pirenaicas y prepirenaicas, así como en algunos puntos del oeste en las provincias de Zamora y Cáceres.
+
+{{< figura src="/images/numero-19/Figura%2012_P_causaprin.jpg" caption="Figura 12. Máximos daños por provincia y distribución proporcional de los daños considerados en el periodo de estudio." source="" >}}
+
+Esta información se puede sintetizar a nivel provincial en la figura 12, donde se aprecia cómo en la inmensa mayoría de las provincias es la inundación el riesgo extraordinario que más daños causa, salvo La Coruña, Lugo, Orense, Burgos, Álava, Segovia y Soria, que tienen sus máximos por viento, y Murcia, Santa Cruz de Tenerife y la Ciudad Autónoma de Melilla, cuyos máximos daños han sido producidos en el periodo estudiado por peligros geológicos.
+{{< destacado-rojo >}}
+### Conclusiones
+A partir de datos meramente económicos, capitales asegurados e indemnizaciones del seguro de riesgos extraordinarios para los peligros de origen natural considerados en el mismo, hemos sido capaces de extraer determinadas características relacionadas con procesos atmosféricos y su estacionalidad o con procesos geológicos, lo que revela la elevada importancia del caudal de datos atesorado por el CCS en sus funciones aseguradoras como punto de partida para llevar a cabo otra de sus funciones: aportar valor para el mayor conocimiento de los riesgos cubiertos de cara a su reducción.
+
+Este conocimiento es más importante, si cabe, en el presente contexto de crisis climática en el que se deberá actuar aún con más empeño en la reducción de la vulnerabilidad de los bienes expuestos ante una peligrosidad que aumenta.
+{{< /destacado-rojo>}}
+## Agradecimientos
+Gracias a la Subdirección Técnica y de Reaseguro del CCS, que ha recopilado, depurado y preparado los datos base para la realización de este estudio.
+
+{{< referencias >}}
+Consorcio de Compensación de Seguros, CCS (2023), Estimación de los capitales asegurados en daños a los bienes por código postal y clase de riesgo. Conjunto de datos. https://www.consorseguros.es/ambitos-de-actividad/seguros-de-riesgos-extraordinarios/mas-informacion/estadistica [Consultado el 1/12/2023].
+
+Consorcio de Compensación de Seguros, CCS (2023), Información sobre las indemnizaciones. Tramitaciones de RREE abiertas a 31-12-2022. [Consultado el 01/12/2023].
+
+Correos, Capa cartográfica de indicadores. Versión abril 2023. MAPA_CP_31_03_2023_CON_INDICADORES.shp [Consultado el 01/12/2023].
+
+Instituto Geográfico Nacional. Provincias. Información geográfica de referencia. Límites municipales, provinciales y autonómicos. Límites y unidades administrativas. Fecha 01/12/2023. Centro de Descargas CNIG.  https://centrodedescargas.cnig.es/CentroDescargas/buscadorCatalogo.do?codFamilia=02131. 
+
+Ministerio para la Transición Ecológica y el Reto Demográfico. Demarcaciones hidrográficas. Demarcaciones hidrográficas (ámbitos terrestre y marino). Periodo enero de 2022. Formato shapefile. Servicio de Descarga INSPIRE https://www.mapama.gob.es/app/descargas/descargafichero.aspx?f=Demarcaciones_a_terrestre_marino.zip [Consultado el 01/12/2023].
+
+Ministerio para la Transición Ecológica y el Reto Demográfico. Límites cartográficos de las confederaciones hidrográficas. Servicio de Descarga INSPIRE.
+https://www.mapama.gob.es/app/descargas/descargafichero.aspx?f=limites_cartograficos_de_las_confederaciones_hidrograficas.zip [Consultado el 01/12/2023].
+
+Sereno, A. (2009). La información geográfica en España: especial referencia a la cartografía catastral, CT Catastro 67, 50. http://www.catastro.minhap.gob.es/documentos/publicaciones/ct/ct67/3.pdf
+{{< /referencias >}}

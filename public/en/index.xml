@@ -15,6 +15,13 @@
 			<atom:link href="http://localhost:1313/en/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Editorial</title>
+				<link>http://localhost:1313/en/revistas/numero-18/editorial/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-18/editorial/</guid>
+				<description>We devote this eighteenth issue of Consorcio de Compensación de Seguros&amp;rsquo; (CCS&amp;rsquo;) on-line magazine to review some current topics that we deem relevant for the insurance industry.</description>
+			</item>
+			<item>
+				<title>Editorial</title>
 				<link>http://localhost:1313/en/revistas/numero-19/editorial/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/en/revistas/numero-19/editorial/</guid>
@@ -84,11 +91,25 @@
 				<description>Given an increasingly complex environment, insurance can keep being a tool adding resilience and sustainability, providing the own insurance schemes are so and are designed in such a way that the economic resilience they provide is added to the effort of other bodies, in a coordinated manner, to add physical resilience.</description>
 			</item>
 			<item>
+				<title>Historical documentation on the August 1983 flooding in the Basque Country</title>
+				<link>http://localhost:1313/en/revistas/numero-19/analisis_documentacion_historica/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-19/analisis_documentacion_historica/</guid>
+				<description>In this article we shall therefore try to gather together and give some structure to the information available in CCS files and documentation from that era in regard to the economic fallout from the event, both to chronicle the episode and leave on record that this data remains accessible.</description>
+			</item>
+			<item>
 				<title>The Floods Caused by the Cut-off Low in October–November 2024: The Greatest Challenge in the History of Extraordinary Risk Insurance</title>
 				<link>http://localhost:1313/en/revistas/numero-23/riesgos-extraordinarios/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/en/revistas/numero-23/riesgos-extraordinarios/</guid>
 				<description>On the night of 29 October, we watched in dismay – like all citizens of this country and the rest of the world – the drama unfolding across a large metropolitan area of Spain and other nearby regions. We quickly realised that the magnitude of the catastrophe was going to be devastating, as it sadly was in terms of loss of human life and material damage, and the challenge its management would entail.</description>
+			</item>
+			<item>
+				<title>40 years after the 1983 floodings</title>
+				<link>http://localhost:1313/en/revistas/numero-19/inundaciones_1983/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-19/inundaciones_1983/</guid>
+				<description>What today is known as a cut-off low is not a common event in northern Spain, but at that time one swept in from the east pulling with it large masses of very cold air aloft that produced extremely heavy rains.</description>
 			</item>
 			<item>
 				<title>Artificial Intelligence, Driving Change in the Insurance Industry</title>
@@ -103,6 +124,13 @@
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/en/revistas/numero-21/australia/</guid>
 				<description>Since 2003, the Australian Reinsurance Pool Corporation (ARPC) has been the Australian Government’s provider of catastrophic reinsurance cover – first, for terrorism risk, and since 2022, for cyclone and cyclone related flooding risk. This paper focuses on the cyclone pool – from the creation of ARPC over two decades ago, the nature of cyclone risk in Australia, the commencement of the cyclone pool in 2022, its accepting risk from customers for the first time in January 2023, and official and community responses to its operations since then.</description>
+			</item>
+			<item>
+				<title>Digital applications: use in natural disaster management</title>
+				<link>http://localhost:1313/en/revistas/numero-18/aplicaciones_digitales/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-18/aplicaciones_digitales/</guid>
+				<description>New technologies are entering our daily lives every year. The use of these technologies has crystallised as a form of change that has turned society on its head in just a short span of time and will continue to do so.</description>
 			</item>
 			<item>
 				<title>ICARIA Project: the Economic Impact of Flooding in the Barcelona Metropolitan Area</title>
@@ -140,6 +168,13 @@
 				<description>Year after year, extreme weather, geological, and political and social events highlight the vulnerability faced by people and property in today&amp;rsquo;s society. A year has just gone by since one particular event, this one a weather event. I am, of course, talking about the floods that devastated part of the Mediterranean coast of Spain on 29 October 2024.</description>
 			</item>
 			<item>
+				<title>Importance of computational modelling and risk forecasting in cardiovascular disease prevention to reduce morbidity, mortality, and health insurance claim rates</title>
+				<link>http://localhost:1313/en/revistas/numero-18/modelizacion_computacional/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-18/modelizacion_computacional/</guid>
+				<description>The different forms of computational science, whether descriptive, diagnostic, predictive, prescriptive, or preventive, are helpful in creating predictive models based on regression techniques.</description>
+			</item>
+			<item>
 				<title>Multi-peril agricultural insurance: 45 years protecting the farming sector</title>
 				<link>http://localhost:1313/en/revistas/numero-22/enesa/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -154,6 +189,13 @@
 				<description>The new legislation changed the name of the scheme from the Earthquake Commission (EQC) to the Natural Hazards Commission. The new name is an important signal to homeowners that cover is available for a range of natural hazards, not just earthquakes. There is no additional hazards covered – the new name is just to make it clear that the cover available is for a range of hazards.</description>
 			</item>
 			<item>
+				<title>State of meteorology and weather conditions that led to the flooding in the Basque Country in August 1983</title>
+				<link>http://localhost:1313/en/revistas/numero-19/analisis_situacion_meteorologica/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-19/analisis_situacion_meteorologica/</guid>
+				<description>The analysis of the weather conditions that produced this event and the severe floods in Eastern Spain in 1982 proved to be a watershed moment for weather forecasting in Spain.</description>
+			</item>
+			<item>
 				<title>The Copernicus Emergency Management Service: an invitation to use EU space-based tools for disaster and crisis management</title>
 				<link>http://localhost:1313/en/revistas/numero-24/servicio-de-gesti%C3%B3n-de-emergencias-de-copernicus/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -166,6 +208,13 @@
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/en/revistas/numero-20/algoritmo/</guid>
 				<description>La inteligencia artificial (IA) es un campo en constante evolución, con una historia que abarca décadas de investigación y desarrollo. Desde su concepción en la década de 1950, cuando pioneros como Alan Turing y John McCarthy sentaron las bases teóricas de la inteligencia artificial, hasta su aplicación práctica en la actualidad, la IA ha recorrido un viaje que ha redefinido múltiples aspectos de nuestras vidas.</description>
+			</item>
+			<item>
+				<title>The August 1983 floods in the Basque Country: events and lessons</title>
+				<link>http://localhost:1313/en/revistas/numero-19/portada_avenidas_agosto/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-19/portada_avenidas_agosto/</guid>
+				<description>The heavy, ongoing and reckless settlement of floodplains throughout a good part of the twentieth century, secondarily intensified by the fact that a truly outlandish amount of rain fell in August 1983, made for a diabolical event that the weather forecasting, communications and operational technologies of the day were ill equipped to handle.</description>
 			</item>
 			<item>
 				<title>The Consorcio de Compensación de Seguros&#39; support for the Multi-peril Agricultural Insurance scheme</title>
@@ -210,6 +259,13 @@
 				<description>European coastal areas are facing an increased risk of flooding due to climate change, driven by rising sea levels and more intense extreme weather events. This situation calls for adaptation approaches that reduce both physical risk and economic losses.</description>
 			</item>
 			<item>
+				<title>Geographical and temporal description of extraordinary risk loss data arising from natural causes</title>
+				<link>http://localhost:1313/en/revistas/numero-19/representacion_espacio_temporal/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-19/representacion_espacio_temporal/</guid>
+				<description>This paper conducts an analysis of the geographical and temporal component of the data on compensation pay-outs and exposure of property items insured in combination.</description>
+			</item>
+			<item>
 				<title>Lessons from the October 2024 Floods</title>
 				<link>http://localhost:1313/en/revistas/numero-23/aprendizajes/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -243,6 +299,13 @@
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/en/revistas/numero-24/cartografia/</guid>
 				<description>This article analyses what the SNCZI is, where its information is located, the mechanisms and methodologies used in its development, and the crucial legal implications introduced by the Public Hydraulic Domain Regulations (RGDPH for its initials in Spanish) regarding restrictions on land use in flood-prone areas.</description>
+			</item>
+			<item>
+				<title>Electric cycles are not motor vehicles Comment on the judgment by the Court of Justice of the European Union of 12 October 2023. Case C-286/22</title>
+				<link>http://localhost:1313/en/revistas/numero-19/bicicletas/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-19/bicicletas/</guid>
+				<description>This issue is producing truly contradictory case law in regard to the criterion for attributing liability on the part of riders, as well as the owners and lessors of this sort of vehicle.</description>
 			</item>
 			<item>
 				<title>Loss Adjustment for the Valencia Floods: Challenges, Steps Taken, and Lessons Learned</title>
@@ -299,6 +362,13 @@
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/en/revistas/numero-20/aproveche_integrar_ia/</guid>
 				<description>In a context where Artificial Intelligence (AI) no longer needs evangelists and even the Government of Spain has decided to invest massively in this technology, there arises both an opportunity and a simultaneous challenge for businesses and public administrations in the country.</description>
+			</item>
+			<item>
+				<title>Review of Disaster Insurance Reimagined</title>
+				<link>http://localhost:1313/en/revistas/numero-19/rese%C3%B1a/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-19/rese%C3%B1a/</guid>
+				<description>Disaster Insurance Reimagined is a timely book, available in open access, written by Paula Jarzabkowski, Konstantinos Chalkias, Eugenia Cacciatori and Rebecca Bednarek, that addresses these questions on the basis of a five-year study of 17 &amp;lsquo;Protection Gap Entities&amp;rsquo; (PGEs) - not-for-profit entities that provide insurance in 49 countries.</description>
 			</item>
 			<item>
 				<title>Book review: The Road to Conscious Machines. The Story of AI</title>

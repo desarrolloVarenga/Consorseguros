@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Nº 18 Primavera 2023 on My New Hugo Project</title>
+		<link>http://localhost:1313/revistas/numero-18/</link>
+		<description>Recent content in Nº 18 Primavera 2023 on My New Hugo Project</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/revistas/numero-18/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Editorial</title>
+				<link>http://localhost:1313/revistas/numero-18/editorial/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-18/editorial/</guid>
+				<description>Dedicamos este decimoctavo número de la revista digital del Consorcio de Compensación de Seguros al repaso de una serie de cuestiones de actualidad que estimamos relevantes para el sector asegurador.</description>
+			</item>
+			<item>
+				<title>Evolución de la normativa reguladora de la cobertura de los riesgos extraordinarios por parte del Consorcio de Compensación de Seguros Serie 1954 - mayo 2023</title>
+				<link>http://localhost:1313/revistas/numero-18/evolucion_normativa/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-18/evolucion_normativa/</guid>
+				<description>El Consorcio de Compensación de Seguros nace en el año 1954 como refundición de otros organismos, integrando coberturas de seguros que se han mantenido hasta nuestros días. Entre esas coberturas de seguros, la más significativa desde el punto de vista cuantitativo de recargos recaudados y siniestralidad asumida, es la cobertura de los riesgos extraordinarios, en un origen también denominados riesgos catastróficos.</description>
+			</item>
+			<item>
+				<title>Uso de aplicaciones digitales en la gestión de desastres naturales</title>
+				<link>http://localhost:1313/revistas/numero-18/aplicaciones_digitales/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-18/aplicaciones_digitales/</guid>
+				<description>Cada año las nuevas tecnologías se incorporan de una nueva forma a nuestro día a día. Su uso se ha consolidado como uno de los cambios que más ha modificado a las sociedades en un breve período de tiempo y lo seguirá haciendo.</description>
+			</item>
+			<item>
+				<title>Importancia de la modelización computacional y la predicción de riesgos como factores de prevención de enfermedades, como la patología cardiovascular, para reducir la morbimortalidad y la siniestralidad en los seguros de salud</title>
+				<link>http://localhost:1313/revistas/numero-18/modelizacion_computacional/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-18/modelizacion_computacional/</guid>
+				<description>La utilidad de los diferentes tipos de análisis computacionales, tanto descriptivos, como diagnósticos, predictivos, prescriptivos y preventivos, es poder crear modelos predictivos basados en técnicas de regresión.</description>
+			</item>
+	</channel>
+</rss>

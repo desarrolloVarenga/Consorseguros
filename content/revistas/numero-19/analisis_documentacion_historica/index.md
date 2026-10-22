@@ -40,78 +40,212 @@ También cabe destacar lo elevado que es el coste medio en ese año, muy superio
 
 {{< figura src="/images/numero-19/analisis_documentacion_historica_grafico_2.png" caption="Grafico 2" source="" >}}
 
+En el informe actuarial mencionado no hay una referencia expresa al evento del País Vasco de 1983, sino que se trata ese año en su conjunto; en dicho año hubo otro evento de especial relevancia que fueron las inundaciones en Cataluña y Comunidad Valenciana del mes de noviembre, cuyo coste rondó el 6,5 % del evento de agosto pero, no por ello, deja de ser un evento reseñable.
+ 
+Sin embargo, lo que queda claro es que el evento de agosto en el País Vasco es el que marcó la siniestralidad del año, ya que éste representa el 88 % del total.
 
+Un año y medio después, en el **Informe Actuarial para la aprobación de la tarifa de riesgos extraordinarios, aprobada por Resolución de 20 de mayo de 1988 de la Dirección General de Seguros**, se vuelve a recoger la siguiente siniestralidad para el total del año 1983:
 
+**Según Informe Actuarial Tarifa RREE 1988**
 
+{{< tabla_indemnizaciones_1983 >}}
 
+En esta ocasión, solo se incluyen las indemnizaciones nominales totales (fondo rojo) que han pasado de 224 millones de euros a 251 millones de euros, esto pone de manifiesto una siniestralidad un 12 % superior a la recogida con anterioridad.
 
+Bajo las hipótesis siguientes: (i) que se mantienen los porcentajes de siniestralidad (indemnizaciones) por causa, que en este informe actuarial no se recogen, y (ii) que se mantiene el coste medio por causa, se cumplimenta el resto de la información.
 
+Todo hace pensar que los acontecimientos de 1983, posteriores a una significativa siniestralidad en 1982, entre otras, por una inundación muy relevante en octubre en la Comunidad Valenciana (con un coste del 26,9 % del evento del País Vasco de 1983), propiciaron: (i) una nueva delimitación de los riesgos cubiertos, según el Real Decreto 2022/1986, que aprueba el Reglamento de riesgos extraordinarios, así como (ii) un análisis del posible reaseguro de esta actividad; es decir, ante esta situación tan adversa, el CCS profundizó en el estudio de la prevención de los riesgos y de medidas encaminadas a la reducción de los mismos.
 
+En el gráfico 3 se muestra la siniestralidad (con importes actualizados a 31-12-2022) en la serie de los últimos 50 años, donde se pone de relevancia, en términos relativos, la importancia de la siniestralidad de los años 1982 y, sobre todo, 1983, frente a siniestralidades más actuales como la tempestad Klaus en 2009, el terremoto de Lorca de 2011 y las inundaciones de sureste peninsular en 2019, y esto ocurre pese al incremento en el nivel de aseguramiento en España durante la serie analizada.
 
+{{< figura src="/images/numero-19/analisis_documentacion_historica_grafico_3.png" caption="Grafico 3" source="" >}}
 
+En el gráfico 4 se muestra cómo los capitales asegurados han pasado de 1,6 billones de euros en 1990 (no se dispone de información previa a este año) a 6,5 billones de euros en 2022, con importes actualizados:
 
-Dentro del intenso proceso de transformación digital en el que se encuentran inmersas la economía y la sociedad en general, observamos cómo en el sector financiero y, dentro de él, en el ámbito asegurador, se ha producido en los últimos años un notable avance en la utilización de nuevas tecnologías que han llegado para quedarse.
+{{< figura src="/images/numero-19/analisis_documentacion_historica_grafico_4.png" caption="Grafico 4" source="" >}}
 
-Es el caso del *cloud computing* o computación en la nube, que empezó a ser utilizada por los grandes operadores y las empresas insurtech y que en la actualidad se utiliza prácticamente por la totalidad de las entidades aseguradoras en España. Y es el caso también de la inteligencia artificial (en adelante, IA), que sin llegar a esa cuota de mercado todavía, nos atrevemos a vaticinar que en muy poco tiempo formará parte de la operativa habitual de todo el sector. No es una predicción demasiado arriesgada, pues los últimos datos disponibles ya apuntan a una extensa implantación de la IA entre las compañías de seguros.       
+## Información contenida en los estudios del reaseguro
+En este contexto, en los años previos a 1990 se llevó a cabo un estudio de un posible reaseguro de riesgos extraordinarios, en el que el CCS sería la entidad cedente de los riesgos y los reaseguradores entidades del mercado nacional e internacional; finalmente este reaseguro no se contrató por lo que se detalla más adelante.
 
-Las aseguradoras parten con cierta ventaja a la hora de subirse al carro de la IA en comparación con las empresas de otros sectores y es que, como suele decirse, los datos constituyen la materia prima del seguro. Las entidades cuentan con una extensa experiencia en el diseño, la calibración y la validación de modelos matemáticos, experiencia particularmente valiosa de cara a sacar el máximo partido a las nuevas tecnologías en la gestión de datos. Ello explica que una amplia mayoría de entidades aseguradoras ya tengan implantados proyectos de IA y que, entre las que aún no los tienen, muchas estén iniciando desarrollos o los tengan previstos a corto plazo. Además, cabe destacar que cada vez son más las entidades que cuentan con una estrategia definida en materia de IA, para cuya implantación se asignan presupuestos con carácter anual y se crean equipos o departamentos específicos.    
+**El informe del CCS, donde define su objetivo de reaseguro**, indica lo siguiente:
 
-En relación con el grado de implantación de la IA en seguros, resulta muy ilustrativo el reciente {{< link href="https://www.eiopa.europa.eu/eiopa-report-takes-pulse-digitalisation-european-insurance-market-2024-04-30_en" text="Informe sobre la digitalización del sector asegurador europeo" target="_blank" >}}, publicado por EIOPA el 30 de abril de 2024, que incluye los resultados de una encuesta entre aseguradores de toda la UE. Los resultados señalan que el 50 % de las entidades están ya aplicando la IA en los ramos de seguro de no vida y el 24 % en el ramo de vida; adicionalmente, un 30 % y un 39 % de las entidades encuestadas esperan utilizar la IA en el negocio de seguros de no vida y vida respectivamente. Con estas cifras, y teniendo en cuenta los desarrollos que se están produciendo, por ejemplo, en cuanto a la IA generativa, no cabe sino esperar que el uso de la IA por parte de las entidades aseguradoras siga aumentando de forma notable en los próximos años.
+La alternativa valorada por el CCS en ese momento, como susceptible de transferir al reaseguro, era un evento de tipo catastrófico, es decir, un reaseguro no proporcional de exceso de pérdida, sin incluir los daños por lluvia que el CCS había dejado de cubrir en 1987.
 
+Ese evento podría quedar definido como aquel en el que la siniestralidad quedara comprendida entre 210 millones y 360 millones de euros del año 1990, es decir, cobertura en reaseguro de 150 millones en exceso de 210 millones de euros.
 
+Esto había ocurrido en el pasado en una sola ocasión, en el evento de agosto de 1983 en el País Vasco. Para este evento, se indicaba un periodo de retorno, fijado con un criterio de máxima prudencia, de 50 años, aunque en estudios posteriores este retorno se incrementó considerablemente.
 
-Para la puesta en marcha de proyectos en materia de IA se observan en el mercado distintos enfoques. Encontramos numerosos ejemplos de proyectos desarrollados internamente por las compañías, normalmente los que tienen que ver con la esencia de la actividad aseguradora, como la suscripción y la tarificación. Para otros proyectos, como los relacionados con el marketing digital o los chatbots, las entidades aseguradoras suelen confiar en proveedores de servicios tecnológicos. Y finalmente existen múltiples proyectos que se llevan a cabo con un enfoque mixto, que implica desarrollos por la propia compañía con el apoyo fundamental de empresas insurtech o proveedores especializados, por ejemplo, en el ámbito de la gestión de siniestros y la prevención del fraude.
+También se valoraron otras alternativas como la definición de evento de tipo catastrófico como aquel en el que la siniestralidad quedara comprendida entre 120 millones y 210 millones de euros del año 1990, es decir, cobertura en reaseguro de 90 millones en exceso de 120 millones de euros.
 
-Perfiles profesionales como científicos de datos, desarrolladores de aplicaciones, administradores de bases de datos y otros empleados expertos en big data e IA están cada vez más presentes en el sector. Y aquí nos enfrentamos con un reto común a otros sectores económicos, la dificultad de encontrar talento cualificado en ámbitos tan novedosos y especializados como las operaciones de machine learning o la percepción cognitiva.
+{{< figura src="/images/numero-19/analisis_documentacion_historica_grafico_5.png" caption="Grafico 5" source="" >}}
 
-Las aplicaciones de la IA en el sector asegurador son múltiples y abarcan a toda la cadena de valor del seguro. Como señalaron UNESPA y AEFI en su {{< link href="https://www.unespa.es/main-files/uploads/2023/03/Informe-Digitalizacion-Industria-Aseguradora_feb_2023-DEF_V5.pdf" text="Informe sobre la digitalización de la industria aseguradora" target="_blank" >}}, publicado en marzo de 2023, la IA está siendo probablemente la tecnología más disruptiva en la operativa interna de la industria aseguradora, ofreciendo numerosas oportunidades tanto para las empresas del sector como para los consumidores.
+{{< figura src="/images/numero-19/analisis_documentacion_historica_grafico_6.png" caption="Grafico 6" source="" >}}
 
-Actualmente las áreas que presentan una mayor implantación de la IA son la atención al cliente, la detección del fraude y la gestión de siniestros; pero la IA también está muy presente en otros ámbitos, como el de la suscripción, la tarificación o la distribución de productos de seguro.     
+E, igualmente, se analizó la posibilidad de transferir cúmulos de varios eventos significativos ocurridos en el mismo año sin la necesidad de que individualmente alguno de ellos alcanzara los umbrales establecidos, pero sí en su conjunto, es decir, reaseguro no proporcional de limitación de la siniestralidad por ejercicio (stop loss). 
 
-En el área de atención al cliente, cabe destacar el uso de chatbots y asistentes virtuales impulsados por técnicas de procesamiento de lenguaje natural (NLP), que las entidades utilizan, por ejemplo, para ayudar a los clientes a navegar por su página web o para resolver dudas recurrentes.
+**El bróker de reaseguro con el que el CCS estuvo trabajando emitió un informe, fechado el 23-01-1990**, en el que, con el consenso del mercado internacional del reaseguro en cuanto a las expectativas de la capacidad mundial del mercado, se recogía que el objetivo del reaseguro sería, básicamente, cubrir los acontecimientos de 1983 en Bilbao, con un coste de 203 millones de euros de 1983 (solo para inundación), puesto que desde enero de 1987 ya no se cubrían los daños por lluvia. 
 
-En la detección del fraude, la IA permite a las compañías multiplicar exponencialmente su capacidad para la identificación de situaciones anómalas y proceder a su investigación de manera más ágil. Por ejemplo, con la IA se pueden detectar más fácilmente casos de manipulación en los documentos o en las imágenes que se gestionan en la tramitación de siniestros. Asimismo, a través del análisis de patrones de comportamiento, la IA permite establecer alertas para detectar casos sospechosos. La mayor capacidad de detección del fraude se traduce en un ahorro importante para las entidades aseguradoras, pero también en primas más bajas para los asegurados honestos, que son la amplia mayoría.
+Por primera vez se encuentra, en los informes propios del área técnica, una valoración del evento de agosto de 1983 en el País Vasco, aunque sea solo para inundación; si bien, con el transcurso de los años, se fue concretando este importe hasta cerrar el evento en la cuantía que se recoge en el apartado «Información contenida en la Estadística de Riesgos Extraordinarios», que ya incluye inundación y lluvia.
 
-En la gestión de siniestros, las aseguradoras están desarrollando gracias a la IA sistemas de valoración de daños basados en el análisis de imágenes. Este tipo de sistemas se aplican especialmente en el ramo de automóviles, pero también en seguros del hogar y de locales comerciales. También hay aseguradoras que utilizan la IA para la segmentación de las reclamaciones por tipo y complejidad o para la automatización a la hora de verificar facturas y pagos de indemnizaciones, sobre todo cuando se trata de pagos de menor cuantía. Con este tipo de soluciones las entidades pueden reducir los costes de gestión y los clientes obtienen una respuesta más rápida tras la declaración de un siniestro.
+Para poder entender las opciones de reaseguro que se tuvieron en cuenta en 1990, se debe recordar que fueron años con elevada inflación, tal y como se muestra en la Tabla 3:
 
-La IA también está presente en el área de diseño y desarrollo de productos, donde su utilización permite procesar grandes cantidades de datos de cara a que las aseguradoras puedan ofrecer nuevos productos y servicios adaptados a las necesidades y demandas del consumidor. Para ello, se utilizan, por ejemplo, datos históricos de clientes, datos de encuestas de satisfacción o datos provenientes de dispositivos personales o de vehículos u hogares conectados. Así la combinación de la IA con el llamado «internet de las cosas» (Internet of things o IoT) permite ofrecer servicios de prevención de pérdidas o mitigación de riesgos, como aquellos orientados a mejorar el comportamiento al volante de los conductores o a facilitar recomendaciones o sugerencias para la adopción de estilos de vida más saludables.
+En millones de euros
 
-En el área de fijación de precios y suscripción, el procesamiento de una ingente cantidad de información por parte de sistemas de IA cada vez más sofisticados permite a las aseguradoras suscribir riesgos de manera más eficiente, fijando precios que reflejen el riesgo y las características de cada individuo asegurado de manera más precisa. De esta forma los consumidores con perfiles de riesgo más bajos pueden beneficiarse de primas más bajas y también se posibilita que algunos consumidores de alto riesgo, que anteriormente tenían dificultades para acceder a seguros, encuentren menos dificultades para obtener cobertura (por ejemplo, los conductores jóvenes que instalen dispositivos de telemetría en sus vehículos o consumidores con ciertas patologías que utilizan pulseras portátiles de salud y proporcionan acceso a los datos a las aseguradoras). Obviamente, desde el punto de vista del consumidor, también surge el riesgo de que algunas aseguradoras puedan llevar a cabo prácticas de «optimización de precios», empleando diversos factores no relacionados con el riesgo para estimar la elasticidad del precio del consumidor o la propensión a cambiar de compañía.
+{{< tabla caption="tabla 3" >}}
+| Año | IPC (%) | Valoración del evento en agosto de 1983 en el País Vasco - solo inundación- |
+| :---: | :---: | :---: |
+| 1983 | 12,2 | 203 |
+| 1984 | 9,0 | 221 |
+| 1985 | 8,2 | 239 |
+| 1986 | 8,3 | 259 |
+| 1987 | 4,6 | 271 |
+| 1988 | 5,8 | 287 |
+| 1989 | 6,9 | 307 |
+| 1990 | 6,5 | 327 |
+{{< /tabla >}}
 
-Las aseguradoras también pueden ser más precisas en el cálculo de provisiones técnicas gracias a la utilización de sistemas de IA para estimar el valor de las pérdidas, especialmente en líneas de negocio con siniestros de alta frecuencia, donde hay un número suficientemente amplio de puntos de datos disponibles para entrenar al sistema de IA.
+Otro elemento a tener en cuenta es la extensión geográfica a considerar, ya que el evento afectó también a Navarra y a Cantabria, principalmente a esta última. 
 
-En el área de venta y distribución, las técnicas de marketing digital pueden facilitar a las aseguradoras captar la atención del consumidor mediante ofertas personalizadas, aumentando las ventas a través de sus sitios web, aplicaciones u otros canales de distribución digital. Además, hacen que el proceso de compra sea más sencillo para el consumidor.
+El bróker proponía una cobertura de reaseguro de exceso de pérdida a partir de un deducible de 120 millones de euros por evento, se indicaba que un deducible inferior a 120 millones de euros de 1990 conllevaría una prima inasumible por el CCS.
 
-Con esta amplísima variedad de utilidades no es de extrañar que exista en el sector una apuesta decidida por la IA, pero al mismo tiempo las entidades son plenamente conscientes de que el uso de la IA y la automatización de los procesos puede conllevar un riesgo operacional, por lo que es necesario contar con sistemas robustos de gobierno y de gestión de riesgos. De ahí, que las entidades aseguradoras hayan acogido la IA con entusiasmo, pero también con cautela.
+La cobertura a partir de 120 millones de euros se ofrecía en 4 tramos, cada uno con su tasa de prima, hasta alcanzar 240 millones de euros en exceso del deducible, que incluiría los acontecimientos de Bilbao de 1983 con un margen adicional.
 
-Esta cautela se refleja en el empleo de la IA con un cierto nivel de supervisión humana. Por ejemplo, en el ámbito de la distribución, la IA puede sugerir al agente de seguros que ofrezca al cliente determinados productos o coberturas, correspondiendo la decisión final al propio agente; o en el ámbito de la gestión de siniestros, la IA puede hacer una estimación preliminar del importe de los daños, pero un perito podrá intervenir para confirmar dicho importe o ajustarlo.
+{{< figura src="/images/numero-19/analisis_documentacion_historica_grafico_7.png" caption="Grafico 7" source="" >}}
 
-También se observa esa cautela en el tipo de algoritmos utilizados. Actualmente predomina el empleo de algoritmos más sencillos, como los árboles de decisión, que son fáciles de entender, explicar y supervisar. Pero lo normal es que, a mayor complejidad de los algoritmos, mayor sea su precisión, por lo que cabría esperar que, a medida que las entidades aseguradoras vayan adquiriendo más experiencia en el uso de la IA, se incremente el uso de algoritmos más sofisticados, como las redes neuronales o el deep learning.
+El bróker incluye en el informe, como elemento relevante, la necesaria limitación temporal de un evento, proponiendo un máximo de 168 horas (7 días) y, consiguientemente, la posibilidad de reponer cobertura si se sobrepasaba la limitación temporal en un solo evento.
 
-Asimismo, las aseguradoras son conscientes de los riesgos para los consumidores y de la necesidad de reforzar la confianza y el compromiso del sector por un uso ético de la IA y evitar supuestos de desprotección para los clientes, derivados de un eventual mal uso de la misma. Fruto de esa preocupación, el sector asegurador español promovió ya en 2020 la publicación de los {{< link href="https://www.unespa.es/main-files/uploads/2022/02/unespa-principios-uso-etico-IA-online-2022-02-15.pdf" text="Principios de UNESPA sobre el uso ético de la IA en el sector asegurador" target="_blank" >}}. Se trata de un documento que recoge los principios de trato justo, proporcionalidad, responsabilidad proactiva, seguridad, transparencia, formación, evaluación y revisión. En base a dichos principios, se promueven, entre otros, los siguientes compromisos: 
+Otros brókeres y entidades reaseguradoras aportaron también propuestas en términos similares, que fueron actualizadas en los años siguientes, sin que se llegara a contratar el reaseguro en ningún momento por el motivo que se detalla más adelante.
 
-* Evitar que el uso de aplicaciones basadas en IA pueda dar lugar a un trato discriminatorio para determinadas personas o colectivos, de forma que únicamente se admitan tratamientos diferenciados cuando estén amparados por la técnica aseguradora y la legislación aplicable y que se establezcan procesos de revisión para detectar y minimizar sesgos no conscientes. 
-* Llevar a cabo evaluaciones de impacto para determinar las medidas de gobernanza necesarias para cada uso de la IA.
-* Establecer procedimientos de control interno, incorporando el control del uso de la IA en el sistema de gestión de riesgos de la entidad.
-* Velar porque las aplicaciones basadas en IA que utilicen las entidades aseguradoras mantengan, en todo momento de su vida útil, un nivel de robustez adecuado que garantice la máxima seguridad en su uso y de los datos que gestione. En el marco de la política de seguridad lógica y física, la entidad tendrá implantadas rutinas de chequeo y comprobación de vulnerabilidades, adoptando las medidas técnicas y organizativas apropiadas que garanticen un nivel de seguridad adecuado al riesgo que el uso de la IA pueda inferir en el respeto de los derechos y libertades de los interesados.
-* Informar sobre el uso que hacen de la misma en su página web, en sus canales habituales de información y en sus políticas escritas.
-* Garantizar que el personal encargado de las aplicaciones basadas en IA tenga conocimiento suficiente, específico y adaptado al perfil de sus funciones y responsabilidades, incluyendo formación específica sobre las limitaciones de los sistemas de IA.
-Revisar la fiabilidad de las soluciones de IA aplicadas mediante autoevaluaciones periódicas. 
+El planteamiento del reaseguro debe entenderse dentro de la situación de la entonces denominada  «Provisión para desviación de la siniestralidad» en riesgos a las cosas, riesgos personales y responsabilidad civil del conductor que, a 31-12-1990, tenía un saldo de 82 millones de euros.
 
-Los principios de UNESPA se basan en las recomendaciones emitidas por organizaciones e instituciones internacionales; en particular la labor del {{< link href="https://digital-strategy.ec.europa.eu/en/policies/expert-group-ai" text="Grupo de expertos de alto nivel sobre IA de la Comisión Europea" target="_blank" >}}, los principios de la OCDE de 2019 y especialmente en el informe publicado en 2021 por el Grupo Consultivo de Expertos de EIOPA sobre Ética Digital en seguros bajo el título {{< link href="https://www.eiopa.europa.eu/publications/artificial-intelligence-governance-principles-towards-ethical-and-trustworthy-artificial_en" text="Principios de gobernanza de la inteligencia artificial: hacia una IA ética y confiable en el sector de seguros europeo" target="_blank" >}}.
+## Información contenida en los estudios sobre la cobertura de los riesgos extraordinarios
+El primero de los estudios es del año 1989; existen estudios posteriores pero no aportan información adicional sobre el evento que nos ocupa.
 
-Los trabajos de los expertos comunitarios han cristalizado recientemente en la adopción del {{< link href="https://www.consilium.europa.eu/en/press/press-releases/2023/12/09/artificial-intelligence-act-council-and-parliament-strike-a-deal-on-the-first-worldwide-rules-for-ai/" text="Reglamento europeo sobre IA" target="_blank" >}}, sobre el que se alcanzó un acuerdo en diciembre de 2023. La norma, pionera a nivel mundial, pretende garantizar que los sistemas de IA usados en el mercado comunitario sean seguros y respeten los derechos fundamentales y los valores de la UE. Se trata de una norma de carácter horizontal que, con la finalidad de proteger a ciudadanos y empresas, prevé el establecimiento de restricciones al uso de la IA y la imposición de especiales requisitos en aquellos supuestos en los que su uso se considere de alto riesgo. 
+Bajo el título «Estudio sobre la cobertura de riesgos extraordinarios-1989» se recoge información que a estos efectos es muy relevante, como:
 
-En el ámbito de los seguros cabe destacar como supuesto de alto riesgo el uso de la IA para la evaluación del riesgo y la tarificación en relación con personas físicas en los seguros de vida y salud. Sin perjuicio de que se comparta que los seguros de vida y salud puedan conllevar un mayor riesgo por la sensibilidad de los datos que se manejan, la redacción utilizada en el Reglamento no parece la más acertada. Se trata de una referencia demasiado amplia e imprecisa. En este sentido, hubiera sido más adecuada la redacción propuesta durante la tramitación de la norma por el Parlamento Europeo, que abogaba por incluir dentro de la lista de sistemas de alto riesgo aquellos destinados a ser utilizados en relación con los seguros de salud y de vida para «tomar decisiones o influir materialmente en las decisiones sobre la elegibilidad» de las personas físicas. Tal redacción hubiera sido más precisa y consistente con la inclusión, dentro de la lista de alto riesgo en el ámbito financiero, de los sistemas empleados para llevar a cabo perfilados crediticios y con la preocupación última del legislador de evitar la exclusión financiera. 
+* Se identifican las siniestralidades más significativas atendidas por el CCS en los años (1957-1987), donde bajo el epígrafe «Norte – Inundación y Lluvia – 1983» se imputa a este evento unas indemnizaciones de 268 millones de euros de 1983:
 
-En todo caso, la inclusión de estos usos de la IA en la lista de alto riesgo ha sido objeto de críticas por diversas voces, incluida EIOPA. Así, la autoridad europea, en una carta de julio de 2022 dirigida a los colegisladores (Comisión, Consejo y Parlamento Europeo), defendía que el uso de la IA en el sector asegurador no fuera calificado como de alto riesgo al no haberse realizado una evaluación de impacto exhaustiva. Considera el supervisor que el Reglamento debería reflejar la relevancia del uso de la IA en el sector financiero y, en particular, en el sector de los seguros, pero su desarrollo y concreción debería realizarse a través de la legislación sectorial, basándose en los actuales sistemas de gobernanza, gestión de riesgos, conducta de mercado y supervisión de los productos. 
+{{< tabla caption="Tabla 4" >}}
+| Localidad | Causa | Año | Importe indemnizado (En mill. de euros) |
+| :--- | :---: | :---: | :---: |
+| Valencia | Inundación | 1957 | 2 |
+| Sevilla | Inundación | 1961 | 1 |
+| Barcelona | Lluvia | 1962 | 4 |
+| Girona | Inundación | 1970 | 1 |
+| Barcelona | Inundación | 1971 | 11 |
+| Barcelona | Lluvias | 1971 | 2 |
+| Barcelona | Pedrisco | 1974 | 2 |
+| Bizkaia | Inundación | 1975 | 4 |
+| Bizkaia | Lluvia/Inundación | 1975 | 4 |
+| Galicia / Asturias | Viento/Lluvia | 1978 | 2 |
+| Valencia | Nieve | 1980 | 7 |
+| Barcelona | Pedrisco/Lluvia | 1980 | 2 |
+| Araba-Álava/Gipuzkoa | Lluvia | 1980 | 1 |
+| Bizkaia | Lluvia | 1980 | 1 |
+| Araba-Álava/Gipuzkoa | Inundación/Lluvia | 1981 | 1 |
+| Madrid | Terrorismo | 1982 | 4 |
+| Levante/Aragón/Cataluña | Inundación/Lluvia | 1982 | 84 |
+| **Norte** | **Inundación/Lluvia** | **1983** | **268** |
+| Valencia/Cataluña y Andalucía | Inundación/Lluvia | 1983 | 12 |
+| Valladolid | Pedrisco | 1984 | 2 |
+| Valencia/Cataluña/Galicia y Murcia | Inundación | 1987 | 105 |
+{{< /tabla >}}
 
-Para apoyar la aplicación del Reglamento de IA en el ámbito asegurador, EIOPA ha recogido una línea de actuación específica dentro de su plan de trabajo para 2024, incluyendo la posibilidad de emitir directrices para aclarar al mercado cuáles son las expectativas del supervisor y abordar los beneficios y riesgos derivados del uso de la IA en los seguros, incluido el posible trato injusto a los consumidores o prácticas discriminatorias.
+Esta tabla nos muestra la magnitud del evento en relación a otros ocurridos en los años previos e inmediatamente posteriores.
+ 
+* Se analizan los dos modelos de siniestralidad: (i) el de la zona de Levante y Cataluña, donde la siniestralidad extraordinaria se caracteriza por tener mayor frecuencia, es decir, con periodos de recurrencia o retorno más cortos, y con consecuencias económicas que el informe calificaba de controladas y previsibles; (ii) frente a esto se describe el modelo de la zona norte (Vizcaya y Guipúzcoa) que se califica de catastrófico.
+ 
+* Se analizan las características del evento estudiado frente a observaciones meteorológicas previas, como por ejemplo:
+ 
+    * Que las lluvias de agosto de 1983 no tenían precedente en la zona, ya que los valores máximos de precipitaciones mensuales registradas quedaban por debajo de las precipitaciones en los días 24 a 26-08-1983, que fueron las peores lluvias en los 120 años a los que se extendía el registro:
 
-Junto con los desarrollos a nivel europeo, en España cabe citar el Real Decreto 817/2023, de 8 de noviembre, que establece un entorno controlado de pruebas para el ensayo del cumplimiento del Reglamento europeo de IA. Este Real Decreto tiene como objeto crear un entorno controlado de pruebas (sandbox) en el que participen diferentes entidades elegidas mediante convocatoria pública en la que seleccionen, a modo de ensayo, algunos sistemas de IA que puedan suponer riesgos para la seguridad, la salud y los derechos fundamentales de las personas. El sandbox constituirá una oportunidad para que las entidades aseguradoras, junto a los proveedores tecnológicos que les presten servicios, puedan testar sus proyectos que impliquen la utilización de la IA en seguros. A estos efectos cabe precisar que el Real Decreto prevé la posibilidad de participar a la vez en el sandbox de IA y en otro espacio controlado de pruebas que esté implementándose por otra autoridad, como sería el sandbox regulatorio de servicios financieros controlado por la Dirección General de Seguros y Fondos de Pensiones (DGSFP) y el resto de los supervisores financieros.
+{{< tabla_6_revista_19 >}}
 
-En el ámbito supervisor, la DGSFP ha incluido como uno de los grandes ejes en torno a los que define sus prioridades de supervisión estratégicas para el periodo 2023-2025 la transformación digital en el sector asegurador y de fondos de pensiones y la introducción y utilización de la IA en los diferentes procesos y para la toma de decisiones. Ante la imparable evolución de la IA, el supervisor destaca la necesidad de analizar las áreas en las que interviene, el grado de influencia en las decisiones, los factores que se toman en consideración, especialmente los relativos a la sostenibilidad, y cómo todo ello influye en la calidad de la prestación del servicio, con el objetivo de garantizar que la IA aporte valor no solo a las entidades del sector sino también a los asegurados y partícipes.
+    * Que, con los datos registrados en 20 años, la precipitación máxima diaria también quedó por debajo de la precipitación del día 26-08-1983: 
+
+{{< tabla_lluvia_diaria_bilbao >}}
+
+* Junto a los factores meteorológicos, el estudio analiza elementos hidrológicos, geológicos y relacionados con las obras humanas.
+ 
+* Se indica: «según la opinión de los expertos, el periodo de retorno sería, al menos, de mil años», y las consecuencias económicas, de repetirse el evento, serían  imposibles de cuantificar a priori porque dependen de las condiciones y el nivel de aseguramiento de los bienes afectados, de las obras de mejora en los puntos conflictivos de las cuencas de los ríos y de la eliminación de la cobertura de la lluvia, entre otras, y, lo que ahora podemos señalar, también depende de la incorporación de la cobertura de pérdidas pecuniarias en el sistema de cobertura de riesgos extraordinarios del CCS.
+ 
+* Se concluía que, aun con periodos de retorno significativamente inferiores, el CCS podría estar en disposición de asumir un evento equivalente en un corto espacio de tiempo, siempre y cuando se cumplieran las hipótesis de proyección establecidas en cualquiera de las 16 simulaciones realizadas a 30 años.
+
+Las hipótesis de proyección que se establecieron estaban referidas a:
+ 
+    * Determinado comportamiento siniestral, se recogen 4 modelos diferentes, todos conservadores. 
+    * Crecimiento de los capitales asegurados y, por tanto, de los recargos (puesto que no se valoró una modificación de las tasas de prima) según dos opciones, crecimiento constante anual acumulativo del 3 % o del 4 %.
+    * Rentabilidad neta de la reserva del 3 % anual.
+    * Reserva de partida: dos opciones (i) -150 millones de euros según datos a 31-12-1988 o (ii) cero euros.
+ 
+En el peor de los 16 escenarios el CCS se encontraba en disposición de poder asumir un evento catastrófico como el del País Vasco de 1983 en un periodo de 20 años; mientras que en el mejor de los escenarios ese periodo de tiempo se veía reducido a 10 años. Se entiende que este fue uno de los motivos clave por los que se decidió no contratar el reaseguro.
+
+## Información contenida en la estadística de riesgos extraordinarios
+**Los datos finales del evento del País Vasco en agosto de 1983, una vez que fueron tramitados y abonados todos los expedientes de siniestro, se muestran en las tablas de este apartado.**
+
+Debe tenerse en cuenta que se muestran las indemnizaciones, primero, por el importe nominal, euros del año del siniestro, y, a continuación, en euros actualizados a 31-12-2022 con los correspondientes IPC de la serie. No se tienen en cuenta otras variables como: (i) incremento en el nivel de aseguramiento, (ii) la incorporación de la cobertura de pérdidas pecuniarias, (iii) la mejora en los mecanismos de reducción del daño o (iv) la eliminación de la cobertura de lluvia.
+
+Se refiere a indemnización de daños materiales, no se dispone de información relativa a la posible cobertura de daños personales.
+
+### Siniestralidad por comunidad autónoma:
+
+{{< tabla caption="Tabla 7." >}}
+| Comunidad Autónoma | Número de expedientes | Indemnizaciones euros nominales | Indemnizaciones euros 2022 | % | Coste medio euros 2022 |
+| :--- | :---: | :---: | :---: | :---: | :---: |
+| PAÍS VASCO | 24.802 | 248.266.591 | 938.653.172 | 99 % | 37.846 |
+| CANTABRIA | 761 | 2.192.060 | 8.287.797 | 1 % | 10.891 |
+| NAVARRA | 101 | 254.983 | 964.053 | 0 % | 9.545 |
+| **TOTAL** | **25.664** | **250.713.635** | **947.905.022** | **100 %** | **36.935** |
+{{< /tabla >}}
+
+El evento, como se ha mencionado anteriormente, afectó principalmente al País Vasco, en concreto a Vizcaya, pero también a Cantabria y, en menor medida, a Navarra.
+
+### Siniestralidad por causa:
+
+{{< tabla caption="Tabla 8" >}}
+| Causa | Número de expedientes | Indemnizaciones euros nominales | Indemnizaciones euros 2022 | % | Coste medio euros 2022 |
+| :--- | :---: | :---: | :---: | :---: | :---: |
+| INUNDACIÓN + EMBATE MAR | 11.403 | 183.870.460 | 695.182.505 | 73 % | 60.963 |
+| LLUVIA | 14.261 | 66.843.175 | 252.722.517 | 27 % | 17.722 |
+| **TOTAL** | **25.664** | **250.713.635** | **947.905.022** | **100 %** | **36.935** |
+{{< /tabla >}}
+
+A estos efectos se han mantenido las proporciones de expedientes e indemnizaciones por causa de la Tabla 1, que está referida a todo el año 1983, ya que no se tiene el detalle para este evento concreto.
+
+### Siniestralidad por tramos:
+
+{{< tabla caption="Tabla 9" >}}
+| Tramo por expediente (euros 2022) | Número de expedientes | Indemnizaciones euros nominales | Indemnizaciones euros 2022 | % | Coste medio euros 2022 |
+| :--- | :---: | :---: | :---: | :---: | :---: |
+| De 0 a 2.300 euros | 14.631 | 2.229.423 | 8.429.068 | 1 % | 576 |
+| De 2.301 a 5.700 euros | 3.564 | 3.568.381 | 13.491.434 | 1 % | 3.785 |
+| De 5.701 a 11.400 euros | 14.631 | 2.229.423 | 8.429.068 | 2 % | 576 |
+| De 11.401 a 22.700 euros | 3.564 | 3.568.381 | 13.491.434 | 3 % | 3.785 |
+| De 22.701 a 56.800 euros | 14.631 | 2.229.423 | 8.429.068 | 6 % | 576 |
+| De 56.801 a 113.600 euros | 3.564 | 3.568.381 | 13.491.434 | 6 % | 3.785 |
+| De 113.601 a 227.200 euros | 14.631 | 2.229.423 | 8.429.068 | 8 % | 576 |
+| De 227.201 a 568.100 euros | 3.564 | 3.568.381 | 13.491.434 | 12 % | 3.785 |
+| De 568.100 a 1.136.200 euros | 114 | 24.351.128 | 92.067.415 | 10 % | 807.609 |
+| De 1.136.201 a 2.272.300 euros | 71 | 29.255.479 | 110.609.923 | 12 % | 1.557.886 |
+| De 2.272.301 a 5.680.800 euros | 39 | 40.156.185 | 151.823.609 | 16 % | 3.892.913 |
+| De 5.680.801 a 11.361.600 euros | 12 | 26.917.162 | 101.769.147 | 11 % | 8.480.762 |
+| De 11.361.600 a 22.737.200 euros | 5 | 20.541.151 | 77.662.552 | 8 % | 15.532.510 |
+| Más de 22.737.200 euros | 1 | 10.820.523 | 40.910.530 | 4 % | 40.910.530 |
+| **TOTAL** | **25.664** | **250.713.635** | **947.905.022** | **100 %** | **36.935** |
+{{< /tabla >}}
 
 {{< destacado-rojo >}}
-En definitiva, queda claro que la IA está llamada a jugar un papel decisivo en la transformación digital del sector asegurador, cuya evolución estará condicionada tanto por los propios avances tecnológicos como por los desarrollos regulatorios y la actuación de los supervisores. En cualquier caso, el compromiso del sector con el uso ético de la IA y, especialmente, la dilatada experiencia en el cumplimiento de los altos estándares de gobernanza y gestión de riesgos incluidos en Solvencia II, sitúan a las entidades aseguradoras en un punto de partida particularmente ventajoso de cara al cumplimiento de los nuevos requisitos legales en materia de IA.
+
+### Resumen
+ 
+El evento analizado se caracteriza por:
+ 
+* Haber sido causado por inundación, embate de mar y daños directos de la lluvia.
+* Haber ocurrido durante los días 24 a 26 de agosto de 1983.
+* Haber afectado principalmente al País Vasco, pero también a Cantabria y Navarra.
+* Haber sido el mayor evento cubierto por el CCS en su historia.
+* Tener un elevado periodo de retorno, difícil de cuantificar.
+* Tener unos elevados costes medios.
+* Haber provocado cambios legislativos en relación a los riesgos cubiertos.
+
 {{< /destacado-rojo >}}

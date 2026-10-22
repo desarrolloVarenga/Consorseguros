@@ -1,0 +1,123 @@
+<div class="custom-table-wrapper" style="width: 100%; overflow-x: auto; margin: 1.5rem 0;">
+  <style>
+    .tabla-estatica-indemnizaciones {
+      width: 100%;
+      border-collapse: collapse;
+      font-family: inherit;
+      margin: 0;
+      border: 1px solid #ccc;
+    }
+    .tabla-estatica-indemnizaciones th {
+      background-color: #a81c3f;
+      color: #ffffff;
+      text-align: center;
+      padding: 10px 8px;
+      border: 1px solid #ffffff;
+      font-weight: bold;
+      vertical-align: middle;
+    }
+    .tabla-estatica-indemnizaciones td {
+      padding: 8px 12px;
+      border: 1px solid #e0e0e0;
+      vertical-align: middle;
+    }
+    .tabla-estatica-indemnizaciones .td-right {
+      text-align: right;
+    }
+  </style>
+
+  <table class="tabla-estatica-indemnizaciones">
+    <thead>
+      <tr>
+        <th rowspan="2" scope="col">1983</th>
+        <th rowspan="2" scope="col">Nº Exp</th>
+        <th colspan="4" scope="colgroup">INDEMNIZACIONES</th>
+        <th rowspan="2" scope="col">Coste medio actualizado 2022 en euros</th>
+      </tr>
+      <tr>
+        <th colspan="2" scope="col">Nominales en euros</th>
+        <th colspan="2" scope="col">Actualizadas 2022 en euros</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Inundación por desbordamiento</td>
+        <td class="td-right">15.173</td>
+        <td class="td-right" colspan="2">181.382.916</td>
+        <td class="td-right">658.777.527</td>
+        <td class="td-right">72 %</td>
+        <td class="td-right">45.197</td>
+      </tr>
+      <tr>
+        <td>Embate mar</td>
+        <td class="td-right">7</td>
+        <td class="td-right" colspan="2">35.088</td>
+        <td class="td-right">132.633</td>
+        <td class="td-right">0 %</td>
+        <td class="td-right">19.753</td>
+      </tr>
+      <tr>
+        <td>Huracán</td>
+        <td class="td-right">265</td>
+        <td class="td-right" colspan="2">340.704</td>
+        <td class="td-right">1.288.142</td>
+        <td class="td-right">0 %</td>
+        <td class="td-right">4.856</td>
+      </tr>
+      <tr>
+        <td>Lluvia</td>
+        <td class="td-right">18.984</td>
+        <td class="td-right" colspan="2">65.951.624</td>
+        <td class="td-right">249.251.717</td>
+        <td class="td-right">26 %</td>
+        <td class="td-right">13.135</td>
+      </tr>
+      <tr>
+        <td>Nieve</td>
+        <td class="td-right">6</td>
+        <td class="td-right" colspan="2">152.830</td>
+        <td class="td-right">577.824</td>
+        <td class="td-right">0 %</td>
+        <td class="td-right">103.240</td>
+      </tr>
+      <tr>
+        <td>Pedrisco</td>
+        <td class="td-right">276</td>
+        <td class="td-right" colspan="2">507.535</td>
+        <td class="td-right">1.918.904</td>
+        <td class="td-right">0 %</td>
+        <td class="td-right">6.940</td>
+      </tr>
+      <tr>
+        <td>Corrimiento tierra</td>
+        <td class="td-right">4</td>
+        <td class="td-right" colspan="2">18.439</td>
+        <td class="td-right">69.714</td>
+        <td class="td-right">0 %</td>
+        <td class="td-right">15.570</td>
+      </tr>
+      <tr>
+        <td>Terrorismo</td>
+        <td class="td-right">1.165</td>
+        <td class="td-right" colspan="2">2.902.170</td>
+        <td class="td-right">10.972.605</td>
+        <td class="td-right">1 %</td>
+        <td class="td-right">9.416</td>
+      </tr>
+      <tr style="font-weight: bold;">
+        <td>Total año 1983</td>
+        <td class="td-right">35.881</td>
+        <td class="td-right" colspan="2">251.291.307</td>
+        <td class="td-right">950.89.098</td>
+        <td class="td-right">100 %</td>
+        <td class="td-right">26.479</td>
+      </tr>
+    </tbody>
+  </table>
+
+  {{ if .Get "caption" }}
+    <div class="table-caption">
+      {{ .Get "caption" | markdownify }}
+    </div>
+  {{ end }}
+</div>

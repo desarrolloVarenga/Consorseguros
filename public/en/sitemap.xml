@@ -2,6 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/en/revistas/numero-18/editorial/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/revistas/numero-18/editorial/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/revistas/numero-18/editorial/"
+                />
+  </url><url>
     <loc>http://localhost:1313/en/revistas/numero-19/editorial/</loc>
     <xhtml:link
                 rel="alternate"
@@ -122,6 +134,18 @@
                 href="http://localhost:1313/en/revistas/numero-21/riesgos_crecientes/"
                 />
   </url><url>
+    <loc>http://localhost:1313/en/revistas/numero-19/analisis_documentacion_historica/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/revistas/numero-19/analisis_documentacion_historica/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/revistas/numero-19/analisis_documentacion_historica/"
+                />
+  </url><url>
     <loc>http://localhost:1313/en/revistas/numero-23/riesgos-extraordinarios/</loc>
     <xhtml:link
                 rel="alternate"
@@ -132,6 +156,18 @@
                 rel="alternate"
                 hreflang="en-US"
                 href="http://localhost:1313/en/revistas/numero-23/riesgos-extraordinarios/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/en/revistas/numero-19/inundaciones_1983/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/revistas/numero-19/inundaciones_1983/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/revistas/numero-19/inundaciones_1983/"
                 />
   </url><url>
     <loc>http://localhost:1313/en/revistas/numero-20/motor_del_cambio/</loc>
@@ -156,6 +192,18 @@
                 rel="alternate"
                 hreflang="en-US"
                 href="http://localhost:1313/en/revistas/numero-21/australia/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/en/revistas/numero-18/aplicaciones_digitales/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/revistas/numero-18/aplicaciones_digitales/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/revistas/numero-18/aplicaciones_digitales/"
                 />
   </url><url>
     <loc>http://localhost:1313/en/revistas/numero-24/icaria/</loc>
@@ -218,6 +266,18 @@
                 href="http://localhost:1313/en/revistas/numero-23/agroseguros/"
                 />
   </url><url>
+    <loc>http://localhost:1313/en/revistas/numero-18/modelizacion_computacional/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/revistas/numero-18/modelizacion_computacional/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/revistas/numero-18/modelizacion_computacional/"
+                />
+  </url><url>
     <loc>http://localhost:1313/en/revistas/numero-22/enesa/</loc>
     <xhtml:link
                 rel="alternate"
@@ -242,6 +302,18 @@
                 href="http://localhost:1313/en/revistas/numero-21/nueva_zelanda/"
                 />
   </url><url>
+    <loc>http://localhost:1313/en/revistas/numero-19/analisis_situacion_meteorologica/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/revistas/numero-19/analisis_situacion_meteorologica/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/revistas/numero-19/analisis_situacion_meteorologica/"
+                />
+  </url><url>
     <loc>http://localhost:1313/en/revistas/numero-24/servicio-de-gesti%C3%B3n-de-emergencias-de-copernicus/</loc>
     <xhtml:link
                 rel="alternate"
@@ -264,6 +336,18 @@
                 rel="alternate"
                 hreflang="en-US"
                 href="http://localhost:1313/en/revistas/numero-20/algoritmo/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/en/revistas/numero-19/portada_avenidas_agosto/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/revistas/numero-19/portada_avenidas_agosto/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/revistas/numero-19/portada_avenidas_agosto/"
                 />
   </url><url>
     <loc>http://localhost:1313/en/revistas/numero-22/ccs_y_su_apoyo_al_sac/</loc>
@@ -338,6 +422,18 @@
                 href="http://localhost:1313/en/revistas/numero-24/cambio_climatico/"
                 />
   </url><url>
+    <loc>http://localhost:1313/en/revistas/numero-19/representacion_espacio_temporal/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/revistas/numero-19/representacion_espacio_temporal/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/revistas/numero-19/representacion_espacio_temporal/"
+                />
+  </url><url>
     <loc>http://localhost:1313/en/revistas/numero-23/aprendizajes/</loc>
     <xhtml:link
                 rel="alternate"
@@ -396,6 +492,18 @@
                 rel="alternate"
                 hreflang="en-US"
                 href="http://localhost:1313/en/revistas/numero-24/cartografia/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/en/revistas/numero-19/bicicletas/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/revistas/numero-19/bicicletas/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/revistas/numero-19/bicicletas/"
                 />
   </url><url>
     <loc>http://localhost:1313/en/revistas/numero-23/gestion_pericial/</loc>
@@ -492,6 +600,18 @@
                 rel="alternate"
                 hreflang="en-US"
                 href="http://localhost:1313/en/revistas/numero-20/aproveche_integrar_ia/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/en/revistas/numero-19/rese%C3%B1a/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/revistas/numero-19/rese%C3%B1a/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/revistas/numero-19/rese%C3%B1a/"
                 />
   </url><url>
     <loc>http://localhost:1313/en/revistas/numero-20/road_to_conscious_machines/</loc>
@@ -632,6 +752,19 @@
                 rel="alternate"
                 hreflang="en-US"
                 href="http://localhost:1313/en/revistas/numero-20/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/en/revistas/numero-18/</loc>
+    <lastmod>2024-07-13T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/revistas/numero-18/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/revistas/numero-18/"
                 />
   </url><url>
     <loc>http://localhost:1313/en/categories/</loc>

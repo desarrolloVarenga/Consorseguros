@@ -1,0 +1,55 @@
+<div class="custom-table-wrapper" style="width: 100%; overflow-x: auto; margin: 1.5rem 0;">
+  <style>
+    .tabla-estatica-lluvias {
+      width: 100%;
+      border-collapse: collapse;
+      font-family: inherit;
+      margin: 0;
+      border: 1px solid #ccc;
+    }
+    .tabla-estatica-lluvias th {
+      background-color: #a81c3f;
+      color: #ffffff;
+      text-align: center;
+      padding: 10px 8px;
+      border: 1px solid #ffffff;
+      font-weight: bold;
+      vertical-align: middle;
+    }
+    .tabla-estatica-lluvias td {
+      padding: 10px 8px;
+      border: 1px solid #e0e0e0;
+      text-align: center;
+      vertical-align: middle;
+    }
+    .tabla-estatica-lluvias .td-left {
+      text-align: left;
+    }
+  </style>
+
+  <table class="tabla-estatica-lluvias">
+    <thead>
+      <tr>
+        <th scope="col" style="width: 15%;">Observatorio</th>
+        <th colspan="6" scope="colgroup">Lluvias mensuales máximas registradas (mm)</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td class="td-left">Bilbao</td>
+        <td>octubre 1885<br>349</td>
+        <td>diciembre 1906<br>355</td>
+        <td>marzo 1869<br>360</td>
+        <td>febrero 1931<br>417</td>
+        <td>diciembre 1874<br>495</td>
+        <td><strong>24-26 agosto 1983<br>480</strong></td>
+      </tr>
+    </tbody>
+  </table>
+
+  {{ if .Get "caption" }}
+    <div class="table-caption">
+      {{ .Get "caption" | markdownify }}
+    </div>
+  {{ end }}
+</div>

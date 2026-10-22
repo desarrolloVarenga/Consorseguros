@@ -1,0 +1,51 @@
+<div class="custom-table-wrapper" style="width: 100%; overflow-x: auto; margin: 1.5rem 0;">
+  <style>
+    .tabla-estatica-lluvia-diaria {
+      width: 100%;
+      border-collapse: collapse;
+      font-family: inherit;
+      margin: 0;
+      border: 1px solid #ccc;
+    }
+    .tabla-estatica-lluvia-diaria th {
+      background-color: #a81c3f;
+      color: #ffffff;
+      text-align: center;
+      padding: 10px 8px;
+      border: 1px solid #ffffff;
+      font-weight: bold;
+      vertical-align: middle;
+    }
+    .tabla-estatica-lluvia-diaria td {
+      padding: 10px 8px;
+      border: 1px solid #e0e0e0;
+      text-align: center;
+      vertical-align: middle;
+    }
+    .tabla-estatica-lluvia-diaria .td-left {
+      text-align: left;
+    }
+  </style>
+
+  <table class="tabla-estatica-lluvia-diaria">
+    <thead>
+      <tr>
+        <th scope="col" style="width: 30%;">Observatorio</th>
+        <th colspan="2" scope="colgroup">Lluvia diaria máxima registrada mm/día</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td class="td-left">Bilbao</td>
+        <td>145</td>
+        <td><strong>26-agosto-83<br>398</strong></td>
+      </tr>
+    </tbody>
+  </table>
+
+  {{ if .Get "caption" }}
+    <div class="table-caption">
+      {{ .Get "caption" | markdownify }}
+    </div>
+  {{ end }}
+</div>

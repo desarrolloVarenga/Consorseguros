@@ -15,6 +15,13 @@
 			<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Editorial</title>
+				<link>http://localhost:1313/revistas/numero-18/editorial/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-18/editorial/</guid>
+				<description>Dedicamos este decimoctavo número de la revista digital del Consorcio de Compensación de Seguros al repaso de una serie de cuestiones de actualidad que estimamos relevantes para el sector asegurador.</description>
+			</item>
+			<item>
+				<title>Editorial</title>
 				<link>http://localhost:1313/revistas/numero-19/editorial/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/revistas/numero-19/editorial/</guid>
@@ -70,6 +77,13 @@
 				<description>En este artículo se va a tratar de recopilar y ordenar la información disponible en los archivos y documentos del CCS de aquella época en lo que se refiere a resultados económicos de este evento para dejar constancia de este episodio y que esta información quede disponible.</description>
 			</item>
 			<item>
+				<title>Evolución de la normativa reguladora de la cobertura de los riesgos extraordinarios por parte del Consorcio de Compensación de Seguros Serie 1954 - mayo 2023</title>
+				<link>http://localhost:1313/revistas/numero-18/evolucion_normativa/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-18/evolucion_normativa/</guid>
+				<description>El Consorcio de Compensación de Seguros nace en el año 1954 como refundición de otros organismos, integrando coberturas de seguros que se han mantenido hasta nuestros días. Entre esas coberturas de seguros, la más significativa desde el punto de vista cuantitativo de recargos recaudados y siniestralidad asumida, es la cobertura de los riesgos extraordinarios, en un origen también denominados riesgos catastróficos.</description>
+			</item>
+			<item>
 				<title>Hoja de ruta de adaptación del sector asegurador frente al cambio climático: de la compensación de daños a la prevención mediante el ejemplo de la restauración a gran escala</title>
 				<link>http://localhost:1313/revistas/numero-24/hoja-de-ruta/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -96,6 +110,13 @@
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/revistas/numero-21/riesgos_crecientes/</guid>
 				<description>Ante un contexto cada vez más complejo, el seguro puede seguir siendo una herramienta que aporte resiliencia y sostenibilidad, siempre que los propios sistemas aseguradores lo sean y que se diseñen de forma que la resiliencia económica que aportan se sume al esfuerzo de otros estamentos, coordinadamente, para aumentar la resiliencia física.</description>
+			</item>
+			<item>
+				<title>40 años de las inundaciones de 1983</title>
+				<link>http://localhost:1313/revistas/numero-19/inundaciones_1983/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-19/inundaciones_1983/</guid>
+				<description>La que hoy denominaríamos DANA (depresión aislada en niveles altos de la atmósfera) no es frecuente en la zona norte de España, pero entonces, proveniente del este, arrastró grandes masas de aire muy frío que provocaron las abundantísimas lluvias.</description>
 			</item>
 			<item>
 				<title>El Pool de riesgo de ciclón australiano. El camino hasta aquí y lo que nos dicen los datos</title>
@@ -133,6 +154,20 @@
 				<description>Realizar una radiografía de la realidad de una empresa resulta harto complicado a medida que su dimensión crece año tras año y cuanto más crecen sus magnitudes, más lo hace también su impacto en la sociedad. Además, en Agroseguro podríamos afirmar que ese impacto redunda de múltiples maneras, porque el objeto de nuestro aseguramiento –las producciones agrícolas y ganaderas– es fundamental para la supervivencia de la mayor parte de los pueblos españoles y para la alimentación de todos nosotros, vivamos en pleno medio rural o en el centro de las ciudades.</description>
 			</item>
 			<item>
+				<title>Uso de aplicaciones digitales en la gestión de desastres naturales</title>
+				<link>http://localhost:1313/revistas/numero-18/aplicaciones_digitales/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-18/aplicaciones_digitales/</guid>
+				<description>Cada año las nuevas tecnologías se incorporan de una nueva forma a nuestro día a día. Su uso se ha consolidado como uno de los cambios que más ha modificado a las sociedades en un breve período de tiempo y lo seguirá haciendo.</description>
+			</item>
+			<item>
+				<title>Análisis de la situación meteorológica que ocasionó las inundaciones de agosto de 1983 en el País Vasco</title>
+				<link>http://localhost:1313/revistas/numero-19/analisis_situacion_meteorologica/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-19/analisis_situacion_meteorologica/</guid>
+				<description>El análisis de la situación meteorológica que causó este episodio, junto con la que causó también muy graves inundaciones en Levante en 1982, resultó crucial para la meteorología española.</description>
+			</item>
+			<item>
 				<title>Anatomía de la inteligencia artificial en la cadena de valor del seguro</title>
 				<link>http://localhost:1313/revistas/numero-20/anatomia_ia/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -161,6 +196,13 @@
 				<description>La nueva legislación cambió el nombre del programa de Comisión de Terremotos (EQC, por su nombre en inglés) a Comisión de Riesgos Naturales (Natural Hazards Commission). Este nuevo nombre es un indicativo importante para que los propietarios sepan que la cobertura está disponible para una serie de riesgos naturales, no solamente terremotos. No se han incluido nuevos peligros, el nuevo nombre solo sirve para recalcar que la cobertura está disponible para un conjunto de peligros más allá del sísmico.</description>
 			</item>
 			<item>
+				<title>Importancia de la modelización computacional y la predicción de riesgos como factores de prevención de enfermedades, como la patología cardiovascular, para reducir la morbimortalidad y la siniestralidad en los seguros de salud</title>
+				<link>http://localhost:1313/revistas/numero-18/modelizacion_computacional/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-18/modelizacion_computacional/</guid>
+				<description>La utilidad de los diferentes tipos de análisis computacionales, tanto descriptivos, como diagnósticos, predictivos, prescriptivos y preventivos, es poder crear modelos predictivos basados en técnicas de regresión.</description>
+			</item>
+			<item>
 				<title>Los seguros agrarios: 45 años protegiendo al sector agrario</title>
 				<link>http://localhost:1313/revistas/numero-22/enesa/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -180,6 +222,13 @@
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/revistas/numero-21/transicion_seguro_obligatorio/</guid>
 				<description>El Pool de Seguros de Catástrofe de Turquía (Turkish Catastrophe Insurance Pool, TCIP por su nombre en inglés o DASK por su denominación en turco) se creó en el año 2000 tras los devastadores terremotos de la región de Mármara el 18 de agosto de 1999. Aunque la Ley de Seguros de Catástrofe permite que TCIP proporciones cobertura de seguro y/o reaseguro frente a peligros naturales, desde su creación, TCIP proporciona únicamente cobertura de seguro de terremotos para propiedades residenciales en Turquía.</description>
+			</item>
+			<item>
+				<title>Las avenidas de agosto de 1983 en Euskadi: hechos y enseñanzas</title>
+				<link>http://localhost:1313/revistas/numero-19/portada_avenidas_agosto/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-19/portada_avenidas_agosto/</guid>
+				<description>La creciente, intensa e imprudentísima ocupación del territorio de las vegas inundables durante buena parte del siglo XX y, también, pero en segundo lugar, que lo que llovió en agosto de 1983 realmente fue un disparate, convirtieron el episodio en un infierno para el que las tecnologías predictivas, de comunicación y de operatividad del momento no estaban preparadas.</description>
 			</item>
 			<item>
 				<title>No todo cabe en un algoritmo</title>
@@ -245,6 +294,13 @@
 				<description>En noviembre de 1997 se generó una enorme borrasca que produjo riadas de graves consecuencias en las localidades de Badajoz, Valverde de Leganés y Mérida, además de en la comarca de las Vegas Bajas del Guadiana. En el presente artículo se describen los daños producidos por las mismas y las actuaciones de la administración hidráulica para reparar dichos daños y tratar de que no se vuelvan a producir.</description>
 			</item>
 			<item>
+				<title>Representación espacio-temporal de los siniestros de riesgos extraordinarios por causas naturales</title>
+				<link>http://localhost:1313/revistas/numero-19/representacion_espacio_temporal/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-19/representacion_espacio_temporal/</guid>
+				<description>Este trabajo hace un análisis de la componente geográfica y temporal de los datos de indemnizaciones y de exposición de bienes asegurados de forma combinada.</description>
+			</item>
+			<item>
 				<title>El seguro de responsabilidad civil derivado de la circulación de vehículos de motor no cubre al conductor asegurado por la muerte de sus familiares causada por su propia conducta Sentencia de la Sala 1ª del Tribunal Supremo de 2 de abril de 2024. Ponente: Sr. Seoane Spiegelberg</title>
 				<link>http://localhost:1313/revistas/numero-20/seguro_responsabilidad_civil/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -280,6 +336,13 @@
 				<description>Este artículo describe las medidas adoptadas por el Consorcio y sus peritos colaboradores para afrontar una siniestralidad inédita, tanto por el número de siniestros como por la gravedad de los daños y su repercusión social y mediática.</description>
 			</item>
 			<item>
+				<title>Las bicicletas eléctricas no son vehículos a motor Comentario de la sentencia del Tribunal de Justicia de la Unión Europea, de 12 de octubre de 2023. Asunto C-286/22</title>
+				<link>http://localhost:1313/revistas/numero-19/bicicletas/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-19/bicicletas/</guid>
+				<description>Esta cuestión está dando lugar a una jurisprudencia ciertamente contradictoria con respecto al criterio de atribución de responsabilidad civil de los usuarios, así como de los propietarios y arrendadores de este tipo de vehículos.</description>
+			</item>
+			<item>
 				<title>Aproveche este momento para integrar inteligencia artificial en su empresa</title>
 				<link>http://localhost:1313/revistas/numero-20/aproveche_integrar_ia/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -306,6 +369,13 @@
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/revistas/numero-24/proyecto_impacto/</guid>
 				<description>El proyecto IMPACTO surge como una iniciativa de colaboración interinstitucional para la compartición de datos y estadísticas sobre eventos, tanto naturales como tecnológicos, considerados prioritarios para protección civil y que ocasionan daños y pérdidas en España.</description>
+			</item>
+			<item>
+				<title>Reseña de Disaster Insurance Reimagined</title>
+				<link>http://localhost:1313/revistas/numero-19/rese%C3%B1a/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-19/rese%C3%B1a/</guid>
+				<description>Disaster Insurance Reimagined (Reimaginando el seguro de catástrofes) es un oportuno libro, escrito por Paula Jarzabkowski, Konstantinos Chalkias, Eugenia Cacciatori y Rebecca Bednarek, disponible en acceso abierto, que aborda estas cuestiones sobre la base de un estudio de cinco años de 17 «Entidades para reducir la brecha de cobertura» (PGE, por sus siglas en inglés), entidades sin ánimo de lucro que ofrecen seguros en 49 países.</description>
 			</item>
 			<item>
 				<title>XI Conferencia Internacional y Asamblea General Anual de IFIGS</title>
