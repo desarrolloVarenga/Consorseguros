@@ -41,5 +41,33 @@
 				<guid>http://localhost:1313/revistas/numero-18/modelizacion_computacional/</guid>
 				<description>La utilidad de los diferentes tipos de análisis computacionales, tanto descriptivos, como diagnósticos, predictivos, prescriptivos y preventivos, es poder crear modelos predictivos basados en técnicas de regresión.</description>
 			</item>
+			<item>
+				<title>Propuesta de Directiva del Parlamento Europeo (PE) y del Consejo sobre responsabilidad por productos defectuosos de 28-09-22 (Liability for Defective Products - PLD)</title>
+				<link>http://localhost:1313/revistas/numero-18/inteligencia_artificial/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-18/inteligencia_artificial/</guid>
+				<description>La Comisión Europea, con fecha 28 de septiembre de 2022, ha adoptado dos propuestas para implementar las normas de responsabilidad a la era digital, la economía circular y el impacto de las cadenas de valor mundiales.</description>
+			</item>
+			<item>
+				<title>El interés asegurado y su distinción con el riesgo objeto del seguro Comentario de la sentencia de la Sala 1ª del Tribunal Supremo de 1 de marzo de 2023</title>
+				<link>http://localhost:1313/revistas/numero-18/jurisprudencia/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-18/jurisprudencia/</guid>
+				<description>En la teoría general de los contratos, el consentimiento, la causa y el objeto son los tres elementos esenciales. En el contrato de seguro, la causa es el riesgo asegurado; mientras que el objeto es el interés asegurado. En ambos casos, ante su inexistencia, la Ley de contrato de seguro (LCS) declara la nulidad del contrato.</description>
+			</item>
+			<item>
+				<title>Manual de riesgos operacionales de Agers</title>
+				<link>http://localhost:1313/revistas/numero-18/guia_agers/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-18/guia_agers/</guid>
+				<description>El pasado mes de septiembre de 2022 tuvo lugar la presentación del Manual de Riesgos Operacionales de AGERS (Asociación Española de Gerencia de Riesgos y Seguros), elaborado por los miembros que forman la Comisión de Expertos de Riesgos de Grandes Empresas entre los que se encuentra, en representación del Consorcio de Compensación de Seguros, María Nuche, Directora de Gestión de Riesgos.</description>
+			</item>
+			<item>
+				<title>Manual de riesgos operacionales de Agers</title>
+				<link>http://localhost:1313/revistas/numero-18/lecturas/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-18/lecturas/</guid>
+				<description>La creciente evidencia de que al clima le está pasando algo grave hace que cada vez haga menos falta intentar convencer a los escépticos de que estamos inmersos en una crisis climática o, como establece la legislación española, en una emergencia climática.</description>
+			</item>
 	</channel>
 </rss>

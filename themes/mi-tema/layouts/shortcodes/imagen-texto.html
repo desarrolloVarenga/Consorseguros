@@ -1,0 +1,52 @@
+<div class="media-block">
+  <style>
+    .media-block {
+      display: flex;
+      flex-direction: column;
+      gap: 1.5rem;
+      margin: 2rem 0;
+      align-items: flex-start;
+    }
+
+    .media-block-img {
+      width: 100%;
+      max-width: 250px;
+      flex-shrink: 0;
+      margin: 0 auto;
+    }
+
+    .media-block-img img {
+      width: 100%;
+      height: auto;
+      display: block;
+      border-radius: 4px;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+    }
+
+    .media-block-content {
+      flex: 1;
+      line-height: 1.6;
+    }
+
+    .media-block-content p:first-child {
+      margin-top: 0;
+    }
+
+    /* Pantallas medianas y grandes: diseño a dos columnas */
+    @media (min-width: 640px) {
+      .media-block {
+        flex-direction: row;
+      }
+      .media-block-img {
+        margin: 0;
+      }
+    }
+  </style>
+
+  <div class="media-block-img">
+    <img src="{{ .Get "src" | relURL }}" alt="{{ .Get "alt" | default "Imagen" }}">
+  </div>
+  <div class="media-block-content">
+    {{ .Inner | markdownify }}
+  </div>
+</div>

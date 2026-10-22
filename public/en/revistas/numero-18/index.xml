@@ -34,5 +34,33 @@
 				<guid>http://localhost:1313/en/revistas/numero-18/modelizacion_computacional/</guid>
 				<description>The different forms of computational science, whether descriptive, diagnostic, predictive, prescriptive, or preventive, are helpful in creating predictive models based on regression techniques.</description>
 			</item>
+			<item>
+				<title>Artificial intelligence and liability: proposed European Commission directives</title>
+				<link>http://localhost:1313/en/revistas/numero-18/inteligencia_artificial/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-18/inteligencia_artificial/</guid>
+				<description>On 28 September 2022 the European Commission passed two proposals to implement rules on liability to adapt to the digital age, the circular economy and the impact of global supply chains.</description>
+			</item>
+			<item>
+				<title>The insured interest and distinguishing it from the insured risk</title>
+				<link>http://localhost:1313/en/revistas/numero-18/jurisprudencia/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-18/jurisprudencia/</guid>
+				<description>In general contract theory, consent, consideration and the subject-matter are the three essential elements. In an insurance contract, the consideration is the insured risk, whereas the subject-matter is the insured interest. In both cases, if they are not present, the Insurance Contracts Act (LCS) declares the contract null and void.</description>
+			</item>
+			<item>
+				<title>AGERS operational risk handbook</title>
+				<link>http://localhost:1313/en/revistas/numero-18/guia_agers/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-18/guia_agers/</guid>
+				<description>The presentation of the Operational Risk Handbook of AGERS (the Spanish Insurance and Risk Management Association) took place in September 2022, a manual written by the members that make up the Committee of Larger Companies Risk Experts, on which sits María Nuche, the Risk Management Director representing the Consorcio de Compensación de Seguros.</description>
+			</item>
+			<item>
+				<title>Some readings for a climate crisis</title>
+				<link>http://localhost:1313/en/revistas/numero-18/lecturas/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-18/lecturas/</guid>
+				<description>The growing evidence that there is something utterly wrong with the climate makes it more and more unnecessary to make efforts to convince sceptics that we are amidst a climate crisis or, as the Spanish legislation states, a climate emergency.</description>
+			</item>
 	</channel>
 </rss>
