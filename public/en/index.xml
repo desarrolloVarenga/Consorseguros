@@ -15,6 +15,13 @@
 			<atom:link href="http://localhost:1313/en/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Editorial</title>
+				<link>http://localhost:1313/en/revistas/numero-16/editorial/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-16/editorial/</guid>
+				<description>Since storm Klaus in 2009, we have entered a phase in which heavy loss events are not merely incidental. Moreover, out of the seven events which have represented the most consequential claims experiences since Klaus, six of them are among the 10 most substantial in terms of cost for extraordinary risk insurance over the past 50 years.</description>
+			</item>
+			<item>
+				<title>Editorial</title>
 				<link>http://localhost:1313/en/revistas/numero-17/editorial/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/en/revistas/numero-17/editorial/</guid>
@@ -82,6 +89,13 @@
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/en/revistas/numero-24/hoja-de-ruta/</guid>
 				<description>Insurance has historically been an essential tool for compensating for damage and facilitating recovery following extreme events. However, the growing losses associated with climate change means that this role should be expanded to not only cover losses after a disaster, but also to explore how to help reduce risk through prevention.</description>
+			</item>
+			<item>
+				<title>Analysis of the seven most significant events which the Consorcio de Compensación de Seguros covered in the 2009-2021 dataset</title>
+				<link>http://localhost:1313/en/revistas/numero-16/analisis_7eventos/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-16/analisis_7eventos/</guid>
+				<description>CCS publishes statistics on extraordinary risks on an annual basis including detailed information on exposure and the loss rate arising, for both events featuring high amounts claimed and those that are less significant. Against this backdrop, this article examines the comparatively major events which the CCS covered in the past 13 years, from 2009 to 2021.</description>
 			</item>
 			<item>
 				<title>Artificial Intelligence and the Insurance Industry: Regulatory and Market Perspectives</title>
@@ -175,6 +189,13 @@
 				<description>On 29 October 2024 a DANA, from the Spanish abbreviation for a closed upper level low or a cut-off low storm system, dropped more than 770 litres per square metre in just 24 hours. To put this in perspective, this is the volume of precipitation that falls on the province of Valencia in 19 months.</description>
 			</item>
 			<item>
+				<title>Storm Klaus</title>
+				<link>http://localhost:1313/en/revistas/numero-16/klaus/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-16/klaus/</guid>
+				<description>An explosive cyclogenesis event occurred in the Atlantic on 23-25 January 2009 and caused a high-impact storm named Klaus. Storm Klaus resulted in more than 265,000 claims handled and more than 564.1 million euros in indemnities paid out by Consorcio de Compensación de Seguros (CCS). It is by far the most severe episode of extreme winds CCS has had to face and at the time posed a major challenge to the insurance industry as a whole.</description>
+			</item>
+			<item>
 				<title>X-ray image of Agroseguro and the Spanish multi-peril agricultural insurance scheme: linchpins of crop and livestock farming in Spain</title>
 				<link>http://localhost:1313/en/revistas/numero-22/radiografia/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -187,6 +208,13 @@
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/en/revistas/numero-20/anatomia_ia/</guid>
 				<description>AI is transforming every aspect of the insurance industry value chain from product personalisation to claims handling and customer service. As the technology advances, it is expected that it will be integrated further and deeper within the insurance sector, resulting in heightened efficiency and enhanced results for insurance companies and their customers .</description>
+			</item>
+			<item>
+				<title>Claims experience for Lorca, 11 May 2011</title>
+				<link>http://localhost:1313/en/revistas/numero-16/lorca/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-16/lorca/</guid>
+				<description>On 11 May 2011 two earthquakes took place with their epicentre close to the city of Lorca (Murcia); the first at 17:05, with a magnitude of 4.5 Mw, and the second at 18:47, with a magnitude of 5.1 Mw. These earthquakes caused the death of nine persons and left 300 injured, some seriously, as well as widespread damage to the city’s buildings, which was acute in some of them.</description>
 			</item>
 			<item>
 				<title>El seguro agrario: experiencia y compromiso</title>
@@ -264,6 +292,13 @@
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/en/revistas/numero-22/ccs_y_su_apoyo_al_sac/</guid>
 				<description>Spain&amp;rsquo;s present successful multi-peril agricultural insurance scheme started out with the 1978 Spanish Multi-peril Agricultural Insurance Act [Ley 87/1978, de 28 de diciembre, de Seguros Agrarios Combinados] (in Spanish) and has just marked the 45th anniversary of the creation of Agroseguro (Agrupación Española de Entidades Aseguradoras de los Seguros Agrarios Combinados, S.A.), Multi-peril Agricultural Insurance Providers, PLC on 17 April 1980.</description>
+			</item>
+			<item>
+				<title>The most common adverse weather phenomena impacting the Iberian Peninsula</title>
+				<link>http://localhost:1313/en/revistas/numero-16/ciclones/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-16/ciclones/</guid>
+				<description>In recent years the media have been focusing attention on bombogenesis events, cut-off lows, heavy coastal storms with high winds and high waves, and even some tornados. These weather phenomena take place occasionally, that is to say, infrequently. Nevertheless, they can in some cases cause high human casualties and have a high economic cost.</description>
 			</item>
 			<item>
 				<title>Transition of compulsory earthquake insurance policy to compulsory disaster insurance policy in Türkiye</title>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Nº 16 Primavera 2022 on My New Hugo Project</title>
+		<link>http://localhost:1313/revistas/numero-16/</link>
+		<description>Recent content in Nº 16 Primavera 2022 on My New Hugo Project</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/revistas/numero-16/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Editorial</title>
+				<link>http://localhost:1313/revistas/numero-16/editorial/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-16/editorial/</guid>
+				<description>Desde la tempestad Klaus, en el año 2009, hemos entrado en una época en la que las siniestralidades importantes no son anecdóticas. Es más, de los siete eventos que han constituido las siniestralidades más importantes desde aquella de Klaus, seis están entre los diez más importantes, por coste, del seguro de riesgos extraordinarios de los últimos 50 años.</description>
+			</item>
+			<item>
+				<title>Análisis de los 7 eventos más importantes cubiertos por el Consorcio de Compensación de Seguros en la serie 2009-2021 PDF</title>
+				<link>http://localhost:1313/revistas/numero-16/analisis_7eventos/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-16/analisis_7eventos/</guid>
+				<description>Anualmente el CCS publica la estadística de riesgos extraordinarios con información detallada de la exposición y la siniestralidad producida, tanto por eventos de elevada cuantía como por eventos de menor relevancia; frente a esto, el presente artículo lleva a cabo un análisis de los eventos más importantes cubiertos por el CCS, en los últimos 13 años, desde 2009 a 2021</description>
+			</item>
+			<item>
+				<title>La tempestad Klaus</title>
+				<link>http://localhost:1313/revistas/numero-16/klaus/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-16/klaus/</guid>
+				<description>La tempestad Klaus, con más de 265.000 solicitudes de indemnización gestionadas y 564,1 M¤ indemnizados por el Consorcio de Compensación de Seguros (CCS) es, con gran diferencia, el episodio de viento extraordinario más importante al que ha tenido que hacer frente esta entidad pública y constituyó, en su momento, un importante reto para el sector asegurador en su conjunto.</description>
+			</item>
+			<item>
+				<title>Siniestralidad de Lorca, 11 de mayo de 2011</title>
+				<link>http://localhost:1313/revistas/numero-16/lorca/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-16/lorca/</guid>
+				<description>El 11 de mayo de 2011 se produjeron dos terremotos con epicentros cercanos a la ciudad de Lorca, el primero, a las 17.05 h, con una magnitud de 4,5 Mw y el segundo, a las 18.47 h, con una magnitud de 5,1 Mw. Dichos terremotos produjeron el fallecimiento de 9 personas, más de 300 heridos, algunos de gravedad, y daños generalizados en los inmuebles de la ciudad, severos en algunos de ellos.</description>
+			</item>
+			<item>
+				<title>Fenómenos meteorológicos adversos más comunes que afectan a la Península Ibérica</title>
+				<link>http://localhost:1313/revistas/numero-16/ciclones/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-16/ciclones/</guid>
+				<description>En los últimos años los medios de comunicación han venido hablando de ciclogénesis explosivas, danas, fenómenos costeros adversos con vientos huracanados y grandes olas o incluso algunos tornados. Estos fenómenos meteorológicos son ocasionales y, por tanto, infrecuentes. Pero, en algunos casos, tienen un alto coste en términos de pérdidas humanas y económicas.</description>
+			</item>
+			<item>
+				<title>Las siniestralidades de Gloria</title>
+				<link>http://localhost:1313/revistas/numero-16/gloria/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-16/gloria/</guid>
+				<description>El Consorcio de Compensación de Seguros (CCS) denomina siniestralidad a un conjunto de siniestros con cobertura del Seguro de Riesgos Extraordinarios sucedidos en una o varias zonas geográficas en un periodo de tiempo relativamente breve, que en el caso de los que tienen origen meteorológico suele oscilar entre 1 y 7 días. La que conocemos como «siniestralidad Gloria» comprende siniestros sucedidos entre el 18 y el 25 de enero de 2020 y tiene su núcleo en la «borrasca Gloria».</description>
+			</item>
+	</channel>
+</rss>

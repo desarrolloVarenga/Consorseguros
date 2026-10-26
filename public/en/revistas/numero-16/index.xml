@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Nº 16 Primavera 2022 on My New Hugo Project</title>
+		<link>http://localhost:1313/en/revistas/numero-16/</link>
+		<description>Recent content in Nº 16 Primavera 2022 on My New Hugo Project</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/en/revistas/numero-16/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Editorial</title>
+				<link>http://localhost:1313/en/revistas/numero-16/editorial/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-16/editorial/</guid>
+				<description>Since storm Klaus in 2009, we have entered a phase in which heavy loss events are not merely incidental. Moreover, out of the seven events which have represented the most consequential claims experiences since Klaus, six of them are among the 10 most substantial in terms of cost for extraordinary risk insurance over the past 50 years.</description>
+			</item>
+			<item>
+				<title>Analysis of the seven most significant events which the Consorcio de Compensación de Seguros covered in the 2009-2021 dataset</title>
+				<link>http://localhost:1313/en/revistas/numero-16/analisis_7eventos/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-16/analisis_7eventos/</guid>
+				<description>CCS publishes statistics on extraordinary risks on an annual basis including detailed information on exposure and the loss rate arising, for both events featuring high amounts claimed and those that are less significant. Against this backdrop, this article examines the comparatively major events which the CCS covered in the past 13 years, from 2009 to 2021.</description>
+			</item>
+			<item>
+				<title>Storm Klaus</title>
+				<link>http://localhost:1313/en/revistas/numero-16/klaus/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-16/klaus/</guid>
+				<description>An explosive cyclogenesis event occurred in the Atlantic on 23-25 January 2009 and caused a high-impact storm named Klaus. Storm Klaus resulted in more than 265,000 claims handled and more than 564.1 million euros in indemnities paid out by Consorcio de Compensación de Seguros (CCS). It is by far the most severe episode of extreme winds CCS has had to face and at the time posed a major challenge to the insurance industry as a whole.</description>
+			</item>
+			<item>
+				<title>Claims experience for Lorca, 11 May 2011</title>
+				<link>http://localhost:1313/en/revistas/numero-16/lorca/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-16/lorca/</guid>
+				<description>On 11 May 2011 two earthquakes took place with their epicentre close to the city of Lorca (Murcia); the first at 17:05, with a magnitude of 4.5 Mw, and the second at 18:47, with a magnitude of 5.1 Mw. These earthquakes caused the death of nine persons and left 300 injured, some seriously, as well as widespread damage to the city’s buildings, which was acute in some of them.</description>
+			</item>
+			<item>
+				<title>The most common adverse weather phenomena impacting the Iberian Peninsula</title>
+				<link>http://localhost:1313/en/revistas/numero-16/ciclones/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-16/ciclones/</guid>
+				<description>In recent years the media have been focusing attention on bombogenesis events, cut-off lows, heavy coastal storms with high winds and high waves, and even some tornados. These weather phenomena take place occasionally, that is to say, infrequently. Nevertheless, they can in some cases cause high human casualties and have a high economic cost.</description>
+			</item>
+	</channel>
+</rss>
