@@ -1,4 +1,4 @@
-<div class="media-block">
+<div class="media-block {{ if eq (.Get "reverse") "true" }}is-reversed{{ end }}">
   <style>
     .media-block {
       display: flex;
@@ -36,6 +36,9 @@
     @media (min-width: 640px) {
       .media-block {
         flex-direction: row;
+      }
+      .media-block.is-reversed {
+        flex-direction: row-reverse;
       }
       .media-block-img {
         margin: 0;

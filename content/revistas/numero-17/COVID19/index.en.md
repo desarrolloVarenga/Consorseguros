@@ -1,0 +1,269 @@
+---
+title: "COVID-19 and the declarations of the states of alarm"
+category: "Reviews"
+pdf_download: "/pdf/num22/editorial.pdf"
+sidebar_image: "/images/numero-17/foto_portada17_COVID19.jpg"
+sidebar_text: "Oddly, one of the most common arguments put forward by claimants is the strange claim that they did not have the opportunity to review the specifications of or limits on the lost profit cover before signing the policy, something that is hard to verify unless the insured has first signed an insurance proposal or precontractual information document and then later the policy in accordance with section 3 Insurance Act. Another common argument used by claimants is that these clauses describing lost profit relied on by insurers are limiting (the descriptions exclude cases) or are unclear or partially vitiate the scope of coverage being purchased."
+weight: 9
+image: "/images/numero-17/foto_portada17_COVID19.jpg"
+summary: "The health situation caused by COVID-19 first made itself felt in China in late 2019 and subsequently spread to Europe in early 2020, leading the World Health Organization to raise the level of the COVID-19 public health emergency to an international pandemic on 11 March 2020."
+authors:
+    - name: "Santiago Espinosa Blanco"
+    - institution: "Assistant Director, Legal Affairs"
+    - institution: "Consorcio de Compensación de Seguros"
+---
+## Introduction
+The health situation caused by COVID-19 first made itself felt in China in late 2019 and subsequently spread to Europe in early 2020, leading the World Health Organization to raise the level of the COVID-19 public health emergency to an international pandemic on 11 March 2020.
+
+This health crisis, unprecedented in the past century, devastated countries all over the world, collapsing national health systems with enormous numbers of people falling ill and subsequently a huge death toll, caused the governments of the different countries take a series of urgent measures that as a rule tended to be rather drastic.
+
+In an attempt to keep the disease from spreading and to protect the health and safety of the citizenry, the government issued Spanish Royal Decree 463/2020 of 14 March 2020 declaring a state of alarm to manage the COVID-19 virus health emergency [Real Decreto 463/2020, de 14 de marzo 2020, por el que se declara el estado de alarma para la gestión de la situación de crisis sanitaria ocasionada por el COVID-19], which was published in Spain's Official State Gazette [Boletín Oficial del Estado] that same day.
+
+The decree contained a series of measures. For our purposes in this article, the ones of interest to us on the one hand restricted the free movement of persons, limiting it solely to the activities enumerated in the decree, and on the other hand ordered retail shops and establishments (other than grocers' and shops selling specified essential commodities), public entertainment establishments, leisure and sporting establishments, hotels, and restaurants that did not offer home delivery to be closed.
+
+{{< figura src="/images/numero-17/COVID19_03.jpg" caption="" source="" >}}
+
+With certain changes, these prohibitions and restrictions were extended several times until midnight on 21 June 2020, and in many cases they brought the business activities of large numbers of businesses, shopkeepers, and tradespeople to a halt, inevitably causing a drop in earnings, which in some cases tailed off to zero. Many of the persons affected who had loss of profit covers in their insurance policies have sought to remedy this situation by bringing claims based on those covers, in many cases without a clear understanding of the scope of the coverage they had purchased. This has given rise to large numbers of claims being brought by the insured against their insurers. More claims are still being instituted even now, though perhaps less than before, when many shopkeepers clutched at this possibility as their sole hope of being able to refloat their businesses.
+
+## Business interruption cover background and the Insurance Act
+### Background
+
+With the exception of certain historical precedents in the seventeenth and eighteenth centuries, legislation traditionally held loss of profit not to be insurable. In fact, formerly property owners even had to bear at least a 10% share of losses to their belongings in the case of property damage claims, except when an insured party was travelling with his or her own merchandise. This would seem to indicate a certain mistrust of the insured by lawmakers in that period.
+
+Starting in the nineteenth century, these biases began to be left behind, and the idea of loss of profit as insurable began to gain force in legislation on the continent of Europe, influenced by the situation in the English-speaking countries, where coverage was more extensive. Business interruption insurance was therefore envisaged in the 1885 Spanish Commercial Code [Código de Comercio].
+
+Accordingly, section 395 Commercial Code (repealed by the Spanish Insurance Act Ley de Contrato de Seguro), provided as follows in respect of fire insurance:
+
+{{< callout >}}
+*Unless otherwise agreed, fire insurance will not cover losses suffered by the insured as a result of lost work, business stoppage, lost returns from a burned property, or any similar causes that produce losses or harm.*
+{{< /callout >}}
+
+Section 743 Commercial Code (repealed by sections 406 to 467 Spanish Maritime Navigation Act [Ley de Navegación Marítima], which regulates marine insurance contracts and has repealed the provisions on marine insurance in the Commercial Code) likewise made provision for insurance in marine insurance by express covenant. The Insurance Act precludes direct applicability but not secondary applicability where not provided for in the Maritime Navigation Act. Section 743 provided that "**expected profit**" could be insured:
+
+{{< callout >}}
+*§ 2. What can be insured and its assessment*
+
+*Section 743. Marine insurance may cover:*
+*…/…*
+
+*7. The amount of charters and **expected profit**...*
+{{< /callout >}}
+
+### Insurance Act
+
+Business interruption insurance, though in some sections referred to as "expectation loss", is regulated in Title II (INSURANCE AGAINST LOSS), Chapter Five (Business interruption insurance) Insurance Act, specifically in sections 63 to 67.
+
+Section 63 defines this as follows:
+
+{{< callout >}}
+*Under business interruption insurance the insurer agrees to indemnify the insured against lost revenues that could have been earned by a transaction or business activity had the loss described in the contract not occurred, up to the limits set by law and in the contract.*
+
+*This insurance may be arranged as a separate policy or may be added as a covenant to another, different contract.*
+{{< /callout >}}
+
+It is therefore essential for this type of insurance, and indeed for all insurance generally, to describe and specify clearly the loss or types of loss covered in the insurance policy.
+
+Section 64 provides:
+
+{{< callout >}}
+*Where the policyholder or the insured arrange, in respect of a given object, a business interruption insurance policy with one insurer and a property insurance policy with a different insurer, the policyholder or insured must immediately notify the existence of the other policy to each of the insurers. Notice will include not only the company name of the insurer from which the other policy has been purchased but also the sum insured and other essential details. Failure to give notice will, where applicable, give rise to the effects envisaged in Title One, Chapter Two of this Act.*
+{{< /callout >}}
+
+This article reflects what has been a common practice in relation to business interruption insurance in our country's market, namely, joint engagement of both types of insurance. Because property insurance is based on the indemnity principle and the prohibition against unjust enrichment, actual general property insurance and expectation loss insurance are usually taken out together, given the close connection between certain both these types of insurance. For instance, this is the case for salvage costs covered by property insurance (general damage) and coverage of the extraordinary expenses caused by a loss, normally included in the business interruption cover, or the effects of salvage measures in case of fire, which usually shorten the time a company has to stop doing business and hence reduce lost profits.
+
+For this reason, in the uncommon case in which an insured takes out property insurance from one insurer and business interruption insurance from another, section 64 Insurance Act requires the insured to notify each insurer of the existence of both policies, the sums insured, and the basic covers. Property damage and lost profit from a given cause are usually taken out with the same insurer, but the law includes this precaution because this is not always the case.
+
+Section 65 stipulates the minimum content of business interruption insurance unless otherwise stipulated, and section 66 again makes express reference to the need to specify the events covered by the insurance contract. This shows that the natural content of this cover is insurance for a given expectation loss supplementarily to the general property insurance cover of the policy, not an abstract general lost profit cover for any reason, although there is no prohibition against purchasing a general lost profit cover. Section 67 reiterates that this business interruption insurance is normally a supplementary cover in a general property insurance policy and therefore prohibits the parties from predetermining the amount of the indemnity where lost profits are insured separately.
+
+As already mentioned, based on this convention, the lost profit cover contained in the vast majority of Spanish business interruption policies requires the prior existence of material damage covered by the policy. That is, in these cases, business interruption insurance is not a separate cover but one that is conditional upon the occurrence of damage to insured property by one of the covers provided for in the policy that have actually been enumerated in the particular terms and conditions, not by another cause.
+
+## Legal claims
+The legal claims discussed here can be divided into two groups, firstly, legal claims brought against insurers, and secondly, legal claims brought against Consorcio de Compensación de Seguros (CCS), which have fortunately been few. The former are discussed first.
+
+### Claims against insurers
+
+This generic category lumps together the different legal claims brought by the insured against regular insurers. To begin with, it is not easy to group these claims into a single category, in that each insurer has a different type of standard policy containing different covers and in particular specifying those covers differently, in some cases in the form of clauses specifying the insured risk and in others in the form of agreed limits on coverage. Taken together with the different arguments put forward by insurers in the answers to the claims and the broad range of interpretations of one and the same clause by different triers of fact, each claim and each judgment should really be considered separately based on the facts of each case. However, the author will try to make certain general considerations by way of an overview of the situation, if only as a rough approach.
+
+Oddly, one of the most common arguments put forward by claimants is the strange claim that they did not have the opportunity to review the specifications of or limits on the lost profit cover before signing the policy. This claim is something that is hard to verify, unless the insured has first signed an insurance proposal or precontractual information document and then later the policy in accordance with section 3 Insurance Act.
+
+Another common argument used by claimants is that these clauses describing lost profit relied on by insurers are limiting (the descriptions exclude cases) or are unclear or partially vitiate the scope of coverage being purchased. Some courts have accepted these assertions based on the settled doctrine of the Spanish Supreme Court requiring limiting clauses to be signed twice and the contra proferentem doctrine that ambiguous clauses should be construed against the interests of the party that provided the wording, both taken in the framework of the "in dubio pro ’insured’" principle [interpretation favourable to the insured] that underpin cases of this kind. In contrast, in their statements of defence, insurers have made little use of the precept set out in the last paragraph of section 8 Insurance Act allowing a policyholder to demand that an insurer remedy a discrepancy between the content of the policy and the clauses agreed to before the policy was taken out within one month of handover of the policy in the hypothetical case in which clauses differing from those in the policy had in fact been agreed before the policy was signed, as claimants have sometimes argued. Or at least this has not been addressed in the few judgments we have been able to review so far.
+
+In any case, whether a given clause limits rights or defines the risk is a decision at the discretion of the courts, so it should not be surprising to find that judgments by different courts have interpreted a given clause differently. An example of this comes from the Provincial Court of Appeals of Girona. After handing down two judgments finding that the clause linking the lost profit cover to the existence of material damage limited rights, on 23 March 2022 the Board of Judges of the Civil Division subsequently took the decision set out below pursuant to section 264 Spanish Judiciary Act [Ley Orgánica del Poder Judicial] by a majority vote of six to two. This decision was relied upon in the Court's own judgment of 20 June 2022:
+
+{{< callout >}}
+*… 1. Covers in property insurance policies whose particular terms and conditions included an indemnity clause for business interruption or lost profit will not be applicable for complete or partial close of the business ensuing from the declaration of the state of alarm. In these policies, the insured risk is damage to the business premises (the building structure) or to the insured objects inside (the contents) resulting from the causes envisaged. Stoppage of business activities or lost profit will only give rise to right to an indemnity where they are the consequence of damage to the insured property. These circumstances have not arisen in the case of the declaration of the state of alarm.*
+{{< /callout >}}
+
+The Board also unanimously took a second decision:
+
+{{< callout >}}
+*… 2. The clauses set out in the standard terms of a property insurance policy stipulating that the indemnities for business interruption or lost profits are applicable only to the risks specified in the particular terms and conditions or excluding coverage where closure is by government order or the like do not limit the rights of the insured but rather specify the risk covered.*
+{{< /callout >}}
+
+The judgment of 12 December 2019 by the Supreme Court sitting en banc summarised the doctrine on the difference because limiting clauses and specifying clauses in the following terms. No comment is needed.
+
+{{< callout >}}
+*In principle, a specifying clause defines the purpose of the contract and sets the scope of the commitment assumed by the insurance company, and hence if a loss occurs outside the scope specified as explicitly included or excluded in the contract, it does not give rise to an obligation by the insurance company to cover that loss. Limiting clauses, by contrast, have a different role, namely, where a risk has occurred, they serve to restrict, condition, or modify the insured's right to compensation.*
+{{< /callout >}}
+
+The issues ordinarily in dispute in these legal proceedings on which the courts will have to adjudicate in future mainly concern the general questions noted above. The detailed legal arguments in each case are much broader in scope and are outside the focus of this article.
+
+### Claims against CCS
+
+As already mentioned above, other insured parties have also sued CCS, either secondarily to the insurer or separately in place of the insurer, on grounds that the COVID-19 pandemic was itself an extraordinary risk and as such should be covered by CCS.
+
+Generally speaking, setting aside individual differences in certain cases, these claims are based on the argument that the pandemic and the declaration of the state of alarm are not ordinary events but are instead extraordinary events and hence that since CCS's task is to cover extraordinary risks, it should cover these claims for lost profit.
+
+In replying to this argument, it should be noted that it is necessary to differentiate between the technical legal notion of the phrase "**extraordinary risk insurance**" and the concept of risk commonly referred to as "extraordinary" in the vernacular. In this latter case, which is a lay concept, according to the dictionary of Spain's Royal Spanish Academy, extraordinary means **outside the natural order or the commonplace**.
+
+As a technical insurance concept, **extraordinary risk insurance** is insurance that covers only those risks specified and defined in the legislation on extraordinary risks. This risk specification has the function of a ***numerus clausus***.
+
+In the vernacular, a loss is extraordinary when it does not happen often, e.g., a lightning strike or a gas explosion. Fortunately, these are not normal events, yet they are ordinary risks covered by most ordinary insurers under most policies, usually together with fire in the case of lightning (fire, lightning, and explosion). Similarly, an airplane crash is not normal or ordinary, in the common sense of the word, but this does not make it an "extraordinary risk", hence the above-mentioned claim that the pandemic and the decree are extraordinary risks is entirely incorrect, technically speaking.
+
+Extraordinary risks are either the risks as prescribed by law (CCS's Enabling Statute [Estatuto Legal del Consorcio aprobado por RDL 7/2004], the "Statute") and the Implementing Regulations on Extraordinary Risks enacted by Spanish Royal Decree 300/2004 [Reglamento de Riesgos Extraordinarios, aprobado por Real Decreto 300/2004] (the "Implementing Regulations"), or they are simply not extraordinary risks.
+
+As stated above, the Statute and the Implementing Regulations, more specifically sections 6, 7, and 8 Statute, prescribe the specific extraordinary risks to people and property covered by the extraordinary risk insurance cover. For instance, section 6(1) Statute states:
+
+{{< callout >}}
+
+*… Section 6. On extraordinary risks to persons and property.*
+*1. In matters involving extraordinary risks, the purpose of the Consorcio shall be to indemnify, in the manner specified in this Statute, in the form of compensation, losses arising from extraordinary events that occur in Spain that affect risks located in Spain.*
+*The Consorcio shall also indemnify personal injuries sustained as a result of extraordinary events that take place outside Spain for policyholders whose usual place of residence is Spain.*
+*For these purposes, losses shall be direct injury to persons and damage to property and pecuniary losses incurred as a consequence of the former in the terms and subject to the limits prescribed by regulation. Extraordinary events shall likewise mean, in the terms prescribed by regulation:*
+*a) The following natural phenomena: earthquakes and tsunamis, extraordinary floods, volcanic eruptions, atypical cyclonic storms, and falling celestial objects and meteorites.*
+*b) Events caused by violence resulting from acts of terrorism, rebellion, sedition, riots, and civil unrest.*
+*c) Acts or action taken by the armed forces or law enforcement agencies in peacetime.*
+
+{{< /callout >}}
+
+This Section, namely, item 1, paragraph 3, prescribes and specifies **two essential aspects** for understanding the extraordinary risk insurance scheme.
+
+a) **The first aspect** refers to **what is to be understood by "losses arising from extraordinary events"** or what this will mean in the wording of that provision.
+
+According to the dictionary of the Royal Spanish Academy, the word loss means:
+
+1. **f. A lack or deprivation of something that had been possessed.**
+2. **f. Harm or impairment to something.**
+3. **f. An amount or a thing lost.**
+
+The above general reference to losses set forth in the Statute is a concept that encompasses two aspects, as the Statute itself states:
+
+1. Direct injury to persons or damage to property, i.e., what is generally referred to as injury or damage but which fall within the grammatical meaning of "losses", and
+
+2. Pecuniary losses resulting from direct injury or damage in the terms and subject to the limits prescribed by regulation, generally referred to as lost profit or expectation loss.
+
+According to the second part of this section of the Statute:
+
+{{< callout >}}
+
+*(… losses shall be direct injury to persons and damage to property and pecuniary losses incurred as a consequence of the former in the terms and subject to the limits prescribed by regulation ....)*
+
+{{< /callout >}}
+
+It can likewise clearly be seen that the only pecuniary losses covered are those resulting from directly covered damage suffered by the insured property. The essential condition is the existence of direct damage covered by the policy. Absent direct damage to the property, the extraordinary risk insurance scheme does not cover pecuniary losses.
+
+b) **The second aspect** set forth in this section is **what comprises extraordinary risks** or, as this provision is worded:
+
+{{< callout >}}
+
+*Extraordinary events shall likewise mean, in the terms prescribed by regulation:*
+
+*a) The following natural phenomena: earthquakes and tsunamis, extraordinary floods, volcanic eruptions, atypical cyclonic storms, and falling celestial objects and meteorites.*
+
+*b) Events caused by violence resulting from acts of terrorism, rebellion, sedition, riots, and civil unrest.*
+
+*c) Acts or action taken by the armed forces or law enforcement agencies in peacetime.*
+
+{{< /callout >}}
+
+Thus, it should be noted that there are only THREE types of extraordinary risk, a clear ***NUMERUS CLAUSUS***, namely:
+
+a) The following natural phenomena: earthquakes and tsunamis, extraordinary floods, volcanic eruptions, atypical cyclonic storms, and falling celestial objects and meteorites.
+
+b) Events caused by violence resulting from acts of terrorism, rebellion, sedition, riots, and civil unrest.
+
+c) Action by the armed forces or law enforcement agencies in times of peace.
+
+That is all. These specific risks are the ones covered according to law. The pandemic caused by COVID-19 is a worldwide tragedy that has had grave adverse effects on people and businesses all around the globe, but it is not one of the extraordinary risks protected under the extraordinary risk insurance scheme. It is not one of the stated natural phenomena; nor is it an act of terrorism, rebellion, sedition, or civil unrest; nor is it harm caused by the armed forces or law enforcement agencies, and the same can be said for the decree declaring the state of alarm.
+
+As we can see, the Statute itself prescribes what comprises the extraordinary risks, only leaving the individual definitions of those risks to the **Implementing Regulations**. Rule 1 in the Implementing Regulations states:
+
+{{< callout >}}
+
+*Rule 1. Risks covered.*
+*1. In matters involving the extraordinary risk insurance scheme covered by these Implementing Regulations, the purpose of the Consorcio de Compensación de Seguros shall be to indemnify, in the manner specified in these Regulations, losses arising from extraordinary events that occur in Spain that affect risks located in Spain, in the form of compensation.*
+*For these purposes, losses shall be direct injury to persons and damage to property and lost profit incurred as a consequence of the former in the terms and subject to the limits prescribed in these Implementing Regulations.*
+*Extraordinary events shall likewise mean, in the terms laid down in these Implementing Regulations:*
+*a) The following natural phenomena: earthquakes and tsunamis, extraordinary floods, volcanic eruptions, atypical cyclonic storms, and falling celestial objects and meteorites.*
+*b) Events caused by violence resulting from acts of terrorism, rebellion, sedition, riots, and civil unrest.*
+*c) Acts or action taken by the armed forces or law enforcement agencies in peacetime.*
+
+{{< /callout >}}
+
+Section 2 sets forth the definitions of the only events considered to be extraordinary risks in the Implementing Regulations. As stipulated in the Statute, these are:
+
+{{< callout >}}
+
+Rule 2. Definitions.
+
+1. For purpose of covering extraordinary risks, these shall mean:
+
+a) Earthquake: sudden shaking of the ground propagating in all directions produced by movement of the Earth's crust or a deeper locus.
+
+b) Tsunami: violent movement of the waters of the ocean as a result of shaking of the sea bed caused by forces acting inside the Earth.
+
+c) Extraordinary flood: inundation of land caused by the direct action of rainwater, meltwater, or waters from lakes with natural outlets, rivers or inlets, or natural surface watercourses when they overflow their natural beds or channels, and coastal ocean wave damage. Inundations caused by waters from dams, canals, sewage systems, collectors, and other underground channels built by man that burst, break, or malfunction from causes other than extraordinary risks covered by the Consorcio de Compensación de Seguros, or by rain falling directly on the insured risk, or by rainfall runoff collected by rooftops, drainage systems, or courtyards will not be defined as a flood.
+
+d) Volcanic eruption: the outflow of gaseous, liquid, or solid material ejected by a volcano.
+
+e) Atypical cyclonic storm: extremely severe adverse atmospheric weather produced by:
+
+1.º Violent tropical cyclones, defined as simultaneously having wind speeds above 96 km/h averaged by 10-minute intervals, i.e., covering a distance of more than 16,000 m during that interval, and precipitation in excess of 40 l/m²/h.
+
+2.º Intense cold lows, with advected Arctic air, comprising wind speeds higher than 84 km/h, likewise averaged by 10-minute intervals, i.e., covering a distance of more than 14,000 m during that interval, coupled with potential temperatures lower than 6ºC below zero measured at sea level pressure at the closest point on the coast.
+
+3.º Tornadoes, defined as extratropical cyclones generating rotating storms produced by an extremely violent storm, taking the form of a cloud column narrow in diameter projecting downwards from a cumulonimbus cloud to the ground.
+
+4.º Extreme winds, defined as winds gusting at speeds higher than 120 km/h. A gust is defined as the highest wind speed sustained for a three-second interval.
+
+For purposes of delimiting the geographic area affected by the weather event described, the Consorcio de Compensación de Seguros shall provide the National Weather Service with any and all measurements it obtains from other parties for comparison by the Service and shall enlist the Service's assistance in marking out the geographic extent based on extrapolating existing measurements using the most advanced scientific standards to achieve the greatest possible uniformity in defining the area and avoid excluding isolated loci for which there is reasonable doubt, even when specific measurements are lacking, taking into account records made in outlying municipalities and, where appropriate, municipalities adjacent to them.
+
+f) Falling celestial objects and meteorites: impacts by celestial objects unrelated to human activities from the space outside the Earth's atmosphere on the surface of the ground.
+
+g) Terrorism: any violent act carried out for the purpose of destabilising the established political system or causing fear and insecurity in the society where it takes place.
+
+h) Rebellion: the events and acts referred to in sections 472 to 484 Spanish Criminal Code [Código Penal].
+
+i) Sedition: the events and acts referred to in sections 544 to 549 Criminal Code.
+
+j) Riot: any violent movement directed against the authorities to obtain satisfaction for certain claims that are social, economic, or political in nature where the act is not a terrorist act or considered civil unrest.
+
+k) Civil unrest: any group action for the purpose of disturbing the peace that upsets law and order and causes injury to persons or damage to property, where the action is not a terrorist act or considered a riot.
+
+l) Acts or actions taken by the armed forces or law enforcement agencies in peacetime: acts or actions rooted in operations by the armed forces or Spanish law enforcement agencies or national, regional, or local police forces that cause damage to the property of, or harm to, persons who do not belong to the units of the armed forces or law enforcement agencies involved in taking the action.
+
+{{< /callout >}}
+
+In addition to the above, specifically in relation to lost profit in which connection extraordinary events and extraordinary risks and all other requirements must be satisfied for there to be entitlement to lost profit coverage, rule 3 Implementing Regulations (RD 300/2004) states in reference to lost profit generally:
+
+{{< callout >}}
+
+… 1. For purposes of coverage of extraordinary risks by the Consorcio de Compensación de Seguros, lost profit is understood to have occurred where the ordinary earnings of the insured's business activities are altered by reason of stoppage, suspension, or reduction of the business or production processes of the business activity concerned as a consequence of one of the extraordinary events envisaged in these Implementing Regulations. The terms of coverage for purposes of quantifying the alteration and the part of that alteration that is indemnifiable and determining the indemnity and coverage periods shall be as stipulated in the ordinary policy, without prejudice to the special terms prescribed in these Implementing Regulations, in particular in Rule 10.
+
+...2. For lost profit ensuing from an event envisaged in these Implementing Regulations to be indemnifiable by the Consorcio de Compensación de Seguros, it must be covered under one of the ordinary risks of fire, explosion, theft, atmospheric phenomena, or machinery breakage or breakdown under an ordinary policy of the kind specified in the following section; there must be direct damage to the property insured under the policy in question or another policy and the property must be owned by or be at the disposal of the insured; therefore, lost profit resulting from damage suffered by other property or harm to other natural or legal persons other than the insured by reason of, e.g., goods or services those parties owe but cannot supply to the insured as a consequence of the extraordinary event shall not be covered. For the above purposes, flooding or destruction of or damage to the direct accessways to a property owned by the insured as a consequence of an extraordinary event which prevents the property from being accessed shall be considered to be direct damage to that property, even where the accessways in question have not been insured...
+{{< /callout >}}
+
+In other words, having all the foregoing in mind, from a technical standpoint it must be concluded that the pandemic and the state of alarm cannot be considered to be extraordinary risks and/or that restriction of the activities carried on at the premises cannot be considered to be direct harm.
+
+To date, fifteen claims for lost profit suffered during the state of alarm have been brought against CCS in all, separately or jointly from or secondarily to the insurer of the ordinary risks, as the case may be. Most of the claimants are involved in the food and drink sector, primarily bars and restaurants, though there are also hotels, night clubs, automobile repair shops, leasing arrangements for restaurant premises, and even cinemas.
+
+The outcomes of these proceedings can be said to have been clearly favourable to CCS. In particular, one claim was withdrawn by the claimant based on the response to the claim, and judgments have been delivered in five other proceedings. All five judgments have found in favour of CCS, though some have been appealed by the other party and hence are not yet final.
+
+Finally, the geographic distribution of the above claims by region has been seven in Catalonia, two in the Balearic Islands, two in Madrid, and one each in the Basque Country, Castilla y León, Andalusia, and Galicia.
+
+To conclude, it is our expectation that the rulings will continue to be favourable as they have been up to now and will continue to hold that the pandemic and the state of alarm cannot be considered to be extraordinary risks.
+
+{{< destacado-rojo >}}
+## Conclusion
+Summing up, it can be seen from the above that the legal issues relating to lost profits as a consequence of the pandemic and the specific manner in which lost profit covers are included and limited in policies will ultimately have to be decided by the Supreme Court based on the specific policy wordings, inasmuch as some appeals to the Supreme Court have already been lodged. Nevertheless, final rulings like those already issued by the Provincial Court of Appeals of Girona on, for instance, whether the policy clauses for supplementary lost profit coverage in property insurance limit rights or, as we believe, simply specify the insured risk, and whether exclusions of coverage of lost profits arising from business closings ordered by the authorities are valid, will clearly be useful to throw light on general issues relating to business interruption insurance, though this final chapter in the story remains to be written.
+{{< /destacado-rojo >}}

@@ -2,6 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/revistas/numero-17/editorial/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/revistas/numero-17/editorial/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/revistas/numero-17/editorial/"
+                />
+  </url><url>
     <loc>http://localhost:1313/revistas/numero-18/editorial/</loc>
     <xhtml:link
                 rel="alternate"
@@ -98,6 +110,18 @@
                 href="http://localhost:1313/en/revistas/numero-22/1980/"
                 />
   </url><url>
+    <loc>http://localhost:1313/revistas/numero-17/bic_mapfre/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/revistas/numero-17/bic_mapfre/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/revistas/numero-17/bic_mapfre/"
+                />
+  </url><url>
     <loc>http://localhost:1313/revistas/numero-19/analisis_documentacion_historica/</loc>
     <xhtml:link
                 rel="alternate"
@@ -136,6 +160,18 @@
                 href="http://localhost:1313/en/revistas/numero-20/ia_perspectivas/"
                 />
   </url><url>
+    <loc>http://localhost:1313/revistas/numero-17/mcu/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/revistas/numero-17/mcu/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/revistas/numero-17/mcu/"
+                />
+  </url><url>
     <loc>http://localhost:1313/revistas/numero-23/riesgos-extraordinarios/</loc>
     <xhtml:link
                 rel="alternate"
@@ -170,6 +206,18 @@
                 rel="alternate"
                 hreflang="en-US"
                 href="http://localhost:1313/en/revistas/numero-19/inundaciones_1983/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/revistas/numero-17/aseguramiento_bienes_culturales/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/revistas/numero-17/aseguramiento_bienes_culturales/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/revistas/numero-17/aseguramiento_bienes_culturales/"
                 />
   </url><url>
     <loc>http://localhost:1313/revistas/numero-21/australia/</loc>
@@ -340,6 +388,18 @@
                 href="http://localhost:1313/en/revistas/numero-22/ccs_y_su_apoyo_al_sac/"
                 />
   </url><url>
+    <loc>http://localhost:1313/revistas/numero-17/portugal/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/revistas/numero-17/portugal/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/revistas/numero-17/portugal/"
+                />
+  </url><url>
     <loc>http://localhost:1313/revistas/numero-21/transicion_seguro_obligatorio/</loc>
     <xhtml:link
                 rel="alternate"
@@ -474,6 +534,18 @@
                 href="http://localhost:1313/en/revistas/numero-20/prevencion_riesgos_naturales/"
                 />
   </url><url>
+    <loc>http://localhost:1313/revistas/numero-17/siniestros_asociados_patrimonio_cultural/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/revistas/numero-17/siniestros_asociados_patrimonio_cultural/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/revistas/numero-17/siniestros_asociados_patrimonio_cultural/"
+                />
+  </url><url>
     <loc>http://localhost:1313/revistas/numero-21/riadas_1997/</loc>
     <xhtml:link
                 rel="alternate"
@@ -582,6 +654,18 @@
                 href="http://localhost:1313/en/revistas/numero-18/guia_agers/"
                 />
   </url><url>
+    <loc>http://localhost:1313/revistas/numero-17/peritar_bic/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/revistas/numero-17/peritar_bic/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/revistas/numero-17/peritar_bic/"
+                />
+  </url><url>
     <loc>http://localhost:1313/revistas/numero-20/aproveche_integrar_ia/</loc>
     <xhtml:link
                 rel="alternate"
@@ -616,6 +700,18 @@
                 rel="alternate"
                 hreflang="en-US"
                 href="http://localhost:1313/en/revistas/numero-22/fsfc/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/revistas/numero-17/implantacion_medidas_mejora/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/revistas/numero-17/implantacion_medidas_mejora/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/revistas/numero-17/implantacion_medidas_mejora/"
                 />
   </url><url>
     <loc>http://localhost:1313/revistas/numero-18/lecturas/</loc>
@@ -678,6 +774,18 @@
                 href="http://localhost:1313/en/revistas/numero-21/conductor_versus_ocupante/"
                 />
   </url><url>
+    <loc>http://localhost:1313/revistas/numero-17/covid19/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/revistas/numero-17/covid19/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/revistas/numero-17/covid19/"
+                />
+  </url><url>
     <loc>http://localhost:1313/revistas/numero-23/vision/</loc>
     <xhtml:link
                 rel="alternate"
@@ -700,6 +808,18 @@
                 rel="alternate"
                 hreflang="en-US"
                 href="http://localhost:1313/en/revistas/numero-20/road_to_conscious_machines/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/revistas/numero-17/aon/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/revistas/numero-17/aon/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/revistas/numero-17/aon/"
                 />
   </url><url>
     <loc>http://localhost:1313/revistas/numero-24/</loc>
@@ -804,6 +924,19 @@
                 rel="alternate"
                 hreflang="en-US"
                 href="http://localhost:1313/en/revistas/numero-18/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/revistas/numero-17/</loc>
+    <lastmod>2024-07-12T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/revistas/numero-17/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/revistas/numero-17/"
                 />
   </url><url>
     <loc>http://localhost:1313/tags/blue/</loc>

@@ -15,6 +15,13 @@
 			<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Editorial</title>
+				<link>http://localhost:1313/revistas/numero-17/editorial/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-17/editorial/</guid>
+				<description>La dilatada experiencia aseguradora del Consorcio de Compensación de Seguros (CCS) dentro del desempeño de sus funciones en el Seguro de Riesgos Extraordinarios le ha llevado a enfrentarse en numerosas ocasiones a la indemnización de daños en bienes singulares, normalmente de índole cultural, como edificios históricos, obras de arte, bibliotecas y otros .</description>
+			</item>
+			<item>
+				<title>Editorial</title>
 				<link>http://localhost:1313/revistas/numero-18/editorial/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/revistas/numero-18/editorial/</guid>
@@ -70,6 +77,13 @@
 				<description>La Agrupación Española de Entidades Aseguradoras de los Seguros Agrarios Combinados, S.A. se constituyó en 1980 gracias al impulso inicial y el compromiso de 25 entidades aseguradoras y tras un extenso trabajo legislativo de los representantes políticos de la época. Fue, no cabe duda, un proceso desarrollado en un momento histórico para nuestro país y nuestra democracia, en el que se consideró que un seguro agrario era un pilar para la España que se quería construir.</description>
 			</item>
 			<item>
+				<title>Bienes de interés cultural</title>
+				<link>http://localhost:1313/revistas/numero-17/bic_mapfre/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-17/bic_mapfre/</guid>
+				<description>Desde el punto de vista conceptual, por bienes de interés cultural (BIC) se entienden aquellos integrantes del Patrimonio Histórico Español en la legislación estatal, a los cuales se les otorga un especial nivel de protección. También se asigna el código BIC a aquellos bienes inmuebles de todo el territorio español, de cualquier otra titularidad que no sea estatal, y que estén incluidos en las categorías establecidas por la legislación autonómica.</description>
+			</item>
+			<item>
 				<title>Documentación histórica relativa a las inundaciones del País Vasco de agosto de 1983</title>
 				<link>http://localhost:1313/revistas/numero-19/analisis_documentacion_historica/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -98,6 +112,13 @@
 				<description>Dentro del intenso proceso de transformación digital en el que se encuentran inmersas la economía y la sociedad en general, observamos cómo en el sector financiero y, dentro de él, en el ámbito asegurador, se ha producido en los últimos años un notable avance en la utilización de nuevas tecnologías que han llegado para quedarse.</description>
 			</item>
 			<item>
+				<title>La Garantía del Estado para obras de interés cultural</title>
+				<link>http://localhost:1313/revistas/numero-17/mcu/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-17/mcu/</guid>
+				<description>Desde el punto de vista conceptual, por bienes de interés cultural (BIC) se entienden aquellos integrantes del Patrimonio Histórico Español en la legislación estatal, a los cuales se les otorga un especial nivel de protección. También se asigna el código BIC a aquellos bienes inmuebles de todo el territorio español, de cualquier otra titularidad que no sea estatal, y que estén incluidos en las categorías establecidas por la legislación autonómica.</description>
+			</item>
+			<item>
 				<title>Las inundaciones de la DANA de octubre-noviembre de 2024: el mayor reto de la historia del Seguro de Riesgos Extraordinarios</title>
 				<link>http://localhost:1313/revistas/numero-23/riesgos-extraordinarios/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -117,6 +138,13 @@
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/revistas/numero-19/inundaciones_1983/</guid>
 				<description>La que hoy denominaríamos DANA (depresión aislada en niveles altos de la atmósfera) no es frecuente en la zona norte de España, pero entonces, proveniente del este, arrastró grandes masas de aire muy frío que provocaron las abundantísimas lluvias.</description>
+			</item>
+			<item>
+				<title>Aseguramiento de bienes culturales bajo la perspectiva de la mediación aseguradora</title>
+				<link>http://localhost:1313/revistas/numero-17/aseguramiento_bienes_culturales/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-17/aseguramiento_bienes_culturales/</guid>
+				<description>El sector de las obras de arte ha tenido un amplio desarrollo en los últimos años empujado por la creciente incorporación de nuevos coleccionistas. El interés de las administraciones por desarrollar exposiciones permanentes o temporales, como polo de atracción turística, tiene un claro impacto económico que despierta el interés de multitud de operadores económicos. De forma paralela, la industria aseguradora ha ido adaptando sus productos a las necesidades, cada vez más sofisticadas, de los titulares de obras y colecciones.</description>
 			</item>
 			<item>
 				<title>El Pool de riesgo de ciclón australiano. El camino hasta aquí y lo que nos dicen los datos</title>
@@ -217,6 +245,13 @@
 				<description>La Agrupación Española de Entidades Aseguradoras de los Seguros Agrarios Combinados, S.A. se constituyó en 1980 gracias al impulso inicial y el compromiso de 25 entidades aseguradoras y tras un extenso trabajo legislativo de los representantes políticos de la época. Fue, no cabe duda, un proceso desarrollado en un momento histórico para nuestro país y nuestra democracia, en el que se consideró que un seguro agrario era un pilar para la España que se quería construir.</description>
 			</item>
 			<item>
+				<title>El seguro de edificios singulares: el caso de Portugal</title>
+				<link>http://localhost:1313/revistas/numero-17/portugal/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-17/portugal/</guid>
+				<description>Los edificios singulares constituyen elementos clave en cualquier ciudad, patrimonio limitado que convive con la arquitectura moderna y reviste de personalidad el paisaje urbano. Conforman una memoria de valor incalculable en la historia de la civilización. La mayoría de nosotros estaremos de acuerdo en que merecen mayor grado de consideración, tanto en su conservación como cuando llega el momento de asegurarlos.</description>
+			</item>
+			<item>
 				<title>La transición del seguro obligatorio de terremotos al seguro obligatorio de riesgos catastróficos en Turquía</title>
 				<link>http://localhost:1313/revistas/numero-21/transicion_seguro_obligatorio/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -301,6 +336,13 @@
 				<description>A lo largo de la historia han existido desastres naturales que han forzado a las sociedades a adaptarse, prepararse y evolucionar, llevando a la humanidad al nivel de protección y desarrollo actual. Si bien es cierto que estas evoluciones nos han llevado a estar más protegidos de los peligros, la sensación es que la sociedad, en muchos casos, se olvida de que estos eventos existen y son posibles, y solo nos acordamos de ellos en el momento en el que ocurren.</description>
 			</item>
 			<item>
+				<title>Las particularidades de los siniestros asociados al patrimonio cultural</title>
+				<link>http://localhost:1313/revistas/numero-17/siniestros_asociados_patrimonio_cultural/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-17/siniestros_asociados_patrimonio_cultural/</guid>
+				<description>Los «fallos humanos», las catástrofes meteorológicas, el transporte o las incidencias durante los trabajos de mantenimiento o limpieza son algunas de las principales causas que originan la mayoría de los siniestros que afectan al patrimonio cultural.</description>
+			</item>
+			<item>
 				<title>Las riadas de noviembre de 1997 en la provincia de Badajoz y las actuaciones posteriores de la administración hidráulica</title>
 				<link>http://localhost:1313/revistas/numero-21/riadas_1997/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -364,6 +406,13 @@
 				<description>El pasado mes de septiembre de 2022 tuvo lugar la presentación del Manual de Riesgos Operacionales de AGERS (Asociación Española de Gerencia de Riesgos y Seguros), elaborado por los miembros que forman la Comisión de Expertos de Riesgos de Grandes Empresas entre los que se encuentra, en representación del Consorcio de Compensación de Seguros, María Nuche, Directora de Gestión de Riesgos.</description>
 			</item>
 			<item>
+				<title>Peritación para el Consorcio de Compensación de Seguros de daños producidos en bienes de interés cultural por riesgos extraordinarios</title>
+				<link>http://localhost:1313/revistas/numero-17/peritar_bic/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-17/peritar_bic/</guid>
+				<description>Este artículo trata de explicar de forma breve, a través de la experiencia particular de las autoras y mediante algunos ejemplos, la forma y el fondo del proceso pericial de inmuebles catalogados como BIC (Bien de Interés Cultural) y otros singulares de especial interés, pero sin protección, que en cualquier caso forman parte del patrimonio identitario de una población y que han sufrido daños por un acontecimiento de carácter extraordinario con cobertura por el Consorcio de Compensación de Seguros (CCS).</description>
+			</item>
+			<item>
 				<title>Aproveche este momento para integrar inteligencia artificial en su empresa</title>
 				<link>http://localhost:1313/revistas/numero-20/aproveche_integrar_ia/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -383,6 +432,13 @@
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/revistas/numero-22/fsfc/</guid>
 				<description>Los sistemas agroalimentarios enfrentan riesgos múltiples, simultáneos y cada vez más interconectados, que superan la capacidad de los modelos tradicionales de asistencia y financiamiento. El desafío es garantizar que el sistema siga funcionando cuando todo lo demás falla: que las cosechas lleguen a los mercados, que los ingresos rurales no se derrumben y que el acceso a alimentos no se interrumpa ante cada shock.</description>
+			</item>
+			<item>
+				<title>La implantación de medidas de mejora de la resiliencia en edificios históricos</title>
+				<link>http://localhost:1313/revistas/numero-17/implantacion_medidas_mejora/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-17/implantacion_medidas_mejora/</guid>
+				<description>En los últimos años el efecto del cambio climático se ha añadido a los problemas de ocupación de las zonas inundables, multiplicando los daños que se producen con cada evento. El enfoque habitual, centrado en controlar la fuente de la inundación (el cauce, el mar, la lluvia&amp;hellip;), debe complementarse con medidas de autoprotección de la población y de las edificaciones afectadas.</description>
 			</item>
 			<item>
 				<title>Manual de riesgos operacionales de Agers</title>
@@ -420,6 +476,13 @@
 				<description>En este trabajo, basado esencialmente en una sentencia de la Audiencia Provincial de Cartagena y en una cuestión prejudicial planteada ante el Tribunal de Justicia de la Unión Europea (TJUE) por un tribunal de los Paí­ses Bajos, queremos profundizar sobre la consideración de lo que debe entenderse como conductor de un vehí­culo</description>
 			</item>
 			<item>
+				<title>El COVID-19 y la declaración del estado de alarma Las reclamaciones judiciales derivadas de ambos a las aseguradoras y al Consorcio de Compensación de Seguros por las pérdidas de beneficios</title>
+				<link>http://localhost:1313/revistas/numero-17/covid19/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-17/covid19/</guid>
+				<description>La situación sanitaria ocasionada por el COVID-19, detectado en Europa en los primeros meses del año 2020, que ya se había dejado sentir en China a finales del año 2019, originó que la Organización Mundial de la Salud elevase, el 11 de marzo de 2020, la situación de emergencia de salud pública a pandemia global.</description>
+			</item>
+			<item>
 				<title>La visión desde Valencia</title>
 				<link>http://localhost:1313/revistas/numero-23/vision/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -432,6 +495,13 @@
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/revistas/numero-20/road_to_conscious_machines/</guid>
 				<description>Para Michael Wooldridge -autor del libro-, que se define a sí mismo como perteneciente a la primera generación de humanos que jugó con un ordenador en su adolescencia, la IA no es tan poderosa ni está tan avanzada como pensamos. De manera rigurosa, pero entretenida y con múltiples ejemplos para facilitar la comprensión, el autor va presentando los conceptos básicos de la IA y explica cómo se ha ido convirtiendo en la potente disciplina que hoy conocemos.</description>
+			</item>
+			<item>
+				<title>Barómetro de Catástrofes 2021 del Observatorio de Catástrofes de la Fundación Aon España</title>
+				<link>http://localhost:1313/revistas/numero-17/aon/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-17/aon/</guid>
+				<description>El Barómetro de Catástrofes 2021 es el primer informe en España que cuantifica y analiza los desastres naturales más relevantes ocurridos en nuestro país en el año anterior: sus causas, su naturaleza, las consecuencias en términos de vidas humanas, los daños materiales y los costes para las instituciones y el sector asegurador, incluyendo índices y métricas de resiliencia y vulnerabilidad social.</description>
 			</item>
 			<item>
 				<title>Post 3</title>

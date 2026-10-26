@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Nº 17 Otoño 2022 on My New Hugo Project</title>
+		<link>http://localhost:1313/revistas/numero-17/</link>
+		<description>Recent content in Nº 17 Otoño 2022 on My New Hugo Project</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/revistas/numero-17/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Editorial</title>
+				<link>http://localhost:1313/revistas/numero-17/editorial/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-17/editorial/</guid>
+				<description>La dilatada experiencia aseguradora del Consorcio de Compensación de Seguros (CCS) dentro del desempeño de sus funciones en el Seguro de Riesgos Extraordinarios le ha llevado a enfrentarse en numerosas ocasiones a la indemnización de daños en bienes singulares, normalmente de índole cultural, como edificios históricos, obras de arte, bibliotecas y otros .</description>
+			</item>
+			<item>
+				<title>Bienes de interés cultural</title>
+				<link>http://localhost:1313/revistas/numero-17/bic_mapfre/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-17/bic_mapfre/</guid>
+				<description>Desde el punto de vista conceptual, por bienes de interés cultural (BIC) se entienden aquellos integrantes del Patrimonio Histórico Español en la legislación estatal, a los cuales se les otorga un especial nivel de protección. También se asigna el código BIC a aquellos bienes inmuebles de todo el territorio español, de cualquier otra titularidad que no sea estatal, y que estén incluidos en las categorías establecidas por la legislación autonómica.</description>
+			</item>
+			<item>
+				<title>La Garantía del Estado para obras de interés cultural</title>
+				<link>http://localhost:1313/revistas/numero-17/mcu/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-17/mcu/</guid>
+				<description>Desde el punto de vista conceptual, por bienes de interés cultural (BIC) se entienden aquellos integrantes del Patrimonio Histórico Español en la legislación estatal, a los cuales se les otorga un especial nivel de protección. También se asigna el código BIC a aquellos bienes inmuebles de todo el territorio español, de cualquier otra titularidad que no sea estatal, y que estén incluidos en las categorías establecidas por la legislación autonómica.</description>
+			</item>
+			<item>
+				<title>Aseguramiento de bienes culturales bajo la perspectiva de la mediación aseguradora</title>
+				<link>http://localhost:1313/revistas/numero-17/aseguramiento_bienes_culturales/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-17/aseguramiento_bienes_culturales/</guid>
+				<description>El sector de las obras de arte ha tenido un amplio desarrollo en los últimos años empujado por la creciente incorporación de nuevos coleccionistas. El interés de las administraciones por desarrollar exposiciones permanentes o temporales, como polo de atracción turística, tiene un claro impacto económico que despierta el interés de multitud de operadores económicos. De forma paralela, la industria aseguradora ha ido adaptando sus productos a las necesidades, cada vez más sofisticadas, de los titulares de obras y colecciones.</description>
+			</item>
+			<item>
+				<title>El seguro de edificios singulares: el caso de Portugal</title>
+				<link>http://localhost:1313/revistas/numero-17/portugal/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-17/portugal/</guid>
+				<description>Los edificios singulares constituyen elementos clave en cualquier ciudad, patrimonio limitado que convive con la arquitectura moderna y reviste de personalidad el paisaje urbano. Conforman una memoria de valor incalculable en la historia de la civilización. La mayoría de nosotros estaremos de acuerdo en que merecen mayor grado de consideración, tanto en su conservación como cuando llega el momento de asegurarlos.</description>
+			</item>
+			<item>
+				<title>Las particularidades de los siniestros asociados al patrimonio cultural</title>
+				<link>http://localhost:1313/revistas/numero-17/siniestros_asociados_patrimonio_cultural/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-17/siniestros_asociados_patrimonio_cultural/</guid>
+				<description>Los «fallos humanos», las catástrofes meteorológicas, el transporte o las incidencias durante los trabajos de mantenimiento o limpieza son algunas de las principales causas que originan la mayoría de los siniestros que afectan al patrimonio cultural.</description>
+			</item>
+			<item>
+				<title>Peritación para el Consorcio de Compensación de Seguros de daños producidos en bienes de interés cultural por riesgos extraordinarios</title>
+				<link>http://localhost:1313/revistas/numero-17/peritar_bic/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-17/peritar_bic/</guid>
+				<description>Este artículo trata de explicar de forma breve, a través de la experiencia particular de las autoras y mediante algunos ejemplos, la forma y el fondo del proceso pericial de inmuebles catalogados como BIC (Bien de Interés Cultural) y otros singulares de especial interés, pero sin protección, que en cualquier caso forman parte del patrimonio identitario de una población y que han sufrido daños por un acontecimiento de carácter extraordinario con cobertura por el Consorcio de Compensación de Seguros (CCS).</description>
+			</item>
+			<item>
+				<title>La implantación de medidas de mejora de la resiliencia en edificios históricos</title>
+				<link>http://localhost:1313/revistas/numero-17/implantacion_medidas_mejora/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-17/implantacion_medidas_mejora/</guid>
+				<description>En los últimos años el efecto del cambio climático se ha añadido a los problemas de ocupación de las zonas inundables, multiplicando los daños que se producen con cada evento. El enfoque habitual, centrado en controlar la fuente de la inundación (el cauce, el mar, la lluvia&amp;hellip;), debe complementarse con medidas de autoprotección de la población y de las edificaciones afectadas.</description>
+			</item>
+			<item>
+				<title>El COVID-19 y la declaración del estado de alarma Las reclamaciones judiciales derivadas de ambos a las aseguradoras y al Consorcio de Compensación de Seguros por las pérdidas de beneficios</title>
+				<link>http://localhost:1313/revistas/numero-17/covid19/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-17/covid19/</guid>
+				<description>La situación sanitaria ocasionada por el COVID-19, detectado en Europa en los primeros meses del año 2020, que ya se había dejado sentir en China a finales del año 2019, originó que la Organización Mundial de la Salud elevase, el 11 de marzo de 2020, la situación de emergencia de salud pública a pandemia global.</description>
+			</item>
+			<item>
+				<title>Barómetro de Catástrofes 2021 del Observatorio de Catástrofes de la Fundación Aon España</title>
+				<link>http://localhost:1313/revistas/numero-17/aon/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-17/aon/</guid>
+				<description>El Barómetro de Catástrofes 2021 es el primer informe en España que cuantifica y analiza los desastres naturales más relevantes ocurridos en nuestro país en el año anterior: sus causas, su naturaleza, las consecuencias en términos de vidas humanas, los daños materiales y los costes para las instituciones y el sector asegurador, incluyendo índices y métricas de resiliencia y vulnerabilidad social.</description>
+			</item>
+	</channel>
+</rss>

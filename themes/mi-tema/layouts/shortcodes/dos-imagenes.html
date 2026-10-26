@@ -1,0 +1,33 @@
+<div class="galeria-dos-columnas">
+  <style>
+    .galeria-dos-columnas {
+      display: grid;
+      grid-template-columns: 1fr;
+      gap: 1.5rem;
+      margin: 2rem 0;
+      align-items: center;
+    }
+
+    .galeria-dos-columnas img {
+      width: 100%;
+      height: auto;
+      display: block;
+      border-radius: 4px;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+    }
+
+    /* En pantallas medianas y grandes se muestran 2 columnas iguales */
+    @media (min-width: 640px) {
+      .galeria-dos-columnas {
+        grid-template-columns: 1fr 1fr;
+      }
+    }
+  </style>
+
+  <div class="galeria-col">
+    <img src="{{ .Get "src1" | relURL }}" alt="{{ .Get "alt1" | default "Imagen 1" }}">
+  </div>
+  <div class="galeria-col">
+    <img src="{{ .Get "src2" | relURL }}" alt="{{ .Get "alt2" | default "Imagen 2" }}">
+  </div>
+</div>
