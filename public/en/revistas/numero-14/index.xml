@@ -20,5 +20,12 @@
 				<guid>http://localhost:1313/en/revistas/numero-14/editorial/</guid>
 				<description>The reader faces the 14th issue of our digital magazine, in which new items related to the main actors dealing with the management of risks aligned with the activities and functions of Consorcio de Compensación de Seguros (CCS) are presented. These actors have important roles in both catastrophic risk and automobile insurance.</description>
 			</item>
+			<item>
+				<title>Analysis of flood loss data in Spain at the municipal level</title>
+				<link>http://localhost:1313/en/revistas/numero-14/inundacion/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-14/inundacion/</guid>
+				<description>That study disclosed a series of spatial characteristics that predispose to higher losses: proximity to the sea or to large river drainage basins and high exposure.</description>
+			</item>
 	</channel>
 </rss>

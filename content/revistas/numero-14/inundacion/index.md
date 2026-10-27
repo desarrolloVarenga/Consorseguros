@@ -112,3 +112,57 @@ Baleares y Canarias responden, lógicamente, a dinámicas de inundación análog
 La Figura 3 representa estas mismas indemnizaciones medias por municipio y año, divididas entre el número de habitantes, con la finalidad de relativizar el efecto de la exposición. En este mapa desaparecen los efectos de los grandes núcleos de población y se ven mejor otros, que reflejan mejor el nivel real de peligrosidad. Los municipios que aparecen con mayores daños por habitante suelen obedecer, en general, a dinámicas de inundaciones repentinas que se producen en cauces cortos, con fuertes pendientes y pocos tiempos de acumulación. Además de en las zonas litorales mediterráneas y del Cantábrico Oriental, ya comentadas, estos efectos aparecen en los Pirineos, la Cordillera Cantábrica (especialmente en su cara sur), la Navarra Media y a ambos lados de las cordilleras Costero Catalana y Penibética (en su sector más occidental). En menor medida, lo mismo sucede en Sierra Morena y los Montes de Toledo.
 
 {{< figura src="/images/numero-14/inundacion_municipio03.png" caption="Figura 3. Indemnización media anual del seguro de riesgos extraordinarios por causa de inundación,  por municipio y habitante (2006-2020)." source="" >}}
+
+
+{{< tabla caption="Ranking de municipios según el coste relativo de daños por habitante y año (€/hab/año)." >}}
+| Nº | Municipio | Cuenca | Provincia | Daños (€/hab/año) |
+| :---: | :--- | :--- | :--- | :---: |
+| 1 | Tirapu | Ebro | Navarra | 1.105,58 |
+| 2 | Beniparrell | Júcar | Valencia | 682,89 |
+| 3 | Frías | Ebro | Burgos | 527,00 |
+| 4 | Vilamòs | Ebro | Lleida | 438,10 |
+| 5 | Fontanilles | Internas de Cataluña | Girona | 384,45 |
+| 6 | Massanes | Internas de Cataluña | Girona | 345,33 |
+| 7 | Vinaixa | Ebro | Lleida | 337,08 |
+| 8 | Castiello de Jaca | Ebro | Huesca | 328,50 |
+| 9 | Los Alcázares | Segura | Murcia | 322,50 |
+| 10 | Pueyo | Ebro | Navarra | 279,78 |
+{{< /tabla >}}
+
+Los diez municipios con más daños por habitante, que figuran en la Tabla 4, coinciden todos en estas circunstancias, con la anotación de que la baja población de alguno de ellos, como Tirapu (40 habitantes) hace que los daños per cápita se disparen. Aunque la serie de datos tiene una duración relativamente larga (15 años), la baja población de alguno de estos municipios hace también posible que eventos de gran importancia tengan un impacto en estas clasificaciones. En la Tabla 5 aparecen los cinco municipios de cada cuenca que presentan mayores daños compensados por habitantes en el periodo de estudio y se confirma la apreciación anterior sobre aquéllos que presentan más daños. Así, comparando los cinco municipios de cada cuenca con más daños indemnizados per cápita, los mayores valores aparecen, en general, en la Cuenca del Ebro (Figura 4), en sus áreas pirenaicas o de la cabecera ibero-cantábrica del río. 
+
+{{< figura src="/images/numero-14/inundacion_municipio_tabla05.png" caption="Tabla 5. Los cinco municipios con mayor media anual por habitante de indemnizaciones por inundación, según cuencas, en el periodo 2006-2020." source="" >}}
+
+{{< figura src="/images/numero-14/inundacion_municipio04.png" caption="Figura 4. Ejemplo de visualización de la cuenca del Ebro en el visor, con daños medios anuales por municipio y habitante, cursos fluviales y zonas inundables con periodo de retorno de 500 años (CNZI)." source="" >}}
+
+A continuación estudiaremos con más detalle los daños producidos según tres grandes clases de riesgo: viviendas y comunidades de vecinos; automóviles y comercios, industrias y otros riesgos similares como oficinas, equipamientos deportivos, educativos, etc.
+
+Las figuras 5, 6 y 7 muestran los daños medios anuales por municipio para cada una de estas tres clases de riesgo, respectivamente.
+
+{{< figura src="/images/numero-14/inundacion_municipio05.png" caption="Figura 5. Indemnización media anual del seguro de riesgos extraordinarios por causa de inundación en viviendas,  por municipio (2006-2020)." source="" >}}
+
+{{< figura src="/images/numero-14/inundacion_municipio06.png" caption="Figura 6. Indemnización media anual del seguro de riesgos extraordinarios por causa de inundación en automóviles,  por municipio (2006-2020)." source="" >}}
+
+{{< figura src="/images/numero-14/inundacion_municipio07.png" caption="Figura 7. Indemnización media anual del seguro de riesgos extraordinarios por causa de inundación en industrias, comercios y otros riesgos similares,  por municipio (2006-2020)." source="" >}}
+
+La información gráfica se complementa con las clasificaciones de las tablas 6 a 11, donde se listan, para cada clase de riesgo, los diez municipios con más daños medios anuales, en total, y los diez municipios con más daños medios anuales por vivienda, vehículo o empresa, respectivamente.
+
+{{< figura src="/images/numero-14/inundacion_municipio_tabla06.png" caption="Tabla 6. Los 10 municipios con mayores daños por inundación en viviendas, media anual." source="" >}}
+
+{{< figura src="/images/numero-14/inundacion_municipio_tabla07.png" caption="Tabla 7. Los 10 municipios con mayores daños por inundación en viviendas, media anual por vivienda expuesta." source="" >}}
+
+{{< figura src="/images/numero-14/inundacion_municipio_tabla08.png" caption="Tabla 8. Los 10 municipios con mayores daños por inundación en automóviles, media anual." source="" >}}
+
+{{< figura src="/images/numero-14/inundacion_municipio_tabla09.png" caption="Tabla 9. Los 10 municipios con mayores daños por inundación en automóviles, media anual por automóvil expuesto." source="" >}}
+
+{{< figura src="/images/numero-14/inundacion_municipio_tabla10.png" caption="Tabla 10. Los 10 municipios con mayores daños por inundación en comercios, industrias y similares, media anual." source="" >}}
+
+{{< figura src="/images/numero-14/inundacion_municipio_tabla11.png" caption="Tabla 11. Los 10 municipios con mayores daños por inundación en comercios, industrias y similares, media anual por empresa expuesta." source="" >}}
+
+De la comparación de ambas fuentes, gráficas y tablas, se pueden extraer conclusiones sobre los efectos de la exposición de las viviendas en zonas con alto nivel de peligrosidad, como la Vega Baja del Segura o el entorno del Mar Menor y, en general, las zonas litorales del sur y el sudeste peninsular, por lo común fuertemente urbanizadas como consecuencia de la presión turística e inmobiliaria. Analizando los daños por municipio y viviendas expuestas, son los factores de proximidad a cauces más o menos definidos los que se ponen más en evidencia. Muchos de estos municipios se encuentran en el tramo medio del Ebro, en Navarra o en el Bajo Segura. 
+
+En el caso de los automóviles, además de los municipios habituales, aparecen otros con gran exposición, como Madrid, Málaga o Valencia, así como Vilagarcía de Arousa en la demarcación de Galicia-Costa. Siendo que sobre este tipo de bienes, por su movilidad, sería más fácil evitar los daños, retirándolos de las zonas inundables en situaciones de aviso de precipitaciones intensas o de inundación, así como reduciendo la vulnerabilidad de los aparcamientos frente al riesgo de inundación, quizá sea esta la clase de riesgo sobre la que sería más fácil y más rápido abordar acciones para reducir el riesgo.
+
+En el caso de las industrias y comercios, que son daños por lo general bastante más cuantiosos que los de las otras dos clases, cabe aventurar que los municipios más afectados lo son más por comercios, oficinas y otras instalaciones similares que por riesgos eminentemente industriales. Si bien en la lista de daños totales hay municipios con fuerte presencia industrial (Tarragona, San Sebastián, Valle de Trápaga, Barcelona, etc.), y que sin duda en esta clase de instalaciones se producen daños y muy importantes, es el efecto de acumulación de muchos comercios, oficinas y otras instalaciones (deportivas, educativas, etc.) los que acaban por hacer subir los daños en las zonas más expuestas al peligro de inundación. Comprobando la lista de los municipios con más daños indemnizados por empresa expuesta, este hecho se pone de manifiesto, puesto que aparecen algunos municipios muy pequeños en la lista, con muy pocos establecimientos comerciales, que hacen subir esta media. Resulta más fácil, relativamente, abordar acciones de reducción del riesgo en unas pocas industrias que, cuando se inundan, sufren daños muy cuantiosos, que sobre una miríada de pequeños comercios e instalaciones, más limitados en su capacidad económica y, quizá, menos conscientes del riesgo. Aquí se vislumbra otra posible línea de actuación prioritaria de cara a la reducción del riesgo de inundación en España.
+
+Como decíamos al principio, es muy difícil sintetizar en unas pocas palabras y gráficas toda la información que contiene este visor y todo el potencial del caudal de datos de indemnizaciones por inundación que posee el Consorcio de Compensación de Seguros y que aquí se pone a disposición de todos los interesados. El mayor valor de estos datos y de este visor es, sin duda, facilitar la toma de conciencia sobre el riesgo de inundación y servir de indicador para la adopción de medidas de reducción del riesgo por las administraciones competentes y por los propios asegurados. 

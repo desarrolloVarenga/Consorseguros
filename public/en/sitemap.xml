@@ -158,6 +158,18 @@
                 href="http://localhost:1313/en/revistas/numero-24/hoja-de-ruta/"
                 />
   </url><url>
+    <loc>http://localhost:1313/en/revistas/numero-14/inundacion/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/revistas/numero-14/inundacion/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/revistas/numero-14/inundacion/"
+                />
+  </url><url>
     <loc>http://localhost:1313/en/revistas/numero-16/analisis_7eventos/</loc>
     <xhtml:link
                 rel="alternate"
