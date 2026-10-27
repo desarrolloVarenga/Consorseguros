@@ -43,7 +43,7 @@ Respecto a los daños personales, las últimas noticias publicadas los fijaron e
 
 La siniestralidad no se desarrolló del mismo modo en todas las zonas ni tuvo costes homogéneos entre ellas. Las mayores diferencias en los mismos vinieron dadas por la intensidad del embate de mar, factor normalmente asociado a daños importantes, así como por el diferente valor de los riesgos según estuvieran situados en zonas industriales, vacacionales o de muy diferentes niveles económicos. Analizaremos estas características en los siniestros de Cataluña, Comunidad Valenciana, Baleares y Andalucía, pues allí encontramos los mayores daños.
 
-{{< tabla caption="Distribución de daños por provincia y clase de riesgo." >}}
+{{< tabla caption="" >}}
 | Provincia | Nº municipios | Siniestros | Coste | Coste medio |
 | :--- | :---: | :---: | :---: | :---: |
 | Barcelona | 219 | 3.825 | 44.718.324,98 € | 11.691,07 € |
@@ -67,7 +67,7 @@ La siniestralidad no se desarrolló del mismo modo en todas las zonas ni tuvo co
 | **Total Gloria inundación** | **913** | **16.926** | **145.356.324,68 €** | **8.587,75 €** |
 {{< /tabla >}}
 
-{{< tabla caption="Distribución de daños por provincia y clase de riesgo." >}}
+{{< tabla caption="" >}}
 | Clase de riesgo | Siniestros | Coste | Coste medio |
 | :--- | :---: | :---: | :---: |
 | Viviendas y comunidades de propietarios | 11.047 | 40.170.177,35 € | 3.636,30 € |
@@ -84,7 +84,7 @@ En Cataluña los caudales de los ríos sufrieron grandes crecidas causando, entr
 
 Los siniestros se distribuyeron por amplias zonas, especialmente en la costa, recibiéndose comunicaciones de siniestros de 516 municipios, el 54 % de los de la comunidad autónoma, llegando al 77 % en la provincia de Girona y al 70 % en la de Barcelona. Sin embargo, solo en 11 municipios se superó el centenar de siniestros y en la gran mayoría encontramos menos de 10, con un promedio de 14. 
 
-{{< tabla caption="Cataluña. Distribución de daños por provincia y clase de riesgo y municipios más afectados." >}}
+{{< tabla caption="" >}}
 | Provincia | Municipios | Municipios con siniestros | % Municipios con siniestros | Siniestros | Siniestros/Municipio |
 | :--- | :---: | :---: | :---: | :---: | :---: |
 | **Barcelona** | 311 | 219 | 70 % | 3.825 | 17 |
@@ -94,7 +94,7 @@ Los siniestros se distribuyeron por amplias zonas, especialmente en la costa, re
 | **Cataluña** | 947 | 516 | 54 % | 7.301 | 14 |
 {{< /tabla >}}
 
-{{< tabla caption="Cataluña. Distribución de daños por provincia y clase de riesgo y municipios más afectados." >}}
+{{< tabla caption="" >}}
 | Provincia | Municipio | Siniestros | Coste | Coste medio |
 | :--- | :--- | :---: | :---: | :---: |
 | **Barcelona** | **Malgrat de Mar** | 1.037 | 8.895.413,20 € | 8.578,03 € |
@@ -110,7 +110,7 @@ Los siniestros se distribuyeron por amplias zonas, especialmente en la costa, re
 | **Barcelona** | **Sant Pol de Mar** | 104 | 626.233,37 € | 6.021,47 € |
 {{< /tabla >}}
 
-{{< tabla caption="Cataluña. Distribución de daños por provincia y clase de riesgo y municipios más afectados." >}}
+{{< tabla caption="" >}}
 | Clase de riesgo | Siniestros | Coste estimado | Coste medio |
 | :--- | :---: | :---: | :---: |
 | **Viviendas y comunidades de propietarios** | 4.538 | 16.669.090,63 € | 3.673,22 € |
@@ -135,7 +135,7 @@ Destacan, por su coste, la inundación de las áreas industriales próximas al r
 
 La inundación de los campings nos lleva a una reflexión sobre la vulnerabilidad de estos establecimientos sitos, con frecuencia y desde luego en este caso, en zonas manifiestamente inundables, donde el siniestro no se transformó en tragedia gracias a que la ocupación era mínima en las fechas invernales en las que sucedió.
 
-{{< tabla caption="Daños por clase de riesgo en la desembocadura del río Tordera." >}}
+{{< tabla caption="" >}}
 | Desbordamiento del río Tordera<br>(Blanes, Tordera, Malgrat de Mar y Palafolls) | Siniestros | Coste |
 | :--- | :---: | :---: |
 | Comercios, almacenes y resto de riesgos | 131 | 6.186.493,45 € |
@@ -151,7 +151,7 @@ El embate de mar en prácticamente toda la costa fue el evento más costoso pues
 
 La intrusión del mar afectó gravemente a los arrozales del Delta del Ebro, sin cobertura del Seguro de Riesgos Extraordinarios, aunque sí del seguro agrario combinado. 
 
-{{< tabla caption="Distribución de daños y expedientes entre inundación y embate de mar en Cataluña." >}}
+{{< tabla caption="" >}}
 | Causa | Siniestros | % Siniestros | Coste | % Coste |
 | :--- | :---: | :---: | :---: | :---: |
 | **Inundación** | 6.764 | 93 % | 68.626.969 | 70 % |
@@ -187,7 +187,7 @@ La dispersión de los siniestros fue algo inferior a la de Cataluña, sin dejar 
 
 La afectación a obras civiles, por embate o inundación, apenas alcanzó al 1 %, correspondiendo el 51 % a viviendas y comunidades de propietarios, el 38 % a comercios y riesgos sencillos y el 7 % a automóviles. La industria tuvo poco peso, con el 3,5 % del coste.
 
-{{< tabla caption="Comunidad Valenciana. Distribución de daños por provincia y clase de riesgo y municipios más afectados." >}}
+{{< tabla caption="" >}}
 | Provincia | Municipios | Municipios con siniestros | % Municipios con siniestro | Siniestros | Siniestros/Municipio |
 | :--- | :---: | :---: | :---: | :---: | :---: |
 | **Castelló/Castellón** | 135 | 34 | 25 % | 1.787 | 53 |
@@ -196,7 +196,7 @@ La afectación a obras civiles, por embate o inundación, apenas alcanzó al 1 %
 | **Comunidad Valenciana** | 542 | 277 | 51 % | 6.412 | 23 |
 {{< /tabla >}}
 
-{{< tabla caption="Comunidad Valenciana. Distribución de daños por provincia y clase de riesgo y municipios más afectados." >}}
+{{< tabla caption="" >}}
 | Provincia | Municipio | Solicitudes registradas | Coste estimado | Coste medio |
 | :--- | :--- | :---: | :---: | :---: |
 | **Castelló/Castellón** | **Peníscola/Peñíscola** | 719 | 6.401.878,62 € | 8.903,86 € |
@@ -218,7 +218,7 @@ La afectación a obras civiles, por embate o inundación, apenas alcanzó al 1 %
 | **Castelló/Castellón** | **Almenara** | 104 | 817.963,71 € | 7.865,04 € |
 {{< /tabla >}}
 
-{{< tabla caption="Comunidad Valenciana. Distribución de daños por provincia y clase de riesgo y municipios más afectados." >}}
+{{< tabla caption="" >}}
 | Clase de riesgo | Siniestros | Coste estimado | Coste medio |
 | :--- | :---: | :---: | :---: |
 | **Viviendas y comunidades de propietarios** | 4.873 | 14.135.225,06 € | 2.901 € |
@@ -240,7 +240,27 @@ La inundación se desató con especial virulencia en la malagueña barriada de C
 
 Pese a tratarse de un núcleo humilde, la intensidad de la riada y la configuración de la zona hicieron que el coste medio de los daños a viviendas y comunidades de propietarios (6.443 €) fuese relativamente elevado, aunque lógicamente muy lejos del de Baleares (11.445 €), causado en zonas de gran poder adquisitivo. 
 
-otras 2 tablas
+{{< tabla caption="" >}}
+| Municipio | Siniestros | Coste | Coste medio |
+| :--- | :---: | :---: | :---: |
+| **Málaga** | 1.708 | 11.377.023,65 € | 6.661,02 € |
+| **Torremolinos** | 174 | 554.248,92 € | 3.185,34 € |
+| **Cártama** | 79 | 239.491,32 € | 3.031,54 € |
+| **Marbella** | 74 | 172.891,32 € | 2.336,37 € |
+| **Coín** | 72 | 145.952,68 € | 2.027,12 € |
+| **Alhaurín de la Torre** | 55 | 321.027,73 € | 5.836,87 € |
+{{< /tabla >}}
+
+{{< tabla caption="" >}}
+| Clase de riesgo | Siniestros | Coste estimado | Coste medio |
+| :--- | :---: | :---: | :---: |
+| **Vehículos automóviles** | 916 | 3.808.515,98 € | 4.158 € |
+| **Viviendas y comunidades de propietarios** | 575 | 3.704.484,03 € | 6.443 € |
+| **Comercios, almacenes y resto de riesgos** | 188 | 3.291.763,16 € | 17.509 € |
+| **Oficinas** | 18 | 295.866,17 € | 16.437 € |
+| **Industriales** | 10 | 147.128,54 € | 14.713 € |
+| **Obras civiles** | 1 | 129.265,77 € | 129.266 € |
+{{< /tabla >}}
 
 ## Inundación en Baleares
 La borrasca en Baleares tuvo especial incidencia en zonas turísticas y los efectos del embate de mar fueron proporcionalmente los mayores. 
@@ -251,7 +271,38 @@ Como hemos visto en las siniestralidades de Cataluña y la Comunidad Valenciana,
 
 En el caso balear el embate alcanzó principalmente a viviendas y comunidades de alto valor, proyectando al alza los costes totales y medios. Fueron precisamente las viviendas y comunidades de propietarios las que mayor número de siniestros (79 %) y coste (77 %) tuvieron en la siniestralidad, y su coste medio (11.445 €), destaca notablemente sobre el de la Comunidad Valenciana (2.901 €), con causas semejantes; lo que nos habla de la diferente intensidad del fenómeno, pero también del diferente valor de los riesgos.
 
-otras 3 tablas
+{{< tabla caption="" >}}
+| Causa | Siniestros | % Siniestros | Coste | % Coste |
+| :--- | :---: | :---: | :---: | :---: |
+| **Inundación** | 290 | 63 % | 2.732.388,09 € | 50 % |
+| **Embate de mar** | 172 | 37 % | 2.729.897,08 € | 50 % |
+| **Total Illes Balears** | **462** | | **5.462.285,17 €** | |
+{{< /tabla >}}
+
+{{< tabla caption="" >}}
+| Clase riesgo | Siniestros | Coste | Coste medio |
+| :--- | :---: | :---: | :---: |
+| **Viviendas y comunidades de propietarios** | 365 | 4.177.415,07 € | 11.444,97 € |
+| **Vehículos automóviles** | 26 | 109.538,99 € | 4.213,04 € |
+| **Comercios, almacenes y resto de riesgos** | 62 | 843.306,80 € | 13.601,72 € |
+| **Oficinas** | 3 | 6.425,28 € | 2.141,76 € |
+| **Industriales** | 5 | 317.156,59 € | 63.431,32 € |
+| **Obras civiles** | 1 | 8.442,44 € | 8.442,44 € |
+{{< /tabla >}}
+
+{{< tabla caption="" >}}
+| Isla | Municipio | Siniestros | Coste | Coste medio |
+| :--- | :--- | :---: | :---: | :---: |
+| **Mallorca** | **Manacor** | 97 | 650.224,57 € | 6.703,35 € |
+| **Mallorca** | **Felanitx** | 87 | 1.609.683,62 € | 18.502,11 € |
+| **Mallorca** | **Santanyí** | 45 | 532.964,00 € | 11.843,64 € |
+| **Mallorca** | **Sant Llorenç des Cardassar** | 36 | 360.459,43 € | 10.012,76 € |
+| **Menorca** | **Sant Lluís** | 35 | 1.097.625,74 € | 31.360,74 € |
+| **Mallorca** | **Son Servera** | 22 | 46.011,00 € | 2.091,41 € |
+| **Mallorca** | **Capdepera** | 18 | 287.809,99 € | 15.989,44 € |
+| **Menorca** | **Ciutadella de Menorca** | 13 | 136.552,64 € | 10.504,05 € |
+| **Mallorca** | **Palma** | 10 | 324.271,48 € | 32.427,15 € |
+{{< /tabla >}}
 
 ### La tempestad ciclónica atípica
 El temporal Gloria tuvo, junto la lluvia y el oleaje, un importante componente de viento que afectó a algunas de las zonas inundadas, pero también a muchas otras. La coincidencia fue significativa en parte de Lleida y de la costa catalana - aunque también alcanzó al interior de Tarragona y penetró en Teruel - algunas áreas de la costa valenciana, en el límite de las provincias de Valencia y Alicante, y en la costa occidental mallorquina.
@@ -283,7 +334,52 @@ Las grandes TCA causadas por el viento generan, como cabe esperar, un número de
 
 Esta distribución también es coherente con el fenómeno de la «España vaciada» pues grandes áreas incluidas dentro de la cobertura tienen escasa población y actividad económica, en definitiva, escasa exposición.
 
-2 tablas
+{{< tabla caption="" >}}
+| Comunidad autónoma | Provincia | Siniestros | Coste | Coste medio |
+| :--- | :--- | :---: | :---: | :---: |
+| **Aragón** | **Teruel** | **25** | **122.588,23 €** | **4.903,53 €** |
+| **Asturias** | **Asturias** | **30** | **13.913,60 €** | **463,79 €** |
+| **Cantabria** | **Cantabria** | **2** | **319,38 €** | **159,69 €** |
+| **Castilla - La Mancha** | **Toledo** | **4** | **1.000,35 €** | **250,09 €** |
+| **Castilla y León** | **Burgos** | 646 | 446.395,71 € | 691,02 € |
+| **Castilla y León** | **Ávila** | 116 | 124.297,77 € | 1.071,53 € |
+| **Castilla y León** | **Soria** | 163 | 91.998,27 € | 564,41 € |
+| **Castilla y León** | **León** | 79 | 59.333,15 € | 751,05 € |
+| **Castilla y León** | **Palencia** | 84 | 50.367,52 € | 599,61 € |
+| **Castilla y León** | **Zamora** | 12 | 11.133,92 € | 927,83 € |
+| **Castilla y León** | **Salamanca** | 17 | 6.571,92 € | 386,58 € |
+| **Total Castilla y León** | | **1.178** | **27.920 €** | **787,71 €** |
+| **Cataluña** | **Barcelona** | 28.981 | 41.527.407,66 € | 1.432,92 € |
+| **Cataluña** | **Girona** | 1.172 | 2.930.125,27 € | 2.500,11 € |
+| **Cataluña** | **Tarragona** | 428 | 754.972,62 € | 1.763,95 € |
+| **Cataluña** | **Lleida** | 165 | 186.806,66 € | 1.132,16 € |
+| **Total Cataluña** | | **30.746** | **45.399.312 €** | **1.476,59 €** |
+| **Comunidad Valenciana** | **València/Valencia** | 5.365 | 6.075.175,27 € | 1.132,37 € |
+| **Comunidad Valenciana** | **Alacant/Alicante** | 1.876 | 2.344.320,15 € | 1.249,64 € |
+| **Comunidad Valenciana** | **Castelló/Castellón** | 13 | 25.767,93 € | 1.982,15 € |
+| **Total Comunidad Valenciana** | | **7.254** | **8.445.263 €** | **1.164,22 €** |
+| **Euskadi** | **Bizkaia** | **14** | **3.858,43 €** | **275,60 €** |
+| **Extremadura** | **Cáceres** | **524** | **335.040,38 €** | **639,39 €** |
+| **Galicia** | **A Coruña** | 56 | 57.720,65 € | 1.030,73 € |
+| **Galicia** | **Lugo** | 71 | 52.887,58 € | 744,90 € |
+| **Galicia** | **Ourense** | 17 | 8.078,76 € | 475,22 € |
+| **Total Galicia** | | **682** | **457.586 €** | **670,95 €** |
+| **Illes Balears** | **Illes Balears** | **1.521** | **1.531.953,93 €** | **1.007,20 €** |
+| **La Rioja** | **La Rioja** | **1** | **218,85 €** | **218,85 €** |
+| **Región de Murcia** | **Murcia** | **590** | **713.138,08 €** | **1.208,71 €** |
+| **Total TCA Gloria** | | **41.972** | **57.475.392,04 €** | **1.369,37 €** |
+{{< /tabla >}}
+
+{{< tabla caption="" >}}
+| Clase de riesgo | Siniestros | Coste | Coste medio |
+| :--- | :---: | :---: | :---: |
+| **Viviendas y comunidades de propietarios** | 37.693 | 34.293.702,47 € | 909,82 € |
+| **Vehículos automóviles** | 2.109 | 19.571.020,47 € | 9.279,76 € |
+| **Comercios, almacenes y resto de riesgos** | 1.594 | 2.821.950,66 € | 1.770,36 € |
+| **Oficinas** | 499 | 510.117,22 € | 1.136,12 € |
+| **Industriales** | 119 | 184.545,62 € | 1.550,80 € |
+| **Obras civiles** | 8 | 94.055,60 € | 11.756,95 € |
+{{< /tabla >}}
 
 {{< destacado-rojo >}}
 ## Conclusión

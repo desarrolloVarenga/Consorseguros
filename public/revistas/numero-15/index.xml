@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Nº 15 Otoño 2021 on My New Hugo Project</title>
+		<link>http://localhost:1313/revistas/numero-15/</link>
+		<description>Recent content in Nº 15 Otoño 2021 on My New Hugo Project</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/revistas/numero-15/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Editorial</title>
+				<link>http://localhost:1313/revistas/numero-15/editorial/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-15/editorial/</guid>
+				<description>El pasado 19 de septiembre de 2021, la naturaleza nos volvió a recordar que vivimos sobre un planeta vivo, en el que ningún elemento, por inmutable que parezca, es estático. Y también nos recordó que las Islas Canarias deben su existencia a una enorme sucesión de eventos similares al que se inició ese día en la dorsal de Cumbre Vieja de la isla de La Palma a lo largo de tampoco demasiados millones de años, en comparación con otros procesos geológicos.</description>
+			</item>
+			<item>
+				<title>La gestión del riesgo volcánico en Colombia: una historia eruptiva con importantes lecciones aprendidas</title>
+				<link>http://localhost:1313/revistas/numero-15/colombia/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-15/colombia/</guid>
+				<description>En los territorios de Castilla y León, País Vasco, Navarra y Aragón son frecuentes las inundaciones causadas por los desbordamientos del río Ebro y sus afluentes o de los diferentes ríos vascos y navarros de la vertiente cantábrica. Existen diversas causas para explicar las inundaciones por desbordamiento de ríos entre las que se encuentran el deshielo o, a veces, las maniobras de desembalse, pero la causa principal tiene siempre su origen en fuertes precipitaciones.</description>
+			</item>
+			<item>
+				<title>El riesgo volcánico en Francia: la respuesta del seguro</title>
+				<link>http://localhost:1313/revistas/numero-15/francia/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-15/francia/</guid>
+				<description>Francia forma parte de los pocos países que cuentan con un dispositivo que garantiza una indemnización adecuada de los daños materiales producidos por un fenómeno natural a particulares, empresas y administraciones locales a un precio asequible. Este dispositivo se manifiesta a partir del régimen de indemnización de las catástrofes naturales (Cat Nat en adelante), creado por la ley de 13 de julio de 1982. Se trata de un sistema asegurador que ha permitido paliar una carencia en la cobertura de los riesgos naturales, que estaban muy poco asegurados hasta ese momento.</description>
+			</item>
+			<item>
+				<title>Peligro volcánico en Italia: un paisaje variado</title>
+				<link>http://localhost:1313/revistas/numero-15/itali/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-15/itali/</guid>
+				<description>Los volcanes italianos representan bien el amplio espectro de posibles estados de actividad y estilos eruptivos: desde volcanes inactivos hasta actividad persistente, desde el volcán más grande de Europa hasta pequeñas islas volcánicas, Italia enfrenta todo tipo de amenazas reales y potenciales de fuentes volcánicas.</description>
+			</item>
+			<item>
+				<title>Peligros volcánicos y gestión de riesgos en Islandia</title>
+				<link>http://localhost:1313/revistas/numero-15/islandia/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-15/islandia/</guid>
+				<description>La actividad volcánica es común en Islandia y las erupciones, que generalmente duran de días a semanas, se producen, de media una vez cada tres años. Aunque algunas erupciones causan daños significativos, la mayoría no lo hacen. Esto se debe principalmente a que Islandia tiene una población muy escasa.</description>
+			</item>
+			<item>
+				<title>La gestión del riesgo volcánico en Japón</title>
+				<link>http://localhost:1313/revistas/numero-15/japon/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-15/japon/</guid>
+				<description>Japón es el cuarto país del mundo con más volcanes activos, 111, tras los Estados Unidos, Rusia e Indonesia. Aunque la superficie de Japón es el 0,25 % de la total del planeta, posee el 7 % de los volcanes activos. El archipiélago japonés se sitúa en el encuentro entre cuatro placas tectónicas, lo que explica la frecuencia con la que ocurren terremotos y erupciones volcánicas.</description>
+			</item>
+			<item>
+				<title>Gestión del riesgo volcánico y seguro en Nueva Zelanda</title>
+				<link>http://localhost:1313/revistas/numero-15/nueva_zelanda/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-15/nueva_zelanda/</guid>
+				<description>Nueva Zelanda no ha experimentado una erupción con daños como la que se está viendo en La Palma a la hora de escribir estas líneas. Tampoco ha experimentado eventos como las coladas de lava del Kilauea, Hawái, en 2018, el tsunami vulcanogénico causado por el Anak Krakatoa, Indonesia, en 2018, la gran emanación de cenizas del volcán Taal, Filipinas, en 2020 o el Calbuco, Chile, en 2015.</description>
+			</item>
+			<item>
+				<title>Actividad volcánica y seguro en Portugal</title>
+				<link>http://localhost:1313/revistas/numero-15/portugal/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-15/portugal/</guid>
+				<description>En la actualidad no hay en Portugal, como en otros países europeos, un fondo de catástrofes o una cobertura específica para los fenómenos sísmicos. A pesar de haberse producido varios intentos en este sentido, la única protección disponible procede del seguro privado.</description>
+			</item>
+			<item>
+				<title>VI Simposium del Observatorio de Catástrofes de la Fundación Aon España «El Coste de las Catástrofes»</title>
+				<link>http://localhost:1313/revistas/numero-15/simposium/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-15/simposium/</guid>
+				<description>El sexto Simposium del Observatorio de Catástrofes de la Fundación Aon España, titulado «El Coste de las Catástrofes», se celebró bajo la Presidencia de Honor de Su Majestad el Rey Felipe VI el pasado 25 de noviembre en la Escuela Nacional de Protección Civil en Madrid.</description>
+			</item>
+			<item>
+				<title>La gestión por el CCS de la siniestralidad de la erupción volcánica de La Palma en 2021</title>
+				<link>http://localhost:1313/revistas/numero-15/gestion_ccs_palma/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-15/gestion_ccs_palma/</guid>
+				<description>El sexto Simposium del Observatorio de Catástrofes de la Fundación Aon España, titulado «El Coste de las Catástrofes», se celebró bajo la Presidencia de Honor de Su Majestad el Rey Felipe VI el pasado 25 de noviembre en la Escuela Nacional de Protección Civil en Madrid.</description>
+			</item>
+			<item>
+				<title>Revisión de las valoraciones del riesgo de erupción volcánica y aplicación al evento de La Palma</title>
+				<link>http://localhost:1313/revistas/numero-15/valoraciones/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-15/valoraciones/</guid>
+				<description>La cobertura de erupción volcánica por parte del Consorcio de Compensación de Seguros se remonta a la aprobación de la Ley de 16 de diciembre de 1954 sobre refundición de los Consorcios de Compensación de Riesgos Catastróficos sobre las Cosas y de Accidentes Individuales en un solo «Consorcio de Compensación de Seguros», e integrando en el mismo los seguros agrícolas, forestales y pecuarios.</description>
+			</item>
+	</channel>
+</rss>

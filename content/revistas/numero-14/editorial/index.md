@@ -1,0 +1,25 @@
+---
+title: "Editorial"
+category: "Editorial"
+pdf_download: "/pdf/num22/editorial.pdf"
+sidebar_image: "/images/numero-14/foto_portada14_editorial.jpg"
+sidebar_text: "El lector se encuentra ante el número decimocuarto de nuestra revista digital, en el que se abordan temas nuevos relacionados con los actores principales en la gestión de riesgos relacionados con las actividades y funciones del Consorcio de Compensación de Seguros (CCS), con papeles importantes tanto en los riesgos de catástrofe como en el seguro del automóvil.  "
+weight: 1
+image: "/images/numero-14//foto_portada14_editorial.jpg"
+summary: "El lector se encuentra ante el número decimocuarto de nuestra revista digital, en el que se abordan temas nuevos relacionados con los actores principales en la gestión de riesgos relacionados con las actividades y funciones del Consorcio de Compensación de Seguros (CCS), con papeles importantes tanto en los riesgos de catástrofe como en el seguro del automóvil."
+---
+El lector se encuentra ante el número decimocuarto de nuestra revista digital, en el que se abordan temas nuevos relacionados con los actores principales en la gestión de riesgos relacionados con las actividades y funciones del Consorcio de Compensación de Seguros (CCS), con papeles importantes tanto en los riesgos de catástrofe como en el seguro del automóvil. Otros artículos de este número profundizan sobre cuestiones ya tratadas anteriormente, pero ofrecen una información más completa o desde otras perspectivas, como corresponde a la evolución editorial que pretendemos que siga esta publicación.
+
+El artículo de portada es el análisis de los datos de indemnizaciones por inundación en España a nivel municipal, que ha sido escrito conjuntamente por las Subdirecciones de Tasaciones y de Estudios del CCS. Se trata de una representación global y con un nivel de detalle sin precedentes de los daños que el CCS indemniza por causa de inundación fluvial y pluvial, junto con un visor para la visualización de estos datos.  
+
+Los objetivos y funciones del Observatorio de Catástrofes de la Fundación AON son descritos por Pedro Tomey, su presidente. Esta iniciativa, que ya está en su quinto año, es una plataforma que reúne al mundo del seguro, de la gestión de las catástrofes y de la generación de conocimiento sobre las mismas y sobre su propia gestión, en la que el CCS mantiene una participación activa.
+
+Muy en relación con el artículo anterior, dado su compromiso con el Observatorio de Catástrofes, dos distinguidos miembros de la Unidad Militar de Emergencias, el Teniente Coronel Jorge Serra y el Teniente Coronel Javier Barranco, describen las funciones y actividades de esta relevante institución, que es una de los primeros intervinientes en situaciones de catástrofes graves.
+
+El Coordinador Científico en el Instituto Volcanológico de Canarias (INVOLCAN), Nemesio Pérez, describe el contexto del riesgo volcánico en el archipiélago canario y algunos aspectos sobre su gestión, que constituye un aspecto novedoso en esta revista. 
+
+En línea con la gestión de los riesgos, en particular el de inundación, este número incluye una contribución de Aránzazu Gurrea-Nozaleda y otros compañeros de la Dirección General del Agua, sobre las iniciativas que este organismo está llevando a cabo para la identificación y reducción del riesgo, incluyendo, muy en particular, un proyecto piloto que otorga ayudas directas a municipios del Campo de Cartagena que, como se verá en el artículo de portada, es una de las zonas más afectadas de España por este riesgo, para medidas de actuación orientadas a la disminución de vulnerabilidad de edificaciones e instalaciones existentes.
+
+Concluye los artículos dedicados a los riesgos naturales y a su gestión una contribución de Mónica Sánchez Bajo, de la Oficina Española de Cambio Climático, que reseña la monografía, editada por el Ministerio para la Transición Ecológica y el Reto Demográfico, sobre «Impactos, vulnerabilidad y adaptación al cambio climático de la actividad aseguradora», la primera en España con este alcance. Esta contribución también destaca los principales aspectos del nuevo Plan Nacional de Cambio Climático 2021-2030, en el que la actividad aseguradora tiene un enfoque específico.
+
+Otra de las actividades importantes del CCS, el seguro del automóvil, ocupa tres contribuciones en este número de la revista: José María Cancer, Director General de CESVIMAP, el Centro de Experimentación y Seguridad Vial de MAPFRE, describe los objetivos, las actividades y los medios de este centro que persigue el aumento de la seguridad vial y la agilización de la tramitación y la reparación de daños en vehículos. Otra contribución, firmada por la subdirectora Técnica y de Reaseguro del CCS, Belén Soriano, hace un repaso de las estadísticas relacionadas con las actividades afrontadas por el CCS en relación con el Seguro Obligatorio del Automóvil. La contribución de jurisprudencia de José Antonio Badillo, delegado en Madrid del CCS, tiene también relación con el seguro del automóvil y comenta una reciente sentencia del Tribunal Supremo sobre la condición de perjudicado en un accidente de circulación. 

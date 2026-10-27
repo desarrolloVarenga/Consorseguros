@@ -1,0 +1,19 @@
+---
+title: "Editorial"
+category: "Editorial"
+pdf_download: "/pdf/num22/editorial.pdf"
+sidebar_image: "/images/numero-15/foto_portada15_editorial.jpg"
+sidebar_text: "We are lucky to edit the probably most international issue in the history of Consorseguros. In it we have contributions from different corners of the World representing risks from all Continents, in which volcano science and insurance experts enlighten us about volcanic risk, its management and its insurance cover. Contributions come from Colombia, France, Iceland, Italy, Japan, New Zealand and Portugal."
+weight: 1
+image: "/images/numero-15//foto_portada15_editorial.jpg"
+summary: "The last September 19th 2021, Nature reminded us that we are on a living planet, in which no element, as permanent as it might seem, is static. And it also reminded us that the Canary Islands owe their very existence to a very long succession of events just like the one that started that very day along the Cumbre Vieja Ridge in the Island of La Palma, along not too many millions of years, compared to other geological processes."
+---
+The last September 19th 2021, Nature reminded us that we are on a living planet, in which no element, as permanent as it might seem, is static. And it also reminded us that the Canary Islands owe their very existence to a very long succession of events just like the one that started that very day along the Cumbre Vieja Ridge in the Island of La Palma, along not too many millions of years, compared to other geological processes.
+
+In fact, many La Palma islanders have been able to experience three volcanic eruption events: the San Juan in 1949, the Teneguía in 1971 and this of 2021, the three of them very much alike and obeying to the same cause, a mantle rift under the somewhat misnamed Cumbre Vieja (Old Peak, in Spanish), that in fact is one of the most active volcanic areas in the Canary Islands, where 8 of the 17 historic (since the 15th Century) eruptions of the archipelago have taken place. For Consorcio de Compensación de Seguros (CCS) it has been, nevertheless, its first experience with volcanic losses: the 1971 event took place in an uninhabited area and caused no losses on insured individuals or properties. The 2011 submarine eruption in El Hierro caused no damage either.
+
+This is the reason why we devote this issue of Consorseguros Digital Magazine to the insurance of volcanic risk. We are lucky to edit the probably most international issue in the history of Consorseguros. In it we have contributions from different corners of the World representing risks from all Continents, in which volcano science and insurance experts enlighten us about volcanic risk, its management and its insurance cover. Contributions come from Colombia, France, Iceland, Italy, Japan, New Zealand and Portugal. We hope the readers can broaden their knowledge about the question as much as we have done during the preparation of this issue.
+
+We would like to thank all and every one of our international contributors for the effort they have made by writing this series of outstanding contributions that raise significantly the level of our digital magazine. We would also like to publicly thank the help received from Mr. Leigh Wolfrom, from OECD, and Ms. Carolina Cárdenas, from Mapfre RE, in identifying part of our magnificent contributors.
+
+We round up this issue with the summary of a very recent event, the Symposium of the AON Foundation Observatory of Catastrophes, that took place in the National School for Civil Protection, in which the volcanic eruption in La Palma was one of the most prominent items tackled.

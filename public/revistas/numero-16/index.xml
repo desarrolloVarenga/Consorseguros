@@ -55,5 +55,26 @@
 				<guid>http://localhost:1313/revistas/numero-16/gloria/</guid>
 				<description>El Consorcio de Compensación de Seguros (CCS) denomina siniestralidad a un conjunto de siniestros con cobertura del Seguro de Riesgos Extraordinarios sucedidos en una o varias zonas geográficas en un periodo de tiempo relativamente breve, que en el caso de los que tienen origen meteorológico suele oscilar entre 1 y 7 días. La que conocemos como «siniestralidad Gloria» comprende siniestros sucedidos entre el 18 y el 25 de enero de 2020 y tiene su núcleo en la «borrasca Gloria».</description>
 			</item>
+			<item>
+				<title>Las danas de 2012 y 2019 en el sureste peninsular</title>
+				<link>http://localhost:1313/revistas/numero-16/dana/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-16/dana/</guid>
+				<description>Tal y como se ha comentado en este y otros números de la revista, el concepto de depresión aislada en niveles altos (DANA) hace referencia a un mínimo de geopotencial y a un embolsamiento de aire frío aislado de la circulación general del oeste con un máximo de baroclinidad en su sector oriental.</description>
+			</item>
+			<item>
+				<title>Inundaciones de Navarra, País Vasco, Aragón y Burgos, 2021</title>
+				<link>http://localhost:1313/revistas/numero-16/inundaciones/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-16/inundaciones/</guid>
+				<description>En los territorios de Castilla y León, País Vasco, Navarra y Aragón son frecuentes las inundaciones causadas por los desbordamientos del río Ebro y sus afluentes o de los diferentes ríos vascos y navarros de la vertiente cantábrica. Existen diversas causas para explicar las inundaciones por desbordamiento de ríos entre las que se encuentran el deshielo o, a veces, las maniobras de desembalse, pero la causa principal tiene siempre su origen en fuertes precipitaciones.</description>
+			</item>
+			<item>
+				<title>La acción subrogatoria del artículo 43 de la Ley de contrato de seguro: última jurisprudencia de la Sala 1ª del Tribunal Supremo</title>
+				<link>http://localhost:1313/revistas/numero-16/accion_subrogatoria/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-16/accion_subrogatoria/</guid>
+				<description>La acción subrogatoria es una de las acciones más habituales interpuestas por las entidades aseguradoras contra terceros responsables de un siniestro y, en muchos casos, cuando estos tienen aseguradora de responsabilidad civil, contra dichas entidades.</description>
+			</item>
 	</channel>
 </rss>

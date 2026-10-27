@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Nº 14 Primavera 2021 on My New Hugo Project</title>
+		<link>http://localhost:1313/revistas/numero-14/</link>
+		<description>Recent content in Nº 14 Primavera 2021 on My New Hugo Project</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/revistas/numero-14/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Editorial</title>
+				<link>http://localhost:1313/revistas/numero-14/editorial/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-14/editorial/</guid>
+				<description>El lector se encuentra ante el número decimocuarto de nuestra revista digital, en el que se abordan temas nuevos relacionados con los actores principales en la gestión de riesgos relacionados con las actividades y funciones del Consorcio de Compensación de Seguros (CCS), con papeles importantes tanto en los riesgos de catástrofe como en el seguro del automóvil.</description>
+			</item>
+			<item>
+				<title>Análisis de los daños por inundación en España a nivel municipal</title>
+				<link>http://localhost:1313/revistas/numero-14/inundacion/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-14/inundacion/</guid>
+				<description>En este trabajo se presenta una herramienta, un visor, que permite visualizar las indemnizaciones por inundación abonadas por el CCS -sin considerar en este caso la inundación costera o embate de mar-, por municipio, en el periodo de los últimos 15 años comprendidos entre 2006 y 2020.</description>
+			</item>
+	</channel>
+</rss>

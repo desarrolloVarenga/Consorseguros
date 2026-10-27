@@ -15,6 +15,20 @@
 			<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Editorial</title>
+				<link>http://localhost:1313/revistas/numero-14/editorial/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-14/editorial/</guid>
+				<description>El lector se encuentra ante el número decimocuarto de nuestra revista digital, en el que se abordan temas nuevos relacionados con los actores principales en la gestión de riesgos relacionados con las actividades y funciones del Consorcio de Compensación de Seguros (CCS), con papeles importantes tanto en los riesgos de catástrofe como en el seguro del automóvil.</description>
+			</item>
+			<item>
+				<title>Editorial</title>
+				<link>http://localhost:1313/revistas/numero-15/editorial/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-15/editorial/</guid>
+				<description>El pasado 19 de septiembre de 2021, la naturaleza nos volvió a recordar que vivimos sobre un planeta vivo, en el que ningún elemento, por inmutable que parezca, es estático. Y también nos recordó que las Islas Canarias deben su existencia a una enorme sucesión de eventos similares al que se inició ese día en la dorsal de Cumbre Vieja de la isla de La Palma a lo largo de tampoco demasiados millones de años, en comparación con otros procesos geológicos.</description>
+			</item>
+			<item>
+				<title>Editorial</title>
 				<link>http://localhost:1313/revistas/numero-16/editorial/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/revistas/numero-16/editorial/</guid>
@@ -91,6 +105,13 @@
 				<description>Anualmente el CCS publica la estadística de riesgos extraordinarios con información detallada de la exposición y la siniestralidad producida, tanto por eventos de elevada cuantía como por eventos de menor relevancia; frente a esto, el presente artículo lleva a cabo un análisis de los eventos más importantes cubiertos por el CCS, en los últimos 13 años, desde 2009 a 2021</description>
 			</item>
 			<item>
+				<title>Análisis de los daños por inundación en España a nivel municipal</title>
+				<link>http://localhost:1313/revistas/numero-14/inundacion/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-14/inundacion/</guid>
+				<description>En este trabajo se presenta una herramienta, un visor, que permite visualizar las indemnizaciones por inundación abonadas por el CCS -sin considerar en este caso la inundación costera o embate de mar-, por municipio, en el periodo de los últimos 15 años comprendidos entre 2006 y 2020.</description>
+			</item>
+			<item>
 				<title>Bienes de interés cultural</title>
 				<link>http://localhost:1313/revistas/numero-17/bic_mapfre/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -133,6 +154,13 @@
 				<description>Desde el punto de vista conceptual, por bienes de interés cultural (BIC) se entienden aquellos integrantes del Patrimonio Histórico Español en la legislación estatal, a los cuales se les otorga un especial nivel de protección. También se asigna el código BIC a aquellos bienes inmuebles de todo el territorio español, de cualquier otra titularidad que no sea estatal, y que estén incluidos en las categorías establecidas por la legislación autonómica.</description>
 			</item>
 			<item>
+				<title>La gestión del riesgo volcánico en Colombia: una historia eruptiva con importantes lecciones aprendidas</title>
+				<link>http://localhost:1313/revistas/numero-15/colombia/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-15/colombia/</guid>
+				<description>En los territorios de Castilla y León, País Vasco, Navarra y Aragón son frecuentes las inundaciones causadas por los desbordamientos del río Ebro y sus afluentes o de los diferentes ríos vascos y navarros de la vertiente cantábrica. Existen diversas causas para explicar las inundaciones por desbordamiento de ríos entre las que se encuentran el deshielo o, a veces, las maniobras de desembalse, pero la causa principal tiene siempre su origen en fuertes precipitaciones.</description>
+			</item>
+			<item>
 				<title>Las inundaciones de la DANA de octubre-noviembre de 2024: el mayor reto de la historia del Seguro de Riesgos Extraordinarios</title>
 				<link>http://localhost:1313/revistas/numero-23/riesgos-extraordinarios/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -166,6 +194,13 @@
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/revistas/numero-21/australia/</guid>
 				<description>Desde el año 2003, la Sociedad Australiana del Pool de Reaseguro (Australian Reinsurance Pool Corporation – ARPC –) ha sido el mecanismo del Gobierno de Australia para proveer cobertura de reaseguro de catástrofe, primero para el riesgo de terrorismo y desde 2022 para los riesgos de ciclón y de inundación relacionada con un ciclón.</description>
+			</item>
+			<item>
+				<title>El riesgo volcánico en Francia: la respuesta del seguro</title>
+				<link>http://localhost:1313/revistas/numero-15/francia/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-15/francia/</guid>
+				<description>Francia forma parte de los pocos países que cuentan con un dispositivo que garantiza una indemnización adecuada de los daños materiales producidos por un fenómeno natural a particulares, empresas y administraciones locales a un precio asequible. Este dispositivo se manifiesta a partir del régimen de indemnización de las catástrofes naturales (Cat Nat en adelante), creado por la ley de 13 de julio de 1982. Se trata de un sistema asegurador que ha permitido paliar una carencia en la cobertura de los riesgos naturales, que estaban muy poco asegurados hasta ese momento.</description>
 			</item>
 			<item>
 				<title>Inteligencia artificial, el motor del cambio en el sector asegurador</title>
@@ -259,6 +294,13 @@
 				<description>El sistema de seguros agrarios combinados en España tiene ya una amplia trayectoria como principal herramienta con la que cuenta el sector agrario para la gestión de los riesgos en las explotaciones agrarias, dando respuesta a la necesidad de proteger las producciones que, por su estrecha vinculación con el medio en el que se desarrollan, siempre son muy vulnerables frente a las adversidades, cada vez más frecuentes en el actual contexto climático.</description>
 			</item>
 			<item>
+				<title>Peligro volcánico en Italia: un paisaje variado</title>
+				<link>http://localhost:1313/revistas/numero-15/itali/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-15/itali/</guid>
+				<description>Los volcanes italianos representan bien el amplio espectro de posibles estados de actividad y estilos eruptivos: desde volcanes inactivos hasta actividad persistente, desde el volcán más grande de Europa hasta pequeñas islas volcánicas, Italia enfrenta todo tipo de amenazas reales y potenciales de fuentes volcánicas.</description>
+			</item>
+			<item>
 				<title>Siniestralidad de Lorca, 11 de mayo de 2011</title>
 				<link>http://localhost:1313/revistas/numero-16/lorca/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -313,6 +355,13 @@
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/revistas/numero-20/algoritmo/</guid>
 				<description>La inteligencia artificial (IA) es un campo en constante evolución, con una historia que abarca décadas de investigación y desarrollo. Desde su concepción en la década de 1950, cuando pioneros como Alan Turing y John McCarthy sentaron las bases teóricas de la inteligencia artificial, hasta su aplicación práctica en la actualidad, la IA ha recorrido un viaje que ha redefinido múltiples aspectos de nuestras vidas.</description>
+			</item>
+			<item>
+				<title>Peligros volcánicos y gestión de riesgos en Islandia</title>
+				<link>http://localhost:1313/revistas/numero-15/islandia/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-15/islandia/</guid>
+				<description>La actividad volcánica es común en Islandia y las erupciones, que generalmente duran de días a semanas, se producen, de media una vez cada tres años. Aunque algunas erupciones causan daños significativos, la mayoría no lo hacen. Esto se debe principalmente a que Islandia tiene una población muy escasa.</description>
 			</item>
 			<item>
 				<title>Prevención de incendios forestales en un contexto de riesgo emergente</title>
@@ -378,6 +427,13 @@
 				<description>A lo largo de la historia han existido desastres naturales que han forzado a las sociedades a adaptarse, prepararse y evolucionar, llevando a la humanidad al nivel de protección y desarrollo actual. Si bien es cierto que estas evoluciones nos han llevado a estar más protegidos de los peligros, la sensación es que la sociedad, en muchos casos, se olvida de que estos eventos existen y son posibles, y solo nos acordamos de ellos en el momento en el que ocurren.</description>
 			</item>
 			<item>
+				<title>La gestión del riesgo volcánico en Japón</title>
+				<link>http://localhost:1313/revistas/numero-15/japon/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-15/japon/</guid>
+				<description>Japón es el cuarto país del mundo con más volcanes activos, 111, tras los Estados Unidos, Rusia e Indonesia. Aunque la superficie de Japón es el 0,25 % de la total del planeta, posee el 7 % de los volcanes activos. El archipiélago japonés se sitúa en el encuentro entre cuatro placas tectónicas, lo que explica la frecuencia con la que ocurren terremotos y erupciones volcánicas.</description>
+			</item>
+			<item>
 				<title>Las particularidades de los siniestros asociados al patrimonio cultural</title>
 				<link>http://localhost:1313/revistas/numero-17/siniestros_asociados_patrimonio_cultural/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -413,6 +469,13 @@
 				<description>En los últimos 10 años, el seguro agrario ha experimentado un significativo crecimiento en términos de aumento del capital asegurado, lo que pone de manifiesto su importancia como instrumento de gestión de riesgos en las explotaciones agrarias y en el sostenimiento de rentas. Pero al mismo tiempo se ha producido un aumento de la siniestralidad y sobre todo un mantenimiento de niveles elevados durante varios años consecutivos, que han alertado sobre la sostenibilidad del sistema.</description>
 			</item>
 			<item>
+				<title>Gestión del riesgo volcánico y seguro en Nueva Zelanda</title>
+				<link>http://localhost:1313/revistas/numero-15/nueva_zelanda/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-15/nueva_zelanda/</guid>
+				<description>Nueva Zelanda no ha experimentado una erupción con daños como la que se está viendo en La Palma a la hora de escribir estas líneas. Tampoco ha experimentado eventos como las coladas de lava del Kilauea, Hawái, en 2018, el tsunami vulcanogénico causado por el Anak Krakatoa, Indonesia, en 2018, la gran emanación de cenizas del volcán Taal, Filipinas, en 2020 o el Calbuco, Chile, en 2015.</description>
+			</item>
+			<item>
 				<title>La cartografía de zonas inundables en España: el SNCZI como herramienta para la gestión del riesgo</title>
 				<link>http://localhost:1313/revistas/numero-24/cartografia/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -441,6 +504,13 @@
 				<description>Esta cuestión está dando lugar a una jurisprudencia ciertamente contradictoria con respecto al criterio de atribución de responsabilidad civil de los usuarios, así como de los propietarios y arrendadores de este tipo de vehículos.</description>
 			</item>
 			<item>
+				<title>Las danas de 2012 y 2019 en el sureste peninsular</title>
+				<link>http://localhost:1313/revistas/numero-16/dana/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-16/dana/</guid>
+				<description>Tal y como se ha comentado en este y otros números de la revista, el concepto de depresión aislada en niveles altos (DANA) hace referencia a un mínimo de geopotencial y a un embolsamiento de aire frío aislado de la circulación general del oeste con un máximo de baroclinidad en su sector oriental.</description>
+			</item>
+			<item>
 				<title>Manual de riesgos operacionales de Agers</title>
 				<link>http://localhost:1313/revistas/numero-18/guia_agers/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -453,6 +523,13 @@
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/revistas/numero-17/peritar_bic/</guid>
 				<description>Este artículo trata de explicar de forma breve, a través de la experiencia particular de las autoras y mediante algunos ejemplos, la forma y el fondo del proceso pericial de inmuebles catalogados como BIC (Bien de Interés Cultural) y otros singulares de especial interés, pero sin protección, que en cualquier caso forman parte del patrimonio identitario de una población y que han sufrido daños por un acontecimiento de carácter extraordinario con cobertura por el Consorcio de Compensación de Seguros (CCS).</description>
+			</item>
+			<item>
+				<title>Actividad volcánica y seguro en Portugal</title>
+				<link>http://localhost:1313/revistas/numero-15/portugal/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-15/portugal/</guid>
+				<description>En la actualidad no hay en Portugal, como en otros países europeos, un fondo de catástrofes o una cobertura específica para los fenómenos sísmicos. A pesar de haberse producido varios intentos en este sentido, la única protección disponible procede del seguro privado.</description>
 			</item>
 			<item>
 				<title>Aproveche este momento para integrar inteligencia artificial en su empresa</title>
@@ -474,6 +551,13 @@
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/revistas/numero-22/fsfc/</guid>
 				<description>Los sistemas agroalimentarios enfrentan riesgos múltiples, simultáneos y cada vez más interconectados, que superan la capacidad de los modelos tradicionales de asistencia y financiamiento. El desafío es garantizar que el sistema siga funcionando cuando todo lo demás falla: que las cosechas lleguen a los mercados, que los ingresos rurales no se derrumben y que el acceso a alimentos no se interrumpa ante cada shock.</description>
+			</item>
+			<item>
+				<title>Inundaciones de Navarra, País Vasco, Aragón y Burgos, 2021</title>
+				<link>http://localhost:1313/revistas/numero-16/inundaciones/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-16/inundaciones/</guid>
+				<description>En los territorios de Castilla y León, País Vasco, Navarra y Aragón son frecuentes las inundaciones causadas por los desbordamientos del río Ebro y sus afluentes o de los diferentes ríos vascos y navarros de la vertiente cantábrica. Existen diversas causas para explicar las inundaciones por desbordamiento de ríos entre las que se encuentran el deshielo o, a veces, las maniobras de desembalse, pero la causa principal tiene siempre su origen en fuertes precipitaciones.</description>
 			</item>
 			<item>
 				<title>La implantación de medidas de mejora de la resiliencia en edificios históricos</title>
@@ -525,6 +609,13 @@
 				<description>La situación sanitaria ocasionada por el COVID-19, detectado en Europa en los primeros meses del año 2020, que ya se había dejado sentir en China a finales del año 2019, originó que la Organización Mundial de la Salud elevase, el 11 de marzo de 2020, la situación de emergencia de salud pública a pandemia global.</description>
 			</item>
 			<item>
+				<title>La acción subrogatoria del artículo 43 de la Ley de contrato de seguro: última jurisprudencia de la Sala 1ª del Tribunal Supremo</title>
+				<link>http://localhost:1313/revistas/numero-16/accion_subrogatoria/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-16/accion_subrogatoria/</guid>
+				<description>La acción subrogatoria es una de las acciones más habituales interpuestas por las entidades aseguradoras contra terceros responsables de un siniestro y, en muchos casos, cuando estos tienen aseguradora de responsabilidad civil, contra dichas entidades.</description>
+			</item>
+			<item>
 				<title>La visión desde Valencia</title>
 				<link>http://localhost:1313/revistas/numero-23/vision/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -539,11 +630,32 @@
 				<description>Para Michael Wooldridge -autor del libro-, que se define a sí mismo como perteneciente a la primera generación de humanos que jugó con un ordenador en su adolescencia, la IA no es tan poderosa ni está tan avanzada como pensamos. De manera rigurosa, pero entretenida y con múltiples ejemplos para facilitar la comprensión, el autor va presentando los conceptos básicos de la IA y explica cómo se ha ido convirtiendo en la potente disciplina que hoy conocemos.</description>
 			</item>
 			<item>
+				<title>VI Simposium del Observatorio de Catástrofes de la Fundación Aon España «El Coste de las Catástrofes»</title>
+				<link>http://localhost:1313/revistas/numero-15/simposium/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-15/simposium/</guid>
+				<description>El sexto Simposium del Observatorio de Catástrofes de la Fundación Aon España, titulado «El Coste de las Catástrofes», se celebró bajo la Presidencia de Honor de Su Majestad el Rey Felipe VI el pasado 25 de noviembre en la Escuela Nacional de Protección Civil en Madrid.</description>
+			</item>
+			<item>
 				<title>Barómetro de Catástrofes 2021 del Observatorio de Catástrofes de la Fundación Aon España</title>
 				<link>http://localhost:1313/revistas/numero-17/aon/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/revistas/numero-17/aon/</guid>
 				<description>El Barómetro de Catástrofes 2021 es el primer informe en España que cuantifica y analiza los desastres naturales más relevantes ocurridos en nuestro país en el año anterior: sus causas, su naturaleza, las consecuencias en términos de vidas humanas, los daños materiales y los costes para las instituciones y el sector asegurador, incluyendo índices y métricas de resiliencia y vulnerabilidad social.</description>
+			</item>
+			<item>
+				<title>La gestión por el CCS de la siniestralidad de la erupción volcánica de La Palma en 2021</title>
+				<link>http://localhost:1313/revistas/numero-15/gestion_ccs_palma/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-15/gestion_ccs_palma/</guid>
+				<description>El sexto Simposium del Observatorio de Catástrofes de la Fundación Aon España, titulado «El Coste de las Catástrofes», se celebró bajo la Presidencia de Honor de Su Majestad el Rey Felipe VI el pasado 25 de noviembre en la Escuela Nacional de Protección Civil en Madrid.</description>
+			</item>
+			<item>
+				<title>Revisión de las valoraciones del riesgo de erupción volcánica y aplicación al evento de La Palma</title>
+				<link>http://localhost:1313/revistas/numero-15/valoraciones/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-15/valoraciones/</guid>
+				<description>La cobertura de erupción volcánica por parte del Consorcio de Compensación de Seguros se remonta a la aprobación de la Ley de 16 de diciembre de 1954 sobre refundición de los Consorcios de Compensación de Riesgos Catastróficos sobre las Cosas y de Accidentes Individuales en un solo «Consorcio de Compensación de Seguros», e integrando en el mismo los seguros agrícolas, forestales y pecuarios.</description>
 			</item>
 			<item>
 				<title>Post 3</title>

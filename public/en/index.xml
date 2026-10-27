@@ -15,6 +15,20 @@
 			<atom:link href="http://localhost:1313/en/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Editorial</title>
+				<link>http://localhost:1313/en/revistas/numero-14/editorial/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-14/editorial/</guid>
+				<description>The reader faces the 14th issue of our digital magazine, in which new items related to the main actors dealing with the management of risks aligned with the activities and functions of Consorcio de Compensación de Seguros (CCS) are presented. These actors have important roles in both catastrophic risk and automobile insurance.</description>
+			</item>
+			<item>
+				<title>Editorial</title>
+				<link>http://localhost:1313/en/revistas/numero-15/editorial/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-15/editorial/</guid>
+				<description>The last September 19th 2021, Nature reminded us that we are on a living planet, in which no element, as permanent as it might seem, is static. And it also reminded us that the Canary Islands owe their very existence to a very long succession of events just like the one that started that very day along the Cumbre Vieja Ridge in the Island of La Palma, along not too many millions of years, compared to other geological processes.</description>
+			</item>
+			<item>
+				<title>Editorial</title>
 				<link>http://localhost:1313/en/revistas/numero-16/editorial/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/en/revistas/numero-16/editorial/</guid>
@@ -126,6 +140,13 @@
 				<description>In this article we shall therefore try to gather together and give some structure to the information available in CCS files and documentation from that era in regard to the economic fallout from the event, both to chronicle the episode and leave on record that this data remains accessible.</description>
 			</item>
 			<item>
+				<title>Management of volcanic hazard in Colombia: eruption history and lessons learned</title>
+				<link>http://localhost:1313/en/revistas/numero-15/colombia/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-15/colombia/</guid>
+				<description>Colombia&amp;rsquo;s terrain is extremely varied, ranging from low valleys to high snow-capped peaks. This is due primarily to the fact that the country is located right in the middle of the Pacific Ring of Fire, known to be one of the subduction zones that harbours some of the world&amp;rsquo;s most important zones of seismic and volcanic activity as a result of the interaction between the Nazca and the South American tectonic plates.</description>
+			</item>
+			<item>
 				<title>The Floods Caused by the Cut-off Low in October–November 2024: The Greatest Challenge in the History of Extraordinary Risk Insurance</title>
 				<link>http://localhost:1313/en/revistas/numero-23/riesgos-extraordinarios/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -196,6 +217,13 @@
 				<description>An explosive cyclogenesis event occurred in the Atlantic on 23-25 January 2009 and caused a high-impact storm named Klaus. Storm Klaus resulted in more than 265,000 claims handled and more than 564.1 million euros in indemnities paid out by Consorcio de Compensación de Seguros (CCS). It is by far the most severe episode of extreme winds CCS has had to face and at the time posed a major challenge to the insurance industry as a whole.</description>
 			</item>
 			<item>
+				<title>Volcanic hazard in France: the insurance response</title>
+				<link>http://localhost:1313/en/revistas/numero-15/francia/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-15/francia/</guid>
+				<description>France is one of a small group of countries with a mechanism that ensures suitable compensation, at affordable rates, for property damage sustained by private individuals, companies, and local government produced by natural disasters. This mechanism is a compensation scheme for natural catastrophes (Nat Cat) that was brought into being by the Act of 13 July 1982. This insurance scheme has proved successful in alleviating a gap in coverage for natural hazards, which had been underinsured until that time.</description>
+			</item>
+			<item>
 				<title>X-ray image of Agroseguro and the Spanish multi-peril agricultural insurance scheme: linchpins of crop and livestock farming in Spain</title>
 				<link>http://localhost:1313/en/revistas/numero-22/radiografia/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -259,6 +287,13 @@
 				<description>When floods inundate a city, wildfires spread, or drought threatens water supplies, authorities need fast, accurate information. They rely on scientists and practitioners to find, generate, and interpret near real-time, trustworthy data. Throughout this article we illustrate how satellite-derived geospatial information has helped Spain prepare for, respond to, and recover from disasters.</description>
 			</item>
 			<item>
+				<title>Volcanic hazard in Italy: a variegated landscape</title>
+				<link>http://localhost:1313/en/revistas/numero-15/itali/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-15/itali/</guid>
+				<description>Italian volcanoes well represent the wide spectrum of possible states of activities and eruptive styles: from dormant volcanoes to persistent activity, from the largest volcano in Europe to small volcanic islands, Italy faces all sorts of actual and potential threats from volcanic sources.</description>
+			</item>
+			<item>
 				<title>Artificial intelligence and liability: proposed European Commission directives</title>
 				<link>http://localhost:1313/en/revistas/numero-18/inteligencia_artificial/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -287,6 +322,13 @@
 				<description>The heavy, ongoing and reckless settlement of floodplains throughout a good part of the twentieth century, secondarily intensified by the fact that a truly outlandish amount of rain fell in August 1983, made for a diabolical event that the weather forecasting, communications and operational technologies of the day were ill equipped to handle.</description>
 			</item>
 			<item>
+				<title>The claims incurred from Gloria</title>
+				<link>http://localhost:1313/en/revistas/numero-16/gloria/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-16/gloria/</guid>
+				<description>Consorcio de Compensación de Seguros (CCS) uses the term “claims experience” (siniestralidad for the Spanish) to describe a set of losses covered under Extraordinary Risk Insurance when they occur in one or more geographical zones within a relatively short time-span, which, in the case of those that are meteorologically induced, ranges from 1 to 7 days. What we have come to refer to as “the Gloria claims experience” comprises loss events that took place from 18 to 25 January 2020, and at its core was the “storm Gloria”.</description>
+			</item>
+			<item>
 				<title>The Consorcio de Compensación de Seguros&#39; support for the Multi-peril Agricultural Insurance scheme</title>
 				<link>http://localhost:1313/en/revistas/numero-22/ccs_y_su_apoyo_al_sac/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -313,6 +355,13 @@
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/en/revistas/numero-23/apcas/</guid>
 				<description>Throughout this year, APCAS has participated in various forums to collaborate in analysing the consequences and circumstances of the cut-off low and the handling of the resulting claims.</description>
+			</item>
+			<item>
+				<title>Volcanic hazards and risk management in Iceland</title>
+				<link>http://localhost:1313/en/revistas/numero-15/islandia/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-15/islandia/</guid>
+				<description>Volcanic activity is common in Iceland and eruptions, usually lasting days to weeks, happen on average once every three years. Even though some eruptions cause substantial damage, most eruptions do not. This is mainly because Iceland is very sparsely populated.</description>
 			</item>
 			<item>
 				<title>Wildfire Prevention in a Context of Emerging Risks</title>
@@ -371,6 +420,13 @@
 				<description>In general contract theory, consent, consideration and the subject-matter are the three essential elements. In an insurance contract, the consideration is the insured risk, whereas the subject-matter is the insured interest. In both cases, if they are not present, the Insurance Contracts Act (LCS) declares the contract null and void.</description>
 			</item>
 			<item>
+				<title>Volcanic eruption risk management in Japan</title>
+				<link>http://localhost:1313/en/revistas/numero-15/japon/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-15/japon/</guid>
+				<description>With 111 active volcanoes, Japan ranks 4th in number, after the United States, Russia and Indonesia. Although Japan’s share of global land area is 0.25 %, it houses 7 % of active volcanoes.</description>
+			</item>
+			<item>
 				<title>Wildfires of the future: new participatory approaches based on territorial planning</title>
 				<link>http://localhost:1313/en/revistas/numero-21/incendios_futuro/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -427,11 +483,25 @@
 				<description>The cut-off low (DANA in Spanish) that struck the Region of Valencia at the end of October 2024 went beyond meteorological chronicles to become the largest flood-related loss ever managed by Consorcio de Compensación de Seguros (CCS).</description>
 			</item>
 			<item>
+				<title>The cut-off lows of 2012 and 2019 in the south-east of the Iberian Peninsula</title>
+				<link>http://localhost:1313/en/revistas/numero-16/dana/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-16/dana/</guid>
+				<description>As has been discussed in this and other editions of the magazine, the concept of a closed upper-level low (i.e., a cut-off low) refers to a minimum of geopotential and a pocket of cold air that is cut off from the general westerly current and presents maximum baroclinity in its eastern sector.</description>
+			</item>
+			<item>
 				<title>Third-Party Liability Motor Vehicle Insurance Does Not Cover the Insured Driver against the Death of Family Members Caused by the Driver&#39;s Own Action Judgment by the First Chamber of the Spanish Supreme Court of 2 April 2024</title>
 				<link>http://localhost:1313/en/revistas/numero-20/seguro_responsabilidad_civil/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/en/revistas/numero-20/seguro_responsabilidad_civil/</guid>
 				<description>Civil liability and insurance are two different concepts that need to be considered separately, even though they both come together in third-party liability insurance.</description>
+			</item>
+			<item>
+				<title>Volcanic risk management and insurance in New Zealand</title>
+				<link>http://localhost:1313/en/revistas/numero-15/nueva_zelanda/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-15/nueva_zelanda/</guid>
+				<description>New Zealand hasn’t experienced a damage-causing eruption like that seen in La Palma over the last few weeks. Nor has it experienced events like the lava flows from Kilauea, Hawaii, in 2018, the volcanogenic tsunami caused by Anak Krakatoa, Indonesia, in 2018, or the widespread ashfall seen at Taal Volcano, Philippines, in 2020, and Calbuco volcano, Chile, in 2015.</description>
 			</item>
 			<item>
 				<title>Brief overview of the 11th International Conference and Annual General Meeting of IFIGS</title>
@@ -446,6 +516,13 @@
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/en/revistas/numero-23/comparativa_dana/</guid>
 				<description>Partiendo de la información contenida en la publicación «Estadística de Riesgos Extraordinarios, Serie 1971-2024», disponible en la página web del CCS, seleccionamos los mayores eventos por inundación en la serie histórica de los últimos 54 años.</description>
+			</item>
+			<item>
+				<title>Flooding in Navarre, the Basque Country, Aragon and Burgos, 2021</title>
+				<link>http://localhost:1313/en/revistas/numero-16/inundaciones/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-16/inundaciones/</guid>
+				<description>In the territories of Castilla y León, the Basque Country, Navarre and Aragon flooding frequently occurs as a result of the river Ebro and its tributaries breaking their banks or this happening in the various rivers in the Basque Country and Navarre on the Cantabrian side of the watershed. There are several reasons that might explain the overflowing of rivers, which include thawing or, sometimes, draining activities, although the main culprit can always be traced back to heavy rainfalls.</description>
 			</item>
 			<item>
 				<title>FSFC: A new financial architecture for anticipating hunger</title>
@@ -490,6 +567,13 @@
 				<description>The growing evidence that there is something utterly wrong with the climate makes it more and more unnecessary to make efforts to convince sceptics that we are amidst a climate crisis or, as the Spanish legislation states, a climate emergency.</description>
 			</item>
 			<item>
+				<title>Volcanic activity and insurance in Portugal</title>
+				<link>http://localhost:1313/en/revistas/numero-15/portugal/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-15/portugal/</guid>
+				<description>Like certain other European countries, Portugal does not currently have a special catastrophe compensation fund or specific covers for seismic damage. Despite various attempts along these lines, private insurance is the only coverage option available.</description>
+			</item>
+			<item>
 				<title>Book review: The Road to Conscious Machines. The Story of AI</title>
 				<link>http://localhost:1313/en/revistas/numero-20/road_to_conscious_machines/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -502,6 +586,20 @@
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/en/revistas/numero-17/covid19/</guid>
 				<description>The health situation caused by COVID-19 first made itself felt in China in late 2019 and subsequently spread to Europe in early 2020, leading the World Health Organization to raise the level of the COVID-19 public health emergency to an international pandemic on 11 March 2020.</description>
+			</item>
+			<item>
+				<title>Sixth Symposium of the Aon España Foundation&#39;s Catastrophe Observatory &#39;Catastrophes and their Cost&#39;</title>
+				<link>http://localhost:1313/en/revistas/numero-15/simposium/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-15/simposium/</guid>
+				<description>The sixth Symposium of the Aon España Foundation&amp;rsquo;s Catastrophe Observatory, &amp;lsquo;Catastrophes and their Cost&amp;rsquo;, was held at the National Civil Defence School in Madrid on 25 November with His Majesty King Felipe VI acting as President of Honour.</description>
+			</item>
+			<item>
+				<title>The action for subrogation in Article 43 of the Insurance Contracts Act: latest case law in the First Chamber (Civil Division) of the Supreme Court</title>
+				<link>http://localhost:1313/en/revistas/numero-16/accion_subrogatoria/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-16/accion_subrogatoria/</guid>
+				<description>Actions for subrogation are one of the most usual brought by insurers against third parties liable for a loss event and, in many cases, when these parties have a civil liability insurer, against such firms.</description>
 			</item>
 			<item>
 				<title>The View from Valencia</title>
@@ -523,6 +621,20 @@
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/en/revistas/numero-17/aon/</guid>
 				<description>The Barometer of Catastrophes in Spain 2021 is the first report in Spain to quantify and assess the main natural disasters that took place in Spain the year before: the causes, nature, toll in human life, property damage, and costs to institutions and the insurance industry, plus social vulnerability and resilience indices and metrics.</description>
+			</item>
+			<item>
+				<title>Management by the CCS of losses caused by the La Palma volcanic eruption in 2021</title>
+				<link>http://localhost:1313/en/revistas/numero-15/gestion_ccs_palma/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-15/gestion_ccs_palma/</guid>
+				<description>At 2:10 p.m. local time on 19 September 2021, on the island of La Palma in the Canary Islands, the Cumbre Vieja volcano erupted through the western slope of the ridge at a site known as Cabeza de Vaca, at an elevation of some 800 m above sea level and at a distance of some 5 km from the ocean as the crow flies.</description>
+			</item>
+			<item>
+				<title>Review of valuations of volcanic risk. How they apply to the La Palma event</title>
+				<link>http://localhost:1313/en/revistas/numero-15/valoraciones/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-15/valoraciones/</guid>
+				<description>Coverage of volcanic eruptions by Spain&amp;rsquo;s Consorcio de Compensación de Seguros (CCS) dates back to issue of the Spanish Law on recasting the Property and Accident Insurance Catastrophe Compensation Funds into a single Insurance Compensation Fund also covering Livestock, Forestry, and Agricultural Insurance.</description>
 			</item>
 			<item>
 				<title>Contact</title>

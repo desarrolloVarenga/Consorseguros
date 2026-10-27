@@ -42,11 +42,39 @@
 				<description>On 11 May 2011 two earthquakes took place with their epicentre close to the city of Lorca (Murcia); the first at 17:05, with a magnitude of 4.5 Mw, and the second at 18:47, with a magnitude of 5.1 Mw. These earthquakes caused the death of nine persons and left 300 injured, some seriously, as well as widespread damage to the city’s buildings, which was acute in some of them.</description>
 			</item>
 			<item>
+				<title>The claims incurred from Gloria</title>
+				<link>http://localhost:1313/en/revistas/numero-16/gloria/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-16/gloria/</guid>
+				<description>Consorcio de Compensación de Seguros (CCS) uses the term “claims experience” (siniestralidad for the Spanish) to describe a set of losses covered under Extraordinary Risk Insurance when they occur in one or more geographical zones within a relatively short time-span, which, in the case of those that are meteorologically induced, ranges from 1 to 7 days. What we have come to refer to as “the Gloria claims experience” comprises loss events that took place from 18 to 25 January 2020, and at its core was the “storm Gloria”.</description>
+			</item>
+			<item>
 				<title>The most common adverse weather phenomena impacting the Iberian Peninsula</title>
 				<link>http://localhost:1313/en/revistas/numero-16/ciclones/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/en/revistas/numero-16/ciclones/</guid>
 				<description>In recent years the media have been focusing attention on bombogenesis events, cut-off lows, heavy coastal storms with high winds and high waves, and even some tornados. These weather phenomena take place occasionally, that is to say, infrequently. Nevertheless, they can in some cases cause high human casualties and have a high economic cost.</description>
+			</item>
+			<item>
+				<title>The cut-off lows of 2012 and 2019 in the south-east of the Iberian Peninsula</title>
+				<link>http://localhost:1313/en/revistas/numero-16/dana/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-16/dana/</guid>
+				<description>As has been discussed in this and other editions of the magazine, the concept of a closed upper-level low (i.e., a cut-off low) refers to a minimum of geopotential and a pocket of cold air that is cut off from the general westerly current and presents maximum baroclinity in its eastern sector.</description>
+			</item>
+			<item>
+				<title>Flooding in Navarre, the Basque Country, Aragon and Burgos, 2021</title>
+				<link>http://localhost:1313/en/revistas/numero-16/inundaciones/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-16/inundaciones/</guid>
+				<description>In the territories of Castilla y León, the Basque Country, Navarre and Aragon flooding frequently occurs as a result of the river Ebro and its tributaries breaking their banks or this happening in the various rivers in the Basque Country and Navarre on the Cantabrian side of the watershed. There are several reasons that might explain the overflowing of rivers, which include thawing or, sometimes, draining activities, although the main culprit can always be traced back to heavy rainfalls.</description>
+			</item>
+			<item>
+				<title>The action for subrogation in Article 43 of the Insurance Contracts Act: latest case law in the First Chamber (Civil Division) of the Supreme Court</title>
+				<link>http://localhost:1313/en/revistas/numero-16/accion_subrogatoria/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-16/accion_subrogatoria/</guid>
+				<description>Actions for subrogation are one of the most usual brought by insurers against third parties liable for a loss event and, in many cases, when these parties have a civil liability insurer, against such firms.</description>
 			</item>
 	</channel>
 </rss>
