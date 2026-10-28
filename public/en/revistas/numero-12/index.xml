@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Nº 12 Spring 2020 on My New Hugo Project</title>
+		<link>http://localhost:1313/en/revistas/numero-12/</link>
+		<description>Recent content in Nº 12 Spring 2020 on My New Hugo Project</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/en/revistas/numero-12/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Editorial</title>
+				<link>http://localhost:1313/en/revistas/numero-12/editorial/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-12/editorial/</guid>
+				<description>We have already been working on prevention for several years but perhaps, given that in the last few months of 2019 and those coming into this year we have had to cope with a great many losses from natural events, such as the major low-pressure areas that have caused huge floods, the need for prevention has been put into even sharper perspective.</description>
+			</item>
+			<item>
+				<title>Climate change on the coast and adaptation measures</title>
+				<link>http://localhost:1313/en/revistas/numero-12/cambio_climatico/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-12/cambio_climatico/</guid>
+				<description>The coast is the first line of defence against the effects of climate change on the oceans and is, perhaps for that very reason, all the more vulnerable to its pernicious effects. It thus transpires that on the coast we encounter an interesting store of proof of how society can implement adaptation measures satisfactorily.</description>
+			</item>
+			<item>
+				<title>The concept of a &#39;traffic event&#39; in EU jurisprudence</title>
+				<link>http://localhost:1313/en/revistas/numero-12/jurisprudencia/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-12/jurisprudencia/</guid>
+				<description>To be able to refer to an accident as covered by the Law on civil liability and insurance in the use of motor vehicles, which was endorsed by Royal Decree-Law (RDL) 8/2004 of 29 October (the “LRCSCVM” for the Spanish), it must be categorised as a “traffic event” caused by a “motor vehicle”. If these two circumstances are not attendant, the special regulatory framework that is established in the LRCSCVM and its regulations does not apply.</description>
+			</item>
+	</channel>
+</rss>

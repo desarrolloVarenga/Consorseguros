@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Nº 12 Primavera 2020 on My New Hugo Project</title>
+		<link>http://localhost:1313/revistas/numero-12/</link>
+		<description>Recent content in Nº 12 Primavera 2020 on My New Hugo Project</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/revistas/numero-12/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Editorial</title>
+				<link>http://localhost:1313/revistas/numero-12/editorial/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-12/editorial/</guid>
+				<description>Llevábamos trabajando en prevención desde hace años, pero quizás, dado que en los últimos meses de 2019 y primeros de este año hemos tenido que afrontar muchos daños derivados de siniestros de la naturaleza como han sido las grandes borrascas que han provocado grandes inundaciones, la necesidad de prevenir se pone aun más de manifiesto.</description>
+			</item>
+			<item>
+				<title>El cambio climático en la costa y las medidas de adaptación</title>
+				<link>http://localhost:1313/revistas/numero-12/cambio_climatico/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-12/cambio_climatico/</guid>
+				<description>La costa es la primera línea de defensa ante los efectos del cambio climático en los océanos y quizás, por ello, es más vulnerable aún ante los efectos perjudiciales del mismo. Es, por tanto, que en la costa encontramos un interesante banco de pruebas de cómo la sociedad puede implementar satisfactoriamente medidas de adaptación.</description>
+			</item>
+			<item>
+				<title>El concepto de hecho de la circulación en la jurisprudencia comunitaria</title>
+				<link>http://localhost:1313/revistas/numero-12/jurisprudencia/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-12/jurisprudencia/</guid>
+				<description>Para que pueda hablarse de un accidente amparado por la Ley sobre responsabilidad civil y seguro en la circulación de vehículos a motor, aprobada por el RDL 8/2004, de 29 de octubre (LRCSCVM), debe ser calificado como un hecho de la circulación ocasionado por un vehículo a motor. Si no se dan estos dos presupuestos, no es aplicable la normativa especial establecida en la LRCSCVM y en su Reglamento.</description>
+			</item>
+	</channel>
+</rss>

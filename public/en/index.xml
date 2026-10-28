@@ -15,6 +15,13 @@
 			<atom:link href="http://localhost:1313/en/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Editorial</title>
+				<link>http://localhost:1313/en/revistas/numero-12/editorial/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-12/editorial/</guid>
+				<description>We have already been working on prevention for several years but perhaps, given that in the last few months of 2019 and those coming into this year we have had to cope with a great many losses from natural events, such as the major low-pressure areas that have caused huge floods, the need for prevention has been put into even sharper perspective.</description>
+			</item>
+			<item>
+				<title>Editorial</title>
 				<link>http://localhost:1313/en/revistas/numero-13/editorial/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/en/revistas/numero-13/editorial/</guid>
@@ -278,6 +285,13 @@
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/en/revistas/numero-16/lorca/</guid>
 				<description>On 11 May 2011 two earthquakes took place with their epicentre close to the city of Lorca (Murcia); the first at 17:05, with a magnitude of 4.5 Mw, and the second at 18:47, with a magnitude of 5.1 Mw. These earthquakes caused the death of nine persons and left 300 injured, some seriously, as well as widespread damage to the city’s buildings, which was acute in some of them.</description>
+			</item>
+			<item>
+				<title>Climate change on the coast and adaptation measures</title>
+				<link>http://localhost:1313/en/revistas/numero-12/cambio_climatico/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-12/cambio_climatico/</guid>
+				<description>The coast is the first line of defence against the effects of climate change on the oceans and is, perhaps for that very reason, all the more vulnerable to its pernicious effects. It thus transpires that on the coast we encounter an interesting store of proof of how society can implement adaptation measures satisfactorily.</description>
 			</item>
 			<item>
 				<title>Data on policies and sums insured in 2019 based on the new surcharge reporting system (SIR): prospects for future improvements in the data and scope of reporting</title>
@@ -558,6 +572,13 @@
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/en/revistas/numero-23/dana_valencia/</guid>
 				<description>The cut-off low (DANA in Spanish) that struck the Region of Valencia at the end of October 2024 went beyond meteorological chronicles to become the largest flood-related loss ever managed by Consorcio de Compensación de Seguros (CCS).</description>
+			</item>
+			<item>
+				<title>The concept of a &#39;traffic event&#39; in EU jurisprudence</title>
+				<link>http://localhost:1313/en/revistas/numero-12/jurisprudencia/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-12/jurisprudencia/</guid>
+				<description>To be able to refer to an accident as covered by the Law on civil liability and insurance in the use of motor vehicles, which was endorsed by Royal Decree-Law (RDL) 8/2004 of 29 October (the “LRCSCVM” for the Spanish), it must be categorised as a “traffic event” caused by a “motor vehicle”. If these two circumstances are not attendant, the special regulatory framework that is established in the LRCSCVM and its regulations does not apply.</description>
 			</item>
 			<item>
 				<title>The cut-off lows of 2012 and 2019 in the south-east of the Iberian Peninsula</title>

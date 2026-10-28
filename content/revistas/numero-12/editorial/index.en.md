@@ -1,0 +1,39 @@
+---
+title: "Editorial"
+category: "Editorial"
+pdf_download: "/pdf/num22/editorial.pdf"
+sidebar_image: "/images/numero-12/foto_portada12_editorial.jpg"
+sidebar_text: "With respect to floods and other natural hazards covered by extraordinary risk insurance, Spain’s system is well-equipped to respond to loss events of this kind and also to adapt and evolve. Despite this, in a context where it appears that the effects of climate change are set to become increasingly conspicuous, in order to be in a position to be able to control risk within insurable parameters, even when these extraordinary risk insurance parameters have already been set at an extremely high level relative to other schemes, the other components of risk will also have to be addressed, such as exposure and vulnerability, which essentially means prevention."
+weight: 1
+image: "/images/numero-12/foto_portada12_editorial.jpg"
+summary: "We have already been working on prevention for several years but perhaps, given that in the last few months of 2019 and those coming into this year we have had to cope with a great many losses from natural events, such as the major low-pressure areas that have caused huge floods, the need for prevention has been put into even sharper perspective."
+---
+We have already been working on prevention for several years but perhaps, given that in the last few months of 2019 and those coming into this year we have had to cope with a great many losses from natural events, such as the major low-pressure areas that have caused huge floods, the need for prevention has been put into even sharper perspective. This is why we are devoting this, the twelfth edition of our digital magazine, to “The importance of prevention”.
+
+Over the past months natural disaster threats, which are only too familiar due to their greater intensity and frequency, have manifested themselves in the form of an almost uninterrupted stream of bouts of deep atmospheric convection, with heavy, highly-localised cloudbursts entailing flash-floods, as well as low-pressure areas and cut-off lows. The consequences of these have had the common denominator of a hotter sea and a higher level, which have in turn triggered both wider and heavier rainfalls, along with the floods they bring, and coastal phenomena such as extremely serious floods and wave battering. 
+
+These cases serve to illustrate the crucial nature of the prevention to which we have alluded in the first instance. 
+
+With respect to floods and other natural hazards covered by extraordinary risk insurance, Spain’s system is well-equipped to respond to loss events of this kind and also to adapt and evolve. Despite this, in a context where it appears that the effects of climate change are set to become increasingly conspicuous, in order to be in a position to be able to control risk within insurable parameters, even when these extraordinary risk insurance parameters have already been set at an extremely high level relative to other schemes, the other components of risk will also have to be addressed, such as exposure and vulnerability, which essentially means prevention.
+
+As regards this subject, this edition does not come with a front-page story, but instead with five, which complement each other and tackle the issue of prevention from several different standpoints. 
+
+River and rain flood prevention is examined in two contributions: one by the Directorate General for Water (DGA for the Spanish) and Tragsatec, which explains various cases of applying cost-benefit studies to damage reduction and in certain respects represents putting into practice the “Guide to reducing building vulnerability to flooding” published by the DGA and the Consorcio de Compensación de Seguros (CCS) in 2017. 
+
+The other contribution, written by the Waters Commission of the Ebro River Basin Authority, offers a detailed explanation of the actions being taken within the Ebro Resilience programme to reduce the impact of river floods. These use a different approach to that which has normally been pursued, by combining defence measures with others designed to foster controlled flooding in zones unexposed to this risk and which allow river courses more space for the natural processes to take place when their water-level rises, reducing in turn risk along the more exposed stretches.
+
+From the Sub-Directorate General for Coastal Protection of the Directorate General for the Coast and Sea, which, as with the contributors of the previous two articles, operates within the Ministry for the Ecological Transition and the Demographic Challenge, we include an article on coastal floods, the foreseeable effects of climate change and the studies underway to assess them, as well as possible adaptation and damage-reduction measures and, basically, those to protect such a delicate environment that is so harshly subjected to all manner of pressures as the coastline.
+
+The other two articles hail from the corporate world and relate to projects on which the CCS is, or has been, involved in some way. 
+
+The company Cetaqua has been working hard on developing flood damage curves which enable estimates to be made of the cost of flooding with respect to different types of risks and which can be applied to both modelling damage and evaluating potential prevention measures based (as in the first article mentioned) on cost-benefit studies. The data used is for losses insured by the CCS. 
+
+The other article is from environmental consultancy Icatalist and describes one of the more interesting projects that have been carried out on a Europe-wide level to assess the impact of nature-based solutions to prevent hydrological risks: “NAIAD”. The project has gradually morphed into a platform for technical and scientific bodies, as well as the local and insurance sectors, to use as a meeting-point. The article describes several protection solutions within different fields of work on the project and introduces the concept of a natural insurance programme that uses the insurance value of ecosystems to protect against the losses caused by catastrophes, and therefore for prevention.
+
+That all said, right in the middle of preparing this edition of Consorseguros Digital the global pandemic has broken out involving the coronavirus, which manifests itself in the disease known as COVID-19. This has become a key part of our lives and preventive measures have been taken to stop it spreading: from the lockdown for our own safety to implementation of strict hygiene and social-distancing protocols. We therefore wanted to include a review of an OECD report on pandemics, insurance and the potential insurance response to threats of this kind. 
+
+Thus in the “News” section, and from the standpoint of the CCS, we also wanted to review a series of extremely significant loss events that began last summer and ran on until January 2020, which were in turn almost immediately followed by the COVID-19 crisis and the implementation of a raft of measures on the part of the CCS to ensure the continuity of its activities, as well as to reinforce support for Spain’s insured by our organisation. 
+
+As is customary, the magazine ends with a review of jurisprudence which, in this case again focusses on an increasingly important issue: the concept of a traffic event and its far-reaching implications for motor car third party liability insurance.
+
+To close we would like to make one very important point. This magazine is a joint effort in which many people participate unselfishly. To both the contributors, who are prestigious professionals that devote a considerable amount of their time to writing and then reviewing their pieces, and the employees of the CCS who collaborate in putting together the magazine, we offer our heartfelt acknowledgement and thanks.
