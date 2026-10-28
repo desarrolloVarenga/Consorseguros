@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Nº 13 Autumn 2020 on My New Hugo Project</title>
+		<link>http://localhost:1313/en/revistas/numero-13/</link>
+		<description>Recent content in Nº 13 Autumn 2020 on My New Hugo Project</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/en/revistas/numero-13/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Editorial</title>
+				<link>http://localhost:1313/en/revistas/numero-13/editorial/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-13/editorial/</guid>
+				<description>The Extraordinary Risk Statistics is one of the longest standing annual publications issued by the Consorcio de Compensación de Seguros (CCS). The 2020 release contains data for the period 1971-2019. This publication is a basic information source and indeed provides an X-ray of damage caused by the so-called &amp;rsquo;extraordinary’ risks in Spain.</description>
+			</item>
+			<item>
+				<title>Loss rate analysis for the extraordinary risks covered by the Consorcio de Compensación de Seguros, 1995-2019</title>
+				<link>http://localhost:1313/en/revistas/numero-13/analisis/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-13/analisis/</guid>
+				<description>The Consorcio de Compensación de Seguros&amp;rsquo; compilation of Extraordinary Risk Statistics is published yearly and is one of its longest standing and most impactful publications. Its latest issue in 2020 presents statistics on the claims paid by the Consorcio over the past 49 years (time series for 1971-2019).</description>
+			</item>
+			<item>
+				<title>Improving the assessments of real costs of disasters</title>
+				<link>http://localhost:1313/en/revistas/numero-13/mejora_valoracion/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-13/mejora_valoracion/</guid>
+				<description>Although natural hazards do not necessarily have to become natural disasters, the economic losses caused by natural disasters are increasing worldwide no matter whether these are caused by geophysical, meteorological, hydrological or climatological hazards.</description>
+			</item>
+			<item>
+				<title>Data on policies and sums insured in 2019 based on the new surcharge reporting system (SIR): prospects for future improvements in the data and scope of reporting</title>
+				<link>http://localhost:1313/en/revistas/numero-13/datos_polizas/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-13/datos_polizas/</guid>
+				<description>Using this system, insurance companies supply detailed information on such transaction particulars of their policies as coverage inception and expiry dates, geographic location, sums insured and limits, surcharges, and instalment interest.</description>
+			</item>
+			<item>
+				<title>2019 Surcharges: effect of the Decision dated 28 March 2018</title>
+				<link>http://localhost:1313/en/revistas/numero-13/recargos_2019/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-13/recargos_2019/</guid>
+				<description>Two years after the Decision took effect, we have analysed the impact of applying the Decision, to see whether the estimated 13.3 % decrease in the surcharges on the same sums insured has actually materialised.</description>
+			</item>
+			<item>
+				<title>Mapping flood risk in Spain from Extraordinary Risk Insurance Scheme data</title>
+				<link>http://localhost:1313/en/revistas/numero-13/representacion_riesgo/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-13/representacion_riesgo/</guid>
+				<description>The purpose of this article is thus to carry out a spatial analysis of flood risk by province, both because of the size of that peril and because the CCS holds all the insured damage data.</description>
+			</item>
+			<item>
+				<title>Appraising damage caused to a motor vehicle</title>
+				<link>http://localhost:1313/en/revistas/numero-13/valoraci%C3%B3n/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-13/valoraci%C3%B3n/</guid>
+				<description>Assessing the loss caused in civil liability or third party claims is no easy task, above all when the damage brought about exceeds the value of the vehicle. The judgment we are examining, which is of great interest to all of us who come to be involved in traffic accidents, seeks to determine the premises for settling this question and clarifying the contention which minor case law has upheld in general terms.</description>
+			</item>
+			<item>
+				<title>AGERS Guide to the risk management function in insurance companies</title>
+				<link>http://localhost:1313/en/revistas/numero-13/agers/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-13/agers/</guid>
+				<description>This publication is intended to furnish a Practical Guide to the risk management function in the service of the profession, setting out insurance company risk management best practices and in addition addressing compliance with Solvency II requirements.</description>
+			</item>
+	</channel>
+</rss>

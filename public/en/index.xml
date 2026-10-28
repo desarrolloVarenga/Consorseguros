@@ -15,6 +15,13 @@
 			<atom:link href="http://localhost:1313/en/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Editorial</title>
+				<link>http://localhost:1313/en/revistas/numero-13/editorial/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-13/editorial/</guid>
+				<description>The Extraordinary Risk Statistics is one of the longest standing annual publications issued by the Consorcio de Compensación de Seguros (CCS). The 2020 release contains data for the period 1971-2019. This publication is a basic information source and indeed provides an X-ray of damage caused by the so-called &amp;rsquo;extraordinary’ risks in Spain.</description>
+			</item>
+			<item>
+				<title>Editorial</title>
 				<link>http://localhost:1313/en/revistas/numero-14/editorial/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/en/revistas/numero-14/editorial/</guid>
@@ -147,6 +154,13 @@
 				<description>In this article we shall therefore try to gather together and give some structure to the information available in CCS files and documentation from that era in regard to the economic fallout from the event, both to chronicle the episode and leave on record that this data remains accessible.</description>
 			</item>
 			<item>
+				<title>Loss rate analysis for the extraordinary risks covered by the Consorcio de Compensación de Seguros, 1995-2019</title>
+				<link>http://localhost:1313/en/revistas/numero-13/analisis/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-13/analisis/</guid>
+				<description>The Consorcio de Compensación de Seguros&amp;rsquo; compilation of Extraordinary Risk Statistics is published yearly and is one of its longest standing and most impactful publications. Its latest issue in 2020 presents statistics on the claims paid by the Consorcio over the past 49 years (time series for 1971-2019).</description>
+			</item>
+			<item>
 				<title>Management of volcanic hazard in Colombia: eruption history and lessons learned</title>
 				<link>http://localhost:1313/en/revistas/numero-15/colombia/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -203,6 +217,13 @@
 				<description>Over the past two decades, floods worldwide have affected more than 1.6 billion people, causing economic losses running into the billions (UNDRR, 2020). Urban areas are particularly vulnerable to these events due to their high population and infrastructure density, which leads to cascading failures in essential services.</description>
 			</item>
 			<item>
+				<title>Improving the assessments of real costs of disasters</title>
+				<link>http://localhost:1313/en/revistas/numero-13/mejora_valoracion/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-13/mejora_valoracion/</guid>
+				<description>Although natural hazards do not necessarily have to become natural disasters, the economic losses caused by natural disasters are increasing worldwide no matter whether these are caused by geophysical, meteorological, hydrological or climatological hazards.</description>
+			</item>
+			<item>
 				<title>Insurance for cultural assets. An insurance broker&#39;s perspective</title>
 				<link>http://localhost:1313/en/revistas/numero-17/aseguramiento_bienes_culturales/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -215,6 +236,13 @@
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/en/revistas/numero-23/lecciones_dana/</guid>
 				<description>On 29 October 2024 a DANA, from the Spanish abbreviation for a closed upper level low or a cut-off low storm system, dropped more than 770 litres per square metre in just 24 hours. To put this in perspective, this is the volume of precipitation that falls on the province of Valencia in 19 months.</description>
+			</item>
+			<item>
+				<title>Statistics of the CCS&#39; Guarantee Fund for compulsory Motor car Third-Party Liability insurance</title>
+				<link>http://localhost:1313/en/revistas/numero-14/estadistica/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-14/estadistica/</guid>
+				<description>This statistical study discusses the historical trend for the economic results obtained by the Consorcio de Compensación de Seguros (CCS) in its role as a Guarantee Fund for the Compulsory Motor car Third-Party Liability Insurance (MTPL) over the past 20 years (time series for 2001-2020).</description>
 			</item>
 			<item>
 				<title>Storm Klaus</title>
@@ -252,6 +280,13 @@
 				<description>On 11 May 2011 two earthquakes took place with their epicentre close to the city of Lorca (Murcia); the first at 17:05, with a magnitude of 4.5 Mw, and the second at 18:47, with a magnitude of 5.1 Mw. These earthquakes caused the death of nine persons and left 300 injured, some seriously, as well as widespread damage to the city’s buildings, which was acute in some of them.</description>
 			</item>
 			<item>
+				<title>Data on policies and sums insured in 2019 based on the new surcharge reporting system (SIR): prospects for future improvements in the data and scope of reporting</title>
+				<link>http://localhost:1313/en/revistas/numero-13/datos_polizas/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-13/datos_polizas/</guid>
+				<description>Using this system, insurance companies supply detailed information on such transaction particulars of their policies as coverage inception and expiry dates, geographic location, sums insured and limits, surcharges, and instalment interest.</description>
+			</item>
+			<item>
 				<title>El seguro agrario: experiencia y compromiso</title>
 				<link>http://localhost:1313/en/revistas/numero-23/agroseguros/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -287,6 +322,13 @@
 				<description>The analysis of the weather conditions that produced this event and the severe floods in Eastern Spain in 1982 proved to be a watershed moment for weather forecasting in Spain.</description>
 			</item>
 			<item>
+				<title>The Catastrophe Observatory of the Aon Spain Foundation: research, prevention, assistance and continuity</title>
+				<link>http://localhost:1313/en/revistas/numero-14/aon/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-14/aon/</guid>
+				<description>The Aon Spain Foundation is a private non-profit foundation established in 2015. Its motto is &amp;ldquo;always with people against risk&amp;rdquo;, and its primary objective is to help make a better society through its activity in the areas of social integration, art and culture, and catastrophe hazards.</description>
+			</item>
+			<item>
 				<title>The Copernicus Emergency Management Service: an invitation to use EU space-based tools for disaster and crisis management</title>
 				<link>http://localhost:1313/en/revistas/numero-24/servicio-de-gesti%C3%B3n-de-emergencias-de-copernicus/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -299,6 +341,13 @@
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/en/revistas/numero-15/itali/</guid>
 				<description>Italian volcanoes well represent the wide spectrum of possible states of activities and eruptive styles: from dormant volcanoes to persistent activity, from the largest volcano in Europe to small volcanic islands, Italy faces all sorts of actual and potential threats from volcanic sources.</description>
+			</item>
+			<item>
+				<title>2019 Surcharges: effect of the Decision dated 28 March 2018</title>
+				<link>http://localhost:1313/en/revistas/numero-13/recargos_2019/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-13/recargos_2019/</guid>
+				<description>Two years after the Decision took effect, we have analysed the impact of applying the Decision, to see whether the estimated 13.3 % decrease in the surcharges on the same sums insured has actually materialised.</description>
 			</item>
 			<item>
 				<title>Artificial intelligence and liability: proposed European Commission directives</title>
@@ -371,6 +420,13 @@
 				<description>Volcanic activity is common in Iceland and eruptions, usually lasting days to weeks, happen on average once every three years. Even though some eruptions cause substantial damage, most eruptions do not. This is mainly because Iceland is very sparsely populated.</description>
 			</item>
 			<item>
+				<title>Volcanic risk management in Spain</title>
+				<link>http://localhost:1313/en/revistas/numero-14/riesgo_volcanico/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-14/riesgo_volcanico/</guid>
+				<description>The origin of volcanism in the Canary Islands has been the source of intense debate over the past 50 years, but the theory most widely accepted by the scientific community is that Canary Island volcanic activity is linked to the presence of a deep thermal anomaly inside the Earth (lower mantle) capable of building and continuing to build these island volcanic systems.</description>
+			</item>
+			<item>
 				<title>Wildfire Prevention in a Context of Emerging Risks</title>
 				<link>http://localhost:1313/en/revistas/numero-24/incendios/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -404,6 +460,13 @@
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/en/revistas/numero-23/aprendizajes/</guid>
 				<description>Each natural catastrophe serves as a reminder of the need for a strong, accessible and well-structured insurance system. The role of brokerage, far from being ancillary, is central.</description>
+			</item>
+			<item>
+				<title>Mapping flood risk in Spain from Extraordinary Risk Insurance Scheme data</title>
+				<link>http://localhost:1313/en/revistas/numero-13/representacion_riesgo/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-13/representacion_riesgo/</guid>
+				<description>The purpose of this article is thus to carry out a spatial analysis of flood risk by province, both because of the size of that peril and because the CCS holds all the insured damage data.</description>
 			</item>
 			<item>
 				<title>Special problems posed by losses to cultural heritage assets</title>
@@ -455,6 +518,13 @@
 				<description>Sums insured under multi-peril agricultural insurance in the past 10 years have grown substantially. This highlights the importance this type of insurance has as an instrument for managing the risks faced by farms and for sustaining the livelihoods of farmers. This has, however, gone hand in hand with rising loss rates that have remained at high levels for a number of consecutive years. This is a wake-up call about the sustainability of the insurance scheme.</description>
 			</item>
 			<item>
+				<title>Appraising damage caused to a motor vehicle</title>
+				<link>http://localhost:1313/en/revistas/numero-13/valoraci%C3%B3n/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-13/valoraci%C3%B3n/</guid>
+				<description>Assessing the loss caused in civil liability or third party claims is no easy task, above all when the damage brought about exceeds the value of the vehicle. The judgment we are examining, which is of great interest to all of us who come to be involved in traffic accidents, seeks to determine the premises for settling this question and clarifying the contention which minor case law has upheld in general terms.</description>
+			</item>
+			<item>
 				<title>Cartography of Flood-prone Areas in Spain: The National Flood Zone Mapping System as a Risk Management Tool</title>
 				<link>http://localhost:1313/en/revistas/numero-24/cartografia/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -497,6 +567,13 @@
 				<description>As has been discussed in this and other editions of the magazine, the concept of a closed upper-level low (i.e., a cut-off low) refers to a minimum of geopotential and a pocket of cold air that is cut off from the general westerly current and presents maximum baroclinity in its eastern sector.</description>
 			</item>
 			<item>
+				<title>The path to adaptation to flood risk: proactive measures</title>
+				<link>http://localhost:1313/en/revistas/numero-14/camino_adaptacion/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-14/camino_adaptacion/</guid>
+				<description>The measures for implementation considered in this article can be understood to fall under the category of resilience, defined as the capacity of society or ecosystems to adapt to the risks to which they may be subjected.</description>
+			</item>
+			<item>
 				<title>Third-Party Liability Motor Vehicle Insurance Does Not Cover the Insured Driver against the Death of Family Members Caused by the Driver&#39;s Own Action Judgment by the First Chamber of the Spanish Supreme Court of 2 April 2024</title>
 				<link>http://localhost:1313/en/revistas/numero-20/seguro_responsabilidad_civil/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -511,11 +588,25 @@
 				<description>New Zealand hasn’t experienced a damage-causing eruption like that seen in La Palma over the last few weeks. Nor has it experienced events like the lava flows from Kilauea, Hawaii, in 2018, the volcanogenic tsunami caused by Anak Krakatoa, Indonesia, in 2018, or the widespread ashfall seen at Taal Volcano, Philippines, in 2020, and Calbuco volcano, Chile, in 2015.</description>
 			</item>
 			<item>
+				<title>AGERS Guide to the risk management function in insurance companies</title>
+				<link>http://localhost:1313/en/revistas/numero-13/agers/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-13/agers/</guid>
+				<description>This publication is intended to furnish a Practical Guide to the risk management function in the service of the profession, setting out insurance company risk management best practices and in addition addressing compliance with Solvency II requirements.</description>
+			</item>
+			<item>
 				<title>Brief overview of the 11th International Conference and Annual General Meeting of IFIGS</title>
 				<link>http://localhost:1313/en/revistas/numero-21/ifigs/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/en/revistas/numero-21/ifigs/</guid>
 				<description>The International Forum of Insurance Guarantee Schemes (IFIGS) held its eleventh annual meeting in Madrid from 16 to 18 October, hosted by the Consorcio de Compensación de Seguros, the IFIGS chair this year, which marks the 40th anniversary of its winding-up activity of insurance companies.</description>
+			</item>
+			<item>
+				<title>CESVIMAP: Innovation as a service</title>
+				<link>http://localhost:1313/en/revistas/numero-14/cesvimap/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-14/cesvimap/</guid>
+				<description>CESVIMAP, Centro de Experimentación y Seguridad Vial MAPFRE, is MAPFRE&amp;rsquo;s R&amp;amp;D centre in the framework of MAPFRE Open Innovation (MOI) model. We are a MAPFRE&amp;rsquo;s innovation laboratory involved with new mobility products and services developed around, for instance, Usage Based Insurance (UBI).</description>
 			</item>
 			<item>
 				<title>Comparativa de la DANA de Valencia de octubre de 2024 frente a los principales eventos de inundación en la serie 1971-2024</title>
@@ -595,6 +686,20 @@
 				<description>The health situation caused by COVID-19 first made itself felt in China in late 2019 and subsequently spread to Europe in early 2020, leading the World Health Organization to raise the level of the COVID-19 public health emergency to an international pandemic on 11 March 2020.</description>
 			</item>
 			<item>
+				<title>Insurance and climate change: knowledge generation as a driver of adaptive action</title>
+				<link>http://localhost:1313/en/revistas/numero-14/actividad_aseguradora/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-14/actividad_aseguradora/</guid>
+				<description>Insurance is a strategic sphere of activity in the battle against climate change. First, it is a fundamental means of transferring risk, enabling society to enhance its ability to recover after the damage caused, for instance, by climate-related events.</description>
+			</item>
+			<item>
+				<title>Scope of subrogation actions brought by insurance companies against the Consorcio de Compensación de Seguros in cases of dispute. Interpretation of the status of injured party</title>
+				<link>http://localhost:1313/en/revistas/numero-14/jurisprudencia/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-14/jurisprudencia/</guid>
+				<description>Most disputes – past or present – between the Guarantee Fund and private insurers concern automobile insurance.</description>
+			</item>
+			<item>
 				<title>Sixth Symposium of the Aon España Foundation&#39;s Catastrophe Observatory &#39;Catastrophes and their Cost&#39;</title>
 				<link>http://localhost:1313/en/revistas/numero-15/simposium/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -642,6 +747,13 @@
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/en/revistas/numero-15/valoraciones/</guid>
 				<description>Coverage of volcanic eruptions by Spain&amp;rsquo;s Consorcio de Compensación de Seguros (CCS) dates back to issue of the Spanish Law on recasting the Property and Accident Insurance Catastrophe Compensation Funds into a single Insurance Compensation Fund also covering Livestock, Forestry, and Agricultural Insurance.</description>
+			</item>
+			<item>
+				<title></title>
+				<link>http://localhost:1313/en/revistas/numero-14/ume/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-14/ume/</guid>
+				<description></description>
 			</item>
 			<item>
 				<title>Contact</title>

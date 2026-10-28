@@ -15,6 +15,13 @@
 			<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Editorial</title>
+				<link>http://localhost:1313/revistas/numero-13/editorial/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-13/editorial/</guid>
+				<description>Una de las publicaciones anuales con más tradición en el Consorcio de Compensación de Seguros es su Estadística de Riesgos Extraordinarios. Plenamente conscientes de la importancia de esta información, hemos querido dedicarle un número de la Revista, prácticamente monográfico.</description>
+			</item>
+			<item>
+				<title>Editorial</title>
 				<link>http://localhost:1313/revistas/numero-14/editorial/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/revistas/numero-14/editorial/</guid>
@@ -96,6 +103,13 @@
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/revistas/numero-22/1980/</guid>
 				<description>La Agrupación Española de Entidades Aseguradoras de los Seguros Agrarios Combinados, S.A. se constituyó en 1980 gracias al impulso inicial y el compromiso de 25 entidades aseguradoras y tras un extenso trabajo legislativo de los representantes políticos de la época. Fue, no cabe duda, un proceso desarrollado en un momento histórico para nuestro país y nuestra democracia, en el que se consideró que un seguro agrario era un pilar para la España que se quería construir.</description>
+			</item>
+			<item>
+				<title>Análisis de la siniestralidad de los riesgos extraordinarios del Consorcio de Compensación de Seguros 1995-2019</title>
+				<link>http://localhost:1313/revistas/numero-13/analisis/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-13/analisis/</guid>
+				<description>La Estadística de Riesgos Extraordinarios, una de las publicaciones anuales del Consorcio de Compensación de Seguros (CCS) con más tradición e impacto, recoge en su última edición de 2020 la siniestralidad asumida por esta entidad en los últimos 49 años (serie 1971-2019).</description>
 			</item>
 			<item>
 				<title>Análisis de los 7 eventos más importantes cubiertos por el Consorcio de Compensación de Seguros en la serie 2009-2021 PDF</title>
@@ -203,6 +217,13 @@
 				<description>Francia forma parte de los pocos países que cuentan con un dispositivo que garantiza una indemnización adecuada de los daños materiales producidos por un fenómeno natural a particulares, empresas y administraciones locales a un precio asequible. Este dispositivo se manifiesta a partir del régimen de indemnización de las catástrofes naturales (Cat Nat en adelante), creado por la ley de 13 de julio de 1982. Se trata de un sistema asegurador que ha permitido paliar una carencia en la cobertura de los riesgos naturales, que estaban muy poco asegurados hasta ese momento.</description>
 			</item>
 			<item>
+				<title>Estadística del fondo de garantía del seguro de responsabilidad civil en la circulación de vehículos a motor</title>
+				<link>http://localhost:1313/revistas/numero-14/estadistica/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-14/estadistica/</guid>
+				<description>El presente estudio estadístico tiene por objeto mostrar la evolución de los resultados económicos obtenidos por el Consorcio de Compensación de Seguros (en adelante, CCS) en sus funciones de Fondo de Garantía del seguro obligatorio de responsabilidad civil en la circulación de vehículos a motor en los últimos 20 años (serie 2001-2020).</description>
+			</item>
+			<item>
 				<title>Inteligencia artificial, el motor del cambio en el sector asegurador</title>
 				<link>http://localhost:1313/revistas/numero-20/motor_del_cambio/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -222,6 +243,13 @@
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/revistas/numero-23/lecciones_dana/</guid>
 				<description>El 29 de octubre de 2024 una DANA, una Depresión Aislada en Niveles Altos, descargó más de 770 litros por metro cuadrado en solo 24 horas. A modo de referencia: ese es el volumen de precipitaciones que recibe la provincia de Valencia en 19 meses.</description>
+			</item>
+			<item>
+				<title>Mejora de la estimación de los costes reales de los desastres</title>
+				<link>http://localhost:1313/revistas/numero-13/mejora_valoracion/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-13/mejora_valoracion/</guid>
+				<description>A pesar de que los peligros naturales no siempre se convierten necesariamente en desastres naturales, las pérdidas económicas causadas por desastres naturales están aumentando en todo el mundo, con independencia de que sean causadas por peligros geofísicos, meteorológicos, hidrológicos o climatológicos.</description>
 			</item>
 			<item>
 				<title>Proyecto ICARIA: impactos económicos por inundaciones en el Área Metropolitana de Barcelona</title>
@@ -257,6 +285,20 @@
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/revistas/numero-20/anatomia_ia/</guid>
 				<description>La IA está transformando cada aspecto de la cadena de valor de la industria aseguradora, desde la personalización de productos hasta la gestión de reclamaciones y la atención al cliente. A medida que la tecnología avanza, se espera que su integración en el sector asegurador se profundice aún más, llevando a una mayor eficiencia y mejores resultados para las empresas y sus clientes</description>
+			</item>
+			<item>
+				<title>Datos de pólizas y capitales 2019 obtenidos a través del nuevo Sistema de Información de Recargos SIR: expectativas de mejora y alcance de la información en el futuro</title>
+				<link>http://localhost:1313/revistas/numero-13/datos_polizas/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-13/datos_polizas/</guid>
+				<description>A través de este sistema las entidades aseguradoras suministran información detallada relativa a los movimientos de cada una de sus pólizas con datos como fecha de inicio y fin de cobertura, localización geográfica, capitales y límites, recargos e intereses de fraccionamiento.</description>
+			</item>
+			<item>
+				<title>El Observatorio de Catástrofes de la Fundación Aon España: investigación, previsión, asistencia y continuidad</title>
+				<link>http://localhost:1313/revistas/numero-14/aon/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-14/aon/</guid>
+				<description>La Fundación Aon España es una organización privada de naturaleza fundacional, sin ánimo de lucro, constituida en 2015, cuyo lema es «siempre con las personas frente al riesgo» y su primer objetivo, contribuir a hacer una sociedad mejor en los ámbitos de la integración social, el arte y la cultura y los riesgos catastróficos.</description>
 			</item>
 			<item>
 				<title>El seguro agrario: experiencia y compromiso</title>
@@ -329,6 +371,13 @@
 				<description>En los últimos años los medios de comunicación han venido hablando de ciclogénesis explosivas, danas, fenómenos costeros adversos con vientos huracanados y grandes olas o incluso algunos tornados. Estos fenómenos meteorológicos son ocasionales y, por tanto, infrecuentes. Pero, en algunos casos, tienen un alto coste en términos de pérdidas humanas y económicas.</description>
 			</item>
 			<item>
+				<title>La gestión del riesgo volcánico en España</title>
+				<link>http://localhost:1313/revistas/numero-14/riesgo_volcanico/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-14/riesgo_volcanico/</guid>
+				<description>El origen del fenómeno volcánico en Canarias ha generado un intenso debate durante los últimos 50 años, pero la teoría más ampliamente aceptada por la comunidad científica es que la actividad volcánica en Canarias se encuentra ligada a la presencia de una anomalía térmica profunda en el interior de la Tierra (manto inferior) capaz de haber construido y continuar construyendo estos sistemas volcánicos insulares.</description>
+			</item>
+			<item>
 				<title>La transición del seguro obligatorio de terremotos al seguro obligatorio de riesgos catastróficos en Turquía</title>
 				<link>http://localhost:1313/revistas/numero-21/transicion_seguro_obligatorio/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -376,6 +425,13 @@
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/revistas/numero-18/inteligencia_artificial/</guid>
 				<description>La Comisión Europea, con fecha 28 de septiembre de 2022, ha adoptado dos propuestas para implementar las normas de responsabilidad a la era digital, la economía circular y el impacto de las cadenas de valor mundiales.</description>
+			</item>
+			<item>
+				<title>Recargos 2019: impacto de la aplicación de la Resolución de 28 de marzo de 2018</title>
+				<link>http://localhost:1313/revistas/numero-13/recargos_2019/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-13/recargos_2019/</guid>
+				<description>Transcurridos dos años desde su entrada en vigor, vamos a analizar el impacto que ha tenido la aplicación de dicha Resolución y, de esta forma, podremos comprobar si la estimación de reducción de un 13,3 % de los recargos para los mismos capitales se ha producido en la realidad.</description>
 			</item>
 			<item>
 				<title>Visibilización del papel del perito de seguros</title>
@@ -434,6 +490,13 @@
 				<description>Japón es el cuarto país del mundo con más volcanes activos, 111, tras los Estados Unidos, Rusia e Indonesia. Aunque la superficie de Japón es el 0,25 % de la total del planeta, posee el 7 % de los volcanes activos. El archipiélago japonés se sitúa en el encuentro entre cuatro placas tectónicas, lo que explica la frecuencia con la que ocurren terremotos y erupciones volcánicas.</description>
 			</item>
 			<item>
+				<title>La Unidad Militar de Emergencias. Medio extraordinario del Estado en la respuesta ante emergencias</title>
+				<link>http://localhost:1313/revistas/numero-14/ume/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-14/ume/</guid>
+				<description>El objeto de este artículo es dar una visión general de la Unidad Militar de Emergencias (UME) desde sus orígenes, organización y capacidades de intervención, hasta sus actuaciones más recientes en la lucha contra la pandemia de la COVID-19 y como consecuencia de la borrasca «Filomena», describiendo sus principales misiones y cometidos.</description>
+			</item>
+			<item>
 				<title>Las particularidades de los siniestros asociados al patrimonio cultural</title>
 				<link>http://localhost:1313/revistas/numero-17/siniestros_asociados_patrimonio_cultural/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -448,11 +511,25 @@
 				<description>En noviembre de 1997 se generó una enorme borrasca que produjo riadas de graves consecuencias en las localidades de Badajoz, Valverde de Leganés y Mérida, además de en la comarca de las Vegas Bajas del Guadiana. En el presente artículo se describen los daños producidos por las mismas y las actuaciones de la administración hidráulica para reparar dichos daños y tratar de que no se vuelvan a producir.</description>
 			</item>
 			<item>
+				<title>Representación del riesgo de inundación en España a partir de los datos del seguro de riesgos extraordinarios</title>
+				<link>http://localhost:1313/revistas/numero-13/representacion_riesgo/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-13/representacion_riesgo/</guid>
+				<description>El objetivo de este artículo va a ser el de hacer un análisis espacial, a nivel de provincia, del riesgo de inundación, tanto por la importancia del mismo como porque el CCS posee la totalidad de los datos de daños asegurados.</description>
+			</item>
+			<item>
 				<title>Representación espacio-temporal de los siniestros de riesgos extraordinarios por causas naturales</title>
 				<link>http://localhost:1313/revistas/numero-19/representacion_espacio_temporal/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/revistas/numero-19/representacion_espacio_temporal/</guid>
 				<description>Este trabajo hace un análisis de la componente geográfica y temporal de los datos de indemnizaciones y de exposición de bienes asegurados de forma combinada.</description>
+			</item>
+			<item>
+				<title>El camino a la adaptación frente al riesgo de inundación: La promoción de ayudas</title>
+				<link>http://localhost:1313/revistas/numero-14/camino_adaptacion/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-14/camino_adaptacion/</guid>
+				<description>Las medidas a desarrollar en el presente artículo pueden entenderse aunadas bajo el concepto de resiliencia, entendida esta como la capacidad de la adaptación de la sociedad o los ecosistemas a los riesgos que puedan soportar.</description>
 			</item>
 			<item>
 				<title>El seguro de responsabilidad civil derivado de la circulación de vehículos de motor no cubre al conductor asegurado por la muerte de sus familiares causada por su propia conducta Sentencia de la Sala 1ª del Tribunal Supremo de 2 de abril de 2024. Ponente: Sr. Seoane Spiegelberg</title>
@@ -497,6 +574,13 @@
 				<description>Este artículo describe las medidas adoptadas por el Consorcio y sus peritos colaboradores para afrontar una siniestralidad inédita, tanto por el número de siniestros como por la gravedad de los daños y su repercusión social y mediática.</description>
 			</item>
 			<item>
+				<title>La valoración de los daños materiales ocasionados a un vehículo automóvil.</title>
+				<link>http://localhost:1313/revistas/numero-13/valoraci%C3%B3n/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-13/valoraci%C3%B3n/</guid>
+				<description>Determinar el daño causado en los siniestros de responsabilidad civil no es tarea fácil, sobre todo cuando los daños ocasionados superan el valor del vehículo. La sentencia que comentamos, de gran interés para todos los que estamos involucrados en los accidentes de circulación, trata de establecer las premisas para resolver esta cuestión y aclarar la posición que, en líneas generales, ha mantenido la jurisprudencia menor.</description>
+			</item>
+			<item>
 				<title>Las bicicletas eléctricas no son vehículos a motor Comentario de la sentencia del Tribunal de Justicia de la Unión Europea, de 12 de octubre de 2023. Asunto C-286/22</title>
 				<link>http://localhost:1313/revistas/numero-19/bicicletas/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -539,6 +623,13 @@
 				<description>La IA está transformando cada aspecto de la cadena de valor de la industria aseguradora, desde la personalización de productos hasta la gestión de reclamaciones y la atención al cliente. A medida que la tecnología avanza, se espera que su integración en el sector asegurador se profundice aún más, llevando a una mayor eficiencia y mejores resultados para las empresas y sus clientes.</description>
 			</item>
 			<item>
+				<title>CESVIMAP: La innovación como servicio</title>
+				<link>http://localhost:1313/revistas/numero-14/cesvimap/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-14/cesvimap/</guid>
+				<description>CESVIMAP, Centro de Experimentación y Seguridad Vial MAPFRE, es el centro de I+D de MAPFRE, dentro del modelo de innovación MAPFRE Open Innovation (MOI). Somos un laboratorio de innovación de MAPFRE en nuevos productos y servicios de movilidad desarrollados alrededor, entre otros, del Usage Based Insurance (UBI).</description>
+			</item>
+			<item>
 				<title>Comparativa de la DANA de Valencia de octubre de 2024 frente a los principales eventos de inundación en la serie 1971-2024</title>
 				<link>http://localhost:1313/revistas/numero-23/comparativa_dana/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -551,6 +642,13 @@
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/revistas/numero-22/fsfc/</guid>
 				<description>Los sistemas agroalimentarios enfrentan riesgos múltiples, simultáneos y cada vez más interconectados, que superan la capacidad de los modelos tradicionales de asistencia y financiamiento. El desafío es garantizar que el sistema siga funcionando cuando todo lo demás falla: que las cosechas lleguen a los mercados, que los ingresos rurales no se derrumben y que el acceso a alimentos no se interrumpa ante cada shock.</description>
+			</item>
+			<item>
+				<title>Guía de AGERS sobre la función de la gestión de riesgos en las entidades aseguradoras</title>
+				<link>http://localhost:1313/revistas/numero-13/agers/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-13/agers/</guid>
+				<description>El objetivo de este documento es elaborar una Guía práctica de la función de gestión de riesgos que sirva a la profesión y recoja las buenas prácticas comunes desempeñadas por esta función en las entidades de seguros, dando adicionalmente cobertura al cumplimiento de los requisitos exigidos por la normativa de Solvencia II.</description>
 			</item>
 			<item>
 				<title>Inundaciones de Navarra, País Vasco, Aragón y Burgos, 2021</title>
@@ -593,6 +691,20 @@
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/revistas/numero-21/ifigs/</guid>
 				<description>El Foro Internacional de Sistemas de Garantía de Seguros (International Forum of Insurance Guarantee Schemes –IFIGS–) celebró en Madrid su undécima reunión anual los días 16 al 18 de octubre, organizada por el Consorcio de Compensación de Seguros, que este año preside el foro internacional coincidiendo con el cuadragésimo aniversario de su actividad liquidadora de entidades aseguradoras.</description>
+			</item>
+			<item>
+				<title>Actividad aseguradora y cambio climático: generación de conocimiento para impulsar la acción en materia de adaptación</title>
+				<link>http://localhost:1313/revistas/numero-14/actividad_aseguradora/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-14/actividad_aseguradora/</guid>
+				<description>Los seguros constituyen un ámbito estratégico de acción en la lucha contra el cambio climático. Por un lado, suponen una vía fundamental para la transferencia del riesgo, permitiendo que la sociedad aumente su capacidad de recuperación tras los daños producidos, entre otros, por los fenómenos relacionados con el clima.</description>
+			</item>
+			<item>
+				<title>Alcance de la acción subrogatoria ejercitada por la entidad aseguradora frente al Consorcio de Compensación de Seguros en supuestos de controversia. Interpretación de la condición de perjudicado</title>
+				<link>http://localhost:1313/revistas/numero-14/jurisprudencia/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-14/jurisprudencia/</guid>
+				<description>La mayoría de los supuestos en los que existía -y sigue existiendo- controversia entre el Fondo de Garantía y las aseguradoras privadas tienen que ver con el aseguramiento del vehículo.</description>
 			</item>
 			<item>
 				<title>Conductor versus ocupante de un vehí­culo</title>

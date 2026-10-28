@@ -27,5 +27,61 @@
 				<guid>http://localhost:1313/en/revistas/numero-14/inundacion/</guid>
 				<description>That study disclosed a series of spatial characteristics that predispose to higher losses: proximity to the sea or to large river drainage basins and high exposure.</description>
 			</item>
+			<item>
+				<title>Statistics of the CCS&#39; Guarantee Fund for compulsory Motor car Third-Party Liability insurance</title>
+				<link>http://localhost:1313/en/revistas/numero-14/estadistica/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-14/estadistica/</guid>
+				<description>This statistical study discusses the historical trend for the economic results obtained by the Consorcio de Compensación de Seguros (CCS) in its role as a Guarantee Fund for the Compulsory Motor car Third-Party Liability Insurance (MTPL) over the past 20 years (time series for 2001-2020).</description>
+			</item>
+			<item>
+				<title>The Catastrophe Observatory of the Aon Spain Foundation: research, prevention, assistance and continuity</title>
+				<link>http://localhost:1313/en/revistas/numero-14/aon/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-14/aon/</guid>
+				<description>The Aon Spain Foundation is a private non-profit foundation established in 2015. Its motto is &amp;ldquo;always with people against risk&amp;rdquo;, and its primary objective is to help make a better society through its activity in the areas of social integration, art and culture, and catastrophe hazards.</description>
+			</item>
+			<item>
+				<title>Volcanic risk management in Spain</title>
+				<link>http://localhost:1313/en/revistas/numero-14/riesgo_volcanico/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-14/riesgo_volcanico/</guid>
+				<description>The origin of volcanism in the Canary Islands has been the source of intense debate over the past 50 years, but the theory most widely accepted by the scientific community is that Canary Island volcanic activity is linked to the presence of a deep thermal anomaly inside the Earth (lower mantle) capable of building and continuing to build these island volcanic systems.</description>
+			</item>
+			<item>
+				<title>The path to adaptation to flood risk: proactive measures</title>
+				<link>http://localhost:1313/en/revistas/numero-14/camino_adaptacion/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-14/camino_adaptacion/</guid>
+				<description>The measures for implementation considered in this article can be understood to fall under the category of resilience, defined as the capacity of society or ecosystems to adapt to the risks to which they may be subjected.</description>
+			</item>
+			<item>
+				<title>CESVIMAP: Innovation as a service</title>
+				<link>http://localhost:1313/en/revistas/numero-14/cesvimap/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-14/cesvimap/</guid>
+				<description>CESVIMAP, Centro de Experimentación y Seguridad Vial MAPFRE, is MAPFRE&amp;rsquo;s R&amp;amp;D centre in the framework of MAPFRE Open Innovation (MOI) model. We are a MAPFRE&amp;rsquo;s innovation laboratory involved with new mobility products and services developed around, for instance, Usage Based Insurance (UBI).</description>
+			</item>
+			<item>
+				<title>Insurance and climate change: knowledge generation as a driver of adaptive action</title>
+				<link>http://localhost:1313/en/revistas/numero-14/actividad_aseguradora/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-14/actividad_aseguradora/</guid>
+				<description>Insurance is a strategic sphere of activity in the battle against climate change. First, it is a fundamental means of transferring risk, enabling society to enhance its ability to recover after the damage caused, for instance, by climate-related events.</description>
+			</item>
+			<item>
+				<title>Scope of subrogation actions brought by insurance companies against the Consorcio de Compensación de Seguros in cases of dispute. Interpretation of the status of injured party</title>
+				<link>http://localhost:1313/en/revistas/numero-14/jurisprudencia/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-14/jurisprudencia/</guid>
+				<description>Most disputes – past or present – between the Guarantee Fund and private insurers concern automobile insurance.</description>
+			</item>
+			<item>
+				<title></title>
+				<link>http://localhost:1313/en/revistas/numero-14/ume/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-14/ume/</guid>
+				<description></description>
+			</item>
 	</channel>
 </rss>

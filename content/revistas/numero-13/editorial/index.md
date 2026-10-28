@@ -1,0 +1,21 @@
+---
+title: "Editorial"
+category: "Editorial"
+pdf_download: "/pdf/num22/editorial.pdf"
+sidebar_image: "/images/numero-13/foto_portada13_editorial.jpg"
+sidebar_text: "Una de las publicaciones anuales con más tradición en el Consorcio de Compensación de Seguros es su Estadística de Riesgos Extraordinarios. En su edición de 2020 se incluyen datos del periodo 1971-2019. Esta publicación es una verdadera radiografía de los daños por riesgos extraordinarios en España, de la que es la fuente básica de información."
+weight: 1
+image: "/images/numero-13/foto_portada13_editorial.jpg"
+summary: "Una de las publicaciones anuales con más tradición en el Consorcio de Compensación de Seguros es su Estadística de Riesgos Extraordinarios. Plenamente conscientes de la importancia de esta información, hemos querido dedicarle un número de la Revista, prácticamente monográfico."
+---
+Una de las publicaciones anuales con más tradición en el Consorcio de Compensación de Seguros es su Estadística de Riesgos Extraordinarios. En su edición de 2020 se incluyen datos del periodo 1971-2019. Esta publicación es una verdadera radiografía de los daños por riesgos extraordinarios en España, de la que es la fuente básica de información. Sin embargo, en este ejercicio 2020, por una adaptación a los usos y sensibilidades actuales, ha dejado de imprimirse en papel, pero se sigue difundiendo, como también se venía haciendo hasta ahora, en formato pdf en nuestra página web. Plenamente conscientes de la importancia de esta información, hemos querido dedicarle un número de la Revista, prácticamente monográfico.
+
+Nuestros compañeros de la Subdirección Técnica y de Reaseguro, de la Dirección Financiera del Consorcio de Compensación de Seguros, Belén Soriano, María de los Ángeles Horrillo y Pedro Comesaña, son quienes han tenido un papel prominente en la redacción de los artículos de este número, que comienza con un artículo de análisis donde se hace una visión panorámica de los últimos 25 años de estos riesgos. La elección de este periodo, además de ser una cifra relevante, un cuarto de siglo, obedece a la homogeneidad de fuentes y granularidad de la información presente, lo que facilita su representación e interpretación. También de la Subdirección Técnica y de Reaseguro proceden otros dos artículos sobre los impactos de dos medidas relevantes a partir de esta información: un artículo sobre la introducción del nuevo Sistema de Información de Recargos (SIR), procedimiento que sustituye a las fichas estadísticas por las que las entidades aseguradoras proporcionaban información sobre la exposición a los riesgos extraordinarios y que permite disponer de una información más completa y de mayor calidad, y otro artículo que analiza el impacto real de la reducción de la tarifa de riesgos extraordinarios aplicada en 2018 sobre los ingresos por recargos del Consorcio.
+
+En otro artículo, procedente de la Subdirección de Estudios y Relaciones Internacionales, Francisco Espejo analiza en mayor detalle la distribución geográfica del principal riesgo en términos de frecuencia y de coste en España: la inundación.
+
+El tema del valor de los datos referentes a los daños de catástrofes se completa con un artículo de María José Jiménez y Mariano García, investigadores del CSIC en el que, a través de dos proyectos de investigación -en los que el CCS ha participado como parte interesada-, se pone de manifiesto la importancia de una adecuada recopilación y gestión de estos datos como una herramienta indispensable para la reducción de los riesgos de desastre y la adaptación al cambio climático.
+
+En la sección Actualidad CCS, la Directora de Gestión de Riesgos del Consorcio, María Nuche, recensiona la guía recientemente publicada por Agers «La función de Gestión de Riesgos en las entidades aseguradoras».
+
+Por último, en la sección Reseñas, nuestro compañero José Antonio Badillo comenta una reciente resolución judicial, también relacionada con la consideración y evaluación de daños materiales, en este caso relacionada con el seguro del automóvil.

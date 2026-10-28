@@ -1,0 +1,21 @@
+---
+title: "Editorial"
+category: "Editorial"
+pdf_download: "/pdf/num22/editorial.pdf"
+sidebar_image: "/images/numero-13/foto_portada13_editorial.jpg"
+sidebar_text: "The Extraordinary Risk Statistics is one of the longest standing annual publications issued by the Consorcio de Compensación de Seguros (CCS). The 2020 release contains data for the period 1971-2019. This publication is a basic information source and indeed provides an X-ray of damage caused by the so-called 'extraordinary’ risks in Spain."
+weight: 1
+image: "/images/numero-13/foto_portada13_editorial.jpg"
+summary: "The Extraordinary Risk Statistics is one of the longest standing annual publications issued by the Consorcio de Compensación de Seguros (CCS). The 2020 release contains data for the period 1971-2019. This publication is a basic information source and indeed provides an X-ray of damage caused by the so-called 'extraordinary’ risks in Spain."
+---
+The Extraordinary Risk Statistics is one of the longest standing annual publications issued by the Consorcio de Compensación de Seguros (CCS). The 2020 release contains data for the period 1971-2019. This publication is a basic information source and indeed provides an X-ray of damage caused by the so-called 'extraordinary’ risks in Spain. Starting this year, 2020, it will no longer be released on paper, in keeping with current concerns and customs, though as in the past it will continue to be made available to the public, in the form of a PDF file on our website. Being fully aware of the importance of this information, we have thought it appropriate to issue it as a virtually monographic number of our magazine.
+
+Our co-workers Belén Soriano, María de los Ángeles Horrillo, and Pedro Comesaña at the CCS's Subdirección Técnica y de Reaseguro [Technical Area and Reinsurance Sub-directorate] in the Dirección Financiera [Financial Direction] have been most directly involved in writing the papers released in this number, which kicks off with an analysis offering an overview of these risks over the past 25 years. This period was chosen not only because of the significance attaching to a quarter of a century but also because of the uniformity of sources and granularity of the data, conducive to graphic representation and interpretation. The Technical Area and Reinsurance Sub-directorate has also provided two more studies on the impact of relevant measures performed using this information: a paper on the implementation of the new Sistema de Información de Recargos [Surcharge Reporting System] (SIR), which has replaced the statistical data sheets insurance companies formerly used to submit information on exceptional risk exposure and provides fuller and better quality information, and a paper analysing the practical impact of the reduction in the extraordinary risk surcharge rate applied in 2018 on the surcharge revenues collected by the Consorcio.
+
+In a further paper from the Subdirección de Estudios y Relaciones Internacionales [Studies and International Relations Sub-directorate], Francisco Espejo presents a detailed analysis of the geographical distribution of the main peril in terms of frequency and cost in Spain: flooding.
+
+A contribution by María José Jiménez and Mariano García, researchers at the CSIC [Spanish National Research Council], looks at the value of catastrophic risk data in the framework of two research projects carried out with CCS participation and highlights the importance of proper compilation and management of this type of data as an essential tool in lessening disaster risks and adapting to climate change.
+
+In the section entitled News, the Consorcio's Risk Management Director, María Nuche, reviews the guide to the "Risk Management Function in Insurance Companies" recently published by AGERS, Asociación Española de Gerencia de Riesgos y Seguros [Spanish Risk Manager’s Association].
+
+And lastly, in the section entitled Reviews, our co-worker José Antonio Badillo discusses a recent court ruling on the subject of defining and assessing property damage, here in connection with motor vehicle insurance.

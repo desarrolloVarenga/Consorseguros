@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Nº 13 Otoño 2020 on My New Hugo Project</title>
+		<link>http://localhost:1313/revistas/numero-13/</link>
+		<description>Recent content in Nº 13 Otoño 2020 on My New Hugo Project</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/revistas/numero-13/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Editorial</title>
+				<link>http://localhost:1313/revistas/numero-13/editorial/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-13/editorial/</guid>
+				<description>Una de las publicaciones anuales con más tradición en el Consorcio de Compensación de Seguros es su Estadística de Riesgos Extraordinarios. Plenamente conscientes de la importancia de esta información, hemos querido dedicarle un número de la Revista, prácticamente monográfico.</description>
+			</item>
+			<item>
+				<title>Análisis de la siniestralidad de los riesgos extraordinarios del Consorcio de Compensación de Seguros 1995-2019</title>
+				<link>http://localhost:1313/revistas/numero-13/analisis/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-13/analisis/</guid>
+				<description>La Estadística de Riesgos Extraordinarios, una de las publicaciones anuales del Consorcio de Compensación de Seguros (CCS) con más tradición e impacto, recoge en su última edición de 2020 la siniestralidad asumida por esta entidad en los últimos 49 años (serie 1971-2019).</description>
+			</item>
+			<item>
+				<title>Mejora de la estimación de los costes reales de los desastres</title>
+				<link>http://localhost:1313/revistas/numero-13/mejora_valoracion/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-13/mejora_valoracion/</guid>
+				<description>A pesar de que los peligros naturales no siempre se convierten necesariamente en desastres naturales, las pérdidas económicas causadas por desastres naturales están aumentando en todo el mundo, con independencia de que sean causadas por peligros geofísicos, meteorológicos, hidrológicos o climatológicos.</description>
+			</item>
+			<item>
+				<title>Datos de pólizas y capitales 2019 obtenidos a través del nuevo Sistema de Información de Recargos SIR: expectativas de mejora y alcance de la información en el futuro</title>
+				<link>http://localhost:1313/revistas/numero-13/datos_polizas/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-13/datos_polizas/</guid>
+				<description>A través de este sistema las entidades aseguradoras suministran información detallada relativa a los movimientos de cada una de sus pólizas con datos como fecha de inicio y fin de cobertura, localización geográfica, capitales y límites, recargos e intereses de fraccionamiento.</description>
+			</item>
+			<item>
+				<title>Recargos 2019: impacto de la aplicación de la Resolución de 28 de marzo de 2018</title>
+				<link>http://localhost:1313/revistas/numero-13/recargos_2019/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-13/recargos_2019/</guid>
+				<description>Transcurridos dos años desde su entrada en vigor, vamos a analizar el impacto que ha tenido la aplicación de dicha Resolución y, de esta forma, podremos comprobar si la estimación de reducción de un 13,3 % de los recargos para los mismos capitales se ha producido en la realidad.</description>
+			</item>
+			<item>
+				<title>Representación del riesgo de inundación en España a partir de los datos del seguro de riesgos extraordinarios</title>
+				<link>http://localhost:1313/revistas/numero-13/representacion_riesgo/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-13/representacion_riesgo/</guid>
+				<description>El objetivo de este artículo va a ser el de hacer un análisis espacial, a nivel de provincia, del riesgo de inundación, tanto por la importancia del mismo como porque el CCS posee la totalidad de los datos de daños asegurados.</description>
+			</item>
+			<item>
+				<title>La valoración de los daños materiales ocasionados a un vehículo automóvil.</title>
+				<link>http://localhost:1313/revistas/numero-13/valoraci%C3%B3n/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-13/valoraci%C3%B3n/</guid>
+				<description>Determinar el daño causado en los siniestros de responsabilidad civil no es tarea fácil, sobre todo cuando los daños ocasionados superan el valor del vehículo. La sentencia que comentamos, de gran interés para todos los que estamos involucrados en los accidentes de circulación, trata de establecer las premisas para resolver esta cuestión y aclarar la posición que, en líneas generales, ha mantenido la jurisprudencia menor.</description>
+			</item>
+			<item>
+				<title>Guía de AGERS sobre la función de la gestión de riesgos en las entidades aseguradoras</title>
+				<link>http://localhost:1313/revistas/numero-13/agers/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-13/agers/</guid>
+				<description>El objetivo de este documento es elaborar una Guía práctica de la función de gestión de riesgos que sirva a la profesión y recoja las buenas prácticas comunes desempeñadas por esta función en las entidades de seguros, dando adicionalmente cobertura al cumplimiento de los requisitos exigidos por la normativa de Solvencia II.</description>
+			</item>
+	</channel>
+</rss>
