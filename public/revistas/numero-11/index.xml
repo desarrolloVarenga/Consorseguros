@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Nº 11 Otoño 2019 on My New Hugo Project</title>
+		<link>http://localhost:1313/revistas/numero-11/</link>
+		<description>Recent content in Nº 11 Otoño 2019 on My New Hugo Project</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/revistas/numero-11/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Editorial</title>
+				<link>http://localhost:1313/revistas/numero-11/editorial/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-11/editorial/</guid>
+				<description>Entre el 10 y el 15 de septiembre de 2019, una depresión aislada en niveles altos (DANA) descolgada de la corriente en chorro circumpolar se situó sobre el mar Mediterráneo, caliente tras absorber todo el calor del verano, y propició una situación de precipitaciones intensas sobre todo el cuadrante suroriental de la península y las islas Baleares, que fueron especialmente torrenciales en las provincias de Murcia y Alicante.</description>
+			</item>
+			<item>
+				<title>Las depresiones aisladas en niveles altos (DANA): su naturaleza y sus efectos</title>
+				<link>http://localhost:1313/revistas/numero-11/dana/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-11/dana/</guid>
+				<description>El término DANA se usa actualmente en lugar de la denominación gota fría, que ha venido siendo utilizada de forma generalizada y, algunas veces, de forma errónea. El aumento de las temperaturas y de la evaporación de agua lleva a establecer, de acuerdo con las leyes de la física que se aplican a la meteorología, que las precipitaciones han de ser más intensas, o lo que es lo mismo, al aumento del carácter torrencial de las precipitaciones.</description>
+			</item>
+	</channel>
+</rss>

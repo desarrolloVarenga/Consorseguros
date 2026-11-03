@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Nº 11 Autumn 2019 on My New Hugo Project</title>
+		<link>http://localhost:1313/en/revistas/numero-11/</link>
+		<description>Recent content in Nº 11 Autumn 2019 on My New Hugo Project</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/en/revistas/numero-11/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Editorial</title>
+				<link>http://localhost:1313/en/revistas/numero-11/editorial/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-11/editorial/</guid>
+				<description>Between the 10th and the 15th of September 2019, a closed upper-level low (a cut-off low), a high-level atmospheric depression cut off from the jet stream circumpolar current which, on becoming positioned over the Mediterranean Sea, warm after absorbing all of the summer heat, brought about a situation of intense rainfall over the entire southeast quadrant of the Peninsula and the Balearic Islands, which was especially torrential in the provinces of Murcia and Alicante.</description>
+			</item>
+			<item>
+				<title></title>
+				<link>http://localhost:1313/en/revistas/numero-11/dana/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-11/dana/</guid>
+				<description></description>
+			</item>
+	</channel>
+</rss>

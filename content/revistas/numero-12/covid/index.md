@@ -1,0 +1,37 @@
+---
+title: "Informe de la OCDE sobre la Respuesta al COVID-19 y a la brecha de protección frente a las pandemias en el seguro"
+category: "Reseñas"
+pdf_download: "/pdf/num22/editorial.pdf"
+sidebar_image: ""
+sidebar_text: "Desde el punto de vista del seguro, el problema fundamental de la situación presente causada por el COVID-19 es la pérdida de beneficios sin daño material, producida por la adopción gubernamental de medidas preventivas para la contención de la propagación del virus, con impactos enormes sobre sectores como el comercio o la hostelería que hacen peligrar la viabilidad de millares de empresas, en particular las pequeñas y medianas."
+weight: 8
+image: "/images/numero-12/foto_portada12_COVID.jpg"
+summary: "Se trata de un trabajo oportuno, que pone en contexto todas las cuestiones que están sobre la mesa en estos momentos en el debate sobre cómo dar una respuesta, desde el seguro, a este tipo de riesgo que no se había materializado con esta intensidad en el curso de nuestras vidas."
+authors:
+    - name: "Francisco Espejo Gil"
+    - institution: "Subdirector de Estudios y Relaciones Internacionales"
+    - institution: "Consorcio de Compensación de Seguros"
+---
+
+El pasado 28 de mayo de 2020, dentro de la serie de publicaciones y notas relativas a las políticas para dar respuestas al coronavirus (SARS-CoV-2) y a la enfermedad que produce (COVID-19), la Organización para la Cooperación y el Desarrollo Económico (OCDE) ha publicado su nota “Respuesta al COVID-19 y a la brecha de protección frente a las pandemias en el seguro”.
+
+{{< figura src="/images/numero-12/COVID01.jpg" caption="" >}}
+Se trata de un trabajo oportuno, que pone en contexto todas las cuestiones que están sobre la mesa en estos momentos en el debate sobre cómo dar una respuesta, desde el seguro, a este tipo de riesgo que no se había materializado con esta intensidad en el curso de nuestras vidas.
+ 
+Desde el punto de vista del seguro, el problema fundamental de la situación presente causada por el COVID-19 es la pérdida de beneficios sin daño material, producida por la adopción gubernamental de medidas preventivas para la contención de la propagación del virus, con impactos enormes sobre sectores como el comercio o la hostelería que hacen peligrar la viabilidad de millares de empresas, en particular las pequeñas y medianas. En determinadas jurisdicciones, este hecho ha supuesto cierta presión sobre las aseguradoras por parte de asociaciones sectoriales o, incluso, gubernamentales para cubrir este riesgo, que ha puesto en evidencia que o bien las pandemias son una de las exclusiones típicas en las pólizas de seguro, o bien es un riesgo que puede contratarse aparte, pero que tiene muy escasa difusión. En algunos casos, esta presión está deviniendo en demandas judiciales.
+ 
+El sector justifica su postura en que no es posible cubrir ex post riesgos que no han sido contemplados y tarificados ex ante. La retroactividad puede comprometer seriamente la solvencia de las aseguradoras puesto que, tanto a escala global como de mercados nacionales, el coste potencial de esta pérdida de beneficios multiplica por mucho los ingresos por prima en este ramo. Además de esta razón económica existe una razón jurídica: si se cubren pérdidas no contratadas, no se están cumpliendo esos contratos y, por tanto, se incurre en inseguridad jurídica. De esta forma, los supervisores nacionales de los principales mercados coinciden en pedir a las aseguradoras que no se cubran estas pérdidas no contratadas.
+ 
+El sector sí que ha dado respuesta de múltiples maneras a esta crisis: desde el aplazamiento o devolución parcial de primas durante el periodo de confinamiento a la creación de fondos de solidaridad, ocasionalmente muy cuantiosos, para atender a los colectivos más afectados por esta crisis: sanitarios, sector hostelero, etc. En la nota se pueden encontrar varios ejemplos de este enfoque y en la sección “Actualidad” de este número de la revista, se puede conocer cómo el Consorcio de Compensación de Seguros está colaborando, desde del seguro español, para aliviar esta situación.
+ 
+Lo que ha desencadenado esta crisis es un debate sobre cómo cubrir desde el seguro los daños de las pandemias futuras. En algunas jurisdicciones (EE.UU., Reino Unido, Francia o en el conjunto de la Unión Europea) están empezando a considerar enfoques similares a otros riesgos, como el de terrorismo, que tiene un elevado componente de daños por pérdida de beneficios.
+ 
+Las cuestiones clave que tendrían que resolver estos sistemas serían:
+ 
+* Cobertura de la pérdida de beneficios sin daño material (problema al que ya se enfrentan las aseguradoras o los sistemas que cubren el riesgo de terrorismo). Hasta la fecha, el modelo asegurador ha estado más enfocado a los riesgos de morbilidad y mortalidad y no al lucro cesante derivado de la paralización de actividades económicas.
+* Coste potencialmente astronómico de los daños, que supondría unas primas poco atractivas para los potenciales tomadores.
+* Afección a nivel posiblemente global tanto por la expansión del agente causante como por la simultaneidad de la adopción de medidas gubernamentales en muchas jurisdicciones diferentes, que reduciría la posibilidad de diversificación geográfica del riesgo y diluiría el potencial del reaseguro para distribuir y compensar pérdidas entre territorios, aumentando también el coste del reaseguro.
+ 
+Habría también diferentes posibilidades para conseguir una mayor cobertura de esta clase de riesgo, no excluyentes entre sí. La primera sería incorporar algún tipo de extensión automática en las pólizas de pérdida de beneficios a este riesgo. La OCDE reconoce que, en los sistemas de cobertura de riesgos catastróficos, los sistemas que, como el español, tienen este tipo de extensión automática consiguen unos niveles de cobertura superiores a aquellos que cubren estos riesgos de forma opcional. La segunda sería garantizar la participación pública en forma de una barrera de protección (backstop), que cubriera las pérdidas aseguradas por encima de un determinado nivel expresado, por ejemplo, en términos de puntos porcentuales del PIB. De este modo se generaría protección y mercado para este riesgo y se garantizaría la cobertura en las situaciones más extremas. Y la tercera sería exigir planes de continuidad de negocio más ambiciosos, tanto para la administración como para las empresas aseguradas, que permitan una mejor gestión del riesgo. Dentro de estos planes estarían las medidas para facilitar el teletrabajo o la condicionalidad de la cobertura aseguradora a un cierto nivel de inversión en la sanidad pública, que permitiría una respuesta más eficaz frente a estas amenazas.
+ 
+El paralelismo natural con este tipo de potenciales soluciones son, como ya se ha apuntado, los sistemas para la cobertura de riesgos catastróficos y/o del terrorismo, de los que el informe de la OCDE hace una revisión comparativa, incluyendo, naturalmente, al sistema español. Aunque es necesario hacer una puntualización importante que tiene que ver con la capacidad que requeriría este tipo de soluciones aseguradoras, que debería ser sensiblemente superior a la de los actuales sistemas para el seguro de catástrofes. La nota recuerda que solo las pérdidas de beneficios originadas en las pymes de EE.UU. por el COVID-19 pueden llegar a duplicar el coste de las pérdidas totales producidas por el tsunami del este de Japón de 2011.

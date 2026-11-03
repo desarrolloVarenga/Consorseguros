@@ -15,6 +15,13 @@
 			<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Editorial</title>
+				<link>http://localhost:1313/revistas/numero-11/editorial/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-11/editorial/</guid>
+				<description>Entre el 10 y el 15 de septiembre de 2019, una depresión aislada en niveles altos (DANA) descolgada de la corriente en chorro circumpolar se situó sobre el mar Mediterráneo, caliente tras absorber todo el calor del verano, y propició una situación de precipitaciones intensas sobre todo el cuadrante suroriental de la península y las islas Baleares, que fueron especialmente torrenciales en las provincias de Murcia y Alicante.</description>
+			</item>
+			<item>
+				<title>Editorial</title>
 				<link>http://localhost:1313/revistas/numero-12/editorial/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/revistas/numero-12/editorial/</guid>
@@ -189,6 +196,13 @@
 				<description>En la noche del 29 de octubre, contemplamos desolados –como todos los ciudadanos de este país y del resto del mundo– el drama que se estaba desarrollando en una gran zona metropolitana de España y en otras áreas próximas. Muy pronto fuimos conscientes de que la magnitud de la catástrofe iba a ser devastadora, como desgraciadamente lo fue en pérdida de vidas humanas y en daños materiales, y del reto que iba a suponer su gestión.</description>
 			</item>
 			<item>
+				<title>Prevención, protección, preparación y reparación: medidas para la disminución del riesgo de inundación en el eje del Ebro</title>
+				<link>http://localhost:1313/revistas/numero-12/analisis/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-12/analisis/</guid>
+				<description>Para que pueda hablarse de un accidente amparado por la Ley sobre responsabilidad civil y seguro en la circulación de vehículos a motor, aprobada por el RDL 8/2004, de 29 de octubre (LRCSCVM), debe ser calificado como un hecho de la circulación ocasionado por un vehículo a motor. Si no se dan estos dos presupuestos, no es aplicable la normativa especial establecida en la LRCSCVM y en su Reglamento.</description>
+			</item>
+			<item>
 				<title>Riesgos crecientes: el papel del seguro</title>
 				<link>http://localhost:1313/revistas/numero-21/riesgos_crecientes/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -208,6 +222,13 @@
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/revistas/numero-17/aseguramiento_bienes_culturales/</guid>
 				<description>El sector de las obras de arte ha tenido un amplio desarrollo en los últimos años empujado por la creciente incorporación de nuevos coleccionistas. El interés de las administraciones por desarrollar exposiciones permanentes o temporales, como polo de atracción turística, tiene un claro impacto económico que despierta el interés de multitud de operadores económicos. De forma paralela, la industria aseguradora ha ido adaptando sus productos a las necesidades, cada vez más sofisticadas, de los titulares de obras y colecciones.</description>
+			</item>
+			<item>
+				<title>Casos piloto de adaptación al riesgo de inundación</title>
+				<link>http://localhost:1313/revistas/numero-12/casos_piloto/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-12/casos_piloto/</guid>
+				<description>Para que pueda hablarse de un accidente amparado por la Ley sobre responsabilidad civil y seguro en la circulación de vehículos a motor, aprobada por el RDL 8/2004, de 29 de octubre (LRCSCVM), debe ser calificado como un hecho de la circulación ocasionado por un vehículo a motor. Si no se dan estos dos presupuestos, no es aplicable la normativa especial establecida en la LRCSCVM y en su Reglamento.</description>
 			</item>
 			<item>
 				<title>El Pool de riesgo de ciclón australiano. El camino hasta aquí y lo que nos dicen los datos</title>
@@ -385,6 +406,13 @@
 				<description>En los últimos años los medios de comunicación han venido hablando de ciclogénesis explosivas, danas, fenómenos costeros adversos con vientos huracanados y grandes olas o incluso algunos tornados. Estos fenómenos meteorológicos son ocasionales y, por tanto, infrecuentes. Pero, en algunos casos, tienen un alto coste en términos de pérdidas humanas y económicas.</description>
 			</item>
 			<item>
+				<title>Inundaciones pluviales en zonas urbanas españolas: un modelo de estimación de daños basado en la experiencia pericial</title>
+				<link>http://localhost:1313/revistas/numero-12/inundaciones/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-12/inundaciones/</guid>
+				<description>Para que pueda hablarse de un accidente amparado por la Ley sobre responsabilidad civil y seguro en la circulación de vehículos a motor, aprobada por el RDL 8/2004, de 29 de octubre (LRCSCVM), debe ser calificado como un hecho de la circulación ocasionado por un vehículo a motor. Si no se dan estos dos presupuestos, no es aplicable la normativa especial establecida en la LRCSCVM y en su Reglamento.</description>
+			</item>
+			<item>
 				<title>La gestión del riesgo volcánico en España</title>
 				<link>http://localhost:1313/revistas/numero-14/riesgo_volcanico/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -539,6 +567,13 @@
 				<description>Este trabajo hace un análisis de la componente geográfica y temporal de los datos de indemnizaciones y de exposición de bienes asegurados de forma combinada.</description>
 			</item>
 			<item>
+				<title>Sistemas de aseguranza natural: actuar antes en el ciclo de gestión del riesgo con soluciones y estrategias basadas en la naturaleza</title>
+				<link>http://localhost:1313/revistas/numero-12/aseguranza/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-12/aseguranza/</guid>
+				<description>El sector del (rea)seguro es un actor fundamental para participar, para asimilar y para la evaluación de las contribuciones actuales y potenciales de lo que hemos denominado Sistemas de Aseguranza Natural (SAN).</description>
+			</item>
+			<item>
 				<title>El camino a la adaptación frente al riesgo de inundación: La promoción de ayudas</title>
 				<link>http://localhost:1313/revistas/numero-14/camino_adaptacion/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -672,6 +707,13 @@
 				<description>El objetivo de este documento es elaborar una Guía práctica de la función de gestión de riesgos que sirva a la profesión y recoja las buenas prácticas comunes desempeñadas por esta función en las entidades de seguros, dando adicionalmente cobertura al cumplimiento de los requisitos exigidos por la normativa de Solvencia II.</description>
 			</item>
 			<item>
+				<title>Informe de la OCDE sobre la Respuesta al COVID-19 y a la brecha de protección frente a las pandemias en el seguro</title>
+				<link>http://localhost:1313/revistas/numero-12/covid/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-12/covid/</guid>
+				<description>Se trata de un trabajo oportuno, que pone en contexto todas las cuestiones que están sobre la mesa en estos momentos en el debate sobre cómo dar una respuesta, desde el seguro, a este tipo de riesgo que no se había materializado con esta intensidad en el curso de nuestras vidas.</description>
+			</item>
+			<item>
 				<title>Inundaciones de Navarra, País Vasco, Aragón y Burgos, 2021</title>
 				<link>http://localhost:1313/revistas/numero-16/inundaciones/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -684,6 +726,13 @@
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/revistas/numero-17/implantacion_medidas_mejora/</guid>
 				<description>En los últimos años el efecto del cambio climático se ha añadido a los problemas de ocupación de las zonas inundables, multiplicando los daños que se producen con cada evento. El enfoque habitual, centrado en controlar la fuente de la inundación (el cauce, el mar, la lluvia&amp;hellip;), debe complementarse con medidas de autoprotección de la población y de las edificaciones afectadas.</description>
+			</item>
+			<item>
+				<title>Las depresiones aisladas en niveles altos (DANA): su naturaleza y sus efectos</title>
+				<link>http://localhost:1313/revistas/numero-11/dana/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-11/dana/</guid>
+				<description>El término DANA se usa actualmente en lugar de la denominación gota fría, que ha venido siendo utilizada de forma generalizada y, algunas veces, de forma errónea. El aumento de las temperaturas y de la evaporación de agua lleva a establecer, de acuerdo con las leyes de la física que se aplican a la meteorología, que las precipitaciones han de ser más intensas, o lo que es lo mismo, al aumento del carácter torrencial de las precipitaciones.</description>
 			</item>
 			<item>
 				<title>Manual de riesgos operacionales de Agers</title>
@@ -768,6 +817,13 @@
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/revistas/numero-15/simposium/</guid>
 				<description>El sexto Simposium del Observatorio de Catástrofes de la Fundación Aon España, titulado «El Coste de las Catástrofes», se celebró bajo la Presidencia de Honor de Su Majestad el Rey Felipe VI el pasado 25 de noviembre en la Escuela Nacional de Protección Civil en Madrid.</description>
+			</item>
+			<item>
+				<title>Viviendo tiempos interesantes</title>
+				<link>http://localhost:1313/revistas/numero-12/viviendo/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-12/viviendo/</guid>
+				<description>Existe una leyenda, más o menos apócrifa, que señala que el aforismo irónico ojalá vivas tiempos interesantes procede de una maldición china del s. XVII. Sea cual sea el origen, lo cierto es que la actualidad del Consorcio de Compensación de Seguros (CCS), tanto para la entidad como para las personas que lo integran, está constituida por una secuencia casi continua de tiempos interesantes en los últimos meses.</description>
 			</item>
 			<item>
 				<title>Barómetro de Catástrofes 2021 del Observatorio de Catástrofes de la Fundación Aon España</title>

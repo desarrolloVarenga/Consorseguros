@@ -15,6 +15,13 @@
 			<atom:link href="http://localhost:1313/en/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Editorial</title>
+				<link>http://localhost:1313/en/revistas/numero-11/editorial/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-11/editorial/</guid>
+				<description>Between the 10th and the 15th of September 2019, a closed upper-level low (a cut-off low), a high-level atmospheric depression cut off from the jet stream circumpolar current which, on becoming positioned over the Mediterranean Sea, warm after absorbing all of the summer heat, brought about a situation of intense rainfall over the entire southeast quadrant of the Peninsula and the Balearic Islands, which was especially torrential in the provinces of Murcia and Alicante.</description>
+			</item>
+			<item>
+				<title>Editorial</title>
 				<link>http://localhost:1313/en/revistas/numero-12/editorial/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/en/revistas/numero-12/editorial/</guid>
@@ -175,6 +182,13 @@
 				<description>Colombia&amp;rsquo;s terrain is extremely varied, ranging from low valleys to high snow-capped peaks. This is due primarily to the fact that the country is located right in the middle of the Pacific Ring of Fire, known to be one of the subduction zones that harbours some of the world&amp;rsquo;s most important zones of seismic and volcanic activity as a result of the interaction between the Nazca and the South American tectonic plates.</description>
 			</item>
 			<item>
+				<title>Prevention, protection, preparation and repair: measures to reduce flood risk along the axis of the Ebro</title>
+				<link>http://localhost:1313/en/revistas/numero-12/analisis/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-12/analisis/</guid>
+				<description>To be able to refer to an accident as covered by the Law on civil liability and insurance in the use of motor vehicles, which was endorsed by Royal Decree-Law (RDL) 8/2004 of 29 October (the “LRCSCVM” for the Spanish), it must be categorised as a “traffic event” caused by a “motor vehicle”. If these two circumstances are not attendant, the special regulatory framework that is established in the LRCSCVM and its regulations does not apply.</description>
+			</item>
+			<item>
 				<title>The Floods Caused by the Cut-off Low in October–November 2024: The Greatest Challenge in the History of Extraordinary Risk Insurance</title>
 				<link>http://localhost:1313/en/revistas/numero-23/riesgos-extraordinarios/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -243,6 +257,13 @@
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/en/revistas/numero-23/lecciones_dana/</guid>
 				<description>On 29 October 2024 a DANA, from the Spanish abbreviation for a closed upper level low or a cut-off low storm system, dropped more than 770 litres per square metre in just 24 hours. To put this in perspective, this is the volume of precipitation that falls on the province of Valencia in 19 months.</description>
+			</item>
+			<item>
+				<title>Pilot cases for adapting to flood risk</title>
+				<link>http://localhost:1313/en/revistas/numero-12/casos_piloto/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-12/casos_piloto/</guid>
+				<description>To be able to refer to an accident as covered by the Law on civil liability and insurance in the use of motor vehicles, which was endorsed by Royal Decree-Law (RDL) 8/2004 of 29 October (the “LRCSCVM” for the Spanish), it must be categorised as a “traffic event” caused by a “motor vehicle”. If these two circumstances are not attendant, the special regulatory framework that is established in the LRCSCVM and its regulations does not apply.</description>
 			</item>
 			<item>
 				<title>Statistics of the CCS&#39; Guarantee Fund for compulsory Motor car Third-Party Liability insurance</title>
@@ -385,6 +406,13 @@
 				<description>La inteligencia artificial (IA) es un campo en constante evolución, con una historia que abarca décadas de investigación y desarrollo. Desde su concepción en la década de 1950, cuando pioneros como Alan Turing y John McCarthy sentaron las bases teóricas de la inteligencia artificial, hasta su aplicación práctica en la actualidad, la IA ha recorrido un viaje que ha redefinido múltiples aspectos de nuestras vidas.</description>
 			</item>
 			<item>
+				<title>Rain flooding in Spanish urban zones: a damage estimation model based on adjustment experience</title>
+				<link>http://localhost:1313/en/revistas/numero-12/inundaciones/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-12/inundaciones/</guid>
+				<description>To be able to refer to an accident as covered by the Law on civil liability and insurance in the use of motor vehicles, which was endorsed by Royal Decree-Law (RDL) 8/2004 of 29 October (the “LRCSCVM” for the Spanish), it must be categorised as a “traffic event” caused by a “motor vehicle”. If these two circumstances are not attendant, the special regulatory framework that is established in the LRCSCVM and its regulations does not apply.</description>
+			</item>
+			<item>
 				<title>The August 1983 floods in the Basque Country: events and lessons</title>
 				<link>http://localhost:1313/en/revistas/numero-19/portada_avenidas_agosto/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -481,6 +509,13 @@
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/en/revistas/numero-13/representacion_riesgo/</guid>
 				<description>The purpose of this article is thus to carry out a spatial analysis of flood risk by province, both because of the size of that peril and because the CCS holds all the insured damage data.</description>
+			</item>
+			<item>
+				<title>Natural assurance schemes: moving earlier in the risk management cycle with nature based solutions and strategies</title>
+				<link>http://localhost:1313/en/revistas/numero-12/aseguranza/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-12/aseguranza/</guid>
+				<description>The (re)insurance sector is a fundamental actor to participate, absorb, and evaluate the current and potential contributions of what we have called Natural Assurance Schemes (NAS).</description>
 			</item>
 			<item>
 				<title>Special problems posed by losses to cultural heritage assets</title>
@@ -672,6 +707,13 @@
 				<description>In recent years the effect of climate change has exacerbated the problems associated with our encroachment on flood zones, compounding the damage caused by each event. The conventional approach is based on controlling the source of the flooding, reinforced by self-protection measures taken by the inhabitants and buildings affected.</description>
 			</item>
 			<item>
+				<title>OECD report on &#39;Responding to the COVID-19 and pandemic protection gap in insurance&#39;</title>
+				<link>http://localhost:1313/en/revistas/numero-12/covid/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-12/covid/</guid>
+				<description>This is a timely note that gives context to all the issues currently on the table in the debate on how to respond from an insurance standpoint to this type of risk which had never previously materialized with such force in our lifetimes.</description>
+			</item>
+			<item>
 				<title>Review of Disaster Insurance Reimagined</title>
 				<link>http://localhost:1313/en/revistas/numero-19/rese%C3%B1a/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -712,6 +754,13 @@
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/en/revistas/numero-14/actividad_aseguradora/</guid>
 				<description>Insurance is a strategic sphere of activity in the battle against climate change. First, it is a fundamental means of transferring risk, enabling society to enhance its ability to recover after the damage caused, for instance, by climate-related events.</description>
+			</item>
+			<item>
+				<title>Living in interesting times</title>
+				<link>http://localhost:1313/en/revistas/numero-12/viviendo/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-12/viviendo/</guid>
+				<description>There is a more or less apocryphal legend which suggests that the ironic aphorism &amp;lsquo;may you live in interesting times&amp;rsquo; originates from a 17th century Chinese curse. Whatever its source, the fact is that the present at the Consorcio de Compensación de Seguros (CCS), both for the institution and those who are part of it, has been an almost continuous stream of &amp;lsquo;interesting times&amp;rsquo; over the past few months.</description>
 			</item>
 			<item>
 				<title>Scope of subrogation actions brought by insurance companies against the Consorcio de Compensación de Seguros in cases of dispute. Interpretation of the status of injured party</title>
@@ -768,6 +817,13 @@
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/en/revistas/numero-15/valoraciones/</guid>
 				<description>Coverage of volcanic eruptions by Spain&amp;rsquo;s Consorcio de Compensación de Seguros (CCS) dates back to issue of the Spanish Law on recasting the Property and Accident Insurance Catastrophe Compensation Funds into a single Insurance Compensation Fund also covering Livestock, Forestry, and Agricultural Insurance.</description>
+			</item>
+			<item>
+				<title></title>
+				<link>http://localhost:1313/en/revistas/numero-11/dana/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-11/dana/</guid>
+				<description></description>
 			</item>
 			<item>
 				<title></title>
