@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Nº 10 Primavera 2019 on My New Hugo Project</title>
+		<link>http://localhost:1313/revistas/numero-10/</link>
+		<description>Recent content in Nº 10 Primavera 2019 on My New Hugo Project</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/revistas/numero-10/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Editorial</title>
+				<link>http://localhost:1313/revistas/numero-10/editorial/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-10/editorial/</guid>
+				<description>La revista Consorseguros Digital se viste de verde en su décimo número correspondiente a la primavera de 2019 para abordar, desde múltiples perspectivas, la cuestión de la responsabilidad medioambiental y su aseguramiento.</description>
+			</item>
+			<item>
+				<title>Competencias administrativas y coordinación en la aplicación de la normativa de responsabilidad medioambiental</title>
+				<link>http://localhost:1313/revistas/numero-10/competencias/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-10/competencias/</guid>
+				<description>La competencia para la ejecución de la normativa de responsabilidad medioambiental corresponde, con carácter general, a las comunidades autónomas, sin perjuicio de las competencias que tiene la Administración General del Estado.</description>
+			</item>
+			<item>
+				<title>La gerencia de riesgos y la responsabilidad medioambiental</title>
+				<link>http://localhost:1313/revistas/numero-10/gerencia_de_riesgos/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-10/gerencia_de_riesgos/</guid>
+				<description>La definición de la Gerencia de Riesgos no deja de crecer y ahora nos encontramos ante situaciones que pretenden proteger no solo la cuenta de resultados de las empresas, sino otros elementos capitales como son: los activos patrimoniales, corazón de la actividad; los empleados, motor fundamental del negocio; los suministradores, colaboradores relevantes en el proceso; el entorno social y económico de los ámbitos geográficos en los que se actúa, etc.</description>
+			</item>
+			<item>
+				<title>Los riesgos medioambientales en Repsol</title>
+				<link>http://localhost:1313/revistas/numero-10/repsol/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-10/repsol/</guid>
+				<description>Las compañías petroleras están expuestas, por la naturaleza inherente de sus actividades, a multitud de riesgos de índole medioambiental que es necesario gestionar de forma eficaz y adecuada. Para ello es necesario realizar una labor previa de identificación de estos riesgos, que es lo que permitirá diseñar e implementar medidas de prevención para evitar su ocurrencia.</description>
+			</item>
+			<item>
+				<title>El Pool Español de Riesgos Medioambientales: el seguro medioambiental al alcance de todos</title>
+				<link>http://localhost:1313/revistas/numero-10/pool/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-10/pool/</guid>
+				<description>En mayo se cumplieron veinticinco años desde la fecha de la firma de la escritura de constitución del Pool de Riesgos Medioambientales. Es un buen momento para hacer una breve revisión de para qué se creó, si está cumpliendo sus cometidos y si estos siguen siendo útiles para las entidades miembros del Pool, para sus clientes y para el sector asegurador en general.</description>
+			</item>
+			<item>
+				<title>El seguro medioambiental y su relevancia en la gestión de los riesgos empresariales</title>
+				<link>http://localhost:1313/revistas/numero-10/seguro_medioambiental/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-10/seguro_medioambiental/</guid>
+				<description>La opción del seguro de Responsabilidad Medioambiental es quizás la opción más práctica y económica a la hora de transferir/financiar el riesgo medioambiental de las empresas ante un posible incidente de contaminación o daño ambiental.</description>
+			</item>
+			<item>
+				<title>Responsabilidad medioambiental: hundimiento del buque Prestige</title>
+				<link>http://localhost:1313/revistas/numero-10/prestige/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-10/prestige/</guid>
+				<description>El Prestige vertió unas 63.000 toneladas de fuel al mar que afectaron a unos 2.980 km de costa. Aunque la cantidad de vertido era muy inferior a la de otros accidentes anteriores en Europa, la extensión de costa afectada sí fue la mayor hasta la fecha.</description>
+			</item>
+			<item>
+				<title>Daños al medio ambiente provocados por una central hidroeléctrica que había sido debidamente autorizada para ejercer su actividad</title>
+				<link>http://localhost:1313/revistas/numero-10/jurisprudencia/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-10/jurisprudencia/</guid>
+				<description>Comentario de la Sentencia del Tribunal de Justicia de la Unión Europea, de 1 de junio de 2017, Caso Folk.</description>
+			</item>
+	</channel>
+</rss>

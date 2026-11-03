@@ -1,6 +1,6 @@
 ---
 title: "Nº 11 Autumn 2019"
-hero_title: "Las depresiones aisladas en niveles altos (DANA)"
+hero_title: "Cut-off lows: Their characteristics and their effects"
 cover_image: "/images/numero-11/ANALISIS_portada11.jpg"
 pdf_download: "/pdfs/numero-21.pdf"
 layout: "list"

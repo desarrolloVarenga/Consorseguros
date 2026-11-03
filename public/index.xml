@@ -15,6 +15,13 @@
 			<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Editorial</title>
+				<link>http://localhost:1313/revistas/numero-10/editorial/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-10/editorial/</guid>
+				<description>La revista Consorseguros Digital se viste de verde en su décimo número correspondiente a la primavera de 2019 para abordar, desde múltiples perspectivas, la cuestión de la responsabilidad medioambiental y su aseguramiento.</description>
+			</item>
+			<item>
+				<title>Editorial</title>
 				<link>http://localhost:1313/revistas/numero-11/editorial/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/revistas/numero-11/editorial/</guid>
@@ -147,6 +154,13 @@
 				<description>Desde el punto de vista conceptual, por bienes de interés cultural (BIC) se entienden aquellos integrantes del Patrimonio Histórico Español en la legislación estatal, a los cuales se les otorga un especial nivel de protección. También se asigna el código BIC a aquellos bienes inmuebles de todo el territorio español, de cualquier otra titularidad que no sea estatal, y que estén incluidos en las categorías establecidas por la legislación autonómica.</description>
 			</item>
 			<item>
+				<title>Competencias administrativas y coordinación en la aplicación de la normativa de responsabilidad medioambiental</title>
+				<link>http://localhost:1313/revistas/numero-10/competencias/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-10/competencias/</guid>
+				<description>La competencia para la ejecución de la normativa de responsabilidad medioambiental corresponde, con carácter general, a las comunidades autónomas, sin perjuicio de las competencias que tiene la Administración General del Estado.</description>
+			</item>
+			<item>
 				<title>Documentación histórica relativa a las inundaciones del País Vasco de agosto de 1983</title>
 				<link>http://localhost:1313/revistas/numero-19/analisis_documentacion_historica/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -187,6 +201,13 @@
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/revistas/numero-15/colombia/</guid>
 				<description>En los territorios de Castilla y León, País Vasco, Navarra y Aragón son frecuentes las inundaciones causadas por los desbordamientos del río Ebro y sus afluentes o de los diferentes ríos vascos y navarros de la vertiente cantábrica. Existen diversas causas para explicar las inundaciones por desbordamiento de ríos entre las que se encuentran el deshielo o, a veces, las maniobras de desembalse, pero la causa principal tiene siempre su origen en fuertes precipitaciones.</description>
+			</item>
+			<item>
+				<title>Las depresiones aisladas en niveles altos (DANA): su naturaleza y sus efectos</title>
+				<link>http://localhost:1313/revistas/numero-11/dana/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-11/dana/</guid>
+				<description>El término DANA se usa actualmente en lugar de la denominación gota fría, que ha venido siendo utilizada de forma generalizada y, algunas veces, de forma errónea. El aumento de las temperaturas y de la evaporación de agua lleva a establecer, de acuerdo con las leyes de la física que se aplican a la meteorología, que las precipitaciones han de ser más intensas, o lo que es lo mismo, al aumento del carácter torrencial de las precipitaciones.</description>
 			</item>
 			<item>
 				<title>Las inundaciones de la DANA de octubre-noviembre de 2024: el mayor reto de la historia del Seguro de Riesgos Extraordinarios</title>
@@ -238,6 +259,13 @@
 				<description>Desde el año 2003, la Sociedad Australiana del Pool de Reaseguro (Australian Reinsurance Pool Corporation – ARPC –) ha sido el mecanismo del Gobierno de Australia para proveer cobertura de reaseguro de catástrofe, primero para el riesgo de terrorismo y desde 2022 para los riesgos de ciclón y de inundación relacionada con un ciclón.</description>
 			</item>
 			<item>
+				<title>El riesgo de inundación en la agricultura</title>
+				<link>http://localhost:1313/revistas/numero-11/agroseguro/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-11/agroseguro/</guid>
+				<description>España es un país particularmente proclive a sufrir inundaciones y su agricultura un sector especialmente vulnerable. La variabilidad climática a la que estamos sometidos, junto con la orografía del país y la estructura de las explotaciones y las producciones agrícolas, hace que la agricultura española sea muy sensible a este riesgo.</description>
+			</item>
+			<item>
 				<title>El riesgo volcánico en Francia: la respuesta del seguro</title>
 				<link>http://localhost:1313/revistas/numero-15/francia/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -257,6 +285,13 @@
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/revistas/numero-20/motor_del_cambio/</guid>
 				<description>La inteligencia artificial, cuya base matemática se estableció hace décadas, ha experimentado una incursión global en todos los ámbitos de nuestra sociedad en estos tiempos, generando un proceso de cambio significativo a nivel empresarial. Aunque algunos podrían percibirlo como una mera moda tecnológica, parece que estamos inmersos en algo mucho más profundo, equiparable al impacto que tuvieron en su momento el uso de internet y la generalización del correo electrónico.</description>
+			</item>
+			<item>
+				<title>La gerencia de riesgos y la responsabilidad medioambiental</title>
+				<link>http://localhost:1313/revistas/numero-10/gerencia_de_riesgos/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-10/gerencia_de_riesgos/</guid>
+				<description>La definición de la Gerencia de Riesgos no deja de crecer y ahora nos encontramos ante situaciones que pretenden proteger no solo la cuenta de resultados de las empresas, sino otros elementos capitales como son: los activos patrimoniales, corazón de la actividad; los empleados, motor fundamental del negocio; los suministradores, colaboradores relevantes en el proceso; el entorno social y económico de los ámbitos geográficos en los que se actúa, etc.</description>
 			</item>
 			<item>
 				<title>La tempestad Klaus</title>
@@ -364,6 +399,20 @@
 				<description>La utilidad de los diferentes tipos de análisis computacionales, tanto descriptivos, como diagnósticos, predictivos, prescriptivos y preventivos, es poder crear modelos predictivos basados en técnicas de regresión.</description>
 			</item>
 			<item>
+				<title>Las riadas, un peligro para la seguridad vial</title>
+				<link>http://localhost:1313/revistas/numero-11/riadas/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-11/riadas/</guid>
+				<description>Las inundaciones repentinas son extremadamente peligrosas para la seguridad de las personas y, en concreto, para la seguridad vial. Desde Centro Zaragoza presentamos una serie de consejos acerca de lo que se debe hacer y lo que se debe evitar en caso de verse sorprendido por una repentina inundación cuando viaja en su vehículo.</description>
+			</item>
+			<item>
+				<title>Los riesgos medioambientales en Repsol</title>
+				<link>http://localhost:1313/revistas/numero-10/repsol/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-10/repsol/</guid>
+				<description>Las compañías petroleras están expuestas, por la naturaleza inherente de sus actividades, a multitud de riesgos de índole medioambiental que es necesario gestionar de forma eficaz y adecuada. Para ello es necesario realizar una labor previa de identificación de estos riesgos, que es lo que permitirá diseñar e implementar medidas de prevención para evitar su ocurrencia.</description>
+			</item>
+			<item>
 				<title>Los seguros agrarios: 45 años protegiendo al sector agrario</title>
 				<link>http://localhost:1313/revistas/numero-22/enesa/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -390,6 +439,13 @@
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/revistas/numero-22/ccs_y_su_apoyo_al_sac/</guid>
 				<description>La Agrupación Española de Entidades Aseguradoras de los Seguros Agrarios Combinados, S.A. se constituyó en 1980 gracias al impulso inicial y el compromiso de 25 entidades aseguradoras y tras un extenso trabajo legislativo de los representantes políticos de la época. Fue, no cabe duda, un proceso desarrollado en un momento histórico para nuestro país y nuestra democracia, en el que se consideró que un seguro agrario era un pilar para la España que se quería construir.</description>
+			</item>
+			<item>
+				<title>El Pool Español de Riesgos Medioambientales: el seguro medioambiental al alcance de todos</title>
+				<link>http://localhost:1313/revistas/numero-10/pool/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-10/pool/</guid>
+				<description>En mayo se cumplieron veinticinco años desde la fecha de la firma de la escritura de constitución del Pool de Riesgos Medioambientales. Es un buen momento para hacer una breve revisión de para qué se creó, si está cumpliendo sus cometidos y si estos siguen siendo útiles para las entidades miembros del Pool, para sus clientes y para el sector asegurador en general.</description>
 			</item>
 			<item>
 				<title>El seguro de edificios singulares: el caso de Portugal</title>
@@ -439,6 +495,13 @@
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/revistas/numero-16/gloria/</guid>
 				<description>El Consorcio de Compensación de Seguros (CCS) denomina siniestralidad a un conjunto de siniestros con cobertura del Seguro de Riesgos Extraordinarios sucedidos en una o varias zonas geográficas en un periodo de tiempo relativamente breve, que en el caso de los que tienen origen meteorológico suele oscilar entre 1 y 7 días. La que conocemos como «siniestralidad Gloria» comprende siniestros sucedidos entre el 18 y el 25 de enero de 2020 y tiene su núcleo en la «borrasca Gloria».</description>
+			</item>
+			<item>
+				<title>Modelos de inundación del Sistema Nacional de Cartografía de zonas inundables vs. inundaciones reales</title>
+				<link>http://localhost:1313/revistas/numero-11/segura/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-11/segura/</guid>
+				<description>Los mapas de peligrosidad son una de las herramientas clave para la gestión del riesgo de inundación. Estos mapas incluyen las zonas geográficas que podrían inundarse en escenarios de baja, media y alta probabilidad de inundación.</description>
 			</item>
 			<item>
 				<title>No todo cabe en un algoritmo</title>
@@ -509,6 +572,20 @@
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/revistas/numero-18/jurisprudencia/</guid>
 				<description>En la teoría general de los contratos, el consentimiento, la causa y el objeto son los tres elementos esenciales. En el contrato de seguro, la causa es el riesgo asegurado; mientras que el objeto es el interés asegurado. En ambos casos, ante su inexistencia, la Ley de contrato de seguro (LCS) declara la nulidad del contrato.</description>
+			</item>
+			<item>
+				<title>El Plan Nacional de Adaptación al Cambio Climático: una revisión para afrontar el futuro</title>
+				<link>http://localhost:1313/revistas/numero-11/balance_pnacc/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-11/balance_pnacc/</guid>
+				<description>Los efectos del cambio climático se hacen sentir de forma cada vez más nítida en nuestro país. Son cambios preocupantes que amenazan no solo a los ecosistemas, sino también a las actividades económicas, la salud humana y el patrimonio natural y cultural.</description>
+			</item>
+			<item>
+				<title>El seguro medioambiental y su relevancia en la gestión de los riesgos empresariales</title>
+				<link>http://localhost:1313/revistas/numero-10/seguro_medioambiental/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-10/seguro_medioambiental/</guid>
+				<description>La opción del seguro de Responsabilidad Medioambiental es quizás la opción más práctica y económica a la hora de transferir/financiar el riesgo medioambiental de las empresas ante un posible incidente de contaminación o daño ambiental.</description>
 			</item>
 			<item>
 				<title>Incendios del futuro: nuevos enfoques participativos basados en la planificación territorial</title>
@@ -658,11 +735,25 @@
 				<description>El pasado mes de septiembre de 2022 tuvo lugar la presentación del Manual de Riesgos Operacionales de AGERS (Asociación Española de Gerencia de Riesgos y Seguros), elaborado por los miembros que forman la Comisión de Expertos de Riesgos de Grandes Empresas entre los que se encuentra, en representación del Consorcio de Compensación de Seguros, María Nuche, Directora de Gestión de Riesgos.</description>
 			</item>
 			<item>
+				<title>Nueva publicación sobre Inundaciones y cambio climático (2018)</title>
+				<link>http://localhost:1313/revistas/numero-11/cambio_climatico_inundaciones/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-11/cambio_climatico_inundaciones/</guid>
+				<description>En la actualidad existe una gran incertidumbre sobre las tendencias y las proyecciones futuras de cómo el clima afectará a las inundaciones extremas. El estudio de estos cambios futuros en la peligrosidad de las inundaciones constituye un importante desafío técnico y científico que tienen que acometer los países europeos durante la segunda aplicación de la Directiva de Inundaciones</description>
+			</item>
+			<item>
 				<title>Peritación para el Consorcio de Compensación de Seguros de daños producidos en bienes de interés cultural por riesgos extraordinarios</title>
 				<link>http://localhost:1313/revistas/numero-17/peritar_bic/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/revistas/numero-17/peritar_bic/</guid>
 				<description>Este artículo trata de explicar de forma breve, a través de la experiencia particular de las autoras y mediante algunos ejemplos, la forma y el fondo del proceso pericial de inmuebles catalogados como BIC (Bien de Interés Cultural) y otros singulares de especial interés, pero sin protección, que en cualquier caso forman parte del patrimonio identitario de una población y que han sufrido daños por un acontecimiento de carácter extraordinario con cobertura por el Consorcio de Compensación de Seguros (CCS).</description>
+			</item>
+			<item>
+				<title>Responsabilidad medioambiental: hundimiento del buque Prestige</title>
+				<link>http://localhost:1313/revistas/numero-10/prestige/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-10/prestige/</guid>
+				<description>El Prestige vertió unas 63.000 toneladas de fuel al mar que afectaron a unos 2.980 km de costa. Aunque la cantidad de vertido era muy inferior a la de otros accidentes anteriores en Europa, la extensión de costa afectada sí fue la mayor hasta la fecha.</description>
 			</item>
 			<item>
 				<title>Actividad volcánica y seguro en Portugal</title>
@@ -691,6 +782,13 @@
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/revistas/numero-23/comparativa_dana/</guid>
 				<description>Partiendo de la información contenida en la publicación «Estadística de Riesgos Extraordinarios, Serie 1971-2024», disponible en la página web del CCS, seleccionamos los mayores eventos por inundación en la serie histórica de los últimos 54 años.</description>
+			</item>
+			<item>
+				<title>Daños al medio ambiente provocados por una central hidroeléctrica que había sido debidamente autorizada para ejercer su actividad</title>
+				<link>http://localhost:1313/revistas/numero-10/jurisprudencia/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-10/jurisprudencia/</guid>
+				<description>Comentario de la Sentencia del Tribunal de Justicia de la Unión Europea, de 1 de junio de 2017, Caso Folk.</description>
 			</item>
 			<item>
 				<title>FSFC: Una nueva arquitectura financiera para anticiparse al hambre</title>
@@ -728,18 +826,18 @@
 				<description>En los últimos años el efecto del cambio climático se ha añadido a los problemas de ocupación de las zonas inundables, multiplicando los daños que se producen con cada evento. El enfoque habitual, centrado en controlar la fuente de la inundación (el cauce, el mar, la lluvia&amp;hellip;), debe complementarse con medidas de autoprotección de la población y de las edificaciones afectadas.</description>
 			</item>
 			<item>
-				<title>Las depresiones aisladas en niveles altos (DANA): su naturaleza y sus efectos</title>
-				<link>http://localhost:1313/revistas/numero-11/dana/</link>
-				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/revistas/numero-11/dana/</guid>
-				<description>El término DANA se usa actualmente en lugar de la denominación gota fría, que ha venido siendo utilizada de forma generalizada y, algunas veces, de forma errónea. El aumento de las temperaturas y de la evaporación de agua lleva a establecer, de acuerdo con las leyes de la física que se aplican a la meteorología, que las precipitaciones han de ser más intensas, o lo que es lo mismo, al aumento del carácter torrencial de las precipitaciones.</description>
-			</item>
-			<item>
 				<title>Manual de riesgos operacionales de Agers</title>
 				<link>http://localhost:1313/revistas/numero-18/lecturas/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/revistas/numero-18/lecturas/</guid>
 				<description>La creciente evidencia de que al clima le está pasando algo grave hace que cada vez haga menos falta intentar convencer a los escépticos de que estamos inmersos en una crisis climática o, como establece la legislación española, en una emergencia climática.</description>
+			</item>
+			<item>
+				<title>Pago de la prima después de seis meses del vencimiento. El pacto entre tomador y asegurador no es oponible al Consorcio de Compensación de Seguros, cuya relación jurídica con ambos es distinta, aunque derive de la misma póliza</title>
+				<link>http://localhost:1313/revistas/numero-11/jurisprudencia/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-11/jurisprudencia/</guid>
+				<description>El litigio que da lugar a la sentencia que comentamos tiene que ver con la procedencia de la cobertura por el CCS de los daños derivados de riesgos extraordinarios cuando el pago de la prima del seguro ordinario se produce después de su prórroga, y en virtud de una práctica existente entre la aseguradora y el tomador del seguro, el mismo día del siniestro, una vez transcurridos seis meses después del vencimiento de la prima.</description>
 			</item>
 			<item>
 				<title>Proyecto IMPACTO. El primer paso para la creación del Registro Nacional de Datos sobre Emergencias y Catástrofes en España de la Dirección General de Protección Civil y Emergencias</title>
@@ -803,6 +901,13 @@
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/revistas/numero-23/vision/</guid>
 				<description>La Delegación Territorial del Consorcio de Compensación de Seguros (CCS) en Valencia tiene un papel crucial en la gestión de los riesgos extraordinarios.</description>
+			</item>
+			<item>
+				<title>Pago de la prima después de seis meses del vencimiento. El pacto entre tomador y asegurador no es oponible al Consorcio de Compensación de Seguros, cuya relación jurídica con ambos es distinta, aunque derive de la misma póliza</title>
+				<link>http://localhost:1313/revistas/numero-11/comparativa/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-11/comparativa/</guid>
+				<description>La situación que motiva este estudio, y este número de la revista Consorseguros, es el episodio de inundación producida por la DANA que afectó, principalmente, al cuadrante suroriental peninsular entre el 10 y el 15 de septiembre de 2019. Se trata de la siniestralidad por inundación con mayor número de tramitaciones en la historia del CCS.</description>
 			</item>
 			<item>
 				<title>Reseña de The Road to Conscious Machines. The Story of AI</title>

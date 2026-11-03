@@ -1,0 +1,71 @@
+---
+title: "Payment of the premium after six months from its due date. A covenant between the policyholder and the insurer is not enforceable against Consorcio de Compensación de Seguros, whose legal relationships with each of them are different, even though they stem from the same policy"
+category: "Jurisprudencia"
+pdf_download: "/pdf/num22/editorial.pdf"
+sidebar_image: "/images/numero-11/foto_portada11_jurisprudencia.jpg"
+sidebar_text: "We must not lose sight of the fact that CCS is an entity of a public nature, operating in the environment of the coverage of extraordinary risks fully subject to the provisions of its Bylaws, the Insurance Contract Act and the Extraordinary Risk Insurance Regulation. From these provisions, it can be clearly concluded that, in these cases, the damage referring to extraordinary losses occurring prior to the payment of the premium or when a contract is suspended pursuant to the LCS is not covered by CCS."
+weight: 8
+image: "/images/numero-11/foto_portada11_jurisprudencia.jpg"
+summary: "Comments on the judgement handed down by the First Chamber of the Supreme Court, on 2 July 2019. Rapporteur: Ms. Parra Lucán."
+authors:
+    - name: "José A. Badillo Arias"
+      institution: "Regional Representative in Madrid, Consorcio de Compensación de Seguros"
+---
+
+## 1. Introduction
+It is not infrequent for losses derived from extraordinary risks covered by Consorcio de Compensación de Seguros (CCS) to occur without payment of the premium having been made to the insurance undertaking that underwrites the policy and guarantees the ordinary risks and the relevant surcharge to be paid to that public entity.
+
+It is true that often these delays stem from the negotiations held by insurers, intermediaries and policyholders following the due date of the policies. In some instances, considerable risks are involved and, therefore, the significance of the default in payment of the premium has greater economic consequences. On other occasions, the delay in payment of the premium to the insurance undertaking is derived from agreements with respect to the payment of the premiums and commissions between intermediaries and insurance undertakings, with such payment taking place on dates subsequent to the one-month grace period established in Article 15.2 of the Insurance Contract Act (LCS, for the Spanish).
+
+In any case, regardless of the reason why, we face situations—at times, involving a substantial amount—where the payment of the premium and of the surcharge to CCS takes place after the loss has occurred, giving rise to problems between the insured, insurance undertakings—occasionally, insurance intermediaries—and CCS.
+
+This being so, CCS has eased as far as possible its criteria with respect to the payment of premiums, to avoid bringing these matters before the courts and in the interest of the orientation of this entity towards compromise solutions, although there are cases, such as the one analysed in the ruling which we are commenting upon here, where there is no remedy other than to seek judicial support for settling the controversy originated.
+
+## 2. Legislation applicable to the payment of the premium of extraordinary risk insurance
+We must not lose sight of the fact that CCS is an entity of a public nature, operating in the environment of the coverage of extraordinary risks fully subject to the provisions of its Bylaws, the Insurance Contract Act and the Extraordinary Risk Insurance Regulation.
+
+From these provisions, it can be clearly concluded that, in these cases, the damage referring to extraordinary losses occurring prior to the payment of the premium or when a contract is suspended pursuant to the LCS is not covered by CCS.
+
+Likewise, the Resolution of 31 May 2016, published by the General Directorate for Insurance and Pension Funds, amending the Resolution of 27 November 2006, approving the surcharges collected by CCS for covering extraordinary risks to be paid on a mandatory basis by the insured, the coverage clause to be included in the ordinary insurance policies and the information to be provided by insurance undertakings with respect to the policies included in the extraordinary risk coverage scheme, explicitly provides for the exclusion from coverage of losses occurring prior to the payment of the first premium or when, in accordance with the LCS, the coverage by CCS is suspended or the insurance is terminated due to failure to pay the premiums.
+
+## 3. Facts analysed in the judgement
+The lawsuit giving rise to the judgement we are commenting upon here refers to the applicability of the coverage by CCS of the damage derived from extraordinary risks when payment of the premium of the ordinary insurance takes place after its extension and, by virtue of a practice existing between the insurer and the policyholder, on the same day as the date of the loss, once six months have transpired following the due date of the premium.
+
+The insured disagreed with the decision of CCS, which considered that the contract had terminated pursuant to Article 15.2 LCS, which reads as follows: “In the event of the default in payment of one of the subsequent premiums, the coverage by the insurer is suspended one month after its due date. If the insurer does not claim payment within a period of six months following the due date of the premium, the contract shall be understood as terminated…”, and filed suit against CCS claiming compensation stemming from a loss due to an extraordinary flood which occurred on 30 November 2010, more than six months after the due date of the policy.
+
+## 4. Legal arguments
+Following this litigation, the judgement handed down in first instance rejected the claims of the complainant against CCS, arguing that, since the first policy was taken out in 2008, the policy for the period between 10 May 2010 and 10 May 2011 was the second renewal, for which reason, the case involved periodical premiums, and, since the payment was made on 30 November 2010, subsequent to the six-month period referred to in Article 15.2 LCS, the contractual relationship had been terminated ipso iure and automatically, for which reason, the situation of exclusion from coverage stipulated in letter k) of Article 6 of the Extraordinary Risk Insurance Regulation was applicable.
+
+However, in the appeal filed, in respect of what interests us now, the Provincial Court upheld the appeal and the claim, on considering that, when the loss occurred, the policy of the company was in force, whereby CCS was responsible for paying the amounts covering the extraordinary risks sought for loss of profit and property damage. The Court explained that the insurance policy could not be considered as suspended or terminated, pursuant to Articles 15 LCS and 6 k) Extraordinary Risk Insurance Regulation, because the policyholder was not to blame for the late payment of the insurance premium, which was being paid progressively with no objection on the part of the company, which had accepted this method of payment over the years with no qualms whatsoever. The Court reasoned that the parties “agreed to grant flexibility and to delay as far as possible the collection of the premiums for each annual period or period of validity of the insurance policies being renewed, the premium of which was not being paid at the start of such period”.
+
+In view of this ruling, CCS filed an appeal for procedural infringement and an appeal for reversal through the channel provided for in number 2 of Article 477.2 of the Civil Procedure Act (LEC, for the Spanish), alleging, in brief, an infringement of Article 6 k) of the Extraordinary Risk Insurance Regulation, in relation to Article 8 of the Articles of Association of CCS and to Article 15.2 LCS, given that the premium had not been paid prior to the loss. In the second ground of the appeal for reversal, an infringement of Article 15.2 LCS was also claimed.
+
+CCS argued that the payment of the premium was made on 30 November 2010, after the loss had occurred: therefore, if coverage is considered to have been suspended, as well as if the policy is considered to have terminated, CCS is not liable for covering the damage, since the validity of the contract commenced on 10 May 2010.
+
+The First Chamber of the Supreme Court (TS, for the Spanish) admitted the appeal for reversal filed by CCS, on considering the provisions of Article 15.2 LCS as applicable to the case concerning us here. In this way, on referring to a number of rulings handed down by that same Chamber, it invoked the case law relating to the provisions contained in Article 15.2 LCS which, in view of their significance, we are transcribing below:
+
+“In the event of default in payment of one of the subsequent premiums, paragraph 2 of Art. 15 LCS stipulates that the insurer’s coverage is suspended one month after the due date. If the insurer does not claim payment within a period of six months following the due date of the premium, the contract will be understood to have terminated. In any case, when a contract is suspended, the insurer will only be able to demand payment of the premium for the current period”.
+
+The default in payment of one of the subsequent premiums, logically, presupposes that the contract, which had already begun to deploy all of its effects previously, has been automatically extended and that neither of the parties has given notice of termination in the terms of Art. 22 LCS.
+
+In these cases, as from the date of the default in payment of the successive premium, the contract remains in force during the first month and, with this, the coverage of the insurance, whereby, if a loss occurs in this period of time, the company is under the obligation of paying compensation to the insured in the terms covenanted in the contract and is liable with respect to the third party who takes the direct action provided for in Art. 76 LCS.
+
+As from the month following the default in payment of the premium, and during the following five months, the coverage of the insurance is suspended for as long as the policyholder continues in default of payment of the premium and the insurer has not terminated the contract. This means that the insurance gives rise to no effects whatsoever between the parties, in the sense that, if a loss occurs during this period, the insurance undertaking will not cover it. However, the suspension of the insurance coverage does not apply to a third party who exercises the direct action provided for in Art. 76 LCS, which stipulates that “the direct action is immune from the exceptions to which the insurer may be entitled against the insured”.
+
+Once six months have transpired since the default in payment of the premium, if the insurer has not claimed payment, the insurance contract will be automatically terminated through the effects of the legal provision itself, without the need for either of the parties to formally notify termination. Logically, a loss occurring subsequent to the termination of the contract is not covered by the insurance and, for this reason, the insurer will not only not be liable for the compensation to be paid to the insured but also will have no liability with respect to a third party intending to bring direct action.
+
+The Chamber went on to counter the arguments of the judgement appealed, which considered that the foregoing (one-month grace period, suspension of effects and ex lege termination of the contract six months after the due date) depended on the absence of an agreement to the contrary between the parties and, moreover, understanding that such agreement would also bind CCS, since its obligation to pay compensation stemmed from the same policy.
+
+However, the High Court, referring to its judgement of 30 January 2017, considered that, even though there was unequivocal evidence of such an agreement, this would not be enforceable against CCS, whose legal relationship with the policyholder and the insured is different from that of the insurance undertaking, even though they emanate from the same policy. Thus, the Chamber considered that this case does not involve a claim by the policyholder-insured against the insurer, but rather by the former against CCS. The obligation of CCS to pay compensation is established ex lege, and it is to this legal framework which we must refer for determining the scope of its coverage.
+
+{{< destacado-rojo >}}
+## Conclusions
+
+As we have indicated at the start of these comments, we are looking at a complex issue which, on many occasions, has substantial economic implications for the insured.
+
+It is true that, according to the LCS, the parties to the contract—insurer and policyholder—can agree whatever they consider advisable with respect to the payment of the premium, since Article 14 establishes that “the policyholder is under the obligation of paying the premium in the terms & conditions stipulated in the policy...”, but it is also true that such agreements, as stated by our Supreme Court in this and other decisions, are not enforceable against CCS, whose legal relationship with the policyholder and the insured is different from that of the insurance undertaking.
+
+Nevertheless, CCS, in view of its orientation towards compromise solutions, has rendered the criteria for accepting the coverage of extraordinary risks more flexible when incidents occur in the payment of the premium and, in this way, many cases have been settled in which controversies arose between the parties with respect to the payment of the premium.
+
+Underlying the application of these flexible criteria is the intention to insure of the parties and the fact that neither the policyholder nor the insured is to blame for the default in payment. However, neither the application of the legislation nor the application of such criteria can be automatic, but rather, it will be necessary in each case to examine the circumstances concurring in the delay in payment of the premium and the evidence documenting such circumstances. It appears clear that, in cases such as the one commented upon here, there is little scope for making an interpretation different from that made by the High Court.
+{{< /destacado-rojo >}}

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Nº 10 Spring 2019 on My New Hugo Project</title>
+		<link>http://localhost:1313/en/revistas/numero-10/</link>
+		<description>Recent content in Nº 10 Spring 2019 on My New Hugo Project</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/en/revistas/numero-10/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Editorial</title>
+				<link>http://localhost:1313/en/revistas/numero-10/editorial/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-10/editorial/</guid>
+				<description>Consorseguros Digital Magazine goes green in this 10th issue, of spring 2019, in order to approach, from multiple viewpoints, the matter of environmental liability and its insurability.</description>
+			</item>
+			<item>
+				<title>Administrative competencies and coordination in applying environmental liability legislation</title>
+				<link>http://localhost:1313/en/revistas/numero-10/competencias/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-10/competencias/</guid>
+				<description>Competency for the enforcement of environmental liability legislation generally falls to the regional governments, without detriment to the areas of competency which are entrusted to the Central Government.</description>
+			</item>
+			<item>
+				<title>Risk management and environmental liability</title>
+				<link>http://localhost:1313/en/revistas/numero-10/gerencia_de_riesgos/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-10/gerencia_de_riesgos/</guid>
+				<description>The definition of Risk Management keeps on growing and now we find ourselves faced with situations that seek to protect not only the profit and loss accounts of companies, but also other capital elements such as assets, which are the core of activities; employees, which are the key engine of the business; suppliers, who are key partners in the process; the social and economic environment in the geographies in which operations take place, etc.</description>
+			</item>
+			<item>
+				<title>Environmental risks at Repsol</title>
+				<link>http://localhost:1313/en/revistas/numero-10/repsol/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-10/repsol/</guid>
+				<description>Due to the inherent nature of their activities, oil companies are exposed to a whole raft of risks of an environmental nature that must be managed effectively and properly. To do this, a preliminary effort must be made to identify these risks, which is what will enable preventive measures to be designed and implemented to avoid their occurrence.</description>
+			</item>
+			<item>
+				<title>Pool Español de Riesgos Medioambientales: environmental insurance accessible for everybody</title>
+				<link>http://localhost:1313/en/revistas/numero-10/pool/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-10/pool/</guid>
+				<description>May saw the twenty-fifth anniversary of the signing of the deed of incorporation of the Pool Español de Riesgos Medioambientales (Spanish Environmental Risks Pool). Considering that now is a good time to offer a brief review about why this pool was organised, if it is meeting its commended tasks and, if these are proving useful for member companies of the Pool, for their customers and for the insurance industry in general.</description>
+			</item>
+			<item>
+				<title>Environmental insurance and its significance for business risk management</title>
+				<link>http://localhost:1313/en/revistas/numero-10/seguro_medioambiental/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-10/seguro_medioambiental/</guid>
+				<description>The option of Environmental Liability insurance is perhaps the most practical and economic choice when transferring/financing the environmental risk of companies in the event of a potential contamination incident or environmental damage.</description>
+			</item>
+			<item>
+				<title>Environmental liability: the sinking of the vessel Prestige</title>
+				<link>http://localhost:1313/en/revistas/numero-10/prestige/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-10/prestige/</guid>
+				<description>The Prestige spilled some 63,000 tonnes of fuel into the sea, which affected 2,980 km of coastline. Although the spill was far smaller than in other previous accidents in Europe, the stretch of coastline hit was actually the largest to date.</description>
+			</item>
+			<item>
+				<title>Damage to the environment caused by a hydroelectric power station which had been duly authorised to conduct its activities</title>
+				<link>http://localhost:1313/en/revistas/numero-10/jurisprudencia/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-10/jurisprudencia/</guid>
+				<description>Comment on the Judgment by the Court of Justice of the European Union of 1 June 2017, the Folk case.</description>
+			</item>
+	</channel>
+</rss>

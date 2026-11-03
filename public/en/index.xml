@@ -15,6 +15,13 @@
 			<atom:link href="http://localhost:1313/en/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Editorial</title>
+				<link>http://localhost:1313/en/revistas/numero-10/editorial/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-10/editorial/</guid>
+				<description>Consorseguros Digital Magazine goes green in this 10th issue, of spring 2019, in order to approach, from multiple viewpoints, the matter of environmental liability and its insurability.</description>
+			</item>
+			<item>
+				<title>Editorial</title>
 				<link>http://localhost:1313/en/revistas/numero-11/editorial/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/en/revistas/numero-11/editorial/</guid>
@@ -126,6 +133,13 @@
 				<description>Insurance has historically been an essential tool for compensating for damage and facilitating recovery following extreme events. However, the growing losses associated with climate change means that this role should be expanded to not only cover losses after a disaster, but also to explore how to help reduce risk through prevention.</description>
 			</item>
 			<item>
+				<title>Administrative competencies and coordination in applying environmental liability legislation</title>
+				<link>http://localhost:1313/en/revistas/numero-10/competencias/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-10/competencias/</guid>
+				<description>Competency for the enforcement of environmental liability legislation generally falls to the regional governments, without detriment to the areas of competency which are entrusted to the Central Government.</description>
+			</item>
+			<item>
 				<title>Analysis of flood loss data in Spain at the municipal level</title>
 				<link>http://localhost:1313/en/revistas/numero-14/inundacion/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -231,6 +245,13 @@
 				<description>New technologies are entering our daily lives every year. The use of these technologies has crystallised as a form of change that has turned society on its head in just a short span of time and will continue to do so.</description>
 			</item>
 			<item>
+				<title>El riesgo de inundación en la agricultura</title>
+				<link>http://localhost:1313/en/revistas/numero-11/agroseguro/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-11/agroseguro/</guid>
+				<description>España es un país particularmente proclive a sufrir inundaciones y su agricultura un sector especialmente vulnerable. La variabilidad climática a la que estamos sometidos, junto con la orografía del país y la estructura de las explotaciones y las producciones agrícolas, hace que la agricultura española sea muy sensible a este riesgo.</description>
+			</item>
+			<item>
 				<title>ICARIA Project: the Economic Impact of Flooding in the Barcelona Metropolitan Area</title>
 				<link>http://localhost:1313/en/revistas/numero-24/icaria/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -264,6 +285,13 @@
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/en/revistas/numero-12/casos_piloto/</guid>
 				<description>To be able to refer to an accident as covered by the Law on civil liability and insurance in the use of motor vehicles, which was endorsed by Royal Decree-Law (RDL) 8/2004 of 29 October (the “LRCSCVM” for the Spanish), it must be categorised as a “traffic event” caused by a “motor vehicle”. If these two circumstances are not attendant, the special regulatory framework that is established in the LRCSCVM and its regulations does not apply.</description>
+			</item>
+			<item>
+				<title>Risk management and environmental liability</title>
+				<link>http://localhost:1313/en/revistas/numero-10/gerencia_de_riesgos/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-10/gerencia_de_riesgos/</guid>
+				<description>The definition of Risk Management keeps on growing and now we find ourselves faced with situations that seek to protect not only the profit and loss accounts of companies, but also other capital elements such as assets, which are the core of activities; employees, which are the key engine of the business; suppliers, who are key partners in the process; the social and economic environment in the geographies in which operations take place, etc.</description>
 			</item>
 			<item>
 				<title>Statistics of the CCS&#39; Guarantee Fund for compulsory Motor car Third-Party Liability insurance</title>
@@ -329,6 +357,20 @@
 				<description>Year after year, extreme weather, geological, and political and social events highlight the vulnerability faced by people and property in today&amp;rsquo;s society. A year has just gone by since one particular event, this one a weather event. I am, of course, talking about the floods that devastated part of the Mediterranean coast of Spain on 29 October 2024.</description>
 			</item>
 			<item>
+				<title>Environmental risks at Repsol</title>
+				<link>http://localhost:1313/en/revistas/numero-10/repsol/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-10/repsol/</guid>
+				<description>Due to the inherent nature of their activities, oil companies are exposed to a whole raft of risks of an environmental nature that must be managed effectively and properly. To do this, a preliminary effort must be made to identify these risks, which is what will enable preventive measures to be designed and implemented to avoid their occurrence.</description>
+			</item>
+			<item>
+				<title>Floods, a danger to road safety</title>
+				<link>http://localhost:1313/en/revistas/numero-11/riadas/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-11/riadas/</guid>
+				<description>Flash floods are extremely hazardous to personal safety, specifically to road safety. Centro Zaragoza now presents a series of tips on what you should and should not do if you find yourself caught out by a flash flood when travelling in your vehicle.</description>
+			</item>
+			<item>
 				<title>Importance of computational modelling and risk forecasting in cardiovascular disease prevention to reduce morbidity, mortality, and health insurance claim rates</title>
 				<link>http://localhost:1313/en/revistas/numero-18/modelizacion_computacional/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -392,6 +434,13 @@
 				<description>On 28 September 2022 the European Commission passed two proposals to implement rules on liability to adapt to the digital age, the circular economy and the impact of global supply chains.</description>
 			</item>
 			<item>
+				<title>Flood models of the National Cartography System for floodable zones vs. actual floods</title>
+				<link>http://localhost:1313/en/revistas/numero-11/segura/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-11/segura/</guid>
+				<description>Hazard maps are one of the key tools for managing flood risk. These maps include geographic zones that could be flooded under scenarios of low, medium, and high probability of flooding.</description>
+			</item>
+			<item>
 				<title>Insuring exceptional buildings: a Portuguese case study</title>
 				<link>http://localhost:1313/en/revistas/numero-17/portugal/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -404,6 +453,13 @@
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/en/revistas/numero-20/algoritmo/</guid>
 				<description>La inteligencia artificial (IA) es un campo en constante evolución, con una historia que abarca décadas de investigación y desarrollo. Desde su concepción en la década de 1950, cuando pioneros como Alan Turing y John McCarthy sentaron las bases teóricas de la inteligencia artificial, hasta su aplicación práctica en la actualidad, la IA ha recorrido un viaje que ha redefinido múltiples aspectos de nuestras vidas.</description>
+			</item>
+			<item>
+				<title>Pool Español de Riesgos Medioambientales: environmental insurance accessible for everybody</title>
+				<link>http://localhost:1313/en/revistas/numero-10/pool/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-10/pool/</guid>
+				<description>May saw the twenty-fifth anniversary of the signing of the deed of incorporation of the Pool Español de Riesgos Medioambientales (Spanish Environmental Risks Pool). Considering that now is a good time to offer a brief review about why this pool was organised, if it is meeting its commended tasks and, if these are proving useful for member companies of the Pool, for their customers and for the insurance industry in general.</description>
 			</item>
 			<item>
 				<title>Rain flooding in Spanish urban zones: a damage estimation model based on adjustment experience</title>
@@ -490,6 +546,13 @@
 				<description>European coastal areas are facing an increased risk of flooding due to climate change, driven by rising sea levels and more intense extreme weather events. This situation calls for adaptation approaches that reduce both physical risk and economic losses.</description>
 			</item>
 			<item>
+				<title>Environmental insurance and its significance for business risk management</title>
+				<link>http://localhost:1313/en/revistas/numero-10/seguro_medioambiental/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-10/seguro_medioambiental/</guid>
+				<description>The option of Environmental Liability insurance is perhaps the most practical and economic choice when transferring/financing the environmental risk of companies in the event of a potential contamination incident or environmental damage.</description>
+			</item>
+			<item>
 				<title>Geographical and temporal description of extraordinary risk loss data arising from natural causes</title>
 				<link>http://localhost:1313/en/revistas/numero-19/representacion_espacio_temporal/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -516,6 +579,13 @@
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/en/revistas/numero-12/aseguranza/</guid>
 				<description>The (re)insurance sector is a fundamental actor to participate, absorb, and evaluate the current and potential contributions of what we have called Natural Assurance Schemes (NAS).</description>
+			</item>
+			<item>
+				<title>Spain&#39;s National Climate Change Adaptation Plan: a review to face the future</title>
+				<link>http://localhost:1313/en/revistas/numero-11/balance_pnacc/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-11/balance_pnacc/</guid>
+				<description>The effects of climate change are making themselves felt increasingly keenly in Spain. These are worrying changes that threaten not only ecosystems, but also economic activities, human health and the natural and cultural heritage.</description>
 			</item>
 			<item>
 				<title>Special problems posed by losses to cultural heritage assets</title>
@@ -588,6 +658,13 @@
 				<description>This issue is producing truly contradictory case law in regard to the criterion for attributing liability on the part of riders, as well as the owners and lessors of this sort of vehicle.</description>
 			</item>
 			<item>
+				<title>Environmental liability: the sinking of the vessel Prestige</title>
+				<link>http://localhost:1313/en/revistas/numero-10/prestige/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-10/prestige/</guid>
+				<description>The Prestige spilled some 63,000 tonnes of fuel into the sea, which affected 2,980 km of coastline. Although the spill was far smaller than in other previous accidents in Europe, the stretch of coastline hit was actually the largest to date.</description>
+			</item>
+			<item>
 				<title>Loss adjusting for cultural heritage assets in Spain for Consorcio de Compensación de Seguros</title>
 				<link>http://localhost:1313/en/revistas/numero-17/peritar_bic/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -600,6 +677,13 @@
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/en/revistas/numero-23/gestion_pericial/</guid>
 				<description>This article describes the measures taken by Consorcio and its collaborating loss adjusters to cope with this loss event, unprecedented in terms of the number of claims, the severity of the damage, and its social and media impacts.</description>
+			</item>
+			<item>
+				<title>New publication on Floods and climate change (2018)</title>
+				<link>http://localhost:1313/en/revistas/numero-11/cambio_climatico_inundaciones/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-11/cambio_climatico_inundaciones/</guid>
+				<description>There is currently great uncertainty about trends and future projections of how the climate will affect extreme flooding. The study of these future changes in the hazard level of floods represents a major technical and scientific challenge that European countries must take on throughout the second implementation of the Floods Directive.</description>
 			</item>
 			<item>
 				<title>The 2024 Valencia Floods: The Ultimate Test for the Spanish Insurance System</title>
@@ -672,6 +756,20 @@
 				<description>Partiendo de la información contenida en la publicación «Estadística de Riesgos Extraordinarios, Serie 1971-2024», disponible en la página web del CCS, seleccionamos los mayores eventos por inundación en la serie histórica de los últimos 54 años.</description>
 			</item>
 			<item>
+				<title>Cut-off lows (DANA): Their characteristics and their effects</title>
+				<link>http://localhost:1313/en/revistas/numero-11/dana/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-11/dana/</guid>
+				<description>The term DANA is currently used instead of the name cold drop, which has been used generally and, sometimes, erroneously. Rising temperatures and water evaporation lead to the establishment, in accordance with the laws of physics applied to meteorology, that precipitation must be more intense, or what is the same, an increase in the torrential nature of precipitation.</description>
+			</item>
+			<item>
+				<title>Damage to the environment caused by a hydroelectric power station which had been duly authorised to conduct its activities</title>
+				<link>http://localhost:1313/en/revistas/numero-10/jurisprudencia/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-10/jurisprudencia/</guid>
+				<description>Comment on the Judgment by the Court of Justice of the European Union of 1 June 2017, the Folk case.</description>
+			</item>
+			<item>
 				<title>Flooding in Navarre, the Basque Country, Aragon and Burgos, 2021</title>
 				<link>http://localhost:1313/en/revistas/numero-16/inundaciones/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -714,6 +812,13 @@
 				<description>This is a timely note that gives context to all the issues currently on the table in the debate on how to respond from an insurance standpoint to this type of risk which had never previously materialized with such force in our lifetimes.</description>
 			</item>
 			<item>
+				<title>Payment of the premium after six months from its due date. A covenant between the policyholder and the insurer is not enforceable against Consorcio de Compensación de Seguros, whose legal relationships with each of them are different, even though they stem from the same policy</title>
+				<link>http://localhost:1313/en/revistas/numero-11/jurisprudencia/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-11/jurisprudencia/</guid>
+				<description>Comments on the judgement handed down by the First Chamber of the Supreme Court, on 2 July 2019. Rapporteur: Ms. Parra Lucán.</description>
+			</item>
+			<item>
 				<title>Review of Disaster Insurance Reimagined</title>
 				<link>http://localhost:1313/en/revistas/numero-19/rese%C3%B1a/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -740,6 +845,13 @@
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/en/revistas/numero-20/road_to_conscious_machines/</guid>
 				<description>Michael Wooldridge, the author, describes himself as belonging to the first generation of humans that fooled around with computers as a teenager and thinks that AI is neither as powerful or as advanced as one might be led to believe. Without shying away from the technical details but in a highly readable manner with lots of examples that are easy to understand, he sets out the basic concepts of AI and explains how it has grown into the powerful field we know today</description>
+			</item>
+			<item>
+				<title>Comparative analysis of the claims incurred and borne by the CCS due to major floods: the relative weight of cut-off lows</title>
+				<link>http://localhost:1313/en/revistas/numero-11/comparativa/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-11/comparativa/</guid>
+				<description>There is a perception that the flood phenomena which have the greatest impact in Spain relate to cut-off lows (gotas frías) towards the end of summer and in early autumn. In this article, we aim to see whether this perception has a factual basis by looking at the compensation paid out by CCS in what are referred to as the most significant floods.</description>
 			</item>
 			<item>
 				<title>COVID-19 and the declarations of the states of alarm</title>
@@ -817,13 +929,6 @@
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/en/revistas/numero-15/valoraciones/</guid>
 				<description>Coverage of volcanic eruptions by Spain&amp;rsquo;s Consorcio de Compensación de Seguros (CCS) dates back to issue of the Spanish Law on recasting the Property and Accident Insurance Catastrophe Compensation Funds into a single Insurance Compensation Fund also covering Livestock, Forestry, and Agricultural Insurance.</description>
-			</item>
-			<item>
-				<title></title>
-				<link>http://localhost:1313/en/revistas/numero-11/dana/</link>
-				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/en/revistas/numero-11/dana/</guid>
-				<description></description>
 			</item>
 			<item>
 				<title></title>

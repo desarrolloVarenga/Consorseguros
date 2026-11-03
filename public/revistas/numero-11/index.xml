@@ -27,5 +27,54 @@
 				<guid>http://localhost:1313/revistas/numero-11/dana/</guid>
 				<description>El término DANA se usa actualmente en lugar de la denominación gota fría, que ha venido siendo utilizada de forma generalizada y, algunas veces, de forma errónea. El aumento de las temperaturas y de la evaporación de agua lleva a establecer, de acuerdo con las leyes de la física que se aplican a la meteorología, que las precipitaciones han de ser más intensas, o lo que es lo mismo, al aumento del carácter torrencial de las precipitaciones.</description>
 			</item>
+			<item>
+				<title>El riesgo de inundación en la agricultura</title>
+				<link>http://localhost:1313/revistas/numero-11/agroseguro/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-11/agroseguro/</guid>
+				<description>España es un país particularmente proclive a sufrir inundaciones y su agricultura un sector especialmente vulnerable. La variabilidad climática a la que estamos sometidos, junto con la orografía del país y la estructura de las explotaciones y las producciones agrícolas, hace que la agricultura española sea muy sensible a este riesgo.</description>
+			</item>
+			<item>
+				<title>Las riadas, un peligro para la seguridad vial</title>
+				<link>http://localhost:1313/revistas/numero-11/riadas/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-11/riadas/</guid>
+				<description>Las inundaciones repentinas son extremadamente peligrosas para la seguridad de las personas y, en concreto, para la seguridad vial. Desde Centro Zaragoza presentamos una serie de consejos acerca de lo que se debe hacer y lo que se debe evitar en caso de verse sorprendido por una repentina inundación cuando viaja en su vehículo.</description>
+			</item>
+			<item>
+				<title>Modelos de inundación del Sistema Nacional de Cartografía de zonas inundables vs. inundaciones reales</title>
+				<link>http://localhost:1313/revistas/numero-11/segura/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-11/segura/</guid>
+				<description>Los mapas de peligrosidad son una de las herramientas clave para la gestión del riesgo de inundación. Estos mapas incluyen las zonas geográficas que podrían inundarse en escenarios de baja, media y alta probabilidad de inundación.</description>
+			</item>
+			<item>
+				<title>El Plan Nacional de Adaptación al Cambio Climático: una revisión para afrontar el futuro</title>
+				<link>http://localhost:1313/revistas/numero-11/balance_pnacc/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-11/balance_pnacc/</guid>
+				<description>Los efectos del cambio climático se hacen sentir de forma cada vez más nítida en nuestro país. Son cambios preocupantes que amenazan no solo a los ecosistemas, sino también a las actividades económicas, la salud humana y el patrimonio natural y cultural.</description>
+			</item>
+			<item>
+				<title>Nueva publicación sobre Inundaciones y cambio climático (2018)</title>
+				<link>http://localhost:1313/revistas/numero-11/cambio_climatico_inundaciones/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-11/cambio_climatico_inundaciones/</guid>
+				<description>En la actualidad existe una gran incertidumbre sobre las tendencias y las proyecciones futuras de cómo el clima afectará a las inundaciones extremas. El estudio de estos cambios futuros en la peligrosidad de las inundaciones constituye un importante desafío técnico y científico que tienen que acometer los países europeos durante la segunda aplicación de la Directiva de Inundaciones</description>
+			</item>
+			<item>
+				<title>Pago de la prima después de seis meses del vencimiento. El pacto entre tomador y asegurador no es oponible al Consorcio de Compensación de Seguros, cuya relación jurídica con ambos es distinta, aunque derive de la misma póliza</title>
+				<link>http://localhost:1313/revistas/numero-11/jurisprudencia/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-11/jurisprudencia/</guid>
+				<description>El litigio que da lugar a la sentencia que comentamos tiene que ver con la procedencia de la cobertura por el CCS de los daños derivados de riesgos extraordinarios cuando el pago de la prima del seguro ordinario se produce después de su prórroga, y en virtud de una práctica existente entre la aseguradora y el tomador del seguro, el mismo día del siniestro, una vez transcurridos seis meses después del vencimiento de la prima.</description>
+			</item>
+			<item>
+				<title>Pago de la prima después de seis meses del vencimiento. El pacto entre tomador y asegurador no es oponible al Consorcio de Compensación de Seguros, cuya relación jurídica con ambos es distinta, aunque derive de la misma póliza</title>
+				<link>http://localhost:1313/revistas/numero-11/comparativa/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-11/comparativa/</guid>
+				<description>La situación que motiva este estudio, y este número de la revista Consorseguros, es el episodio de inundación producida por la DANA que afectó, principalmente, al cuadrante suroriental peninsular entre el 10 y el 15 de septiembre de 2019. Se trata de la siniestralidad por inundación con mayor número de tramitaciones en la historia del CCS.</description>
+			</item>
 	</channel>
 </rss>

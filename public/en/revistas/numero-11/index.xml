@@ -21,11 +21,60 @@
 				<description>Between the 10th and the 15th of September 2019, a closed upper-level low (a cut-off low), a high-level atmospheric depression cut off from the jet stream circumpolar current which, on becoming positioned over the Mediterranean Sea, warm after absorbing all of the summer heat, brought about a situation of intense rainfall over the entire southeast quadrant of the Peninsula and the Balearic Islands, which was especially torrential in the provinces of Murcia and Alicante.</description>
 			</item>
 			<item>
-				<title></title>
+				<title>El riesgo de inundación en la agricultura</title>
+				<link>http://localhost:1313/en/revistas/numero-11/agroseguro/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-11/agroseguro/</guid>
+				<description>España es un país particularmente proclive a sufrir inundaciones y su agricultura un sector especialmente vulnerable. La variabilidad climática a la que estamos sometidos, junto con la orografía del país y la estructura de las explotaciones y las producciones agrícolas, hace que la agricultura española sea muy sensible a este riesgo.</description>
+			</item>
+			<item>
+				<title>Floods, a danger to road safety</title>
+				<link>http://localhost:1313/en/revistas/numero-11/riadas/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-11/riadas/</guid>
+				<description>Flash floods are extremely hazardous to personal safety, specifically to road safety. Centro Zaragoza now presents a series of tips on what you should and should not do if you find yourself caught out by a flash flood when travelling in your vehicle.</description>
+			</item>
+			<item>
+				<title>Flood models of the National Cartography System for floodable zones vs. actual floods</title>
+				<link>http://localhost:1313/en/revistas/numero-11/segura/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-11/segura/</guid>
+				<description>Hazard maps are one of the key tools for managing flood risk. These maps include geographic zones that could be flooded under scenarios of low, medium, and high probability of flooding.</description>
+			</item>
+			<item>
+				<title>Spain&#39;s National Climate Change Adaptation Plan: a review to face the future</title>
+				<link>http://localhost:1313/en/revistas/numero-11/balance_pnacc/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-11/balance_pnacc/</guid>
+				<description>The effects of climate change are making themselves felt increasingly keenly in Spain. These are worrying changes that threaten not only ecosystems, but also economic activities, human health and the natural and cultural heritage.</description>
+			</item>
+			<item>
+				<title>New publication on Floods and climate change (2018)</title>
+				<link>http://localhost:1313/en/revistas/numero-11/cambio_climatico_inundaciones/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-11/cambio_climatico_inundaciones/</guid>
+				<description>There is currently great uncertainty about trends and future projections of how the climate will affect extreme flooding. The study of these future changes in the hazard level of floods represents a major technical and scientific challenge that European countries must take on throughout the second implementation of the Floods Directive.</description>
+			</item>
+			<item>
+				<title>Cut-off lows (DANA): Their characteristics and their effects</title>
 				<link>http://localhost:1313/en/revistas/numero-11/dana/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/en/revistas/numero-11/dana/</guid>
-				<description></description>
+				<description>The term DANA is currently used instead of the name cold drop, which has been used generally and, sometimes, erroneously. Rising temperatures and water evaporation lead to the establishment, in accordance with the laws of physics applied to meteorology, that precipitation must be more intense, or what is the same, an increase in the torrential nature of precipitation.</description>
+			</item>
+			<item>
+				<title>Payment of the premium after six months from its due date. A covenant between the policyholder and the insurer is not enforceable against Consorcio de Compensación de Seguros, whose legal relationships with each of them are different, even though they stem from the same policy</title>
+				<link>http://localhost:1313/en/revistas/numero-11/jurisprudencia/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-11/jurisprudencia/</guid>
+				<description>Comments on the judgement handed down by the First Chamber of the Supreme Court, on 2 July 2019. Rapporteur: Ms. Parra Lucán.</description>
+			</item>
+			<item>
+				<title>Comparative analysis of the claims incurred and borne by the CCS due to major floods: the relative weight of cut-off lows</title>
+				<link>http://localhost:1313/en/revistas/numero-11/comparativa/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-11/comparativa/</guid>
+				<description>There is a perception that the flood phenomena which have the greatest impact in Spain relate to cut-off lows (gotas frías) towards the end of summer and in early autumn. In this article, we aim to see whether this perception has a factual basis by looking at the compensation paid out by CCS in what are referred to as the most significant floods.</description>
 			</item>
 	</channel>
 </rss>

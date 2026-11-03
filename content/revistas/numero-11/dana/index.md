@@ -4,7 +4,7 @@ category: "Análisis"
 pdf_download: "/pdf/num22/editorial.pdf"
 sidebar_image: ""
 sidebar_text: ""
-weight: 8
+weight: 2
 image: "/images/numero-11/foto_portada11_DANA.jpg"
 summary: "El término DANA se usa actualmente en lugar de la denominación gota fría, que ha venido siendo utilizada de forma generalizada y, algunas veces, de forma errónea. El aumento de las temperaturas y de la evaporación de agua lleva a establecer, de acuerdo con las leyes de la física que se aplican a la meteorología, que las precipitaciones han de ser más intensas, o lo que es lo mismo, al aumento del carácter torrencial de las precipitaciones."
 authors:
