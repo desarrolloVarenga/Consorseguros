@@ -119,6 +119,20 @@
 				<description>El Consorcio de Compensación de Seguros (CCS), muy consciente de que una de las funciones que le otorga su Estatuto Legal en su artículo 16.c es «elaborar planes y programas de prevención y reducción de siniestros y desarrollarlos a través de las correspondientes campañas y medidas preventivas», vuelve a dedicar este vigesimocuarto número de su revista digital a la cuestión de la prevención y al papel que el seguro puede desempeñar en ella.</description>
 			</item>
 			<item>
+				<title>Editorial</title>
+				<link>http://localhost:1313/revistas/numero-9/editorial/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-9/editorial/</guid>
+				<description>A finales del pasado mes de septiembre de 2018, el CCS organizó en Madrid la 12ª reunión del WFCP, y ese importante evento constituye el eje central en torno al cual se articula el noveno número de la revista Consorseguros Digital. Otro gran bloque de este número tiene que ver con el seguro del automóvil, otra de las grandes áreas de actividad del CCS más allá de los riesgos catastróficos.</description>
+			</item>
+			<item>
+				<title>12ª reunión del World Forum of Catastrophe Programmes en Madrid</title>
+				<link>http://localhost:1313/revistas/numero-9/analisis/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-9/analisis/</guid>
+				<description>Para que pueda hablarse de un accidente amparado por la Ley sobre responsabilidad civil y seguro en la circulación de vehículos a motor, aprobada por el RDL 8/2004, de 29 de octubre (LRCSCVM), debe ser calificado como un hecho de la circulación ocasionado por un vehículo a motor. Si no se dan estos dos presupuestos, no es aplicable la normativa especial establecida en la LRCSCVM y en su Reglamento.</description>
+			</item>
+			<item>
 				<title>1980. Decisiones que hacen historia</title>
 				<link>http://localhost:1313/revistas/numero-22/1980/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -273,6 +287,13 @@
 				<description>Francia forma parte de los pocos países que cuentan con un dispositivo que garantiza una indemnización adecuada de los daños materiales producidos por un fenómeno natural a particulares, empresas y administraciones locales a un precio asequible. Este dispositivo se manifiesta a partir del régimen de indemnización de las catástrofes naturales (Cat Nat en adelante), creado por la ley de 13 de julio de 1982. Se trata de un sistema asegurador que ha permitido paliar una carencia en la cobertura de los riesgos naturales, que estaban muy poco asegurados hasta ese momento.</description>
 			</item>
 			<item>
+				<title>Entidades para reducir la brecha en la cobertura (PGE): ámbito de las colaboraciones entre el gobierno y el mercado para el seguro de catástrofes</title>
+				<link>http://localhost:1313/revistas/numero-9/pge/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-9/pge/</guid>
+				<description>En los últimos dos años hemos efectuado un estudio internacional de las Entidades para reducir la brecha en la cobertura (PGE, por sus siglas en inglés Protection Gap Entities, organizaciones e iniciativas que operan entre gobiernos y mercados para desarrollar nuevas soluciones financieras, que movilizan el capital de las (re)aseguradoras para afrontar las consecuencias de los desastres naturales y los producidos por el hombre.</description>
+			</item>
+			<item>
 				<title>Estadística del fondo de garantía del seguro de responsabilidad civil en la circulación de vehículos a motor</title>
 				<link>http://localhost:1313/revistas/numero-14/estadistica/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -362,6 +383,13 @@
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/revistas/numero-12/cambio_climatico/</guid>
 				<description>La costa es la primera línea de defensa ante los efectos del cambio climático en los océanos y quizás, por ello, es más vulnerable aún ante los efectos perjudiciales del mismo. Es, por tanto, que en la costa encontramos un interesante banco de pruebas de cómo la sociedad puede implementar satisfactoriamente medidas de adaptación.</description>
+			</item>
+			<item>
+				<title>El modelo IBER y su aplicación al estudio de inundaciones</title>
+				<link>http://localhost:1313/revistas/numero-9/iber/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-9/iber/</guid>
+				<description>En los episodios de avenida las variables más importantes para evaluar los riesgos de inundación son la velocidad y el nivel alcanzado por el agua, así como el tiempo de permanencia. Existen diferentes formas de evaluar el riesgo asociado a un evento de avenida en función de estos parámetros.</description>
 			</item>
 			<item>
 				<title>El Observatorio de Catástrofes de la Fundación Aon España: investigación, previsión, asistencia y continuidad</title>
@@ -474,6 +502,13 @@
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/revistas/numero-14/riesgo_volcanico/</guid>
 				<description>El origen del fenómeno volcánico en Canarias ha generado un intenso debate durante los últimos 50 años, pero la teoría más ampliamente aceptada por la comunidad científica es que la actividad volcánica en Canarias se encuentra ligada a la presencia de una anomalía térmica profunda en el interior de la Tierra (manto inferior) capaz de haber construido y continuar construyendo estos sistemas volcánicos insulares.</description>
+			</item>
+			<item>
+				<title>La necesidad y la oportunidad de estudiar el impacto económico de los tsunamis en las costas españolas</title>
+				<link>http://localhost:1313/revistas/numero-9/tsunami/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-9/tsunami/</guid>
+				<description>En los últimos 20 años los tsunamis han sido responsables de cientos de miles de víctimas mortales directas y más de 11 millones de desplazados, lo que convierte a este tipo de fenómenos en los más mortíferos de entre los peligros naturales de la historia de la humanidad.</description>
 			</item>
 			<item>
 				<title>La transición del seguro obligatorio de terremotos al seguro obligatorio de riesgos catastróficos en Turquía</title>
@@ -609,6 +644,13 @@
 				<description>Japón es el cuarto país del mundo con más volcanes activos, 111, tras los Estados Unidos, Rusia e Indonesia. Aunque la superficie de Japón es el 0,25 % de la total del planeta, posee el 7 % de los volcanes activos. El archipiélago japonés se sitúa en el encuentro entre cuatro placas tectónicas, lo que explica la frecuencia con la que ocurren terremotos y erupciones volcánicas.</description>
 			</item>
 			<item>
+				<title>La robótica y el derecho</title>
+				<link>http://localhost:1313/revistas/numero-9/robotica_y_derecho/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-9/robotica_y_derecho/</guid>
+				<description>En los últimos 20 años los tsunamis han sido responsables de cientos de miles de víctimas mortales directas y más de 11 millones de desplazados, lo que convierte a este tipo de fenómenos en los más mortíferos de entre los peligros naturales de la historia de la humanidad.</description>
+			</item>
+			<item>
 				<title>La Unidad Militar de Emergencias. Medio extraordinario del Estado en la respuesta ante emergencias</title>
 				<link>http://localhost:1313/revistas/numero-14/ume/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -705,6 +747,13 @@
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/revistas/numero-23/gestion_pericial/</guid>
 				<description>Este artículo describe las medidas adoptadas por el Consorcio y sus peritos colaboradores para afrontar una siniestralidad inédita, tanto por el número de siniestros como por la gravedad de los daños y su repercusión social y mediática.</description>
+			</item>
+			<item>
+				<title>La obligación del propietario de un vehículo a motor de suscribir el seguro de responsabilidad civil obligatorio: comentarios en torno al Dictamen del Abogado General del Tribunal de Justicia de la Unión Europea de 26 de abril de 2018 en el asunto prejudicial C-80/2017</title>
+				<link>http://localhost:1313/revistas/numero-9/izuzquiza/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-9/izuzquiza/</guid>
+				<description>La calidad del Dictamen del Abogado General y el alineamiento final de la Sentencia del TJUE con sus conclusiones presentadas en audiencia pública el 26 de abril de 2018, justifican que en este caso nos detengamos a comentar dicho Dictamen, al margen del contenido de la Sentencia posterior de 4 de septiembre de 2018.</description>
 			</item>
 			<item>
 				<title>La valoración de los daños materiales ocasionados a un vehículo automóvil.</title>
@@ -826,6 +875,13 @@
 				<description>En los últimos años el efecto del cambio climático se ha añadido a los problemas de ocupación de las zonas inundables, multiplicando los daños que se producen con cada evento. El enfoque habitual, centrado en controlar la fuente de la inundación (el cauce, el mar, la lluvia&amp;hellip;), debe complementarse con medidas de autoprotección de la población y de las edificaciones afectadas.</description>
 			</item>
 			<item>
+				<title>La obligación del propietario de un vehículo a motor de suscribir el seguro de responsabilidad civil obligatorio: comentario a la Sentencia del Tribunal de Justicia de la Unión Europea de 4 de septiembre de 2018 en el asunto prejudicial C-80/2017</title>
+				<link>http://localhost:1313/revistas/numero-9/jurisprudencia/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-9/jurisprudencia/</guid>
+				<description>La Sentencia del Tribunal de Justicia de la Unión Europea, de 4 de septiembre de 2018 (asunto C-80/17), analiza un supuesto en el que se plantea si el propietario de un vehículo a motor tiene la obligación de suscribir el seguro obligatorio de responsabilidad civil, aunque no utilice el vehículo.</description>
+			</item>
+			<item>
 				<title>Manual de riesgos operacionales de Agers</title>
 				<link>http://localhost:1313/revistas/numero-18/lecturas/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -887,6 +943,20 @@
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/revistas/numero-17/covid19/</guid>
 				<description>La situación sanitaria ocasionada por el COVID-19, detectado en Europa en los primeros meses del año 2020, que ya se había dejado sentir en China a finales del año 2019, originó que la Organización Mundial de la Salud elevase, el 11 de marzo de 2020, la situación de emergencia de salud pública a pandemia global.</description>
+			</item>
+			<item>
+				<title>Fondo de Compensación de Daños Medioambientales</title>
+				<link>http://localhost:1313/revistas/numero-10/compensacion/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-10/compensacion/</guid>
+				<description>El presente artículo lleva a cabo un análisis del marco jurídico de la responsabilidad medioambiental, de la garantía financiera y del FCDM a partir de las disposiciones de la normativa europea y nacional.</description>
+			</item>
+			<item>
+				<title>IV Jornada sobre Biomecánica de Impactos, organizada por Centro Zaragoza</title>
+				<link>http://localhost:1313/revistas/numero-9/centro_zaragoza/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-9/centro_zaragoza/</guid>
+				<description>El pasado 27 de septiembre tuvo lugar la ?IV Jornada sobre Biomecánica de impactos? en el Paraninfo de la Universidad de Zaragoza. La jornada se inició con la presentación de las ponencias y los ponentes que las iban a impartir por parte de David Casademont, presidente de la entidad organizadora, el Centro Zaragoza.</description>
 			</item>
 			<item>
 				<title>La acción subrogatoria del artículo 43 de la Ley de contrato de seguro: última jurisprudencia de la Sala 1ª del Tribunal Supremo</title>

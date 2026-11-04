@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Nº 9 Otoño 2018 on My New Hugo Project</title>
+		<link>http://localhost:1313/revistas/numero-9/</link>
+		<description>Recent content in Nº 9 Otoño 2018 on My New Hugo Project</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/revistas/numero-9/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Editorial</title>
+				<link>http://localhost:1313/revistas/numero-9/editorial/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-9/editorial/</guid>
+				<description>A finales del pasado mes de septiembre de 2018, el CCS organizó en Madrid la 12ª reunión del WFCP, y ese importante evento constituye el eje central en torno al cual se articula el noveno número de la revista Consorseguros Digital. Otro gran bloque de este número tiene que ver con el seguro del automóvil, otra de las grandes áreas de actividad del CCS más allá de los riesgos catastróficos.</description>
+			</item>
+			<item>
+				<title>12ª reunión del World Forum of Catastrophe Programmes en Madrid</title>
+				<link>http://localhost:1313/revistas/numero-9/analisis/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-9/analisis/</guid>
+				<description>Para que pueda hablarse de un accidente amparado por la Ley sobre responsabilidad civil y seguro en la circulación de vehículos a motor, aprobada por el RDL 8/2004, de 29 de octubre (LRCSCVM), debe ser calificado como un hecho de la circulación ocasionado por un vehículo a motor. Si no se dan estos dos presupuestos, no es aplicable la normativa especial establecida en la LRCSCVM y en su Reglamento.</description>
+			</item>
+			<item>
+				<title>Entidades para reducir la brecha en la cobertura (PGE): ámbito de las colaboraciones entre el gobierno y el mercado para el seguro de catástrofes</title>
+				<link>http://localhost:1313/revistas/numero-9/pge/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-9/pge/</guid>
+				<description>En los últimos dos años hemos efectuado un estudio internacional de las Entidades para reducir la brecha en la cobertura (PGE, por sus siglas en inglés Protection Gap Entities, organizaciones e iniciativas que operan entre gobiernos y mercados para desarrollar nuevas soluciones financieras, que movilizan el capital de las (re)aseguradoras para afrontar las consecuencias de los desastres naturales y los producidos por el hombre.</description>
+			</item>
+			<item>
+				<title>El modelo IBER y su aplicación al estudio de inundaciones</title>
+				<link>http://localhost:1313/revistas/numero-9/iber/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-9/iber/</guid>
+				<description>En los episodios de avenida las variables más importantes para evaluar los riesgos de inundación son la velocidad y el nivel alcanzado por el agua, así como el tiempo de permanencia. Existen diferentes formas de evaluar el riesgo asociado a un evento de avenida en función de estos parámetros.</description>
+			</item>
+			<item>
+				<title>La necesidad y la oportunidad de estudiar el impacto económico de los tsunamis en las costas españolas</title>
+				<link>http://localhost:1313/revistas/numero-9/tsunami/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-9/tsunami/</guid>
+				<description>En los últimos 20 años los tsunamis han sido responsables de cientos de miles de víctimas mortales directas y más de 11 millones de desplazados, lo que convierte a este tipo de fenómenos en los más mortíferos de entre los peligros naturales de la historia de la humanidad.</description>
+			</item>
+			<item>
+				<title>La robótica y el derecho</title>
+				<link>http://localhost:1313/revistas/numero-9/robotica_y_derecho/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-9/robotica_y_derecho/</guid>
+				<description>En los últimos 20 años los tsunamis han sido responsables de cientos de miles de víctimas mortales directas y más de 11 millones de desplazados, lo que convierte a este tipo de fenómenos en los más mortíferos de entre los peligros naturales de la historia de la humanidad.</description>
+			</item>
+			<item>
+				<title>La obligación del propietario de un vehículo a motor de suscribir el seguro de responsabilidad civil obligatorio: comentarios en torno al Dictamen del Abogado General del Tribunal de Justicia de la Unión Europea de 26 de abril de 2018 en el asunto prejudicial C-80/2017</title>
+				<link>http://localhost:1313/revistas/numero-9/izuzquiza/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-9/izuzquiza/</guid>
+				<description>La calidad del Dictamen del Abogado General y el alineamiento final de la Sentencia del TJUE con sus conclusiones presentadas en audiencia pública el 26 de abril de 2018, justifican que en este caso nos detengamos a comentar dicho Dictamen, al margen del contenido de la Sentencia posterior de 4 de septiembre de 2018.</description>
+			</item>
+			<item>
+				<title>La obligación del propietario de un vehículo a motor de suscribir el seguro de responsabilidad civil obligatorio: comentario a la Sentencia del Tribunal de Justicia de la Unión Europea de 4 de septiembre de 2018 en el asunto prejudicial C-80/2017</title>
+				<link>http://localhost:1313/revistas/numero-9/jurisprudencia/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-9/jurisprudencia/</guid>
+				<description>La Sentencia del Tribunal de Justicia de la Unión Europea, de 4 de septiembre de 2018 (asunto C-80/17), analiza un supuesto en el que se plantea si el propietario de un vehículo a motor tiene la obligación de suscribir el seguro obligatorio de responsabilidad civil, aunque no utilice el vehículo.</description>
+			</item>
+			<item>
+				<title>IV Jornada sobre Biomecánica de Impactos, organizada por Centro Zaragoza</title>
+				<link>http://localhost:1313/revistas/numero-9/centro_zaragoza/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-9/centro_zaragoza/</guid>
+				<description>El pasado 27 de septiembre tuvo lugar la ?IV Jornada sobre Biomecánica de impactos? en el Paraninfo de la Universidad de Zaragoza. La jornada se inició con la presentación de las ponencias y los ponentes que las iban a impartir por parte de David Casademont, presidente de la entidad organizadora, el Centro Zaragoza.</description>
+			</item>
+	</channel>
+</rss>

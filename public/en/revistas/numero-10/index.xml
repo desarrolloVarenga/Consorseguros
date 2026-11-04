@@ -69,5 +69,12 @@
 				<guid>http://localhost:1313/en/revistas/numero-10/jurisprudencia/</guid>
 				<description>Comment on the Judgment by the Court of Justice of the European Union of 1 June 2017, the Folk case.</description>
 			</item>
+			<item>
+				<title>The Environmental Damage Compensation Fund</title>
+				<link>http://localhost:1313/en/revistas/numero-10/compensacion/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-10/compensacion/</guid>
+				<description>This article analyses the legal framework for environmental liability, the financial guarantee, and the FCDM based on the provisions of European and national legislation.</description>
+			</item>
 	</channel>
 </rss>
