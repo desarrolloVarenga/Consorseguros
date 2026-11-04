@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Nº 8 Spring 2018 on My New Hugo Project</title>
+		<link>http://localhost:1313/en/revistas/numero-8/</link>
+		<description>Recent content in Nº 8 Spring 2018 on My New Hugo Project</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/en/revistas/numero-8/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Editorial</title>
+				<link>http://localhost:1313/en/revistas/numero-8/editorial/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-8/editorial/</guid>
+				<description>This issue makes a quite extensive examination of questions associated with automobile insurance. Dr Carlos Represas signs an article on the assessment of bodily harm in road accidents, and Juan Luis de Miguel, Deputy Director of Centro Zaragoza, explains the pioneering activity of this centre on the cutting edge of the research on subjects relating to vehicles and their insurance.</description>
+			</item>
+			<item>
+				<title>The importance of data in disaster risk reduction</title>
+				<link>http://localhost:1313/en/revistas/numero-8/analisis/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-8/analisis/</guid>
+				<description>In risk assessments whose results serve as a basis for establishing Risk Reduction policies, it is essential to have our data sources well controlled, to know their limitations and the possibilities of manipulation.</description>
+			</item>
+	</channel>
+</rss>

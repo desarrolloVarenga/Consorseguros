@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Nº 8 Primavera 2018 on My New Hugo Project</title>
+		<link>http://localhost:1313/revistas/numero-8/</link>
+		<description>Recent content in Nº 8 Primavera 2018 on My New Hugo Project</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/revistas/numero-8/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Editorial</title>
+				<link>http://localhost:1313/revistas/numero-8/editorial/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-8/editorial/</guid>
+				<description>Este número trata, con bastante extensión, temas relacionados con el seguro del automóvil. El doctor Carlos Represas firma un artículo sobre la valoración de los daños corporales en los accidentes de circulación y Juan Luis de Miguel, Subdirector del Centro Zaragoza, explica la actividad de este centro pionero y puntero en la investigación de temas relacionados con el automóvil y su aseguramiento.</description>
+			</item>
+			<item>
+				<title>La importancia de los datos en la reducción de los riesgos de desastres</title>
+				<link>http://localhost:1313/revistas/numero-8/analisis/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-8/analisis/</guid>
+				<description>En los análisis de riesgos cuyos resultados sirvan de base para el establecimiento de políticas de Reducción de Riesgos es fundamental tener controladas las fuentes de datos, conocer sus limitaciones, y las posibilidades de manipulación</description>
+			</item>
+	</channel>
+</rss>

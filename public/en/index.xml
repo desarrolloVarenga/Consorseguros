@@ -120,6 +120,13 @@
 			</item>
 			<item>
 				<title>Editorial</title>
+				<link>http://localhost:1313/en/revistas/numero-8/editorial/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-8/editorial/</guid>
+				<description>This issue makes a quite extensive examination of questions associated with automobile insurance. Dr Carlos Represas signs an article on the assessment of bodily harm in road accidents, and Juan Luis de Miguel, Deputy Director of Centro Zaragoza, explains the pioneering activity of this centre on the cutting edge of the research on subjects relating to vehicles and their insurance.</description>
+			</item>
+			<item>
+				<title>Editorial</title>
 				<link>http://localhost:1313/en/revistas/numero-9/editorial/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/en/revistas/numero-9/editorial/</guid>
@@ -229,6 +236,13 @@
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/en/revistas/numero-23/riesgos-extraordinarios/</guid>
 				<description>On the night of 29 October, we watched in dismay – like all citizens of this country and the rest of the world – the drama unfolding across a large metropolitan area of Spain and other nearby regions. We quickly realised that the magnitude of the catastrophe was going to be devastating, as it sadly was in terms of loss of human life and material damage, and the challenge its management would entail.</description>
+			</item>
+			<item>
+				<title>The importance of data in disaster risk reduction</title>
+				<link>http://localhost:1313/en/revistas/numero-8/analisis/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-8/analisis/</guid>
+				<description>In risk assessments whose results serve as a basis for establishing Risk Reduction policies, it is essential to have our data sources well controlled, to know their limitations and the possibilities of manipulation.</description>
 			</item>
 			<item>
 				<title>The State Guarantee for works of cultural interest</title>
