@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Nº 7 Autumn 2017 on My New Hugo Project</title>
+		<link>http://localhost:1313/en/revistas/numero-7/</link>
+		<description>Recent content in Nº 7 Autumn 2017 on My New Hugo Project</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/en/revistas/numero-7/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Editorial</title>
+				<link>http://localhost:1313/en/revistas/numero-7/editorial/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-7/editorial/</guid>
+				<description>There is broad consensus on the premise that the global trend towards a higher incidence of damage caused by natural catastrophes observed to date has more to do with the increase in the properties exposed to the risk and their value than to an increase in the hazard level of these catastrophes. Therefore, the guiding theme in the majority of the contributions contained in this issue involves an examination of the many aspects of these concepts of exposure and vulnerability</description>
+			</item>
+			<item>
+				<title>The contribution of French insurers to the creation and management of a National Observatory for Natural Hazards (ONRN)</title>
+				<link>http://localhost:1313/en/revistas/numero-7/onrn/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-7/onrn/</guid>
+				<description>The National Observatory for Natural Hazards (ONRN) is an example of a public-private partnership that brings together the state, insurers and the reinsurer, founded on concerted governance that embraces territorial groups and partners on voluntary projects to pool data, experience and studies.</description>
+			</item>
+			<item>
+				<title>The Sendai Framework for disaster risk reduction 2015-2030. Progress achieved in its implementation</title>
+				<link>http://localhost:1313/en/revistas/numero-7/sendai/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-7/sendai/</guid>
+				<description>The Sendai Framework is the structure for concerted international action which aims to reduce disasters in the 2015-2030 period. It was adopted at the third World Conference on Disaster Risk Reduction held over 14-18 March 2015 in the Japanese city of Sendai following a process of consultations, deliberations and inter-governmental negotiations that lasted three years.</description>
+			</item>
+			<item>
+				<title>Robotics, artificial intelligence and autonomous vehicles</title>
+				<link>http://localhost:1313/en/revistas/numero-7/robotica/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-7/robotica/</guid>
+				<description>In this study we are going to attempt to provide a general overview of the current status in Europe of the so-called fourth industrial revolution, in the field of robotics and artificial intelligence, with particular reference to the so-called autonomous vehicles.</description>
+			</item>
+	</channel>
+</rss>

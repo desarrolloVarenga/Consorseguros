@@ -182,6 +182,18 @@
                 href="http://localhost:1313/en/revistas/numero-24/editorial/"
                 />
   </url><url>
+    <loc>http://localhost:1313/revistas/numero-7/editorial/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/revistas/numero-7/editorial/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/revistas/numero-7/editorial/"
+                />
+  </url><url>
     <loc>http://localhost:1313/revistas/numero-8/editorial/</loc>
     <xhtml:link
                 rel="alternate"
@@ -532,6 +544,18 @@
                 href="http://localhost:1313/en/revistas/numero-20/motor_del_cambio/"
                 />
   </url><url>
+    <loc>http://localhost:1313/revistas/numero-7/onrn/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/revistas/numero-7/onrn/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/revistas/numero-7/onrn/"
+                />
+  </url><url>
     <loc>http://localhost:1313/revistas/numero-10/gerencia_de_riesgos/</loc>
     <xhtml:link
                 rel="alternate"
@@ -674,6 +698,18 @@
                 rel="alternate"
                 hreflang="en-US"
                 href="http://localhost:1313/en/revistas/numero-12/cambio_climatico/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/revistas/numero-7/sendai/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/revistas/numero-7/sendai/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/revistas/numero-7/sendai/"
                 />
   </url><url>
     <loc>http://localhost:1313/revistas/numero-9/iber/</loc>
@@ -1022,6 +1058,18 @@
                 rel="alternate"
                 hreflang="en-US"
                 href="http://localhost:1313/en/revistas/numero-13/recargos_2019/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/revistas/numero-7/robotica/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/revistas/numero-7/robotica/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/revistas/numero-7/robotica/"
                 />
   </url><url>
     <loc>http://localhost:1313/revistas/numero-23/apcas/</loc>
@@ -2074,6 +2122,19 @@
                 rel="alternate"
                 hreflang="en-US"
                 href="http://localhost:1313/en/revistas/numero-8/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/revistas/numero-7/</loc>
+    <lastmod>2024-07-03T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/revistas/numero-7/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/revistas/numero-7/"
                 />
   </url><url>
     <loc>http://localhost:1313/tags/blue/</loc>

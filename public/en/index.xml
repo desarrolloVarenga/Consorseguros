@@ -120,6 +120,13 @@
 			</item>
 			<item>
 				<title>Editorial</title>
+				<link>http://localhost:1313/en/revistas/numero-7/editorial/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-7/editorial/</guid>
+				<description>There is broad consensus on the premise that the global trend towards a higher incidence of damage caused by natural catastrophes observed to date has more to do with the increase in the properties exposed to the risk and their value than to an increase in the hazard level of these catastrophes. Therefore, the guiding theme in the majority of the contributions contained in this issue involves an examination of the many aspects of these concepts of exposure and vulnerability</description>
+			</item>
+			<item>
+				<title>Editorial</title>
 				<link>http://localhost:1313/en/revistas/numero-8/editorial/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/en/revistas/numero-8/editorial/</guid>
@@ -350,6 +357,13 @@
 				<description>An explosive cyclogenesis event occurred in the Atlantic on 23-25 January 2009 and caused a high-impact storm named Klaus. Storm Klaus resulted in more than 265,000 claims handled and more than 564.1 million euros in indemnities paid out by Consorcio de Compensación de Seguros (CCS). It is by far the most severe episode of extreme winds CCS has had to face and at the time posed a major challenge to the insurance industry as a whole.</description>
 			</item>
 			<item>
+				<title>The contribution of French insurers to the creation and management of a National Observatory for Natural Hazards (ONRN)</title>
+				<link>http://localhost:1313/en/revistas/numero-7/onrn/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-7/onrn/</guid>
+				<description>The National Observatory for Natural Hazards (ONRN) is an example of a public-private partnership that brings together the state, insurers and the reinsurer, founded on concerted governance that embraces territorial groups and partners on voluntary projects to pool data, experience and studies.</description>
+			</item>
+			<item>
 				<title>Volcanic hazard in France: the insurance response</title>
 				<link>http://localhost:1313/en/revistas/numero-15/francia/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -469,6 +483,13 @@
 				<description>In episodes of flooding, the most important variables for assessing flood risks are the velocity and level reached by the water, as well as how long it remains there. There are several ways of assessing the risk associated with a river flooding event as a function of these parameters.</description>
 			</item>
 			<item>
+				<title>The Sendai Framework for disaster risk reduction 2015-2030. Progress achieved in its implementation</title>
+				<link>http://localhost:1313/en/revistas/numero-7/sendai/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-7/sendai/</guid>
+				<description>The Sendai Framework is the structure for concerted international action which aims to reduce disasters in the 2015-2030 period. It was adopted at the third World Conference on Disaster Risk Reduction held over 14-18 March 2015 in the Japanese city of Sendai following a process of consultations, deliberations and inter-governmental negotiations that lasted three years.</description>
+			</item>
+			<item>
 				<title>Volcanic hazard in Italy: a variegated landscape</title>
 				<link>http://localhost:1313/en/revistas/numero-15/itali/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -537,6 +558,13 @@
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/en/revistas/numero-12/inundaciones/</guid>
 				<description>To be able to refer to an accident as covered by the Law on civil liability and insurance in the use of motor vehicles, which was endorsed by Royal Decree-Law (RDL) 8/2004 of 29 October (the “LRCSCVM” for the Spanish), it must be categorised as a “traffic event” caused by a “motor vehicle”. If these two circumstances are not attendant, the special regulatory framework that is established in the LRCSCVM and its regulations does not apply.</description>
+			</item>
+			<item>
+				<title>Robotics, artificial intelligence and autonomous vehicles</title>
+				<link>http://localhost:1313/en/revistas/numero-7/robotica/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-7/robotica/</guid>
+				<description>In this study we are going to attempt to provide a general overview of the current status in Europe of the so-called fourth industrial revolution, in the field of robotics and artificial intelligence, with particular reference to the so-called autonomous vehicles.</description>
 			</item>
 			<item>
 				<title>The August 1983 floods in the Basque Country: events and lessons</title>

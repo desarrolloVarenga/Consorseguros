@@ -120,6 +120,13 @@
 			</item>
 			<item>
 				<title>Editorial</title>
+				<link>http://localhost:1313/revistas/numero-7/editorial/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-7/editorial/</guid>
+				<description>Existe un amplio consenso en torno a que la tendencia global observada hasta el momento a una mayor incidencia de los daños producidos por catástrofes naturales tiene más que ver con el aumento de los bienes expuestos al riesgo y de su valor que a una evolución al alza de la peligrosidad de esas catástrofes. Por tanto, el hilo conductor de la mayor parte de los contenidos de este número pasa por estudiar los diferentes aspectos de esos conceptos de exposición y vulnerabilidad.</description>
+			</item>
+			<item>
+				<title>Editorial</title>
 				<link>http://localhost:1313/revistas/numero-8/editorial/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/revistas/numero-8/editorial/</guid>
@@ -329,6 +336,13 @@
 				<description>La inteligencia artificial, cuya base matemática se estableció hace décadas, ha experimentado una incursión global en todos los ámbitos de nuestra sociedad en estos tiempos, generando un proceso de cambio significativo a nivel empresarial. Aunque algunos podrían percibirlo como una mera moda tecnológica, parece que estamos inmersos en algo mucho más profundo, equiparable al impacto que tuvieron en su momento el uso de internet y la generalización del correo electrónico.</description>
 			</item>
 			<item>
+				<title>La contribución de las aseguradoras francesas a la creación y la gestión de un Observatorio Nacional de los Riesgos Naturales (ONRN)</title>
+				<link>http://localhost:1313/revistas/numero-7/onrn/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-7/onrn/</guid>
+				<description>El Observatorio Nacional de los Riesgos Naturales (ONRN) es un ejemplo de asociación público privada que reúne al Estado, a las aseguradoras y a la reaseguradora, que se basa en un gobierno concertado que incluye a los colectivos territoriales y a socios en proyectos voluntarios para compartir datos, experiencia y estudios.</description>
+			</item>
+			<item>
 				<title>La gerencia de riesgos y la responsabilidad medioambiental</title>
 				<link>http://localhost:1313/revistas/numero-10/gerencia_de_riesgos/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -411,6 +425,13 @@
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/revistas/numero-12/cambio_climatico/</guid>
 				<description>La costa es la primera línea de defensa ante los efectos del cambio climático en los océanos y quizás, por ello, es más vulnerable aún ante los efectos perjudiciales del mismo. Es, por tanto, que en la costa encontramos un interesante banco de pruebas de cómo la sociedad puede implementar satisfactoriamente medidas de adaptación.</description>
+			</item>
+			<item>
+				<title>El Marco de Sendai para la reducción de desastres 2015-2030. Progresos alcanzados en su implantación</title>
+				<link>http://localhost:1313/revistas/numero-7/sendai/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-7/sendai/</guid>
+				<description>El Marco de Sendai es el marco de acción internacional concertada, que tiene como finalidad reducir los desastres en el periodo 2015-2030. Fue adoptado en la III Conferencia Mundial para la Reducción del Riesgo de Desastres, celebrada del 14 al 18 de marzo de 2015, en la ciudad japonesa de Sendai, tras un proceso de consultas, deliberaciones y negociaciones intergubernamentales que duró tres años.</description>
 			</item>
 			<item>
 				<title>El modelo IBER y su aplicación al estudio de inundaciones</title>
@@ -614,6 +635,13 @@
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/revistas/numero-13/recargos_2019/</guid>
 				<description>Transcurridos dos años desde su entrada en vigor, vamos a analizar el impacto que ha tenido la aplicación de dicha Resolución y, de esta forma, podremos comprobar si la estimación de reducción de un 13,3 % de los recargos para los mismos capitales se ha producido en la realidad.</description>
+			</item>
+			<item>
+				<title>Robótica, inteligencia artificial y vehículos autónomos</title>
+				<link>http://localhost:1313/revistas/numero-7/robotica/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-7/robotica/</guid>
+				<description>En el presente trabajo vamos a intentar ofrecer una panorámica general de la situación actual en que se encuentra en Europa la denominada cuarta revolución industrial, en el ámbito de la robótica e inteligencia artificial, con una especial referencia a los denominados vehículos autónomos.</description>
 			</item>
 			<item>
 				<title>Visibilización del papel del perito de seguros</title>
