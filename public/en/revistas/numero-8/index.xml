@@ -27,5 +27,68 @@
 				<guid>http://localhost:1313/en/revistas/numero-8/analisis/</guid>
 				<description>In risk assessments whose results serve as a basis for establishing Risk Reduction policies, it is essential to have our data sources well controlled, to know their limitations and the possibilities of manipulation.</description>
 			</item>
+			<item>
+				<title>El pronóstico médico legal en los accidentes de tráfico. Estado actual y nuevas exigencias (Solvencia II, Ley 35/2015)</title>
+				<link>http://localhost:1313/en/revistas/numero-8/pronostico/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-8/pronostico/</guid>
+				<description>En este artículo pretendemos iniciar al lector en un lenguaje que será cada vez más visible y necesario en el mundo asegurador, sobre todo en el mundo de los siniestros de automóviles.</description>
+			</item>
+			<item>
+				<title>Centro Zaragoza: brief history of a research centre serving Spain&#39;s insurance sector</title>
+				<link>http://localhost:1313/en/revistas/numero-8/zaragoza/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-8/zaragoza/</guid>
+				<description>At the end of the last century’s 80s a small group of senior executives working for various insurers, including the Consorcio de Compensación de Seguros, decided to create a shared research centre with the intention of finding out more about motor vehicles.</description>
+			</item>
+			<item>
+				<title>Flood Re: cómo lograr que el seguro de hogar sea asequible para los británicos que residen en zonas con alto riesgo de inundación</title>
+				<link>http://localhost:1313/en/revistas/numero-8/flood_re/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-8/flood_re/</guid>
+				<description>Las inundaciones son una cuestión importante para el Reino Unido, donde una de cada seis viviendas está expuesta al riesgo de inundación, bien por aguas costeras, fluviales o superficiales.</description>
+			</item>
+			<item>
+				<title>La gestión de inundaciones en Galicia Costa</title>
+				<link>http://localhost:1313/en/revistas/numero-8/gestion_inundaciones_galicia/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-8/gestion_inundaciones_galicia/</guid>
+				<description>En este artículo se hace un análisis de la línea de trabajo que se está desarrollando para reducir los efectos negativos producidos por las inundaciones a partir de la entrada en vigor de la Directiva de Inundaciones, centrándonos en la Demarcación Hidrográfica Galicia-Costa (DHGC).</description>
+			</item>
+			<item>
+				<title>Seminars within the National Plan for Adaptation to Climate Change: impacts and adaptation in relation to climate change within the insurance industry</title>
+				<link>http://localhost:1313/en/revistas/numero-8/seminarios/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-8/seminarios/</guid>
+				<description>The effects of climate change are already plain to see, and current models envisage major changes in the climate scenario which translate into new climate-related risks.</description>
+			</item>
+			<item>
+				<title>Drones: 2018-2021 strategy plan, civil liability and insurance</title>
+				<link>http://localhost:1313/en/revistas/numero-8/drones/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-8/drones/</guid>
+				<description>The ongoing technological development and likely increasing establishment of remotely piloted aircraft, in the various different economic sectors alluded to in the 2018-2021 Strategy Plan, will come to represent a new field of activity for the insurance industry.</description>
+			</item>
+			<item>
+				<title>Non-payment of subsequent premiums. The suspension of effects of the contract is not enforceable against the injured third party, and the Consorcio de Compensación de Seguros takes over this position when it exercises proceedings for recourse in a claim for the recovery of the amount paid to injured third parties in fulfilment of its function as a Guarantee Fund due to controversy concerning the coverage of the accident by the insurance policy</title>
+				<link>http://localhost:1313/en/revistas/numero-8/jurisprudencia/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-8/jurisprudencia/</guid>
+				<description>Although, in principle, all appears to be quite clear, actual experience has shown us that we are looking at one of the most controversial articles of the LCS, due basically to the different interpretations given by our case law.</description>
+			</item>
+			<item>
+				<title>The CCS and its international presence</title>
+				<link>http://localhost:1313/en/revistas/numero-8/ccs_internacional/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-8/ccs_internacional/</guid>
+				<description>The international activities of the Consorcio de Compensación de Seguros have steadily increased, especially in the past fifteen years, to the point where it currently has an active and well-established presence abroad.</description>
+			</item>
+			<item>
+				<title>Buildings demolished and for which the Consorcio de Compensación de Seguros paid compensations after the 2011 Lorca Earthquake</title>
+				<link>http://localhost:1313/en/revistas/numero-8/lorca/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-8/lorca/</guid>
+				<description>The Consorcio de Compensación de Seguros received more than 32,000 claims for compensation from affected policyholders. The total amount of compensation paid by the Consorcio reached 485 million euros.</description>
+			</item>
 	</channel>
 </rss>

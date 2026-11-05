@@ -460,6 +460,18 @@
                 href="http://localhost:1313/en/revistas/numero-21/australia/"
                 />
   </url><url>
+    <loc>http://localhost:1313/revistas/numero-8/pronostico/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/revistas/numero-8/pronostico/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/revistas/numero-8/pronostico/"
+                />
+  </url><url>
     <loc>http://localhost:1313/revistas/numero-11/agroseguro/</loc>
     <xhtml:link
                 rel="alternate"
@@ -626,6 +638,18 @@
                 rel="alternate"
                 hreflang="en-US"
                 href="http://localhost:1313/en/revistas/numero-20/anatomia_ia/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/revistas/numero-8/zaragoza/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/revistas/numero-8/zaragoza/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/revistas/numero-8/zaragoza/"
                 />
   </url><url>
     <loc>http://localhost:1313/revistas/numero-13/datos_polizas/</loc>
@@ -832,6 +856,18 @@
                 href="http://localhost:1313/en/revistas/numero-16/ciclones/"
                 />
   </url><url>
+    <loc>http://localhost:1313/revistas/numero-8/flood_re/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/revistas/numero-8/flood_re/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/revistas/numero-8/flood_re/"
+                />
+  </url><url>
     <loc>http://localhost:1313/revistas/numero-12/inundaciones/</loc>
     <xhtml:link
                 rel="alternate"
@@ -842,6 +878,18 @@
                 rel="alternate"
                 hreflang="en-US"
                 href="http://localhost:1313/en/revistas/numero-12/inundaciones/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/revistas/numero-8/gestion_inundaciones_galicia/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/revistas/numero-8/gestion_inundaciones_galicia/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/revistas/numero-8/gestion_inundaciones_galicia/"
                 />
   </url><url>
     <loc>http://localhost:1313/revistas/numero-14/riesgo_volcanico/</loc>
@@ -1362,6 +1410,18 @@
                 href="http://localhost:1313/en/revistas/numero-10/prestige/"
                 />
   </url><url>
+    <loc>http://localhost:1313/revistas/numero-8/seminarios/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/revistas/numero-8/seminarios/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/revistas/numero-8/seminarios/"
+                />
+  </url><url>
     <loc>http://localhost:1313/revistas/numero-15/portugal/</loc>
     <xhtml:link
                 rel="alternate"
@@ -1420,6 +1480,18 @@
                 rel="alternate"
                 hreflang="en-US"
                 href="http://localhost:1313/en/revistas/numero-10/jurisprudencia/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/revistas/numero-8/drones/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/revistas/numero-8/drones/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/revistas/numero-8/drones/"
                 />
   </url><url>
     <loc>http://localhost:1313/revistas/numero-22/fsfc/</loc>
@@ -1614,6 +1686,18 @@
                 href="http://localhost:1313/en/revistas/numero-10/compensacion/"
                 />
   </url><url>
+    <loc>http://localhost:1313/revistas/numero-8/jurisprudencia/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/revistas/numero-8/jurisprudencia/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/revistas/numero-8/jurisprudencia/"
+                />
+  </url><url>
     <loc>http://localhost:1313/revistas/numero-9/centro_zaragoza/</loc>
     <xhtml:link
                 rel="alternate"
@@ -1710,6 +1794,18 @@
                 href="http://localhost:1313/en/revistas/numero-17/aon/"
                 />
   </url><url>
+    <loc>http://localhost:1313/revistas/numero-8/ccs_internacional/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/revistas/numero-8/ccs_internacional/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/revistas/numero-8/ccs_internacional/"
+                />
+  </url><url>
     <loc>http://localhost:1313/revistas/numero-15/gestion_ccs_palma/</loc>
     <xhtml:link
                 rel="alternate"
@@ -1732,6 +1828,18 @@
                 rel="alternate"
                 hreflang="en-US"
                 href="http://localhost:1313/en/revistas/numero-15/valoraciones/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/revistas/numero-8/lorca/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/revistas/numero-8/lorca/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/revistas/numero-8/lorca/"
                 />
   </url><url>
     <loc>http://localhost:1313/revistas/numero-24/</loc>
@@ -1942,21 +2050,8 @@
                 href="http://localhost:1313/en/revistas/numero-13/"
                 />
   </url><url>
-    <loc>http://localhost:1313/revistas/numero-8/</loc>
-    <lastmod>2024-07-08T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/revistas/numero-8/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/en/revistas/numero-8/"
-                />
-  </url><url>
     <loc>http://localhost:1313/revistas/numero-9/</loc>
-    <lastmod>2024-07-08T00:00:00+00:00</lastmod>
+    <lastmod>2024-07-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
@@ -1966,6 +2061,19 @@
                 rel="alternate"
                 hreflang="en-US"
                 href="http://localhost:1313/en/revistas/numero-9/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/revistas/numero-8/</loc>
+    <lastmod>2024-07-04T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/revistas/numero-8/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/revistas/numero-8/"
                 />
   </url><url>
     <loc>http://localhost:1313/tags/blue/</loc>

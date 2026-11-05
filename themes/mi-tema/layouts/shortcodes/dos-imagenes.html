@@ -5,18 +5,8 @@
       grid-template-columns: 1fr;
       gap: 1.5rem;
       margin: 2rem 0;
-      align-items: center;
+      align-items: start;
     }
-
-    .galeria-dos-columnas img {
-      width: 100%;
-      height: auto;
-      display: block;
-      border-radius: 4px;
-      box-shadow: 0 2px 8px rgba(0,0,0,0.1);
-    }
-
-    /* En pantallas medianas y grandes se muestran 2 columnas iguales */
     @media (min-width: 640px) {
       .galeria-dos-columnas {
         grid-template-columns: 1fr 1fr;
@@ -24,10 +14,35 @@
     }
   </style>
 
-  <div class="galeria-col">
-    <img src="{{ .Get "src1" | relURL }}" alt="{{ .Get "alt1" | default "Imagen 1" }}">
-  </div>
-  <div class="galeria-col">
-    <img src="{{ .Get "src2" | relURL }}" alt="{{ .Get "alt2" | default "Imagen 2" }}">
-  </div>
+  <!-- Imagen 1 -->
+  <figure class="article-figure">
+    <img src="{{ .Get "src1" | relURL }}" alt="{{ .Get "alt1" | default (.Get "caption1") | default "Imagen 1" }}">
+    
+    {{ if or (.Get "caption1") (.Get "source1") }}
+    <figcaption class="figure-caption">
+      {{ if .Get "caption1" }}
+        <p class="caption-text">{{ .Get "caption1" | markdownify | safeHTML }}</p>
+      {{ end }}
+      {{ if .Get "source1" }}
+        <p class="caption-source">{{ if eq .Site.Language.Lang "en" }}Source:{{ else }}Fuente:{{ end }} {{ .Get "source1" | markdownify }}</p>
+      {{ end }}
+    </figcaption>
+    {{ end }}
+  </figure>
+
+  <!-- Imagen 2 -->
+  <figure class="article-figure">
+    <img src="{{ .Get "src2" | relURL }}" alt="{{ .Get "alt2" | default (.Get "caption2") | default "Imagen 2" }}">
+    
+    {{ if or (.Get "caption2") (.Get "source2") }}
+    <figcaption class="figure-caption">
+      {{ if .Get "caption2" }}
+        <p class="caption-text">{{ .Get "caption2" | markdownify | safeHTML }}</p>
+      {{ end }}
+      {{ if .Get "source2" }}
+        <p class="caption-source">{{ if eq .Site.Language.Lang "en" }}Source:{{ else }}Fuente:{{ end }} {{ .Get "source2" | markdownify }}</p>
+      {{ end }}
+    </figcaption>
+    {{ end }}
+  </figure>
 </div>

@@ -280,6 +280,13 @@
 				<description>New technologies are entering our daily lives every year. The use of these technologies has crystallised as a form of change that has turned society on its head in just a short span of time and will continue to do so.</description>
 			</item>
 			<item>
+				<title>El pronóstico médico legal en los accidentes de tráfico. Estado actual y nuevas exigencias (Solvencia II, Ley 35/2015)</title>
+				<link>http://localhost:1313/en/revistas/numero-8/pronostico/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-8/pronostico/</guid>
+				<description>En este artículo pretendemos iniciar al lector en un lenguaje que será cada vez más visible y necesario en el mundo asegurador, sobre todo en el mundo de los siniestros de automóviles.</description>
+			</item>
+			<item>
 				<title>El riesgo de inundación en la agricultura</title>
 				<link>http://localhost:1313/en/revistas/numero-11/agroseguro/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -362,6 +369,13 @@
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/en/revistas/numero-20/anatomia_ia/</guid>
 				<description>AI is transforming every aspect of the insurance industry value chain from product personalisation to claims handling and customer service. As the technology advances, it is expected that it will be integrated further and deeper within the insurance sector, resulting in heightened efficiency and enhanced results for insurance companies and their customers .</description>
+			</item>
+			<item>
+				<title>Centro Zaragoza: brief history of a research centre serving Spain&#39;s insurance sector</title>
+				<link>http://localhost:1313/en/revistas/numero-8/zaragoza/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-8/zaragoza/</guid>
+				<description>At the end of the last century’s 80s a small group of senior executives working for various insurers, including the Consorcio de Compensación de Seguros, decided to create a shared research centre with the intention of finding out more about motor vehicles.</description>
 			</item>
 			<item>
 				<title>Claims experience for Lorca, 11 May 2011</title>
@@ -483,11 +497,25 @@
 				<description>Hazard maps are one of the key tools for managing flood risk. These maps include geographic zones that could be flooded under scenarios of low, medium, and high probability of flooding.</description>
 			</item>
 			<item>
+				<title>Flood Re: cómo lograr que el seguro de hogar sea asequible para los británicos que residen en zonas con alto riesgo de inundación</title>
+				<link>http://localhost:1313/en/revistas/numero-8/flood_re/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-8/flood_re/</guid>
+				<description>Las inundaciones son una cuestión importante para el Reino Unido, donde una de cada seis viviendas está expuesta al riesgo de inundación, bien por aguas costeras, fluviales o superficiales.</description>
+			</item>
+			<item>
 				<title>Insuring exceptional buildings: a Portuguese case study</title>
 				<link>http://localhost:1313/en/revistas/numero-17/portugal/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/en/revistas/numero-17/portugal/</guid>
 				<description>Exceptional buildings are key features in every city, a small number of heritage buildings that live alongside modern architecture, adding personality to the urban landscape. Their value as emblems of the history of civilisation is incalculable. Most of us will agree that they are entitled to special consideration in terms of both conservation and insurance.</description>
+			</item>
+			<item>
+				<title>La gestión de inundaciones en Galicia Costa</title>
+				<link>http://localhost:1313/en/revistas/numero-8/gestion_inundaciones_galicia/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-8/gestion_inundaciones_galicia/</guid>
+				<description>En este artículo se hace un análisis de la línea de trabajo que se está desarrollando para reducir los efectos negativos producidos por las inundaciones a partir de la entrada en vigor de la Directiva de Inundaciones, centrándonos en la Demarcación Hidrográfica Galicia-Costa (DHGC).</description>
 			</item>
 			<item>
 				<title>Not Everything Fits into an Algorithm</title>
@@ -749,6 +777,13 @@
 				<description>There is currently great uncertainty about trends and future projections of how the climate will affect extreme flooding. The study of these future changes in the hazard level of floods represents a major technical and scientific challenge that European countries must take on throughout the second implementation of the Floods Directive.</description>
 			</item>
 			<item>
+				<title>Seminars within the National Plan for Adaptation to Climate Change: impacts and adaptation in relation to climate change within the insurance industry</title>
+				<link>http://localhost:1313/en/revistas/numero-8/seminarios/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-8/seminarios/</guid>
+				<description>The effects of climate change are already plain to see, and current models envisage major changes in the climate scenario which translate into new climate-related risks.</description>
+			</item>
+			<item>
 				<title>The 2024 Valencia Floods: The Ultimate Test for the Spanish Insurance System</title>
 				<link>http://localhost:1313/en/revistas/numero-23/dana_valencia/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -831,6 +866,13 @@
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/en/revistas/numero-10/jurisprudencia/</guid>
 				<description>Comment on the Judgment by the Court of Justice of the European Union of 1 June 2017, the Folk case.</description>
+			</item>
+			<item>
+				<title>Drones: 2018-2021 strategy plan, civil liability and insurance</title>
+				<link>http://localhost:1313/en/revistas/numero-8/drones/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-8/drones/</guid>
+				<description>The ongoing technological development and likely increasing establishment of remotely piloted aircraft, in the various different economic sectors alluded to in the 2018-2021 Strategy Plan, will come to represent a new field of activity for the insurance industry.</description>
 			</item>
 			<item>
 				<title>Flooding in Navarre, the Basque Country, Aragon and Burgos, 2021</title>
@@ -952,6 +994,13 @@
 				<description>There is a more or less apocryphal legend which suggests that the ironic aphorism &amp;lsquo;may you live in interesting times&amp;rsquo; originates from a 17th century Chinese curse. Whatever its source, the fact is that the present at the Consorcio de Compensación de Seguros (CCS), both for the institution and those who are part of it, has been an almost continuous stream of &amp;lsquo;interesting times&amp;rsquo; over the past few months.</description>
 			</item>
 			<item>
+				<title>Non-payment of subsequent premiums. The suspension of effects of the contract is not enforceable against the injured third party, and the Consorcio de Compensación de Seguros takes over this position when it exercises proceedings for recourse in a claim for the recovery of the amount paid to injured third parties in fulfilment of its function as a Guarantee Fund due to controversy concerning the coverage of the accident by the insurance policy</title>
+				<link>http://localhost:1313/en/revistas/numero-8/jurisprudencia/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-8/jurisprudencia/</guid>
+				<description>Although, in principle, all appears to be quite clear, actual experience has shown us that we are looking at one of the most controversial articles of the LCS, due basically to the different interpretations given by our case law.</description>
+			</item>
+			<item>
 				<title>Scope of subrogation actions brought by insurance companies against the Consorcio de Compensación de Seguros in cases of dispute. Interpretation of the status of injured party</title>
 				<link>http://localhost:1313/en/revistas/numero-14/jurisprudencia/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -1013,6 +1062,20 @@
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/en/revistas/numero-15/valoraciones/</guid>
 				<description>Coverage of volcanic eruptions by Spain&amp;rsquo;s Consorcio de Compensación de Seguros (CCS) dates back to issue of the Spanish Law on recasting the Property and Accident Insurance Catastrophe Compensation Funds into a single Insurance Compensation Fund also covering Livestock, Forestry, and Agricultural Insurance.</description>
+			</item>
+			<item>
+				<title>The CCS and its international presence</title>
+				<link>http://localhost:1313/en/revistas/numero-8/ccs_internacional/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-8/ccs_internacional/</guid>
+				<description>The international activities of the Consorcio de Compensación de Seguros have steadily increased, especially in the past fifteen years, to the point where it currently has an active and well-established presence abroad.</description>
+			</item>
+			<item>
+				<title>Buildings demolished and for which the Consorcio de Compensación de Seguros paid compensations after the 2011 Lorca Earthquake</title>
+				<link>http://localhost:1313/en/revistas/numero-8/lorca/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-8/lorca/</guid>
+				<description>The Consorcio de Compensación de Seguros received more than 32,000 claims for compensation from affected policyholders. The total amount of compensation paid by the Consorcio reached 485 million euros.</description>
 			</item>
 			<item>
 				<title></title>
