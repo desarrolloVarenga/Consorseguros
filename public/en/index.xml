@@ -14,6 +14,13 @@
 		
 			<atom:link href="http://localhost:1313/en/index.xml" rel="self" type="application/rss+xml" />
 			<item>
+				<title>Catalogue of earthquake damage in Spain: a tool to reduce disaster risk</title>
+				<link>http://localhost:1313/en/revistas/numero-6/da%C3%B1os_twerremotos/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-6/da%C3%B1os_twerremotos/</guid>
+				<description>Description of the partnership agreement among DGPCE, IGN, CNIG, and CCS to compile the Catalogue of Earthquake Damage in Spain (CDTE), a unified record for damage caused by earthquakes with seismic strength greater than or equal to VI (EMS-98).</description>
+			</item>
+			<item>
 				<title>Editorial</title>
 				<link>http://localhost:1313/en/revistas/numero-10/editorial/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -120,6 +127,20 @@
 			</item>
 			<item>
 				<title>Editorial</title>
+				<link>http://localhost:1313/en/revistas/numero-5/editorial/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-5/editorial/</guid>
+				<description>Editorial of the autumn 2016 issue (No. 5) of Consorseguros Digital magazine examining the intersection between natural risk knowledge, its management, and the management of its financial consequences from the perspective of an insurance institution.</description>
+			</item>
+			<item>
+				<title>Editorial</title>
+				<link>http://localhost:1313/en/revistas/numero-6/editorial/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-6/editorial/</guid>
+				<description>Editorial of issue 6 of Consorseguros Digital on insurance insolvency, terrorism risk insurance, and extraordinary risk management.</description>
+			</item>
+			<item>
+				<title>Editorial</title>
 				<link>http://localhost:1313/en/revistas/numero-7/editorial/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/en/revistas/numero-7/editorial/</guid>
@@ -138,6 +159,34 @@
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/en/revistas/numero-9/editorial/</guid>
 				<description>At the end of September 2018, the CCS organised the 12th meeting of the WFCP in Madrid, and that important event constitutes the central axis around which the ninth issue of the Consorseguros Digital magazine revolves. Another important group of articles in this issue relates to automobile insurance, another of the major areas of activity of the CCS beyond catastrophic risks.</description>
+			</item>
+			<item>
+				<title>Study of hazard levels in relation to tsunamis along the Spanish coastline</title>
+				<link>http://localhost:1313/en/revistas/numero-6/maremotos/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-6/maremotos/</guid>
+				<description>Review of the preliminary study published by the Directorate-General for Civil Protection and Emergencies on tsunami risk hazardousness along the Spanish coastline.</description>
+			</item>
+			<item>
+				<title>Terrorism risk (re) insurance: Minding the Gap</title>
+				<link>http://localhost:1313/en/revistas/numero-6/reaseguro_terrorismo/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-6/reaseguro_terrorismo/</guid>
+				<description>This article describes the circumstances and process behind the creation of the International Forum for Terrorism Risk (Re)Insurance Pools (IFTRIP) from the standpoint of the experience of Pool Re.</description>
+			</item>
+			<item>
+				<title>The significance of vulnerability and exposure in increased flood risk on the mediterranean coast</title>
+				<link>http://localhost:1313/en/revistas/numero-7/analisis/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-7/analisis/</guid>
+				<description>Analysis of the impact of urban growth and institutional vulnerability on the increased flood risk on the Spanish Mediterranean coast.</description>
+			</item>
+			<item>
+				<title>The system for the liquidation of insurance companies by the Consorcio de Compensación de Seguros (CCS)</title>
+				<link>http://localhost:1313/en/revistas/numero-6/sistema_liquidacion_entidades/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-6/sistema_liquidacion_entidades/</guid>
+				<description>Analysis of the historical background, procedures, legal context, funding, and figures of the Spanish system for the liquidation of insurance companies managed by the CCS.</description>
 			</item>
 			<item>
 				<title>12th meeting of the World Forum of Catastrophe Programmes in Madrid</title>
@@ -203,6 +252,13 @@
 				<description>Cultural heritage is understood to be the assets making up Spain&amp;rsquo;s Historical Heritage that have been accorded a special classification under our country&amp;rsquo;s national legislation. Cultural heritage assets also include real property located anywhere in Spain not owned by the central government that is protected in that category under the legislation of Spain&amp;rsquo;s regional authorities, the Autonomous Communities.</description>
 			</item>
 			<item>
+				<title>Failure to pay successive premiums and its effects on the Extraordinary Risk coverage by the Consorcio de Compensación de Seguros</title>
+				<link>http://localhost:1313/en/revistas/numero-6/jurisprudencia/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-6/jurisprudencia/</guid>
+				<description>Commentary on the Judgment by the Civil Law Chamber of the Supreme Court of 30 January 2017 regarding the effectiveness in relation to CCS of agreements between policyholder and insurer when the successive premium is paid after the grace period.</description>
+			</item>
+			<item>
 				<title>Growing risks: the role of insurance</title>
 				<link>http://localhost:1313/en/revistas/numero-21/riesgos_crecientes/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -231,11 +287,32 @@
 				<description>Colombia&amp;rsquo;s terrain is extremely varied, ranging from low valleys to high snow-capped peaks. This is due primarily to the fact that the country is located right in the middle of the Pacific Ring of Fire, known to be one of the subduction zones that harbours some of the world&amp;rsquo;s most important zones of seismic and volcanic activity as a result of the interaction between the Nazca and the South American tectonic plates.</description>
 			</item>
 			<item>
+				<title>Planning for Loss or Complexity? New Zealand’s Earthquake Commission: The Story So Far</title>
+				<link>http://localhost:1313/en/revistas/numero-5/analisis/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-5/analisis/</guid>
+				<description>Detailed analysis of the challenges experienced by the New Zealand Earthquake Commission (EQC) in managing the 2010–2011 Canterbury earthquake sequence and the lessons learned six years later.</description>
+			</item>
+			<item>
+				<title>Policyholder protection schemes in situations of insolvency. Comparative study between states and jurisdictions. New perspectives</title>
+				<link>http://localhost:1313/en/revistas/numero-6/analisis_proteccion/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-6/analisis_proteccion/</guid>
+				<description>Comparative study between states and jurisdictions on policyholder protection schemes in situations of insolvency, examining their governance, coverage, funding mechanisms, and role in resolution processes.</description>
+			</item>
+			<item>
 				<title>Prevention, protection, preparation and repair: measures to reduce flood risk along the axis of the Ebro</title>
 				<link>http://localhost:1313/en/revistas/numero-12/analisis/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/en/revistas/numero-12/analisis/</guid>
 				<description>To be able to refer to an accident as covered by the Law on civil liability and insurance in the use of motor vehicles, which was endorsed by Royal Decree-Law (RDL) 8/2004 of 29 October (the “LRCSCVM” for the Spanish), it must be categorised as a “traffic event” caused by a “motor vehicle”. If these two circumstances are not attendant, the special regulatory framework that is established in the LRCSCVM and its regulations does not apply.</description>
+			</item>
+			<item>
+				<title>Projection of property damage due to hydrometeorological causes (flood and wind) and estimate of the extraordinary risk insurance scheme capacity in the context of climate change</title>
+				<link>http://localhost:1313/en/revistas/numero-6/proyeccion_bienes/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-6/proyeccion_bienes/</guid>
+				<description>Projection of future developments over the next 30 years (2017-2046) for exposure, surcharges collected by CCS, and property loss experience for extraordinary risk insurance caused by hydrometeorological phenomena.</description>
 			</item>
 			<item>
 				<title>The Floods Caused by the Cut-off Low in October–November 2024: The Greatest Challenge in the History of Extraordinary Risk Insurance</title>
@@ -329,11 +406,25 @@
 				<description>On 29 October 2024 a DANA, from the Spanish abbreviation for a closed upper level low or a cut-off low storm system, dropped more than 770 litres per square metre in just 24 hours. To put this in perspective, this is the volume of precipitation that falls on the province of Valencia in 19 months.</description>
 			</item>
 			<item>
+				<title>OECD Conference on the Financial Management of Flood Risk</title>
+				<link>http://localhost:1313/en/revistas/numero-5/ocde/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-5/ocde/</guid>
+				<description>Overview of the main findings from the OECD Conference on the Financial Management of Flood Risk held in Paris in May 2016, exploring the evolving nature of flood risk, public financial management challenges, and approaches to insurability and affordability.</description>
+			</item>
+			<item>
 				<title>Pilot cases for adapting to flood risk</title>
 				<link>http://localhost:1313/en/revistas/numero-12/casos_piloto/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/en/revistas/numero-12/casos_piloto/</guid>
 				<description>To be able to refer to an accident as covered by the Law on civil liability and insurance in the use of motor vehicles, which was endorsed by Royal Decree-Law (RDL) 8/2004 of 29 October (the “LRCSCVM” for the Spanish), it must be categorised as a “traffic event” caused by a “motor vehicle”. If these two circumstances are not attendant, the special regulatory framework that is established in the LRCSCVM and its regulations does not apply.</description>
+			</item>
+			<item>
+				<title>Progress in bank recovery and resolution; a new legislative and institutional framework since 2015</title>
+				<link>http://localhost:1313/en/revistas/numero-6/analisis_legislacion_banca/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-6/analisis_legislacion_banca/</guid>
+				<description>Analysis of public financial support following the financial crisis and the new European legislative and institutional framework for bank recovery and resolution (BRRD, SRM, SRB, and SRF).</description>
 			</item>
 			<item>
 				<title>Risk management and environmental liability</title>
@@ -432,6 +523,13 @@
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/en/revistas/numero-11/riadas/</guid>
 				<description>Flash floods are extremely hazardous to personal safety, specifically to road safety. Centro Zaragoza now presents a series of tips on what you should and should not do if you find yourself caught out by a flash flood when travelling in your vehicle.</description>
+			</item>
+			<item>
+				<title>Foreign business risk coverage for spanish companies</title>
+				<link>http://localhost:1313/en/revistas/numero-5/frri/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-5/frri/</guid>
+				<description>Analysis of the Spanish State-sponsored coverage program for internationalisation risks, the role of CESCE as the management agent, and the functions of the Consorcio de Compensación de Seguros as administrator of the Internationalisation Risk Reserve Fund (FRRI).</description>
 			</item>
 			<item>
 				<title>Importance of computational modelling and risk forecasting in cardiovascular disease prevention to reduce morbidity, mortality, and health insurance claim rates</title>
@@ -546,6 +644,13 @@
 				<description>La inteligencia artificial (IA) es un campo en constante evolución, con una historia que abarca décadas de investigación y desarrollo. Desde su concepción en la década de 1950, cuando pioneros como Alan Turing y John McCarthy sentaron las bases teóricas de la inteligencia artificial, hasta su aplicación práctica en la actualidad, la IA ha recorrido un viaje que ha redefinido múltiples aspectos de nuestras vidas.</description>
 			</item>
 			<item>
+				<title>Past, present and future of flood management in the Ebro River Basin</title>
+				<link>http://localhost:1313/en/revistas/numero-5/gestion_avenidas/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-5/gestion_avenidas/</guid>
+				<description>Time evolution of flooding events monitoring and control in the Ebro River Basin (NE Spain) and how the current Automatic Hydrological Information System (SAIH) and Decision-Making Assistance System (SADEbro) allow for reservoir manoeuvres reducing flood risk significantly.</description>
+			</item>
+			<item>
 				<title>Pool Español de Riesgos Medioambientales: environmental insurance accessible for everybody</title>
 				<link>http://localhost:1313/en/revistas/numero-10/pool/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -637,6 +742,13 @@
 				<description>Whilst most wildfires are caused by human activity, their behaviour and spread are largely influenced by the characteristics and distribution of forest fuel, which are closely linked to land management. In some regions, such as the Mediterranean, the accumulation of fuel in the landscape due to rural depopulation, together with the expansion of the Wildland-Urban Interface, further increases the risk.</description>
 			</item>
 			<item>
+				<title>Amendments introduced by the voluntary jurisdiction act (law 15/2015) and of interest to the insurance industry</title>
+				<link>http://localhost:1313/en/revistas/numero-7/ljv/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-7/ljv/</guid>
+				<description>The current Voluntary Jurisdiction Act contains questions of great interest regarding the day-to-day processing of case files by insurers, highlighting amendments regarding the designation of a third adjuster, legal deposits of compensation, settlement hearings, and the declaration of heirs.</description>
+			</item>
+			<item>
 				<title>Artificial Intelligence in Preventing Natural Perils</title>
 				<link>http://localhost:1313/en/revistas/numero-20/prevencion_riesgos_naturales/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -684,6 +796,13 @@
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/en/revistas/numero-12/aseguranza/</guid>
 				<description>The (re)insurance sector is a fundamental actor to participate, absorb, and evaluate the current and potential contributions of what we have called Natural Assurance Schemes (NAS).</description>
+			</item>
+			<item>
+				<title>Recent World Bank publications on disaster risk finance</title>
+				<link>http://localhost:1313/en/revistas/numero-5/banco_mundial/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-5/banco_mundial/</guid>
+				<description>Review of two papers from The Policy Research Working Papers series (No. 7720 and 7721), prepared in the framework of the Disaster Risk Financing and Insurance Program (DRFIP) of the World Bank Group and published in June 2016.</description>
 			</item>
 			<item>
 				<title>Robotics and the law</title>
@@ -763,6 +882,13 @@
 				<description>Assessing the loss caused in civil liability or third party claims is no easy task, above all when the damage brought about exceeds the value of the vehicle. The judgment we are examining, which is of great interest to all of us who come to be involved in traffic accidents, seeks to determine the premises for settling this question and clarifying the contention which minor case law has upheld in general terms.</description>
 			</item>
 			<item>
+				<title>Best&#39;s special report</title>
+				<link>http://localhost:1313/en/revistas/numero-5/ambest/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-5/ambest/</guid>
+				<description>Review of a report of the rating agency A.M. Best on the different options in Europe for catastrophic risks insurance and how each of them tries to solve the various problems arising to this kind of insurance.</description>
+			</item>
+			<item>
 				<title>Cartography of Flood-prone Areas in Spain: The National Flood Zone Mapping System as a Risk Management Tool</title>
 				<link>http://localhost:1313/en/revistas/numero-24/cartografia/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -824,6 +950,13 @@
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/en/revistas/numero-12/jurisprudencia/</guid>
 				<description>To be able to refer to an accident as covered by the Law on civil liability and insurance in the use of motor vehicles, which was endorsed by Royal Decree-Law (RDL) 8/2004 of 29 October (the “LRCSCVM” for the Spanish), it must be categorised as a “traffic event” caused by a “motor vehicle”. If these two circumstances are not attendant, the special regulatory framework that is established in the LRCSCVM and its regulations does not apply.</description>
+			</item>
+			<item>
+				<title>The Copernicus Climate Change Service: perspective from the insurance industry</title>
+				<link>http://localhost:1313/en/revistas/numero-7/copernicus/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-7/copernicus/</guid>
+				<description>An overview of the Copernicus Climate Change Service (C3S) and insights from the consultation conducted across the European insurance sector to assess user requirements for climate data and risk modeling.</description>
 			</item>
 			<item>
 				<title>The cut-off lows of 2012 and 2019 in the south-east of the Iberian Peninsula</title>
@@ -924,6 +1057,13 @@
 				<description>The IMPACTO project is an inter-institutional collaborative initiative aimed at sharing data and statistics on natural and technological events considered priorities for civil protection and causing damage and losses in Spain.</description>
 			</item>
 			<item>
+				<title>Legal consequences derived from non-payment by the policyholder of the first premium or single premium</title>
+				<link>http://localhost:1313/en/revistas/numero-5/jurisprudencia/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-5/jurisprudencia/</guid>
+				<description>Commentary on the Judgement handed down by the First Division of the Supreme Court, of 10 September 2015, establishing the requirement of formal notification of contract termination due to non-payment of the first premium in compulsory third-party automobile insurance.</description>
+			</item>
+			<item>
 				<title>Leverage This Moment to Integrate Artificial Intelligence into Your Business</title>
 				<link>http://localhost:1313/en/revistas/numero-20/aproveche_integrar_ia/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -950,6 +1090,13 @@
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/en/revistas/numero-11/jurisprudencia/</guid>
 				<description>Comments on the judgement handed down by the First Chamber of the Supreme Court, on 2 July 2019. Rapporteur: Ms. Parra Lucán.</description>
+			</item>
+			<item>
+				<title>Results of studies of the European Commission and the European Environment Agency</title>
+				<link>http://localhost:1313/en/revistas/numero-7/resultados_estudios_ce/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-7/resultados_estudios_ce/</guid>
+				<description>Review of the European Commission&amp;rsquo;s report on weather and climate-related disaster risk insurance and the European Environment Agency&amp;rsquo;s report on climate change adaptation and disaster risk reduction.</description>
 			</item>
 			<item>
 				<title>Review of Disaster Insurance Reimagined</title>
@@ -1006,6 +1153,13 @@
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/en/revistas/numero-17/covid19/</guid>
 				<description>The health situation caused by COVID-19 first made itself felt in China in late 2019 and subsequently spread to Europe in early 2020, leading the World Health Organization to raise the level of the COVID-19 public health emergency to an international pandemic on 11 March 2020.</description>
+			</item>
+			<item>
+				<title>Exceptional harm in Law 35/2015 of 22 September reforming the system for the assessment of damages for harm or loss caused to victims in traffic accidents</title>
+				<link>http://localhost:1313/en/revistas/numero-7/jurisprudencia/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-7/jurisprudencia/</guid>
+				<description>Analysis of the Judgment by the Pontevedra Provincial Court of 31 July 2017 regarding the legal framework and boundary of exceptional harm under the revised traffic accident compensation system in Spain.</description>
 			</item>
 			<item>
 				<title>Insurance and climate change: knowledge generation as a driver of adaptive action</title>
@@ -1078,6 +1232,13 @@
 				<description>The Barometer of Catastrophes in Spain 2021 is the first report in Spain to quantify and assess the main natural disasters that took place in Spain the year before: the causes, nature, toll in human life, property damage, and costs to institutions and the insurance industry, plus social vulnerability and resilience indices and metrics.</description>
 			</item>
 			<item>
+				<title>Guide to reducing building vulnerability to flooding</title>
+				<link>http://localhost:1313/en/revistas/numero-7/guia/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-7/guia/</guid>
+				<description>Presentation of the Guide to reducing building vulnerability to flooding, produced under the partnership agreement between the Consorcio de Compensación de Seguros and the Directorate General for Water.</description>
+			</item>
+			<item>
 				<title>Management by the CCS of losses caused by the La Palma volcanic eruption in 2021</title>
 				<link>http://localhost:1313/en/revistas/numero-15/gestion_ccs_palma/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -1110,6 +1271,13 @@
 				<link>http://localhost:1313/en/revistas/numero-14/ume/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/en/revistas/numero-14/ume/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title></title>
+				<link>http://localhost:1313/en/revistas/numero-5/recargo_seguros/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-5/recargo_seguros/</guid>
 				<description></description>
 			</item>
 			<item>

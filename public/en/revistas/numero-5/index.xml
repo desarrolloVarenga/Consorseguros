@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Nº 5 October 2016 on My New Hugo Project</title>
+		<link>http://localhost:1313/en/revistas/numero-5/</link>
+		<description>Recent content in Nº 5 October 2016 on My New Hugo Project</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/en/revistas/numero-5/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Editorial</title>
+				<link>http://localhost:1313/en/revistas/numero-5/editorial/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-5/editorial/</guid>
+				<description>Editorial of the autumn 2016 issue (No. 5) of Consorseguros Digital magazine examining the intersection between natural risk knowledge, its management, and the management of its financial consequences from the perspective of an insurance institution.</description>
+			</item>
+			<item>
+				<title>Planning for Loss or Complexity? New Zealand’s Earthquake Commission: The Story So Far</title>
+				<link>http://localhost:1313/en/revistas/numero-5/analisis/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-5/analisis/</guid>
+				<description>Detailed analysis of the challenges experienced by the New Zealand Earthquake Commission (EQC) in managing the 2010–2011 Canterbury earthquake sequence and the lessons learned six years later.</description>
+			</item>
+			<item>
+				<title>OECD Conference on the Financial Management of Flood Risk</title>
+				<link>http://localhost:1313/en/revistas/numero-5/ocde/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-5/ocde/</guid>
+				<description>Overview of the main findings from the OECD Conference on the Financial Management of Flood Risk held in Paris in May 2016, exploring the evolving nature of flood risk, public financial management challenges, and approaches to insurability and affordability.</description>
+			</item>
+			<item>
+				<title>Foreign business risk coverage for spanish companies</title>
+				<link>http://localhost:1313/en/revistas/numero-5/frri/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-5/frri/</guid>
+				<description>Analysis of the Spanish State-sponsored coverage program for internationalisation risks, the role of CESCE as the management agent, and the functions of the Consorcio de Compensación de Seguros as administrator of the Internationalisation Risk Reserve Fund (FRRI).</description>
+			</item>
+			<item>
+				<title>Past, present and future of flood management in the Ebro River Basin</title>
+				<link>http://localhost:1313/en/revistas/numero-5/gestion_avenidas/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-5/gestion_avenidas/</guid>
+				<description>Time evolution of flooding events monitoring and control in the Ebro River Basin (NE Spain) and how the current Automatic Hydrological Information System (SAIH) and Decision-Making Assistance System (SADEbro) allow for reservoir manoeuvres reducing flood risk significantly.</description>
+			</item>
+			<item>
+				<title>Recent World Bank publications on disaster risk finance</title>
+				<link>http://localhost:1313/en/revistas/numero-5/banco_mundial/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-5/banco_mundial/</guid>
+				<description>Review of two papers from The Policy Research Working Papers series (No. 7720 and 7721), prepared in the framework of the Disaster Risk Financing and Insurance Program (DRFIP) of the World Bank Group and published in June 2016.</description>
+			</item>
+			<item>
+				<title>Best&#39;s special report</title>
+				<link>http://localhost:1313/en/revistas/numero-5/ambest/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-5/ambest/</guid>
+				<description>Review of a report of the rating agency A.M. Best on the different options in Europe for catastrophic risks insurance and how each of them tries to solve the various problems arising to this kind of insurance.</description>
+			</item>
+			<item>
+				<title>Legal consequences derived from non-payment by the policyholder of the first premium or single premium</title>
+				<link>http://localhost:1313/en/revistas/numero-5/jurisprudencia/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-5/jurisprudencia/</guid>
+				<description>Commentary on the Judgement handed down by the First Division of the Supreme Court, of 10 September 2015, establishing the requirement of formal notification of contract termination due to non-payment of the first premium in compulsory third-party automobile insurance.</description>
+			</item>
+			<item>
+				<title></title>
+				<link>http://localhost:1313/en/revistas/numero-5/recargo_seguros/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-5/recargo_seguros/</guid>
+				<description></description>
+			</item>
+	</channel>
+</rss>

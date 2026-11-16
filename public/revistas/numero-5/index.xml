@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Nº 5 Octubre 2016 on My New Hugo Project</title>
+		<link>http://localhost:1313/revistas/numero-5/</link>
+		<description>Recent content in Nº 5 Octubre 2016 on My New Hugo Project</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/revistas/numero-5/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Editorial</title>
+				<link>http://localhost:1313/revistas/numero-5/editorial/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-5/editorial/</guid>
+				<description>Editorial del número 5 (otoño de 2016) de la revista Consorseguros Digital sobre la intersección entre el conocimiento y la gestión de los riesgos naturales y sus consecuencias financieras desde la perspectiva aseguradora.</description>
+			</item>
+			<item>
+				<title>¿Planificar los daños o la complejidad? Comisión de Terremotos de Nueva Zelanda: la historia hasta ahora</title>
+				<link>http://localhost:1313/revistas/numero-5/analisis/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-5/analisis/</guid>
+				<description>Análisis detallado sobre las vicisitudes experimentadas por la Comisión de Terremotos de Nueva Zelanda (EQC) en la gestión de la crisis provocada por la secuencia de terremotos de Canterbury (2010-2011) y las lecciones extraídas seis años después.</description>
+			</item>
+			<item>
+				<title>Conferencia de la OCDE sobre la gestión financiera del riesgo de inundación</title>
+				<link>http://localhost:1313/revistas/numero-5/ocde/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-5/ocde/</guid>
+				<description>Visión general de los principales resultados de la Conferencia de la OCDE sobre la gestión financiera del riesgo de inundación celebrada en París en mayo de 2016, analizando la evolución del riesgo, los retos para las finanzas públicas y las opciones de aseguramiento.</description>
+			</item>
+			<item>
+				<title>La cobertura de los riesgos de la actividad exterior de las empresas españolas</title>
+				<link>http://localhost:1313/revistas/numero-5/frri/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-5/frri/</guid>
+				<description>Análisis del sistema español de cobertura por cuenta del Estado de los riesgos de la internacionalización, el papel de CESCE como agente gestor y las funciones del Consorcio de Compensación de Seguros como administrador del Fondo de Reserva de los Riesgos de la Internacionalización (FRRI).</description>
+			</item>
+			<item>
+				<title>Pasado, presente y futuro de la gestión de las inundaciones en la cuenca hidrográfica del Ebro</title>
+				<link>http://localhost:1313/revistas/numero-5/gestion_avenidas/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-5/gestion_avenidas/</guid>
+				<description>Evolución temporal del control de las crecidas en la cuenca del Ebro y funcionamiento de los actuales Sistema Automático de Información Hidrológica (SAIH) y Sistema de Ayuda a la Decisión (SADEbro) para reducir el riesgo de inundación.</description>
+			</item>
+			<item>
+				<title>Publicaciones recientes del banco mundial sobre financiación de riesgos de desastres</title>
+				<link>http://localhost:1313/revistas/numero-5/banco_mundial/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-5/banco_mundial/</guid>
+				<description>Reseña de dos trabajos de la serie The Policy Research Working Papers (nº 7720 y 7721), elaborados dentro del Programa de Seguro y Financiación del Riesgo de Desastre (DRFIP) del World Bank Group en junio de 2016.</description>
+			</item>
+			<item>
+				<title>Informe especial de A.M. BEST</title>
+				<link>http://localhost:1313/revistas/numero-5/ambest/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-5/ambest/</guid>
+				<description>Revisión de un informe de la agencia de calificación A.M. Best sobre las distintas opciones en Europa para el aseguramiento de catástrofes y cómo cada una de ellas intenta resolver los diferentes problemas que se presentan en este tipo de seguro.</description>
+			</item>
+			<item>
+				<title>Consecuencias jurídicas derivadas del impago de la primera prima o prima única por culpa del tomador</title>
+				<link>http://localhost:1313/revistas/numero-5/jurisprudencia/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-5/jurisprudencia/</guid>
+				<description>Comentario a la Sentencia de la Sala Primera del Tribunal Supremo, de 10 de septiembre de 2015, sobre la necesidad de notificación fehaciente de resolución del contrato por impago culpable de la primera prima en el seguro obligatorio de automóviles.</description>
+			</item>
+			<item>
+				<title></title>
+				<link>http://localhost:1313/revistas/numero-5/recargo_seguros/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-5/recargo_seguros/</guid>
+				<description></description>
+			</item>
+	</channel>
+</rss>

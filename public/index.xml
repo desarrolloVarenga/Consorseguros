@@ -14,6 +14,20 @@
 		
 			<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
 			<item>
+				<title>(Rea)seguro del riesgo de terrorismo: cerrar la brecha</title>
+				<link>http://localhost:1313/revistas/numero-6/reaseguro_terrorismo/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-6/reaseguro_terrorismo/</guid>
+				<description>Este artículo describe las circunstancias y el proceso de creación del Foro Internacional de los Pools para el (rea)Seguro de Terrorismo (IFTRIP) desde la experiencia del pool británico Pool Re.</description>
+			</item>
+			<item>
+				<title>Catálogo de daños por terremotos en España, una herramienta para la reducción del riesgo de desastres</title>
+				<link>http://localhost:1313/revistas/numero-6/da%C3%B1os_twerremotos/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-6/da%C3%B1os_twerremotos/</guid>
+				<description>Descripción del convenio de colaboración entre la DGPCE, el IGN, el CNIG y el CCS para la creación del Catálogo de Daños por Terremotos en España (CDTE), un registro común de los daños causados por sismos de intensidad igual o superior a VI (EMS-98).</description>
+			</item>
+			<item>
 				<title>Editorial</title>
 				<link>http://localhost:1313/revistas/numero-10/editorial/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -120,6 +134,20 @@
 			</item>
 			<item>
 				<title>Editorial</title>
+				<link>http://localhost:1313/revistas/numero-5/editorial/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-5/editorial/</guid>
+				<description>Editorial del número 5 (otoño de 2016) de la revista Consorseguros Digital sobre la intersección entre el conocimiento y la gestión de los riesgos naturales y sus consecuencias financieras desde la perspectiva aseguradora.</description>
+			</item>
+			<item>
+				<title>Editorial</title>
+				<link>http://localhost:1313/revistas/numero-6/editorial/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-6/editorial/</guid>
+				<description>Editorial del número 6 de Consorseguros Digital sobre insolvencia aseguradora, seguro de terrorismo y gestión de riesgos extraordinarios.</description>
+			</item>
+			<item>
+				<title>Editorial</title>
 				<link>http://localhost:1313/revistas/numero-7/editorial/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/revistas/numero-7/editorial/</guid>
@@ -138,6 +166,34 @@
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/revistas/numero-9/editorial/</guid>
 				<description>A finales del pasado mes de septiembre de 2018, el CCS organizó en Madrid la 12ª reunión del WFCP, y ese importante evento constituye el eje central en torno al cual se articula el noveno número de la revista Consorseguros Digital. Otro gran bloque de este número tiene que ver con el seguro del automóvil, otra de las grandes áreas de actividad del CCS más allá de los riesgos catastróficos.</description>
+			</item>
+			<item>
+				<title>El sistema de liquidación de entidades aseguradoras (EE.AA.) por el Consorcio de Compensación de Seguros (CCS)</title>
+				<link>http://localhost:1313/revistas/numero-6/sistema_liquidacion_entidades/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-6/sistema_liquidacion_entidades/</guid>
+				<description>Análisis de los antecedentes históricos, procedimientos, entorno jurídico, financiación y cifras del sistema español de liquidación de entidades aseguradoras gestionado por el CCS.</description>
+			</item>
+			<item>
+				<title>Estudio de la peligrosidad frente a maremotos en las costas españolas</title>
+				<link>http://localhost:1313/revistas/numero-6/maremotos/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-6/maremotos/</guid>
+				<description>Reseña del estudio preliminar publicado por la Dirección General de Protección Civil y Emergencias sobre la peligrosidad del riesgo de maremoto en el litoral español.</description>
+			</item>
+			<item>
+				<title>La importancia de la vulnerabilidad y la exposición en el aumento del riesgo de inundaciones en el litoral mediterráneo</title>
+				<link>http://localhost:1313/revistas/numero-7/analisis/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-7/analisis/</guid>
+				<description>Análisis del impacto del crecimiento urbanístico y la vulnerabilidad institucional en el aumento del riesgo de inundaciones en la costa mediterránea española.</description>
+			</item>
+			<item>
+				<title>¿Planificar los daños o la complejidad? Comisión de Terremotos de Nueva Zelanda: la historia hasta ahora</title>
+				<link>http://localhost:1313/revistas/numero-5/analisis/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-5/analisis/</guid>
+				<description>Análisis detallado sobre las vicisitudes experimentadas por la Comisión de Terremotos de Nueva Zelanda (EQC) en la gestión de la crisis provocada por la secuencia de terremotos de Canterbury (2010-2011) y las lecciones extraídas seis años después.</description>
 			</item>
 			<item>
 				<title>12ª reunión del World Forum of Catastrophe Programmes en Madrid</title>
@@ -196,6 +252,13 @@
 				<description>En este artículo se va a tratar de recopilar y ordenar la información disponible en los archivos y documentos del CCS de aquella época en lo que se refiere a resultados económicos de este evento para dejar constancia de este episodio y que esta información quede disponible.</description>
 			</item>
 			<item>
+				<title>El impago de primas sucesivas y sus efectos en la cobertura de los riesgos extraordinarios por el Consorcio de Compensación de Seguros</title>
+				<link>http://localhost:1313/revistas/numero-6/jurisprudencia/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-6/jurisprudencia/</guid>
+				<description>Comentario sobre la Sentencia de la Sala Primera del Tribunal Supremo de 30 de enero de 2017 relativa a la eficacia frente al CCS de los pactos entre tomador y aseguradora cuando la prima sucesiva se abona pasado el mes de gracia.</description>
+			</item>
+			<item>
 				<title>Evolución de la normativa reguladora de la cobertura de los riesgos extraordinarios por parte del Consorcio de Compensación de Seguros Serie 1954 - mayo 2023</title>
 				<link>http://localhost:1313/revistas/numero-18/evolucion_normativa/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -252,11 +315,25 @@
 				<description>En la noche del 29 de octubre, contemplamos desolados –como todos los ciudadanos de este país y del resto del mundo– el drama que se estaba desarrollando en una gran zona metropolitana de España y en otras áreas próximas. Muy pronto fuimos conscientes de que la magnitud de la catástrofe iba a ser devastadora, como desgraciadamente lo fue en pérdida de vidas humanas y en daños materiales, y del reto que iba a suponer su gestión.</description>
 			</item>
 			<item>
+				<title>Los programas de protección de los acreedores por contrato de seguro en situaciones de insolvencia. Estudio comparado entre estados y jurisdicciones. Nuevas perspectivas</title>
+				<link>http://localhost:1313/revistas/numero-6/analisis_proteccion/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-6/analisis_proteccion/</guid>
+				<description>Estudio comparado entre estados y jurisdicciones sobre los programas de protección de los acreedores por contrato de seguro en situaciones de insolvencia, analizando su gobernanza, cobertura, financiación y papel en la resolución.</description>
+			</item>
+			<item>
 				<title>Prevención, protección, preparación y reparación: medidas para la disminución del riesgo de inundación en el eje del Ebro</title>
 				<link>http://localhost:1313/revistas/numero-12/analisis/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/revistas/numero-12/analisis/</guid>
 				<description>Para que pueda hablarse de un accidente amparado por la Ley sobre responsabilidad civil y seguro en la circulación de vehículos a motor, aprobada por el RDL 8/2004, de 29 de octubre (LRCSCVM), debe ser calificado como un hecho de la circulación ocasionado por un vehículo a motor. Si no se dan estos dos presupuestos, no es aplicable la normativa especial establecida en la LRCSCVM y en su Reglamento.</description>
+			</item>
+			<item>
+				<title>Proyección de los daños a los bienes por causas hidrometeorológicas (inundación y viento) y estimación de la capacidad del seguro de riesgos extraordinarios en el contexto del cambio climático</title>
+				<link>http://localhost:1313/revistas/numero-6/proyeccion_bienes/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-6/proyeccion_bienes/</guid>
+				<description>Proyección para los próximos 30 años (2017-2046) de la exposición, recargos ingresados y siniestralidad por causas hidrometeorológicas (inundación y vientos fuertes) en el seguro de riesgos extraordinarios.</description>
 			</item>
 			<item>
 				<title>Riesgos crecientes: el papel del seguro</title>
@@ -285,6 +362,13 @@
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/revistas/numero-12/casos_piloto/</guid>
 				<description>Para que pueda hablarse de un accidente amparado por la Ley sobre responsabilidad civil y seguro en la circulación de vehículos a motor, aprobada por el RDL 8/2004, de 29 de octubre (LRCSCVM), debe ser calificado como un hecho de la circulación ocasionado por un vehículo a motor. Si no se dan estos dos presupuestos, no es aplicable la normativa especial establecida en la LRCSCVM y en su Reglamento.</description>
+			</item>
+			<item>
+				<title>Conferencia de la OCDE sobre la gestión financiera del riesgo de inundación</title>
+				<link>http://localhost:1313/revistas/numero-5/ocde/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-5/ocde/</guid>
+				<description>Visión general de los principales resultados de la Conferencia de la OCDE sobre la gestión financiera del riesgo de inundación celebrada en París en mayo de 2016, analizando la evolución del riesgo, los retos para las finanzas públicas y las opciones de aseguramiento.</description>
 			</item>
 			<item>
 				<title>El Pool de riesgo de ciclón australiano. El camino hasta aquí y lo que nos dicen los datos</title>
@@ -362,6 +446,13 @@
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/revistas/numero-23/lecciones_dana/</guid>
 				<description>El 29 de octubre de 2024 una DANA, una Depresión Aislada en Niveles Altos, descargó más de 770 litros por metro cuadrado en solo 24 horas. A modo de referencia: ese es el volumen de precipitaciones que recibe la provincia de Valencia en 19 meses.</description>
+			</item>
+			<item>
+				<title>Los avances en materia de recuperación y resolución bancaria, un nuevo marco legislativo e institucional desde el año 2015</title>
+				<link>http://localhost:1313/revistas/numero-6/analisis_legislacion_banca/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-6/analisis_legislacion_banca/</guid>
+				<description>Análisis del impacto del apoyo financiero público tras la crisis y del nuevo marco legislativo e institucional europeo de recuperación y resolución bancaria (BRRD, SRM, SRB y SRF).</description>
 			</item>
 			<item>
 				<title>Mejora de la estimación de los costes reales de los desastres</title>
@@ -474,6 +565,13 @@
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/revistas/numero-18/modelizacion_computacional/</guid>
 				<description>La utilidad de los diferentes tipos de análisis computacionales, tanto descriptivos, como diagnósticos, predictivos, prescriptivos y preventivos, es poder crear modelos predictivos basados en técnicas de regresión.</description>
+			</item>
+			<item>
+				<title>La cobertura de los riesgos de la actividad exterior de las empresas españolas</title>
+				<link>http://localhost:1313/revistas/numero-5/frri/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-5/frri/</guid>
+				<description>Análisis del sistema español de cobertura por cuenta del Estado de los riesgos de la internacionalización, el papel de CESCE como agente gestor y las funciones del Consorcio de Compensación de Seguros como administrador del Fondo de Reserva de los Riesgos de la Internacionalización (FRRI).</description>
 			</item>
 			<item>
 				<title>Las riadas, un peligro para la seguridad vial</title>
@@ -609,6 +707,13 @@
 				<description>La inteligencia artificial (IA) es un campo en constante evolución, con una historia que abarca décadas de investigación y desarrollo. Desde su concepción en la década de 1950, cuando pioneros como Alan Turing y John McCarthy sentaron las bases teóricas de la inteligencia artificial, hasta su aplicación práctica en la actualidad, la IA ha recorrido un viaje que ha redefinido múltiples aspectos de nuestras vidas.</description>
 			</item>
 			<item>
+				<title>Pasado, presente y futuro de la gestión de las inundaciones en la cuenca hidrográfica del Ebro</title>
+				<link>http://localhost:1313/revistas/numero-5/gestion_avenidas/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-5/gestion_avenidas/</guid>
+				<description>Evolución temporal del control de las crecidas en la cuenca del Ebro y funcionamiento de los actuales Sistema Automático de Información Hidrológica (SAIH) y Sistema de Ayuda a la Decisión (SADEbro) para reducir el riesgo de inundación.</description>
+			</item>
+			<item>
 				<title>Peligros volcánicos y gestión de riesgos en Islandia</title>
 				<link>http://localhost:1313/revistas/numero-15/islandia/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -742,6 +847,20 @@
 				<description>En noviembre de 1997 se generó una enorme borrasca que produjo riadas de graves consecuencias en las localidades de Badajoz, Valverde de Leganés y Mérida, además de en la comarca de las Vegas Bajas del Guadiana. En el presente artículo se describen los daños producidos por las mismas y las actuaciones de la administración hidráulica para reparar dichos daños y tratar de que no se vuelvan a producir.</description>
 			</item>
 			<item>
+				<title>Modificaciones introducidas por la Ley de Jurisdicción Voluntaria 15/2015 de interés para el sector asegurador</title>
+				<link>http://localhost:1313/revistas/numero-7/ljv/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-7/ljv/</guid>
+				<description>La actual Ley de la Jurisdicción Voluntaria contiene cuestiones de sumo interés en la tramitación diaria de expedientes por las entidades aseguradoras, destacando las modificaciones sobre el nombramiento de perito tercero, consignaciones de indemnizaciones, actos de conciliación y la declaración de herederos.</description>
+			</item>
+			<item>
+				<title>Publicaciones recientes del banco mundial sobre financiación de riesgos de desastres</title>
+				<link>http://localhost:1313/revistas/numero-5/banco_mundial/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-5/banco_mundial/</guid>
+				<description>Reseña de dos trabajos de la serie The Policy Research Working Papers (nº 7720 y 7721), elaborados dentro del Programa de Seguro y Financiación del Riesgo de Desastre (DRFIP) del World Bank Group en junio de 2016.</description>
+			</item>
+			<item>
 				<title>Representación del riesgo de inundación en España a partir de los datos del seguro de riesgos extraordinarios</title>
 				<link>http://localhost:1313/revistas/numero-13/representacion_riesgo/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -784,6 +903,13 @@
 				<description>La responsabilidad civil y el seguro son dos instituciones que van unidas cuando estamos ante seguros de responsabilidad civil, si bien son diferentes y hay que estudiarlas separadamente.</description>
 			</item>
 			<item>
+				<title>El Servicio de Cambio Climático de Copérnicus: perspectiva del sector asegurador</title>
+				<link>http://localhost:1313/revistas/numero-7/copernicus/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-7/copernicus/</guid>
+				<description>Análisis del Servicio de Cambio Climático de Copernicus (C3S) y los resultados de las consultas realizadas al sector asegurador europeo para identificar sus necesidades de información climática y herramientas de evaluación del riesgo.</description>
+			</item>
+			<item>
 				<title>Estrategias de gestión riesgos agrarios y cambio climático</title>
 				<link>http://localhost:1313/revistas/numero-22/estrategias/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -796,6 +922,13 @@
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/revistas/numero-15/nueva_zelanda/</guid>
 				<description>Nueva Zelanda no ha experimentado una erupción con daños como la que se está viendo en La Palma a la hora de escribir estas líneas. Tampoco ha experimentado eventos como las coladas de lava del Kilauea, Hawái, en 2018, el tsunami vulcanogénico causado por el Anak Krakatoa, Indonesia, en 2018, la gran emanación de cenizas del volcán Taal, Filipinas, en 2020 o el Calbuco, Chile, en 2015.</description>
+			</item>
+			<item>
+				<title>Informe especial de A.M. BEST</title>
+				<link>http://localhost:1313/revistas/numero-5/ambest/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-5/ambest/</guid>
+				<description>Revisión de un informe de la agencia de calificación A.M. Best sobre las distintas opciones en Europa para el aseguramiento de catástrofes y cómo cada una de ellas intenta resolver los diferentes problemas que se presentan en este tipo de seguro.</description>
 			</item>
 			<item>
 				<title>La cartografía de zonas inundables en España: el SNCZI como herramienta para la gestión del riesgo</title>
@@ -910,6 +1043,13 @@
 				<description>Partiendo de la información contenida en la publicación «Estadística de Riesgos Extraordinarios, Serie 1971-2024», disponible en la página web del CCS, seleccionamos los mayores eventos por inundación en la serie histórica de los últimos 54 años.</description>
 			</item>
 			<item>
+				<title>Consecuencias jurídicas derivadas del impago de la primera prima o prima única por culpa del tomador</title>
+				<link>http://localhost:1313/revistas/numero-5/jurisprudencia/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-5/jurisprudencia/</guid>
+				<description>Comentario a la Sentencia de la Sala Primera del Tribunal Supremo, de 10 de septiembre de 2015, sobre la necesidad de notificación fehaciente de resolución del contrato por impago culpable de la primera prima en el seguro obligatorio de automóviles.</description>
+			</item>
+			<item>
 				<title>Daños al medio ambiente provocados por una central hidroeléctrica que había sido debidamente autorizada para ejercer su actividad</title>
 				<link>http://localhost:1313/revistas/numero-10/jurisprudencia/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -994,6 +1134,13 @@
 				<description>Disaster Insurance Reimagined (Reimaginando el seguro de catástrofes) es un oportuno libro, escrito por Paula Jarzabkowski, Konstantinos Chalkias, Eugenia Cacciatori y Rebecca Bednarek, disponible en acceso abierto, que aborda estas cuestiones sobre la base de un estudio de cinco años de 17 «Entidades para reducir la brecha de cobertura» (PGE, por sus siglas en inglés), entidades sin ánimo de lucro que ofrecen seguros en 49 países.</description>
 			</item>
 			<item>
+				<title>Resultados de estudios de la Comisión Europea y de la Agencia Europea del Medio Ambiente</title>
+				<link>http://localhost:1313/revistas/numero-7/resultados_estudios_ce/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-7/resultados_estudios_ce/</guid>
+				<description>Reseña sobre el informe de la Comisión Europea relativo al aseguramiento de riesgos de desastre hidrometeorológico y climático y el informe de la Agencia Europea del Medio Ambiente sobre adaptación y reducción de riesgos.</description>
+			</item>
+			<item>
 				<title>XI Conferencia Internacional y Asamblea General Anual de IFIGS</title>
 				<link>http://localhost:1313/revistas/numero-21/ifigs/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -1027,6 +1174,13 @@
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/revistas/numero-17/covid19/</guid>
 				<description>La situación sanitaria ocasionada por el COVID-19, detectado en Europa en los primeros meses del año 2020, que ya se había dejado sentir en China a finales del año 2019, originó que la Organización Mundial de la Salud elevase, el 11 de marzo de 2020, la situación de emergencia de salud pública a pandemia global.</description>
+			</item>
+			<item>
+				<title>El perjuicio excepcional, en la Ley 35/2015, de 22 de septiembre, de reforma del sistema para la valoración de los daños y perjuicios causados a las personas en accidentes de circulación</title>
+				<link>http://localhost:1313/revistas/numero-7/jurisprudencia/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-7/jurisprudencia/</guid>
+				<description>Análisis de la Sentencia de la Audiencia Provincial de Pontevedra, de 31 de julio de 2017, respecto a la delimitación del perjuicio excepcional y los criterios para su indemnización tras la reforma del baremo de tráfico.</description>
 			</item>
 			<item>
 				<title>Fondo de Compensación de Daños Medioambientales</title>
@@ -1106,6 +1260,13 @@
 				<description>Aunque, en principio, parece que las cosas están bastante claras, la realidad nos muestra que estamos ante uno de los artículos más polémicos de la LCS, debido, fundamentalmente, a la distinta interpretación que se le ha dado por parte de nuestra jurisprudencia.</description>
 			</item>
 			<item>
+				<title>Guía para la reducción de la vulnerabilidad de los edificios frente a las inundaciones</title>
+				<link>http://localhost:1313/revistas/numero-7/guia/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-7/guia/</guid>
+				<description>Presentación de la Guía para la reducción de la vulnerabilidad de los edificios frente a las inundaciones, elaborada en el marco del convenio entre el Consorcio de Compensación de Seguros y la Dirección General del Agua.</description>
+			</item>
+			<item>
 				<title>La gestión por el CCS de la siniestralidad de la erupción volcánica de La Palma en 2021</title>
 				<link>http://localhost:1313/revistas/numero-15/gestion_ccs_palma/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -1146,6 +1307,13 @@
 				<pubDate>Sun, 15 Jan 2023 09:00:00 -0700</pubDate>
 				<guid>http://localhost:1313/posts/post-1/</guid>
 				<description>&lt;p&gt;Tempor proident minim aliquip reprehenderit dolor et ad anim Lorem duis sint eiusmod. Labore ut ea duis dolor. Incididunt consectetur proident qui occaecat incididunt do nisi Lorem. Tempor do laborum elit laboris excepteur eiusmod do. Eiusmod nisi excepteur ut amet pariatur adipisicing Lorem.&lt;/p&gt;&#xA;&lt;p&gt;Occaecat nulla excepteur dolore excepteur duis eiusmod ullamco officia anim in voluptate ea occaecat officia. Cillum sint esse velit ea officia minim fugiat. Elit ea esse id aliquip pariatur cupidatat id duis minim incididunt ea ea. Anim ut duis sunt nisi. Culpa cillum sit voluptate voluptate eiusmod dolor. Enim nisi Lorem ipsum irure est excepteur voluptate eu in enim nisi. Nostrud ipsum Lorem anim sint labore consequat do.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title></title>
+				<link>http://localhost:1313/revistas/numero-5/recargo_seguros/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-5/recargo_seguros/</guid>
+				<description></description>
 			</item>
 			<item>
 				<title>Contacto</title>

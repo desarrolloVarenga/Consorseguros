@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Nº 6 Mayo 2017 on My New Hugo Project</title>
+		<link>http://localhost:1313/revistas/numero-6/</link>
+		<description>Recent content in Nº 6 Mayo 2017 on My New Hugo Project</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/revistas/numero-6/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>(Rea)seguro del riesgo de terrorismo: cerrar la brecha</title>
+				<link>http://localhost:1313/revistas/numero-6/reaseguro_terrorismo/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-6/reaseguro_terrorismo/</guid>
+				<description>Este artículo describe las circunstancias y el proceso de creación del Foro Internacional de los Pools para el (rea)Seguro de Terrorismo (IFTRIP) desde la experiencia del pool británico Pool Re.</description>
+			</item>
+			<item>
+				<title>Catálogo de daños por terremotos en España, una herramienta para la reducción del riesgo de desastres</title>
+				<link>http://localhost:1313/revistas/numero-6/da%C3%B1os_twerremotos/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-6/da%C3%B1os_twerremotos/</guid>
+				<description>Descripción del convenio de colaboración entre la DGPCE, el IGN, el CNIG y el CCS para la creación del Catálogo de Daños por Terremotos en España (CDTE), un registro común de los daños causados por sismos de intensidad igual o superior a VI (EMS-98).</description>
+			</item>
+			<item>
+				<title>Editorial</title>
+				<link>http://localhost:1313/revistas/numero-6/editorial/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-6/editorial/</guid>
+				<description>Editorial del número 6 de Consorseguros Digital sobre insolvencia aseguradora, seguro de terrorismo y gestión de riesgos extraordinarios.</description>
+			</item>
+			<item>
+				<title>El sistema de liquidación de entidades aseguradoras (EE.AA.) por el Consorcio de Compensación de Seguros (CCS)</title>
+				<link>http://localhost:1313/revistas/numero-6/sistema_liquidacion_entidades/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-6/sistema_liquidacion_entidades/</guid>
+				<description>Análisis de los antecedentes históricos, procedimientos, entorno jurídico, financiación y cifras del sistema español de liquidación de entidades aseguradoras gestionado por el CCS.</description>
+			</item>
+			<item>
+				<title>Estudio de la peligrosidad frente a maremotos en las costas españolas</title>
+				<link>http://localhost:1313/revistas/numero-6/maremotos/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-6/maremotos/</guid>
+				<description>Reseña del estudio preliminar publicado por la Dirección General de Protección Civil y Emergencias sobre la peligrosidad del riesgo de maremoto en el litoral español.</description>
+			</item>
+			<item>
+				<title>El impago de primas sucesivas y sus efectos en la cobertura de los riesgos extraordinarios por el Consorcio de Compensación de Seguros</title>
+				<link>http://localhost:1313/revistas/numero-6/jurisprudencia/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-6/jurisprudencia/</guid>
+				<description>Comentario sobre la Sentencia de la Sala Primera del Tribunal Supremo de 30 de enero de 2017 relativa a la eficacia frente al CCS de los pactos entre tomador y aseguradora cuando la prima sucesiva se abona pasado el mes de gracia.</description>
+			</item>
+			<item>
+				<title>Los programas de protección de los acreedores por contrato de seguro en situaciones de insolvencia. Estudio comparado entre estados y jurisdicciones. Nuevas perspectivas</title>
+				<link>http://localhost:1313/revistas/numero-6/analisis_proteccion/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-6/analisis_proteccion/</guid>
+				<description>Estudio comparado entre estados y jurisdicciones sobre los programas de protección de los acreedores por contrato de seguro en situaciones de insolvencia, analizando su gobernanza, cobertura, financiación y papel en la resolución.</description>
+			</item>
+			<item>
+				<title>Proyección de los daños a los bienes por causas hidrometeorológicas (inundación y viento) y estimación de la capacidad del seguro de riesgos extraordinarios en el contexto del cambio climático</title>
+				<link>http://localhost:1313/revistas/numero-6/proyeccion_bienes/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-6/proyeccion_bienes/</guid>
+				<description>Proyección para los próximos 30 años (2017-2046) de la exposición, recargos ingresados y siniestralidad por causas hidrometeorológicas (inundación y vientos fuertes) en el seguro de riesgos extraordinarios.</description>
+			</item>
+			<item>
+				<title>Los avances en materia de recuperación y resolución bancaria, un nuevo marco legislativo e institucional desde el año 2015</title>
+				<link>http://localhost:1313/revistas/numero-6/analisis_legislacion_banca/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-6/analisis_legislacion_banca/</guid>
+				<description>Análisis del impacto del apoyo financiero público tras la crisis y del nuevo marco legislativo e institucional europeo de recuperación y resolución bancaria (BRRD, SRM, SRB y SRF).</description>
+			</item>
+	</channel>
+</rss>

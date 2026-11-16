@@ -1,0 +1,338 @@
+---
+title: "¿Planificar los daños o la complejidad? Comisión de Terremotos de Nueva Zelanda: la historia hasta ahora"
+category: "Análisis"
+pdf_download: "/pdf/num22/editorial.pdf"
+sidebar_image: "/images/numero-5/ANALISIS_00.jpg"
+sidebar_text: "La Comisión de Terremotos de Nueva Zelanda (EQC), el sistema público neozelandés para la cobertura aseguradora de los riesgos geológicos, que funciona en cooperación con el sector privado, tuvo que afrontar entre 2010 y 2011 una de las mayores pruebas a nivel mundial para un sistema de catástrofes: la secuencia de terremotos de Canterbury."
+weight: 2
+image: "/images/numero-5/ANALISIS_00.jpg"
+summary: "Análisis detallado sobre las vicisitudes experimentadas por la Comisión de Terremotos de Nueva Zelanda (EQC) en la gestión de la crisis provocada por la secuencia de terremotos de Canterbury (2010-2011) y las lecciones extraídas seis años después."
+authors:
+    - name: "Hugh Cowan"
+      institution: "Director General para Reaseguro, Investigación y Formación, Comisión de Terremotos"
+    - name: "Bryan Dunne"
+      institution: "Director General para Estrategia y Transformación, Comisión de Terremotos"
+    - name: "Anna Griffiths"
+      institution: "Consejera responsable de la comunicación, DG para Reaseguro, Investigación y Formación, Comisión de Terremotos"
+---
+
+La Comisión de Terremotos de Nueva Zelanda (EQC), el sistema público neozelandés para la cobertura aseguradora de los riesgos geológicos, que funciona en cooperación con el sector privado, tuvo que afrontar entre 2010 y 2011 una de las mayores pruebas a nivel mundial para un sistema de catástrofes: la secuencia de terremotos de Canterbury. Este artículo explica detalladamente las vicisitudes experimentadas por la EQC en la gestión de esta crisis, cómo todo el sistema tuvo que adaptarse rápidamente para hacer frente a una catástrofe de una escala hasta entonces inimaginable y presenta las lecciones que se pueden extraer seis años después.
+
+{{< figura src="/images/numero-5/ANALISIS_00.jpg" caption="" source="" >}}
+
+## 1. Introducción
+
+Han pasado seis años desde que Nueva Zelanda sufrió su primer terremoto “urbano” en las últimas seis décadas: un terremoto de magnitud 7,1 cerca de Christchurch, región de Canterbury, en la Isla Sur. Ese terremoto, en la madrugada del 4 de septiembre de 2010, fue el preludio de diversas secuelas que tuvieron consecuencias mucho peores. Al final del año siguiente, la secuencia de terremotos de Canterbury, como se ha llegado a conocer la serie de temblores, se ha convertido en el desastre más costoso del que hay registro en la historia de Nueva Zelanda. Con 185 fallecidos, todos el 22 de febrero de 2011, y con 40.000 millones de dólares neozelandeses (NZ$) (≃25.800 millones de euros) de pérdidas totales (en viviendas, propiedades comerciales e infraestructuras), los terremotos de Canterbury han quedado grabados en la memoria colectiva.
+
+{{< imagen-texto src="/images/numero-5/ANALISIS_01.jpg" alt="Figura 1" reverse="true" >}}
+Es probable que la actividad sísmica se mantenga por encima de los niveles históricos previos en la región durante décadas, pero los trabajos de recuperación y reconstrucción ya han incorporado la experiencia que garantizará una mayor resiliencia a los futuros eventos, en el caso de que se presenten. Se ha reactivado la concienciación pública del riesgo sísmico y parece probable que se adopten nuevas mejoras en la gestión de este riesgo. Con todo, las pérdidas económicas podrían haber sido mucho peores. En particular, el capital extranjero que afluyó a Nueva Zelanda después del desastre demuestra el poder del seguro para la recuperación social y económica. Los daños ascendieron al 20% del PIB nacional, el 80% de los cuales estaban asegurados.
+
+Paradójicamente, la recuperación está también asociada a una complejidad técnica sin igual, que exige de muchos análisis científicos, de ingeniería y legales, y a un nivel de compromiso de la comunidad que con la dinámica y actitud anteriores hubiera sido imposible lograr. Se puede entender que las frustraciones, resultado de la enorme escala de las reclamaciones y de la necesidad de adaptar la cultura organizativa y la prestación de servicios, han eclipsado el reconocimiento de las ventajas nacionales y el compromiso constante del Gobierno con la recuperación que ha sido posible gracias al particular sistema neozelandés para el reparto de los riesgos.
+
+En este artículo presentaremos a la *New Zealand Earthquake Commission* (EQC) –Comisión de Terremotos de Nueva Zelanda- y describiremos las características principales de la Comisión en la gestión de riesgos y del papel que ha debido desempeñar en la recuperación de Canterbury. Utilizando sobre todo información publicada, pondremos en contexto diversas cuestiones de actualidad, que esperamos puedan proporcionar una perspectiva sobre las fortalezas y limitaciones de nuestra experiencia.
+
+> **Figura 1:** Una característica singular de la secuencia de terremotos de Canterbury en las zonas bajas fue la extensa deformación del terreno, cuando los suelos arenosos saturados se licuaron cerca de la superficie, expulsando grandes cantidades de agua y sedimentos y produciendo una deformación desigual y localmente muy importante del suelo. Las conducciones subterráneas y los edificios con poca cimentación resultaron afectados, en algunos casos sin posible reparación. Se cambió a “no edificable” la calificación de las zonas más afectadas, sobre todo áreas residenciales próximas a cursos de agua, aceptando la mayoría de los residentes la oferta del gobierno de comprar sus propiedades al valor de tasación previo al terremoto. *Fuente: The Press.*
+{{< /imagen-texto >}}
+
+## 2. Los terremotos de Canterbury
+
+Terremotos y volcanes han dado forma a la mitología y a la historia de Nueva Zelanda desde que sus islas fueron habitadas por primera vez por inmigrantes maoríes de Polinesia en el siglo XIII. Si la tierra emerge del mar en esta parte del mundo es por la convergencia relativa entre las placas tectónicas australiana y del Pacífico, lo que elevó las montañas de la Isla Norte, con actividad volcánica local. De vez en cuando se sienten pequeños terremotos, pero las últimas seis décadas han sido relativamente tranquilas y ningún gran terremoto ha afectado a ciudades o poblaciones importantes. En la región de Canterbury hubo terremotos con daños en el siglo XIX y a principios del XX. Sin embargo, la ciudad principal, Christchurch, está situada en una amplia llanura fluvial al borde de la zona de contacto de las placas, donde los movimientos tectónicos son menos frecuentes y las fallas geológicas no se muestran en superficie al estar ocultas por los sedimentos aluviales transportados desde los Alpes del Sur. En los días del comienzo del asentamiento europeo, Christchurch ocupaba una porción de su área actual y no se construyó en las zonas que demostraron ser altamente vulnerables a los terremotos.
+
+El terremoto del 4 de septiembre de 2010 tuvo una magnitud de 7,1, con epicentro cerca de Darfield, una pequeña localidad 40 Km al oeste del centro de Christchurch. Fue seguido por otros de menor intensidad, pero más superficiales y que causaron más daños, con sus epicentros situados bajo la ciudad de Christchurch y alrededores. El primero el 26 de diciembre del mismo año y los demás en 2011 (22 de febrero, 13 de junio y 23 de diciembre). El evento de febrero de 2011 fue el más devastador, produciendo 185 muertes como resultado del derrumbamiento de edificios en el centro, 115 de los cuales en un mismo edificio de varias plantas (Cooper et al., 2012), y por caída de rocas en el suburbio de Port Hills.
+
+La secuencia de terremotos de Christchurch fue la primera en afectar gravemente a un centro urbano desde los terremotos que afectaron repetidamente a Nueva Zelanda entre 1929 y 1942, que propiciaron la introducción del primer código nacional de edificación en 1935, seguido de la creación de un programa de seguro con el apoyo del estado para daños de guerra y de terremotos en 1945. Ese periodo de actividad sísmica contribuyó también a la aparición de una cultura investigadora en los institutos del Gobierno y las universidades y generó una serie de prácticas en ingeniería muy imitadas sobre aislamiento sísmico y diseño por capacidad (Park y Paulay, 1975; Skinner et al., 1993).
+
+{{< imagen-texto src="/images/numero-5/ANALISIS_02.png" alt="Figura 2" reverse="true" >}}
+Durante las décadas de relativa inactividad anteriores a 2010 aumentó el número de habitantes urbanos y, con él, la dependencia de los servicios en red. Pocos habitantes o gobernantes podían recordar experiencias personales de daños como consecuencia de los riesgos naturales. Las fuerzas de la competencia en el comercio y la reestructuración del sector público durante los años 80 y 90 (Scott, 1996; SSC, 1998) obligaron a que la rendición de cuentas en la gestión de los riesgos naturales fuera más explícita, pero también cada vez más compleja en términos de coordinación, datos e información compartida. A lo largo del mismo periodo se introdujo la perspectiva del desarrollo sostenible en las normas de planificación, haciendo de la resiliencia a largo plazo frente a los riesgos naturales un elemento significativo e importante de las políticas a nivel local (CAENZ, 2004). Sin embargo, en proporción, el Gobierno dedicó menos recursos directos con los que responder, o recuperarse, de una emergencia (Lee, 2010).
+
+Los terremotos de Canterbury han tenido efectos de mucho alcance. El mismo proceso de recuperación ha resultado ser uno de los más inusuales que el seguro haya tenido que afrontar. Los daños por desastres naturales de ese año ya fueron notables, con terremotos y tsunamis en Chile y Japón y con inundaciones en Australia y Tailandia. El efecto sumado de las catástrofes en Australia y Nueva Zelanda en 2010-11 hizo que en una región tradicionalmente conocida entre las reaseguradoras por su diversificación de riesgos marginal y “amable”, y que contribuía con menos del 3% a las primas globales de los ramos de no-vida, se produjeran un 20% de las pérdidas globales (Munich Re, 2011). Con la suma de los daños en otras zonas “no calientes”, el término *“diworsification”* (pérdida de valor de las inversiones como consecuencia de su diversificación) pasó a ser por vez primera de uso popular.
+
+> **Figura 2:** Representación de los múltiples terremotos someros y su movimiento secuencial a lo largo de una red de fallas previamente no detectada, que dañaron gravemente la ciudad de Christchurch (400.000 habitantes) y áreas próximas entre septiembre de 2010 y diciembre de 2011. Aunque se siguen sintiendo réplicas de vez en cuando, las edificaciones son ahora más resistentes como resultado de la zonificación de áreas y de los trabajos de reconstrucción. *Fuente: R. Langridge y W.F. Ries, GNS Science.*
+{{< /imagen-texto >}}
+
+## 3. Creación e historia de la EQC
+
+{{< imagen-texto src="/images/numero-5/ANALISIS_03.jpg" alt="Figura 3" reverse="true" >}}
+La Comisión para los Daños por Terremoto y Guerra se creó después del periodo sísmico activo de 1929-1942 y, en particular, después de la recuperación excesivamente lenta de las comunidades afectadas por los terremotos gemelos de la región de Wairarapa, al nordeste de Wellington, en 1942. Hubo poca cobertura aseguradora para los terremotos y la guerra hizo que los daños estuvieran aún más tiempo sin repararse.
+
+Durante la Segunda Guerra Mundial el gobierno había creado un fondo de guerra para la reparación de los daños causados a las propiedades civiles como consecuencia de las actividades de defensa. Al llegar al fin de la guerra, este fondo no utilizado se usó para alimentar un nuevo programa de aseguramiento que protegiera a todos los bienes físicos neozelandeses frente a los daños por terremoto con el fin adicional de asegurar una reconstrucción y reparación más rápida que anteriormente. El programa era similar al ejemplo que España había aportado con el *Consorcio de Compensación de Seguros*, dedicado a administrar las compensaciones por la Guerra Civil y, posteriormente, los daños por desastres naturales.
+
+> **Figura 3:** La lenta recuperación y reconstrucción en las ciudades afectadas por terremotos cerca de Wellington en 1942 condujo a la introducción de un programa de seguro de terremotos asequible y obligatorio, el antecedente de la Comisión de Terremotos. *Ref: 1/2-123912-G. Alexander Turnbull Library, Wellington, New Zealand.*
+{{< /imagen-texto >}}
+
+### 3.1. Cómo funciona la cobertura de la EQC
+
+Un programa como el de la EQC elimina la incertidumbre que, de otro modo, existiría para los propietarios, aseguradores y gobiernos. Implica que los propietarios no tengan que confiar en la existencia de ayudas gubernamentales *ad hoc* después de una catástrofe natural, sino que tienen la certidumbre de un derecho legal a disponer de un seguro de catástrofes con términos preestablecidos, apoyado por la garantía financiera del Gobierno.
+
+El seguro de la EQC cuesta 15 centavos (≃0,1 €) más el impuesto de bienes y servicios (GST, por sus siglas en inglés) por cada 100 NZ$ (≃65 €) asegurados en seguro particular del hogar o de incendios. El ingreso a la EQC se recauda por la aseguradora privada del propietario y se transfiere a la EQC. Antes de que el coste se triplicase, desde 5 centavos por cada dólar asegurado en 2012, éste no había sufrido cambios desde la puesta en marcha del programa en 1945. La prima máxima que puede pagarse por una vivienda y su contenido es de 180 NZ$ (≃116 €)+GST, lo cual supone una cobertura máxima de 100.000 NZ$ (≃65.000 €) + GST por vivienda y de 20.000 NZ$ (≃12.900 €)+GST por el contenido, más una cantidad máxima por el valor del terreno residencial.
+
+Con el tiempo, las coberturas de la EQC se han extendido a otros riesgos, se ha abandonado la cobertura de daños de guerra (lo que tuvo la consecuencia del acortamiento de la denominación de la organización a “Comisión de Terremotos”) y se ha limitado la cobertura aseguradora a las propiedades residenciales.
+
+### 3.2. Altas tasas de penetración del seguro
+
+La EQC asegura a aproximadamente el 90% de las viviendas neozelandesas frente a los daños producidos por terremoto, erupción volcánica, tsunami, corrimiento de tierras o actividad hidrotermal (incluyendo los incendios como consecuencia de cualquiera de los anteriores). Las aseguradoras privadas proporcionan todos los demás tipos de seguros a la propiedad (comercial, industrial y agrario). Las personas que no contratan un seguro con una aseguradora privada no disponen de la cobertura de la EQC. Todos los propietarios que aseguran su vivienda y sus contenidos adquieren automáticamente la cobertura aseguradora de la EQC, siendo la compañía de seguros privada de cada asegurado la que cobra la prima del EQC y se la transfiere posteriormente. Por lo tanto, la cobertura aseguradora de los propietarios neozelandeses frente a las catástrofes naturales sólo es comparable a la de Holanda, con el 5,2% del PIB asegurado (Lloyd’s, 2012).
+
+Históricamente, la propiedad residencial ha sido un pilar de la economía de Nueva Zelanda. No sujeta al impuesto sobre la renta, la vivienda, su propiedad y el rendimiento de las acciones han sido los principales medios de ahorro para la vejez o para el emprendimiento de los neozelandeses. Este hecho, junto con los préstamos hipotecarios de los bancos, ha asegurado un alto nivel de penetración del seguro. La tarifa plana de la cobertura de la EQC ha permitido que las primas del seguro se mantengan asequibles en todo el territorio nacional.
+
+## 4. La EQC y la gestión de riesgos
+
+La gestión eficaz de los riesgos requiere de un enfoque sistémico que abarque todos los factores que influyen en la vulnerabilidad de una sociedad. Aunque se reconoce ampliamente la necesidad de una gestión de riesgos integrada, todavía hay mucha diferencia entre la teoría y la práctica y hay grandes disparidades entre los niveles de comprensión y concienciación del riesgo y de acción continuada por parte de agencias, profesionales y comunidades.
+
+En un sistema integrado, ningún grupo u organización única puede abarcar todos los aspectos de la gestión del riesgo, lo que probablemente hace que su puesta en marcha sea un proceso complejo con muchas incertidumbres y que necesita de una respuesta coordinada y adaptable [^1]. Sin embargo, esta disposición añade significativamente valor, procedente de los grupos u organizaciones que, como la EQC, tienen una gran capacidad para supervisar los componentes del sistema, para dar apoyo a intervenciones específicas y para impulsar acciones prácticas que afecten a varios límites administrativos.
+
+{{< imagen-texto src="/images/numero-5/ANALISIS_04.png" alt="Figura 4" reverse="true" >}}
+La gestión eficiente del riesgo exige la comprensión adecuada de las diferentes opciones posibles. Mediante la planificación de usos del suelo se puede reducir la exposición; con soluciones de ingeniería se pueden controlar los impactos; las potenciales pérdidas financieras se pueden transferir al seguro o a mercados alternativos de capital y se puede acordar asumir el riesgo a través de la capacidad de adaptación. Todas estas posibilidades suponen un cierto grado de concienciación de las contrapartidas existentes entre costes y beneficios, de quién debe pagar y cuándo. Para optimizar los resultados de la gestión del riesgo no sólo hay que tener una comprensión técnica de los riesgos, de los aspectos de ingeniería y de los mercados de capital, sino que también hace falta tener una idea clara de las responsabilidades y de su interrelación con los procesos sociales y políticos que dan lugar al establecimiento de prioridades para la asignación de fondos.
+
+Las funciones legales de la EQC la sitúan en los dos extremos del proceso de gestión de riesgos. Por un lado, financiando los riesgos procedentes de la peligrosidad geológica y asegurando la recuperación de las viviendas tras un desastre y, por el otro, apoyando la investigación y la educación acerca de los daños por desastres naturales y su mitigación.
+
+> **Figura 4:** La gestión eficaz de los riesgos exige una evaluación realista del riesgo y contrapesar las ventajas y el coste de la acción. La solución que se elija estará influida por la calidad de la información disponible, pero reflejará al final las responsabilidades y los resultados sociales o institucionales esperados, así como la transparencia de las disposiciones gubernamentales. En todas estas elecciones queda implícita la manera de quién y cuándo debe asumir los costes. *Adaptado de Cowan, 2016.*
+{{< /imagen-texto >}}
+
+### 4.1. Disposiciones financieras
+
+La EQC *transfiere* el riesgo financiero originado por los riesgos naturales neozelandeses mediante varias disposiciones financieras, entre ellas:
+
+* El Fondo para Desastres Naturales, una reserva de estabilización cuya estructura y estrategia de distribución de activos (reservas de capital del gobierno neozelandés, bonos y renta variable global) se acuerda entre el Consejo de la EQC y el Ministerio de Hacienda. El fondo acumulaba 5.900 millones de NZ$ (≃3.800 millones de euros) al producirse los terremotos de Canterbury y se agotó posteriormente.
+* Un programa de reaseguro. Con poca población concentrada en unos pocos núcleos importantes, el riesgo para la economía neozelandesa que presenta un evento catastrófico importante es significativo. Esta es la razón por la que la EQC se reasegura en el exterior. El reaseguro se renueva anualmente. Las primas se pagan según la frecuencia potencial o la severidad de un evento, más una sobreprima que refleja la incertidumbre. Afortunadamente, la inversión que la EQC realiza en investigación y la buena calidad de los datos sobre los riesgos reducen las suposiciones a la hora de calcular el riesgo, abaratando por lo tanto el precio que, de otro modo, deberíamos pagar. En 2015-16 la EQC siguió negociando una buena cobertura aseguradora sin deterioro en sus términos o condiciones, pese al impacto de la secuencia de terremotos de Canterbury.
+* El respaldo de la garantía del Gobierno en caso de agotamiento de las reservas y de las líneas de reaseguro de la EQC.
+
+### 4.2. Investigación y educación
+
+Las decisiones de gestión de riesgos que adopta la EQC se basan en la investigación y en la educación. El programa de investigación de la EQC, dotado con unos 16 millones de NZ$ (≃10,4 millones de euros) al año, está orientado a aumentar el conocimiento y la capacidad de Nueva Zelanda para vigilar y gestionar esos riesgos de catástrofe.
+
+En las tres décadas previas a los terremotos de Canterbury, la EQC había estado a la vanguardia de la inversión para investigar los riesgos geológicos, incluyendo el riesgo sísmico en Christchurch (Soils & Foundations, 1991; CAENZ, 1997). La aplicación del conocimiento de estos estudios sirvió para que las organizaciones que decidieron invertir en los años anteriores pudieran reducir significativamente los daños en infraestructuras por los terremotos de Canterbury (CAENZ, 1997; Fenwick, T. 2012).
+
+### 4.3. La EQC apoya al sistema nacional de vigilancia de Nueva Zelanda
+
+{{< imagen-texto src="/images/numero-5/ANALISIS_05.jpg" alt="Figura 5" reverse="true" >}}
+La convicción en la importancia de disponer de datos de calidad y de información compartida estuvo detrás de la decisión que tomó la EQC en 2001 para asociarse con el instituto gubernamental de investigación GNS Science y crear el sistema de vigilancia de riesgos geológicos de Nueva Zelanda, GeoNet, en el que la EQC aporta financiación y GNS la dirección técnica. Esta asociación entre instituciones públicas ha rendido muchos más dividendos que los que se esperaban inicialmente. GeoNet dispone de personal cualificado que utiliza una red de instrumentos geofísicos distribuidos por toda Nueva Zelanda y aplicaciones de software para recopilar datos y difundir información sobre terremotos, actividad volcánica, grandes corrimientos de tierras y pequeñas deformaciones del terreno que preceden a los grandes terremotos. Los datos de GeoNet son de uso público, lo que facilita realizar investigaciones de alta calidad y aporta una cobertura y resolución que permite aumentar la confianza y la capacidad de aplicación de la investigación, así como oportunidades para la colaboración investigadora, necesaria para analizar eficazmente una cantidad tan grande de datos. El alto grado de automatización de los sistemas permite emitir alertas rápidamente, casi en tiempo real y, en determinadas circunstancias, avisos, como por peligrosidad de penachos de cenizas volcánicas para la predicción aeronáutica y la probabilidad de tsunamis generados por terremotos bajo el mar.
+
+GeoNet disponía de una extensa red en Canterbury para la vigilancia de los efectos en Christchurch de un terremoto en la gran Falla Alpina. El comienzo de la secuencia de terremotos de Canterbury desencadenó una rápida expansión de la red y el terremoto de febrero de 2011 se ha convertido, así, en uno de los mejor registrados en la historia de la humanidad. El valor de los datos de GeoNet ha sido ampliamente reconocido y ha permitido la toma de decisiones relacionadas con la reconstrucción de edificios, normas de ingeniería, definición de zonas no edificables y de caída de rocas y, también, ha permitido modelar el reaseguro según criterios científicos.
+
+> **Figura 5:** Desde 2001 la EQC ha impulsado enormemente la capacidad de Nueva Zelanda de detectar, analizar y comprender los riesgos geológicos gracias a su inversión en el sistema de vigilancia GeoNet. La política de datos abiertos ha atraído a investigadores de primer nivel y ha permitido establecer asociaciones internacionales para la investigación y la inversión conjunta. La EQC obtiene ventajas operativas directas –para la respuesta a eventos y para la financiación del riesgo- de la mejor información sobre la peligrosidad. Las ventajas para la nación son aún mayores. GeoNet (www.geonet.org.nz) se ha convertido en una marca muy conocida tras la secuencia de terremotos de Canterbury y el conocimiento que se deriva de sus resultados ha proporcionado garantía y apoyo para las actividades de recuperación y reconstrucción. *Fuente: GNS Science.*
+{{< /imagen-texto >}}
+
+### 4.4. Desarrollo de la base de datos geotécnicos de Canterbury
+
+Cuando se produjeron los terremotos de Canterbury, la EQC tuvo que estudiar el comportamiento de los suelos para dirigir la reconstrucción y para encontrar maneras y prácticas innovadoras de reducir el riesgo de licuefacción. Para eso, la EQC y otras muchas instituciones necesitaban datos mucho mejores que los que estaban entonces disponibles. Obtener datos y compartirlos de modo que fueran útiles para otros llegó a ser un factor importante en la recuperación.
+
+Desde septiembre de 2010, tras producirse cada terremoto importante, la EQC adquirió fotografías aéreas y mapas de elevación por LiDAR (*Light Detection and Ranging*), con el fin de guiar las cada vez más frecuentes exploraciones sobre el terreno para detectar movimientos de tierra. A finales de 2011, se observó la necesidad de efectuar sondeos geotécnicos en profundidad para las zonas de mayor vulnerabilidad y, al reconocer la escasez de los recursos geotécnicos, se propuso para comienzos del año siguiente un programa colaborativo de investigación por todo el área, que condujo al desarrollo de la Base de datos geotécnicos de Canterbury, un repositorio con gran cantidad de datos para determinar las propiedades mecánicas de los suelos y establecer su comportamiento frente a sacudidas sísmicas. Esta base, desarrollada para el Gobierno de Nueva Zelanda por la empresa Tonkin + Taylor, ha supuesto una plataforma para que los profesionales en geotecnia guarden, compartan y evalúen rápidamente ficheros de datos de investigaciones geotécnicas durante la reconstrucción (pozos, ensayos de penetración con cono, piezómetros y vigilancia del subsuelo, así como otros datos de interés). En la actualidad, contiene más de 45.000 registros o el equivalente a información por valor de unos 100 millones de NZ$ (≃65 millones de euros). Los datos se han reutilizado, de media, unas 30 veces. El Ministerio de Economía, Innovación y Empleo (MBIE, por sus siglas en inglés) ha asumido la administración de la base de datos [^2] conjuntamente con la EQC. Se han eliminado las limitaciones geográficas de los datos, de modo que cualquier persona en Nueva Zelanda tenga acceso y pueda utilizarlos.
+
+Cuando haya suficientes datos, este recurso nacional permitirá una comprensión mucho mejor de las condiciones subterráneas, permitiendo que los proyectos de construcción tengan una información mucho mejor del comportamiento probable del suelo en caso de terremoto. Las edificaciones pueden tener un diseño más económico si éste se adapta a las condiciones del terreno. La base de datos apoya la filosofía gubernamental de maximizar su uso: subirlos una vez y descargarlos muchas veces. Esta base de datos tan valiosa está llamando la atención internacional y está cambiando el modo de trabajar de los consultores geotécnicos en Nueva Zelanda, ya que son capaces de centrarse en prestar el servicio e interpretar los datos, utilizando una base mucho más extensa, que no habría sido posible obtener de otra manera.
+
+### 4.5. Investigación mejorada del terreno
+
+{{< imagen-texto src="/images/numero-5/ANALISIS_06.jpg" alt="Figura 6" reverse="true" >}}
+En 2013, la EQC se embarcó en un programa de investigación mejorada del terreno (GIP, por sus siglas en inglés), con el fin de disponer de información adecuada para abordar soluciones integradas para construir casas en terrenos vulnerables a la licuefacción. La coordinación ha estado a cargo de Tonkin + Taylor, con la ayuda de expertos de primer nivel de Nueva Zelanda y del resto del mundo, que han formado uno de los mayores equipos de ingenieros geotécnicos y científicos que nunca hayan trabajado en un mismo proyecto en Nueva Zelanda. El trabajo ha permitido avances sustanciales en el conocimiento global de la licuefacción y en su evaluación y mitigación (Van Ballegooy et al., 2014; EQC et al., 2015).
+
+El GIP ha identificado, desarrollado y probado métodos prácticos y asequibles para la mejora de terrenos poco profundos que podrían mitigar el potencial de licuefacción y los daños asociados a las edificaciones construidas en terrenos vulnerables a la licuefacción. El GIP y los subsiguientes cambios en la normativa de edificación han aportado nuevas opciones asequibles para mejorar el terreno y construir o reconstruir viviendas en zonas de uso residencial. (EQC et al., 2015)
+
+> **Figura 6:** En 2013 se llevó a cabo un ambicioso programa de ensayos científicos para evaluar las maneras de mejorar el comportamiento de suelos y cimientos en localizaciones propensas a la licuefacción. El trabajo incorporó a investigadores en ingeniería de todo el mundo y proporcionó nuevas perspectivas para la evaluación y mitigación del riesgo de licuefacción. *Fuente: EQC.*
+{{< /imagen-texto >}}
+
+## 5. La mayor prueba
+
+En el momento de producirse la secuencia de terremotos de Canterbury, la EQC tenía una plantilla permanente de 22 personas, una oficina en Wellington, el servicio de gestión de expedientes subcontratado en Brisbane (Australia) y un sistema de respaldo para los datos en Auckland.
+
+Como “empresa virtual”, la EQC tenía subcontratadas todas sus funciones salvo la de gestión del riesgo, con una plantilla que se consideraba adecuada para supervisar los pocos miles de expedientes que se tramitaban cada año y, a su vez, mantener la capacidad eventualmente necesaria para gestionar grandes eventos.
+
+El plan de respuesta operativa de la EQC frente a un evento importante (Programa de Respuesta a las Catástrofes) había sido sometido a revisión externa en 2009. Se hicieron algunas mejoras operativas y se aprobó el modelo general. En el caso de un evento importante, el plan tenía prevista la puesta en marcha de una serie de acciones que permitieran la rápida expansión de la EQC, entre ellas:
+
+* utilizar la bolsa de personal con experiencia adquirida en eventos anteriores;
+* activar una serie de subcontratas en Nueva Zelanda y Australia;
+* aprovechar la capacidad sobrante del mercado, que la EQC había ampliado mediante actividades de divulgación en el sector asegurador, y una iniciativa de evaluación de capacidad que comenzó en 2009; e
+* introducir programas formativos para hacer crecer el número total disponible de personal formado.
+
+La modelización inicial posterior al terremoto del 4 de septiembre de 2010 indicó que la EQC podría recibir bastante más de 100.000 solicitudes de indemnización, por lo que sería necesario activar todas estas medidas. Además, la EQC creó un equipo propio de gestión de reclamaciones para suplementar los servicios subcontratados. Estos planes permitieron a la EQC poner “los pies sobre el terreno”, desplazando equipos de peritos de todo el país y subcontratando a especialistas en peritación de Australia (aunque separados de los peritos, que necesitan tener conocimiento de las características constructivas locales y que se buscaron en el mercado nacional). Se contrataron a los especialistas australianos por su independencia con respecto a las catástrofes neozelandesas y porque no estaban ocupados con las estaciones cíclicas de inundaciones e incendios forestales de su país. En total, la formación y la subcontratación permitieron que, a primeros de octubre, el número de expertos sobre el terreno (sobre todo equipos de peritos) alcanzase rápidamente las 400 personas.
+
+A finales de 2010 el total de personal superó las 1.000 personas y el plan de respuesta demostró su eficacia con el despliegue de recursos sobre el terreno, aumentándolos en un plazo temporal relativamente corto. Sin embargo, el plan no fue capaz de asegurar la continuidad de todas las funciones corporativas debido a la escala de la situación, que iba siendo cada vez más larga y compleja conforme se iban desarrollando los múltiples acontecimientos. Con un número mucho mayor de asegurados damnificados y durante más tiempo, no era posible prestar la atención personalizada al cliente que se prestaba en los sucesos anteriores de pequeña y mediana escala.
+
+### 5.1. Desde el seguro a la reconstrucción
+
+{{< imagen-texto src="/images/numero-5/ANALISIS_07.png" alt="Figura 7" reverse="true" >}}
+Contemplando el impacto del terremoto del 4 de septiembre de 2010, el Gobierno encomendó a la EQC que se implicase más en las actividades de reconstrucción. En vez de indemnizar los siniestros con efectivo, como había sido la política de la EQC, se tomó la decisión de adjudicar a la compañía constructura Fletcher Construction la tarea de reparar unas 50.000 viviendas. Después del terremoto de febrero de 2011, que se produjo directamente debajo de Christchurch, esta cifra creció hasta las 70.000 (EQC, 2012).
+
+En septiembre de 2010, después del primer terremoto, quedó claro que, en algunos casos, las compensaciones por el terreno de la EQC iban a ser insuficientes para cubrir las mejoras necesarias que permitieran continuar con el uso residencial del suelo, particularmente cerca de los cursos de agua donde se produjo la expansión lateral del terreno. El Gobierno decidió financiar estas mejoras para ayudar a mantener la confianza en el mercado inmobiliario y, a su vez, dar confianza para la reconstrucción a las comunidades afectadas, gobierno local, bancos y aseguradoras.
+
+El número de solicitudes de compensación por la secuencia de terremotos de Canterbury fue más de cinco veces superior al “evento de gran escala” que la auditoría externa de 2009 había recomendado planificar a la EQC, que consideraba un evento de unos 80.000 expedientes, contando con que un gran terremoto en Wellington produciría unos 150.000 expedientes. Según la experiencia mundial, la auditoría había supuesto que la EQC solo debería dar respuesta a un evento aislado. Al final, en Canterbury se produjeron 14 eventos con daños y miles de réplicas de menor entidad.
+
+> **Figura 7:** Antes de 2010, el mayor número de expedientes tramitado por la EQC fue de poco más de 10.000, como consecuencia de un terremoto en una región relativamente remota de la Isla Sur en 1968. Una auditoría externa de la planificación de la respuesta a los desastres de la EQC estimó que el peor escenario posible sería de unos 150.000 expedientes como consecuencia de un terremoto en Wellington y recomendó que la planificación considerase un evento de “gran escala” de unos 80.000 expedientes. La secuencia de terremotos de Canterbury generó en 16 meses un número de expedientes equivalente al triple del peor escenario posible. *Fuente: EQC.*
+{{< /imagen-texto >}}
+
+## 6. Problemas imprevistos
+
+### 6.1. Dificultades como consecuencia de la multiplicidad de eventos
+
+Los terremotos de Canterbury crearon problemas operativos sin precedentes en otros grandes eventos para el seguro. Además del trabajo adicional que supuso (y en algunos casos, el trabajo previo que no se había hecho), la ocurrencia de eventos múltiples planteó retos operativos a lo largo de toda la cadena de tramitación de los expedientes, entre ellos:
+
+* expedientes múltiples procedentes de una sola propiedad que debían asociarse y validarse a mano. Tarea que resultó mucho más difícil debido a la falta de una base de datos de direcciones única y autorizada a la que acceder;
+* una gran proporción de expedientes duplicados o inválidos;
+* un nuevo proceso de prorrateo para atribuir los daños a eventos consecutivos, de modo que se pudieran asignar a cada evento los sobrantes y las compensaciones del seguro (del mismo modo que los contratos de reaseguro cubren eventos diferentes de modo diferente);
+* no resultó evidente determinar qué reparaciones deberían correr por cuenta de las aseguradoras privadas, particularmente después de un dictamen del Tribunal Supremo sobre el restablecimiento de las provisiones de la cobertura de la EQC;
+* unos criterios más estrictos para la auditoría y la supervisión; y
+* una interacción con los clientes más compleja, a la larga dilatada y frustrante.
+
+### 6.2. Coordinación
+
+Siempre es polémico decidir si simplemente es mejor realizar un pago en efectivo y asumir los potenciales efectos negativos en la inflación de los precios o la calidad de las reparaciones. Durante los pasados seis años se ha estudiado en detalle el equilibrio entre conservar la flexibilidad y mantener en vigor planes detallados, la coordinación entre agencias y las contraprestaciones entre celeridad, relación calidad-precio y satisfacción del cliente (Deloitte, 2015: OAG, 2012). Aunque cada referencia, sin duda, cumple con el requerimiento público de transparencia, todas han padecido de una falta de elementos de comparación entre países que, de otro modo, podrían proporcionar puntos de referencia internacionales con los que contrastar las expectativas. Una de las lagunas detectadas en la planificación de la respuesta a las emergencias fue la necesidad de protocolos de cooperación para todo el sector asegurador. Entre esos protocolos se incluían los relativos a compartir información y costes, que hubo que crear después de los terremotos, en un momento en que se cernía sobre el mercado asegurador una gran presión e incertidumbre.
+
+Queda como reto para los futuros líderes de la comunidad y de los sectores comerciales definir a qué escala de impacto conviene dejar de lado los procedimientos normativos habituales y aplicar disposiciones únicas extraordinarias para establecer prioridades, compartir información, tomar decisiones y distribuir costes.
+
+El papel de la EQC solo ha sido una pieza del reto al que se enfrentan el Gobierno y las comunidades afectadas para prepararse y dar respuesta a una catástrofe natural. Los terremotos han sacado a la luz temas pendientes sobre las demandas de los municipios y los proveedores de servicios públicos frente a un desastre importante y responsabilidades sin resolver en temas como las viviendas temporales (Middleton, 2007).
+
+### 6.3. Reparaciones de emergencia
+
+Tras el terremoto de febrero de 2011, la EQC encomendó a Fletcher Construction que centrase el trabajo de sus contratistas en reparaciones de emergencia y en sustituir las chimeneas rotas por aparatos de calefacción limpios, lo que evitó tener que realizar evacuaciones en masa en muchos suburbios con un trabajo hecho por cuenta del seguro y el reaseguro y que, a la vez, apuntaba a mejoras futuras en la salud y el medio ambiente, al eliminar hogueras en una ciudad con problemas históricos de mala calidad del aire en invierno. Las reparaciones de emergencia se hicieron a cuenta del derecho de compensación a los clientes por los daños en sus viviendas y se usó para que los residentes pudieran permanecer en sus casas. Como tales, su fin era limitarse al trabajo mínimo necesario para proporcionar hogares seguros y saludables.
+
+A petición del Gobierno, la EQC prestó también reparaciones de emergencia a personas sin seguro entre el 22 de febrero y el 30 de abril de 2011. El coste de estos arreglos fue recobrado por el Gobierno. Después, ya no hubo más extensiones de la cobertura a aquellas personas que habían decidido no asegurar sus viviendas.
+
+### 6.4. Retos administrativos
+
+Cuando una aseguradora privada paga las reparaciones, en vez de abonar una reclamación en efectivo, lo usual es que ésta tenga previamente a su disposición una serie de contratistas cualificados para efectuar los trabajos, lo que asegura la calidad y la eficiencia.
+
+El hecho de tener que aceptar facturas por reparaciones de emergencia directamente de los contratistas generó una cantidad significativa de trabajo nuevo para la EQC. A finales de 2011, se habían recibido más de 60.000 facturas que debían procesarse en un sistema diseñado para pagar siniestros, no para pagar facturas. En determinados casos, el rápido crecimiento de las empresas para dar respuesta a la creciente demanda provocó que los contratistas tampoco tuvieran suficientes medios propios para cumplir los requisitos (como datos fiscales válidos o una descripción pormenorizada y completa de las tareas efectuadas) para que la EQC pudiera realizar los pagos.
+
+La EQC identificó también casos de costes exagerados, trabajos de mala calidad, labores no cubiertas por su Estatuto, e incluso trabajos no realizados por los que la EQC había compensado al propietario que no transfirió el pago al contratista. Todos estos factores contribuyeron a que hubiera críticas sobre la lentitud de los pagos, que tuvieron mucha difusión.
+
+Aunque el impacto inmediato recayó en la EQC, el problema tuvo aún más importancia para el Gobierno, con una transmisión potencial de los efectos a otras agencias (p. ej. impuestos), puesto que varias empresas habían realizado una gran cantidad de trabajos sin disponer necesariamente de un sistema administrativo sólido. En futuras ocasiones, las asesorías empresariales o las cámaras de comercio pueden jugar un papel para ayudar a las empresas a aumentar su escala inmediatamente después de un desastre. Las organizaciones profesionales tuvieron, y seguirán teniendo, un papel importante que jugar en el establecimiento de estándares de precio y calidad para las reparaciones.
+
+### 6.5. Distribución de las reclamaciones
+
+Las múltiples reclamaciones provenientes de casi todos los propietarios crearon problemas para distribuir las pérdidas, e incluso para estimar las responsabilidades del seguro. Los modelos de daños no estaban calibrados para esta eventualidad e hizo falta bastante trabajo manual, incumpliendo con mucho las expectativas de puntualidad de las partes afectadas: propietarios, aseguradoras y reaseguradoras.
+
+La EQC y las aseguradoras privadas se implicaron en todas las reclamaciones procedentes de viviendas, puesto que las aseguradoras privadas cubren los efectos personales y algunos elementos de la propiedad residencial. Aunque todas las partes deseaban una respuesta coordinada del sector asegurador, nunca se había considerado en la normativa de la EQC la sucesión de eventos múltiples dentro y entre “años de la póliza de seguros” consecutivos, lo que generó dudas a la hora de interpretar el restablecimiento de las suposiciones de la cobertura de la EQC, que se resolvieron con una actitud colaborativa hacia los tribunales neozelandeses y con un dictamen judicial que dictaminó que la cobertura de la EQC debería restablecerse después de cada hecho habilitante, no de manera anual.
+
+### 6.6. Aumento de la vulnerabilidad a la licuefacción y a la inundación
+
+Nueva Zelanda es el único país en el que, por medio del sistema de la EQC, el seguro del terreno tiene una penetración importante. Esta cobertura se desarrolló para los corrimientos de tierra donde, en general, están claras la naturaleza y la extensión de los daños. Una característica particular de los terremotos de Canterbury fueron los grandes daños en el terreno. Hubo grandes daños a edificaciones y servicios sobre los suelos sueltos saturados, arenosos o limosos, de las llanuras de Canterbury como consecuencia de la licuefacción y la expansión lateral (Leeves, 2012). También se produjeron daños debidos a la inestabilidad de las laderas, al desprendimiento de rocas y al derrumbe de acantilados en muchas otras propiedades de Port Hills. La amplia, y localmente catastrófica, licuefacción y debilitamiento de los horizontes del suelo que proporcionan capacidad de soporte a las edificaciones, se agravó en algunas áreas por la subsidencia que aumenta localmente el riesgo de inundación. Para determinar la responsabilidad de la EQC en la restauración del terreno a su estado previo hizo falta realizar complejos estudios de ingeniería sobre las características singulares de los daños, así como ensayos de soluciones prácticas para la reparación, además de consideraciones legales y políticas en las que no se había pensado antes de diseñar la cobertura.
+
+Partiendo de la base de largas relaciones, que se fueron reforzando a partir de la respuesta inicial al terremoto de septiembre de 2010 y con el fin de asistir en las tareas de recuperación, la EQC formó un pequeño equipo de ingenieros geotécnicos y de estructuras y especialistas en rehabilitación. Todos juntos formaron el Grupo Consultor de Ingeniería (EAG, por sus siglas en inglés) para asesorar sobre las estrategias de reparación y reconstrucción. Se puso de manifiesto que la regulación neozelandesa sobre edificaciones no contemplaba adecuadamente los trabajos de reparación de edificios en áreas propensas a la licuefacción del terreno y se transfirió la supervisión del EAG al ministerio competente, el de Economía, Innovación y Empleo (MBIE), con el fin de pilotar la generación de una guía de buenas prácticas sobre la evaluación, reparación y reconstrucción de viviendas afectadas por terremotos (MBIE, 2012). La guía se ha ido actualizando progresivamente conforme iban surgiendo nuevas necesidades de asesoría durante la reconstrucción. Las actualizaciones han incluido cuestiones sobre edificaciones en áreas de movimientos del terreno, reparación de bloques con múltiples viviendas y diseño sísmico de muros de contención, incorporando ensayos para la mejora de la resistencia del terreno, los nuevos desarrollos del mercado o aclaraciones generales. El principio básico consistió en centrar los pocos recursos de ingeniería en las áreas en las que más se necesitaban, las de mayor riesgo.
+
+### 6.7. Frecuente cambio de prioridades
+
+La EQC juega un papel secundario en la toma de decisiones sobre los usos futuros del terreno, puesto que hay más temas a tener en cuenta: los daños a las infraestructuras, el grado de trastornos sociales asociados a las distintas estrategias de reparación y los costes y beneficios generales de la restauración o de la prohibición de uso de los terrenos afectados por licuefacción, expansión lateral o inestabilidad de laderas. No obstante, en 2010 se encargó a la EQC proyectar un programa sobre trabajos adicionales de recuperación del terreno en cooperación con varios municipios del área de Canterbury. Al producirse más daños de importancia en muchas partes de Christchurch como consecuencia del terremoto del 22 de febrero de 2011, el programa quedó suspendido y se canceló posteriormente. Sin embargo, en ese tiempo pudo realizarse un trabajo importante que se aplicaría en la reconstrucción posterior. El Gobierno delimitó una serie de áreas: en unas, las más afectadas, el objetivo era demoler todas las viviendas (Zona Residencial Roja) y en las otras era la optimización de los criterios de reconstrucción de las viviendas (Zonas de Categoría Técnica 1, 2 y 3).
+
+Las categorías técnicas del terreno se basaban sobre todo en los daños observados en el mismo. La diferencia entre unas zonas y otras era la necesidad de realizar rigurosos exámenes geotécnicos previos a la reconstrucción, o bien que pudieran utilizarse sistemas de cimentación estándar. Dada la naturaleza recurrente de la secuencia de terremotos y el nerviosismo de los asegurados al ver ralentizados los trabajos de reparación, esta guía y las categorías técnicas que facilitó fueron la solución necesaria para permitir que aproximadamente el 80% de las reparaciones de las áreas menos vulnerables avanzasen sin tener que esperar a evaluaciones geotécnicas, investigación detallada y diseños específicos de ingeniería (Leeves, 2012).
+
+Estas decisiones, tomadas en 2011, permitieron que la EQC estableciera nuevas prioridades para su labor. Se ordenó que más de la mitad de los equipos de peritos se centrasen en evaluaciones completas de los daños de todas las propiedades cualificadas para que el Gobierno y los residentes pudieran tomar decisiones. En las áreas en las que el Gobierno decidió comprar las viviendas a los propietarios particulares se establecieron nuevas prioridades para los peritos, de modo que las ofertas de compra del Gobierno tuviesen en cuenta los pagos de la EQC realizados hasta la fecha y la estimación de los pendientes.
+
+{{< figura src="/images/numero-5/ANALISIS_08.jpg" caption="Figura 8: Las áreas más afectadas por la licuefacción han recibido la calificación de “zonas rojas” y se han demolido todas las viviendas." source="Tonkin + Taylor." >}}
+
+## 7. ¿Qué lecciones hemos aprendido?
+
+### 7.1. La importancia de la memoria
+
+Se pueden sacar muchas conclusiones de los terremotos de Canterbury de cara a responder de forma adaptativa al riesgo de desastres naturales. Los daños y la pérdida de vidas en Christchurch afectaron a una comunidad con poca experiencia previa en una tragedia de este tipo. Ahora, estos eventos han quedado grabados en la memoria colectiva de esta generación. Seis años de trastorno y recuperación de viviendas, carreteras, conducciones subterráneas, centros educativos, iglesias, zonas de ocio y áreas centrales de la ciudad han dejado huella. Tanto las realidades sociales como los llamados datos “duros” que emanan de estos eventos han dado una nueva forma a las percepciones sobre peligrosidad y vulnerabilidad en todos los municipios de Nueva Zelanda. El reto ahora es trasladarlos a valores prácticos y duraderos (Cooper, M., Carter, R. & Fenwick, R., 2012; Stobo, C. 2013).
+
+### 7.2. Hace falta comprender mejor las contrapartidas inherentes a la gestión de riesgos
+
+Hay que tomar la decisión de si la mitigación de los desastres futuros debe implicar a los municipios o si debe limitarse a los particulares. La pérdida de un hogar es un desastre para la familia afectada, pero no es un desastre comunitario. La pérdida de varios miles de viviendas y el desplazamiento de barrios enteros, como se experimentó en Christchurch, afecta a toda una comunidad.
+
+En Christchurch pudo conseguirse transferir el riesgo, pero la enorme escala de los daños a la propiedad residencial demuestra que basarse solo en la transferencia del riesgo, sin acciones de mitigación comparables (como la prohibición de edificar en determinadas zonas o el control de la edificación), supone un riesgo significativo para las expectativas de resiliencia de la comunidad y, además, amenaza la estabilidad a largo plazo del mercado asegurador.
+
+Todas las comunidades deben comprender de un modo más explícito cuáles son las contrapartidas de cada modalidad de tratamiento del riesgo. En Nueva Zelanda, esto se traduce en un imperativo mucho más riguroso que el de los años anteriores y que implica al Tesoro, la EQC, la Asociación de Entidades Locales de Nueva Zelanda, la patronal del seguro neozelandés, el sector bancario y otros. Para poder efectuar avances tangibles es imprescindible crear asociaciones, lo que exige confianza y una definición más explícita de las responsabilidades de cada socio.
+
+### 7.3. Nuestro sistema de aseguramiento dual debe ser más eficiente
+
+Las consultas realizadas a aseguradores, reaseguradores, bancos, mediadores y agencias gubernamentales locales y nacionales han dado muestras de un amplio apoyo en favor de mantener el sistema de la EQC para dar apoyo a las altas tasas de penetración del seguro de desastres naturales en Nueva Zelanda y para facilitar una mejor comprensión de la peligrosidad y del riesgo mediante la investigación y la educación. Muchos perciben que la EQC ha jugado también un papel fundamental para generar un mayor conocimiento del riesgo de desastres naturales en Nueva Zelanda y que ha utilizado este conocimiento de manera eficaz para comunicar y crear relaciones con los mercados mundiales del reaseguro.
+
+Se han identificado áreas para la mejora, que es probable que se traten en una modificación legislativa. Entre ellas, la sostenibilidad de la tarifa para la cobertura de la EQC y la claridad de sus supuestos, así como los modos en los que la EQC y los aseguradores privados podrían ser más eficientes compartiendo sus obligaciones aseguradoras de las propiedades individuales. Muchas partes interesadas creen que el modo de funcionar del modelo dual de seguro en Canterbury generó costes, confusión y complejidad innecesarios.
+
+### 7.4. Las altas tasas de penetración protegieron a Nueva Zelanda
+
+El impacto fiscal en el país se amortiguó gracias a las altas tasas de penetración del seguro de vivienda en Nueva Zelanda, al igual que las contrapartidas que, de otro modo, habría habido que hacer en los gastos y actividades de otras áreas del Gobierno, en particular al producirse los daños justo después de la crisis financiera mundial. Gracias al sistema de la EQC y al mercado global del seguro, Nueva Zelanda pudo cubrir alrededor del 80% de los costes a través de los pagos del seguro.
+
+En otros países, los costes tras una catástrofe suelen financiarse mediante distintas medidas como uso de reservas, subida de impuestos, recortes de gastos en otros capítulos, gravámenes especiales o préstamos. Cuando se produce un desastre, los afectados se enfrentan a enormes pérdidas, a menudo personalmente, dependiendo de sus recursos y ahorros personales y se enfrentan a las incertidumbres asociadas con los paquetes de ayuda gubernamentales ad hoc, que pueden verse afectados por las condiciones económicas dominantes a nivel nacional e internacional.
+
+Por el contrario, el seguro proporciona acceso a fondos para la recuperación y, además, contribuye a otras actividades que ayudan a promover la identificación y la evaluación de los riesgos, así como las acciones para disminuir el riesgo o mitigar los impactos antes de un evento.
+
+En Nueva Zelanda, la capacidad financiera del sector asegurador fue la adecuada, con pocos fallos y una necesidad limitada de intervención gubernamental pese a las responsabilidades “sin límite” o de “valor íntegro” que, entonces, eran una característica del seguro de vivienda. A la vez, la alta penetración del seguro en Nueva Zelanda, combinada con los múltiples terremotos, generó altos volúmenes de reclamaciones al seguro que tuvieron un impacto en la disponibilidad del personal del sector, como peritos y tramitadores.
+
+La importancia de mantener un seguro asequible y disponible para todo el mundo, reduciendo el riesgo, ha sido argumentada por la aseguradora londinense Lloyd’s, que señala que por cada punto porcentual de penetración del seguro hay una reducción del 22% en aportes de los contribuyentes en ayudas post-desastre. Los países con buena penetración del seguro pueden, por tanto, gastar menos en emergencias o decidir centrar su gasto en actividades que acelerarán o fomentarán la recuperación a largo plazo más que a proporcionar asistencia financiera inmediata.
+
+### 7.5. Es más fácil pagar las compensaciones en efectivo, pero no siempre es lo mejor
+
+El modo en el que los aseguradores deciden compensar por su responsabilidad puede tener un impacto directo sobre la recuperación, tanto en términos del entorno construido como de los efectos psico-sociales. En general, los aseguradores pueden cumplir su obligación mediante pagos, restitución o reubicación. Aunque la EQC está diseñada para efectuar pagos en efectivo, tener a miles de propietarios en Canterbury, cada uno con un cheque de la EQC intentando encontrar a un constructor hubiera generado inflación en el coste de las reparaciones y una calidad variable de las mismas. La búsqueda de contratistas para llevar a cabo las reparaciones y hacer el seguimiento de esas tareas habría sido una carga intolerable para muchos de los angustiados residentes de Canterbury.
+
+También hay otras ventajas directas del programa de reparaciones gestionado por la EQC. Se ha contenido la inflación de los costes que, a menudo, se produce después de grandes sucesos y que aumenta el importe de las compensaciones. Además, al asegurarse de la correcta reparación de la vivienda, la EQC contribuye a aumentar la resiliencia del expuesto y a bajar los costes de futuras reclamaciones.
+
+### 7.6. La gestión de una crisis requiere aprendizaje y liderazgo
+
+Para sostener una gestión de riesgos de este tipo hace falta conocimiento y una cultura adaptativa. Sin datos de calidad y sin una comprensión sólida de la exposición y del riesgo, las decisiones serán, como mínimo, caóticas. Sin las capacidades de aprendizaje adaptativo y de liderazgo no se podrán prestar bien los servicios. Es fácil dejar que sean otros quienes se encarguen de afrontar esos retos, ignorando la realidad de una crisis en la que hace falta unificar liderazgos y saltarse los roles habituales y legales de los “tiempos de paz”. El reto, tanto para los directivos del sector privado como para los del público, es asegurarse de que las disposiciones comerciales y legales, respectivamente, no ralenticen el liderazgo adaptativo y el comportamiento necesario de cada organización para dar una respuesta eficaz en tiempos de crisis.
+
+{{< figura src="/images/numero-5/ANALISIS_09.jpg" caption="Figura 9: Daños en el distrito comercial del centro de Christchurch como consecuencia del terremoto del 22 de febrero de 2011." source="EQC." >}}
+
+---
+
+> ### Conclusión
+>
+> Si tuviéramos que sacar una conclusión general sobre nuestra experiencia con la catástrofe de Canterbury, sería recordarnos a nosotros mismos que el seguro es una forma contingente de protección que simplemente transfiere el riesgo de una parte a otra, previo pago de un precio. Ese precio es mayor conforme aumenta el riesgo o no es asumible porque el riesgo no puede evaluarse con confianza. El seguro no es un sustituto de la gestión del riesgo, ni reduce el riesgo. El seguro normalmente devuelve lo que se tenía, pero no necesariamente lo que se puede desear (en este momento).
+>
+> Hay oportunidades para alcanzar un mayor nivel de compromiso dentro de nuestras comunidades y para una colaboración más consistente entre las organizaciones del sector privado y del sector público, además de la sociedad civil, para mejorar la gestión del riesgo.
+>
+> La historia de Nueva Zelanda sugiere que es probable que las lecciones aprendidas de los terremotos de Canterbury aporten un conocimiento científico más consistente a las políticas públicas, la revisión de las normas de planificación y los códigos de edificación, una evaluación del riesgo de las empresas para las infraestructuras públicas más transparente, mejoras a los cometidos de la EQC y, quizás, más parámetros para asegurar que Nueva Zelanda mantenga un mercado asegurador viable y eficiente. Por último, facilitar poco a poco el avance y asegurar que no haya retrocesos depende del liderazgo y del modo de gobernar las instituciones.
+>
+> Por citar una fuente de inspiración latinoamericana: “no es tarde, el bien como venga”. Es decir, nunca es tarde, si la dicha es buena.
+
+---
+
+## Sobre los autores
+
+**Dr. Hugh Cowan**
+
+Hugh Cowan es Director General de Reaseguro, Investigación y Formación y miembro del comité ejecutivo de la Comisión de Terremotos de Nueva Zelanda (EQC). Anteriormente, Hugh dirigió el desarrollo del sistema de vigilancia de riesgos geológicos de Nueva Zelanda, “GeoNet” en el instituto de investigación público GNS Science (1999-2005). Antes aún, trabajó como consultor técnico en América y Escandinavia, contribuyendo a la cooperación internacional para el desarrollo y a proyectos de infraestructura.
+
+Hugh es miembro de la Sociedad Neozelandesa para la Ingeniería de Terremotos y pertenece al Instituto de Directores de Nueva Zelanda.
+
+**Bryan Dunne**
+
+Bryan Dunne es Director General de Estrategia y Transformación y miembro del comité ejecutivo de la Comisión de Terremotos de Nueva Zelanda (EQC). Antes de trabajar en la EQC, Bryan fue consejero del Viceprimer Ministro y Ministro de Economía de Nueva Zelanda. Trabajó como analista principal en el Tesoro de Nueva Zelanda, incluyendo un periodo destacado desde el Tesoro en KPMG Nueva Zelanda.
+
+En 2012, Bryan obtuvo una beca del Centro de Desarrollo del Liderazgo para estudiar en la Wharton School de la Universidad de Pensilvania y en la London School of Economics.
+
+**Anna Griffiths**
+
+Anna Griffiths es consejera responsable de la comunicación dentro del equipo de Reaseguro, Investigación y Formación en la Comisión de Terremotos de Nueva Zelanda (EQC). La experiencia de Anna abarca los sectores público, privado y sin ánimo de lucro. Una parte significativa de su experiencia ha tenido que ver con el sector financiero, con un interés particular en el conocimiento financiero y el cambio de conducta, incluyendo la dirección de comunicaciones de marketing en el reconocido sitio web Sorted ([sorted.org.nz](http://sorted.org.nz)).
+
+---
+
+> **Agradecimientos**
+>
+> Damos las gracias a Priscilla Cheung, Stephanie Hamilton y Joanna Martin por su valiosa ayuda para la preparación de figuras y referencias y a Ben Naylor por su informe sobre la respuesta de la EQC durante el año 2011, del que procede bastante de nuestro análisis. Mucha gente ha compartido las experiencias descritas y ha contribuido a que tengamos un mejor conocimiento de la situación. Cualquier error u omisión se debe exclusivamente a nuestra responsabilidad y las opiniones expresadas en este artículo no son necesariamente las de la Comisión de Terremotos o el Gobierno de Nueva Zelanda.
+
+---
+
+## Referencias
+
+* CAENZ (New Zealand Centre for Advanced Engineering). 1997. *Risks and Realities – A multi-disciplinary approach to the vulnerability of lifelines to natural hazards*. Report of the Christchurch Engineering Lifelines Group. University of Canterbury, Christchurch, New Zealand. ISBN: 0-908993-12-9.
+* CAENZ (New Zealand Centre for Advanced Engineering). 2004. *Planning for Natural Hazard Risk in the Built Environment*, University of Canterbury, Christchurch, New Zealand. 52 pp.
+* Cooper, M., Carter, R. y Fenwick, R., 2012. *Canterbury Earthquakes Royal Commission Final Report. Wellington.*
+* Cowan, H., 2016. *Panel Discussion: Redesigning earthquake risk modelling approaches and techniques*, CAT Risk Management and Modelling Australasia Conference, Sydney, Australia.
+* Cowan, H. y Simpson, I., 2011. *Planning for Disasters and Responding to Unforeseen Complexity: The First Large Test for the New Zealand Earthquake Commission*, Aon Benfield Conference, Australia.
+* Cowan, H., Middleton, D. y Hooper, R., 2009. *Connections between Research and Resilience: The Role of EQC from Community Resilience: Research, Planning and Civil Defence Emergency Management*, Vol. 22, p21, TEPHRA, Ministry of Civil Defence and Emergency Management, Wellington, New Zealand.
+* Cowan, H., Middleton, D. y Hooper, R., 2008. From Science to Practice: *A New Zealand Case Study of Improving Natural Hazard Resilience*. 14th World Conference on Earthquake Engineering, Beijing 2008.
+* Deloitte Access Economics, 2015. *Four Years On: Insurance and the Canterbury Earthquakes – Vero Insurance.*
+* EQC, 2012. *Annual Report 2011-2012*, Wellington, New Zealand.
+* EQC y Tonkin + Taylor. 2015. *Residential Ground Improvement: Findings from Trials to Manage Liquefaction Vulnerability*, Wellington, New Zealand.
+* Fenwick, T. 2012. *The Value of Lifeline Seismic Risk Mitigation in Christchurch*, Earthquake Commission. Wellington, New Zealand.
+* *Insurance Council of New Zealand* (ICNZ), 2014. *Protecting New Zealand from Natural Hazards*, Wellington, New Zealand.
+* Lee, B.Y. 2010. *Working Together, Building Capacity – A Case Study of Civil Defence Emergency Management in New Zealand*. Journal of Disaster Research, vol 5 (5), pp 565-576.
+* Leeves, J., Sinclair, T., Stannard, M., Bunsdon, D., Traylen, N., Beattie, G., 2012. *Building in resilience for remediated residential housing*, 15th World Conference on Earthquake Engineering, Lisbon.
+* Lloyds, 2012; *Lloyd’s Global Underinsurance Report*, compiled by the Centre for Economics and Business Research Ltd.
+* Middleton D. 2007. *A Roof Over Their Heads: The Challenges of Accommodation Following Disasters*, 2007 Emergency Management Conference.
+* Ministry of Business Innovation & Employment (MBIE), 2012. *Rebuilding and Repairing Houses Affected by the Canterbury Earthquakes*, Wellington, New Zealand.
+* Munich Re, 2011. *Topics Geo: Natural catastrophes 2010 – Analyses, Assessments, Positions*, Munich.
+* Office of the Auditor-General, 2012. *Roles, Responsibilities, and Funding of Public Entities After the Canterbury Earthquakes*, Wellington, New Zealand.
+* Park, R. y Paulay, T. 1975. *Reinforced Concrete Structures*, John Wiley and Sons, New York, USA.
+* Scott, G. 1996. *Government Reforms in New Zealand*, International Monetary Fund, Washington, USA.
+* Skinner, R.I., Robinson, W.H. y McVerry, G.H. 1993. *An Introduction to Seismic Isolation*, John Wiley & Sons, Chichester, UK.
+* Soils & Foundations. 1991. *Christchurch Seismic Loss Study*, Christchurch, New Zealand.
+* Stannard, M., 2016. *Current Direction for Improving Structural Engineering and Resiliency in New Zealand*, 16th U.S.-Japan-New Zealand Workshop on the Improvement of Structural Engineering and Resiliency, Nara, Japan.
+* Stobo, C. 2013. *New Zealand Local Government Insurance Market Review*, Local Government New Zealand, Wellington, New Zealand.
+* SSC (State Services Commission), 1998. *New Zealand’s State Sector Reform: A Decade of Change*, Wellington, New Zealand.
+* Van Ballegooy, S., Lacrosse, V., Malan, P., Jacka, M.E., Cubrinovski, M., Bray, J.D., EERI, M., O’Rourke, T.D., EERI, M, Crawford, S.A., y Cowan, H. 2014. *Assessment of Liquefaction-Induced Land Damage for Residential Christchurch*, Earthquake Spectra, February 2014, Vol. 30, No. 1, pp. 31-55.
+
+---
+
+[^1]: La contribución de la EQC en investigación y educación (entre otros de sus roles), debe tenerse en cuenta en el contexto del esfuerzo total de Nueva Zelanda en la gestión de riesgos de desastre. Con las actuales estructuras y disposiciones, hay una transferencia significativa de la responsabilidad de la gestión de riesgos del gobierno central a los gobiernos locales. La tendencia dominante es el enfoque multirriesgo de la gestión de los mismos, con competencias dispersas, por lo que hace falta una acción coordinada entre todas las agencias del gobierno y las comunidades en riesgo.
+[^2]: https://www.building.govt.nz/about-building-performance/news-and-updates/all-news-and-updates/bc-update-187/

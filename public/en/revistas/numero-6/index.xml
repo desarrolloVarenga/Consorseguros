@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Nº 6 May 2017 on My New Hugo Project</title>
+		<link>http://localhost:1313/en/revistas/numero-6/</link>
+		<description>Recent content in Nº 6 May 2017 on My New Hugo Project</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/en/revistas/numero-6/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Catalogue of earthquake damage in Spain: a tool to reduce disaster risk</title>
+				<link>http://localhost:1313/en/revistas/numero-6/da%C3%B1os_twerremotos/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-6/da%C3%B1os_twerremotos/</guid>
+				<description>Description of the partnership agreement among DGPCE, IGN, CNIG, and CCS to compile the Catalogue of Earthquake Damage in Spain (CDTE), a unified record for damage caused by earthquakes with seismic strength greater than or equal to VI (EMS-98).</description>
+			</item>
+			<item>
+				<title>Editorial</title>
+				<link>http://localhost:1313/en/revistas/numero-6/editorial/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-6/editorial/</guid>
+				<description>Editorial of issue 6 of Consorseguros Digital on insurance insolvency, terrorism risk insurance, and extraordinary risk management.</description>
+			</item>
+			<item>
+				<title>Study of hazard levels in relation to tsunamis along the Spanish coastline</title>
+				<link>http://localhost:1313/en/revistas/numero-6/maremotos/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-6/maremotos/</guid>
+				<description>Review of the preliminary study published by the Directorate-General for Civil Protection and Emergencies on tsunami risk hazardousness along the Spanish coastline.</description>
+			</item>
+			<item>
+				<title>Terrorism risk (re) insurance: Minding the Gap</title>
+				<link>http://localhost:1313/en/revistas/numero-6/reaseguro_terrorismo/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-6/reaseguro_terrorismo/</guid>
+				<description>This article describes the circumstances and process behind the creation of the International Forum for Terrorism Risk (Re)Insurance Pools (IFTRIP) from the standpoint of the experience of Pool Re.</description>
+			</item>
+			<item>
+				<title>The system for the liquidation of insurance companies by the Consorcio de Compensación de Seguros (CCS)</title>
+				<link>http://localhost:1313/en/revistas/numero-6/sistema_liquidacion_entidades/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-6/sistema_liquidacion_entidades/</guid>
+				<description>Analysis of the historical background, procedures, legal context, funding, and figures of the Spanish system for the liquidation of insurance companies managed by the CCS.</description>
+			</item>
+			<item>
+				<title>Failure to pay successive premiums and its effects on the Extraordinary Risk coverage by the Consorcio de Compensación de Seguros</title>
+				<link>http://localhost:1313/en/revistas/numero-6/jurisprudencia/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-6/jurisprudencia/</guid>
+				<description>Commentary on the Judgment by the Civil Law Chamber of the Supreme Court of 30 January 2017 regarding the effectiveness in relation to CCS of agreements between policyholder and insurer when the successive premium is paid after the grace period.</description>
+			</item>
+			<item>
+				<title>Policyholder protection schemes in situations of insolvency. Comparative study between states and jurisdictions. New perspectives</title>
+				<link>http://localhost:1313/en/revistas/numero-6/analisis_proteccion/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-6/analisis_proteccion/</guid>
+				<description>Comparative study between states and jurisdictions on policyholder protection schemes in situations of insolvency, examining their governance, coverage, funding mechanisms, and role in resolution processes.</description>
+			</item>
+			<item>
+				<title>Projection of property damage due to hydrometeorological causes (flood and wind) and estimate of the extraordinary risk insurance scheme capacity in the context of climate change</title>
+				<link>http://localhost:1313/en/revistas/numero-6/proyeccion_bienes/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-6/proyeccion_bienes/</guid>
+				<description>Projection of future developments over the next 30 years (2017-2046) for exposure, surcharges collected by CCS, and property loss experience for extraordinary risk insurance caused by hydrometeorological phenomena.</description>
+			</item>
+			<item>
+				<title>Progress in bank recovery and resolution; a new legislative and institutional framework since 2015</title>
+				<link>http://localhost:1313/en/revistas/numero-6/analisis_legislacion_banca/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-6/analisis_legislacion_banca/</guid>
+				<description>Analysis of public financial support following the financial crisis and the new European legislative and institutional framework for bank recovery and resolution (BRRD, SRM, SRB, and SRF).</description>
+			</item>
+	</channel>
+</rss>
