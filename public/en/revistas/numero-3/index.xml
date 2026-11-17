@@ -1,15 +1,59 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title>My New Hugo Project</title>
+		<title>Nº 3 October 2015 on My New Hugo Project</title>
 		<link>http://localhost:1313/en/revistas/numero-3/</link>
-		<description>Recent content on My New Hugo Project</description>
+		<description>Recent content in Nº 3 October 2015 on My New Hugo Project</description>
 		<generator>Hugo</generator>
 		<language>en-US</language>
 		
 		
 		
 		
+			<lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
+		
 			<atom:link href="http://localhost:1313/en/revistas/numero-3/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Editorial</title>
+				<link>http://localhost:1313/en/revistas/numero-3/editorial/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-3/editorial/</guid>
+				<description>Presentation of the contents of issue 3 of Consorseguros Digital magazine: Flood Risk Management Plans, the new LOSSEAR legislation, and the reformed traffic accident personal injury scale.</description>
+			</item>
+			<item>
+				<title>Initial results of the implementation of Directive 2007/60 on the assessment and management of flood risks: Flood Risk Management Plans</title>
+				<link>http://localhost:1313/en/revistas/numero-3/analisis/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-3/analisis/</guid>
+				<description>Analysis of the implementation phases of Directive 2007/60/EC in Spain under Royal Decree 903/2010, the identification of APSFRs, hazard mapping, and the content of Flood Risk Management Plans.</description>
+			</item>
+			<item>
+				<title>The reform of the Spanish legal system for the assessment of personal injury damages in traffic accidents. Improvement by consensus and contribution by the insurance sector</title>
+				<link>http://localhost:1313/en/revistas/numero-3/accidentes/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-3/accidentes/</guid>
+				<description>Analysis of the legal mechanisms protecting traffic accident victims in Spain, the evolution from the 1991 and 1995 Scales to the 2015 consensus reform, and the experience of the Consorcio de Compensación de Seguros.</description>
+			</item>
+			<item>
+				<title>Natural catastrophes and insurance in Australia: is it time for a national insurance scheme for natural disasters?</title>
+				<link>http://localhost:1313/en/revistas/numero-3/australia/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-3/australia/</guid>
+				<description>Examination of the existing legal and regulatory framework for insurance within Australia, case studies of the Queensland floods and Black Saturday bushfires, and the need for a national insurance scheme for natural disasters.</description>
+			</item>
+			<item>
+				<title>Chile&#39;s economic recovery after the earthquake of February 2010</title>
+				<link>http://localhost:1313/en/revistas/numero-3/resena_chile/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-3/resena_chile/</guid>
+				<description>Review of the book «Leadership dispatches. Chile’s extraordinary comeback from disaster» (H. Kunreuther, E. Michel-Kerjan, and M. Useem), analyzing crisis management, insurance and reinsurance financing, and Chile&amp;rsquo;s rapid economic recovery following the 2010 earthquake.</description>
+			</item>
+			<item>
+				<title>Jurisprudence about the Consorcio de Compensación de Seguros</title>
+				<link>http://localhost:1313/en/revistas/numero-3/jurisprudencia/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-3/jurisprudencia/</guid>
+				<description>Commentary by José Antonio Badillo Arias on the Supreme Court Ruling of 30 June 2015 (RJ 2015/2555), analyzing the non-payment of successive premiums, instalment payments, and their legal effects on injured third parties.</description>
+			</item>
 	</channel>
 </rss>

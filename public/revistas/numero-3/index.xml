@@ -1,15 +1,59 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title>My New Hugo Project</title>
+		<title>Nº 3 Octubre 2015 on My New Hugo Project</title>
 		<link>http://localhost:1313/revistas/numero-3/</link>
-		<description>Recent content on My New Hugo Project</description>
+		<description>Recent content in Nº 3 Octubre 2015 on My New Hugo Project</description>
 		<generator>Hugo</generator>
 		<language>en-us</language>
 		
 		
 		
 		
+			<lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
+		
 			<atom:link href="http://localhost:1313/revistas/numero-3/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Editorial</title>
+				<link>http://localhost:1313/revistas/numero-3/editorial/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-3/editorial/</guid>
+				<description>Presentación de los contenidos del número 3 de la revista Consorseguros Digital: los Planes de Gestión del Riesgo de Inundación, las novedades de la LOSSEAR y el nuevo baremo de autos.</description>
+			</item>
+			<item>
+				<title>Primeros resultados de la implantación de la Directiva 2007/60 de evaluación y gestión de los riesgos de inundación: los Planes de Gestión del Riesgo de Inundación</title>
+				<link>http://localhost:1313/revistas/numero-3/analisis/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-3/analisis/</guid>
+				<description>Análisis de las fases de implantación de la Directiva 2007/60/CE en España mediante el Real Decreto 903/2010, la identificación de las ARPSIs, los mapas de peligrosidad y el contenido de los Planes de Gestión del Riesgo de Inundación.</description>
+			</item>
+			<item>
+				<title>La reforma consensuada del sistema legal de valoración de daños personales en accidentes de circulación. Mejoras de la protección del perjudicado y de la contribución del sector asegurador</title>
+				<link>http://localhost:1313/revistas/numero-3/accidentes/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-3/accidentes/</guid>
+				<description>Análisis de los instrumentos legales de protección a las víctimas de accidentes de tráfico en España, la evolución histórica del Baremo desde 1991 y 1995, los principios y novedades de la reforma consensuada de 2015 y el papel del Consorcio de Compensación de Seguros.</description>
+			</item>
+			<item>
+				<title>Catástrofes naturales y seguro en Australia: ¿Ha llegado la hora de un sistema nacional de seguros de desastres naturales?</title>
+				<link>http://localhost:1313/revistas/numero-3/australia/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-3/australia/</guid>
+				<description>Examen del marco legal y regulador de los seguros en Australia, el análisis de las inundaciones de Queensland (2010-2011) y los incendios del Sábado Negro (2009), y la necesidad de un sistema nacional de seguros frente a desastres naturales.</description>
+			</item>
+			<item>
+				<title>La recuperación económica de Chile tras el terremoto de febrero de 2010</title>
+				<link>http://localhost:1313/revistas/numero-3/resena_chile/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-3/resena_chile/</guid>
+				<description>Reseña del libro «Leadership dispatches. Chile’s extraordinary comeback from disaster» (H. Kunreuther, E. Michel-Kerjan y M. Useem), que analiza la gestión de la crisis, la financiación mediante seguros y reaseguros y la rápida recuperación económica de Chile tras el terremoto de 2010.</description>
+			</item>
+			<item>
+				<title>Jurisprudencia sobre el Consorcio de Compensación de Seguros</title>
+				<link>http://localhost:1313/revistas/numero-3/jurisprudencia/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-3/jurisprudencia/</guid>
+				<description>Comentario de José Antonio Badillo Arias sobre la Sentencia de la Sala 1ª del Tribunal Supremo de 30 de junio de 2015 (RJ 2015/2555), analizando el impago de primas sucesivas, el fraccionamiento del pago de la prima y sus efectos frente a terceros perjudicados.</description>
+			</item>
 	</channel>
 </rss>

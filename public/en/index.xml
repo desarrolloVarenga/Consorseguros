@@ -127,6 +127,13 @@
 			</item>
 			<item>
 				<title>Editorial</title>
+				<link>http://localhost:1313/en/revistas/numero-3/editorial/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-3/editorial/</guid>
+				<description>Presentation of the contents of issue 3 of Consorseguros Digital magazine: Flood Risk Management Plans, the new LOSSEAR legislation, and the reformed traffic accident personal injury scale.</description>
+			</item>
+			<item>
+				<title>Editorial</title>
 				<link>http://localhost:1313/en/revistas/numero-4/editorial/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/en/revistas/numero-4/editorial/</guid>
@@ -299,6 +306,13 @@
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/en/revistas/numero-19/analisis_documentacion_historica/</guid>
 				<description>In this article we shall therefore try to gather together and give some structure to the information available in CCS files and documentation from that era in regard to the economic fallout from the event, both to chronicle the episode and leave on record that this data remains accessible.</description>
+			</item>
+			<item>
+				<title>Initial results of the implementation of Directive 2007/60 on the assessment and management of flood risks: Flood Risk Management Plans</title>
+				<link>http://localhost:1313/en/revistas/numero-3/analisis/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-3/analisis/</guid>
+				<description>Analysis of the implementation phases of Directive 2007/60/EC in Spain under Royal Decree 903/2010, the identification of APSFRs, hazard mapping, and the content of Flood Risk Management Plans.</description>
 			</item>
 			<item>
 				<title>Loss rate analysis for the extraordinary risks covered by the Consorcio de Compensación de Seguros, 1995-2019</title>
@@ -490,6 +504,13 @@
 				<description>The National Observatory for Natural Hazards (ONRN) is an example of a public-private partnership that brings together the state, insurers and the reinsurer, founded on concerted governance that embraces territorial groups and partners on voluntary projects to pool data, experience and studies.</description>
 			</item>
 			<item>
+				<title>The reform of the Spanish legal system for the assessment of personal injury damages in traffic accidents. Improvement by consensus and contribution by the insurance sector</title>
+				<link>http://localhost:1313/en/revistas/numero-3/accidentes/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-3/accidentes/</guid>
+				<description>Analysis of the legal mechanisms protecting traffic accident victims in Spain, the evolution from the 1991 and 1995 Scales to the 2015 consensus reform, and the experience of the Consorcio de Compensación de Seguros.</description>
+			</item>
+			<item>
 				<title>Volcanic hazard in France: the insurance response</title>
 				<link>http://localhost:1313/en/revistas/numero-15/francia/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -586,6 +607,13 @@
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/en/revistas/numero-22/enesa/</guid>
 				<description>Spain&amp;rsquo;s Multi-peril Agricultural Insurance scheme has already acquired a long track record as the main tool used by the farming sector to manage the risks farmers have to face. It is intended to meet the need to protect producers, who, because of their highly dependent relationship with the environment, are always at the mercy of adverse weather events, which are becoming increasingly more common in today&amp;rsquo;s climate situation.</description>
+			</item>
+			<item>
+				<title>Natural catastrophes and insurance in Australia: is it time for a national insurance scheme for natural disasters?</title>
+				<link>http://localhost:1313/en/revistas/numero-3/australia/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-3/australia/</guid>
+				<description>Examination of the existing legal and regulatory framework for insurance within Australia, case studies of the Queensland floods and Black Saturday bushfires, and the need for a national insurance scheme for natural disasters.</description>
 			</item>
 			<item>
 				<title>New Zealand’s natural hazards insurance scheme is based on lessons of the past</title>
@@ -805,6 +833,13 @@
 				<description>Natural disasters have occurred throughout history and have forced societies to adapt, prepare, and evolve, carrying mankind to its current level of safety and development. While development has brought us greater protection from hazards, it seems that society often forgets that events like these even exist and are a real possibility. They only come to mind when they actually occur.</description>
 			</item>
 			<item>
+				<title>Chile&#39;s economic recovery after the earthquake of February 2010</title>
+				<link>http://localhost:1313/en/revistas/numero-3/resena_chile/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-3/resena_chile/</guid>
+				<description>Review of the book «Leadership dispatches. Chile’s extraordinary comeback from disaster» (H. Kunreuther, E. Michel-Kerjan, and M. Useem), analyzing crisis management, insurance and reinsurance financing, and Chile&amp;rsquo;s rapid economic recovery following the 2010 earthquake.</description>
+			</item>
+			<item>
 				<title>Climate Change Adaptation and Coastal Risk Reduction: Lessons Learned from the LIFE Garachico and LIFE AdaptaBlues Projects</title>
 				<link>http://localhost:1313/en/revistas/numero-24/cambio_climatico/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -964,6 +999,13 @@
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/en/revistas/numero-10/prestige/</guid>
 				<description>The Prestige spilled some 63,000 tonnes of fuel into the sea, which affected 2,980 km of coastline. Although the spill was far smaller than in other previous accidents in Europe, the stretch of coastline hit was actually the largest to date.</description>
+			</item>
+			<item>
+				<title>Jurisprudence about the Consorcio de Compensación de Seguros</title>
+				<link>http://localhost:1313/en/revistas/numero-3/jurisprudencia/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-3/jurisprudencia/</guid>
+				<description>Commentary by José Antonio Badillo Arias on the Supreme Court Ruling of 30 June 2015 (RJ 2015/2555), analyzing the non-payment of successive premiums, instalment payments, and their legal effects on injured third parties.</description>
 			</item>
 			<item>
 				<title>Loss adjusting for cultural heritage assets in Spain for Consorcio de Compensación de Seguros</title>

@@ -1,0 +1,112 @@
+---
+title: "Jurisprudencia sobre el Consorcio de Compensación de Seguros"
+subtitle: "El impago de primas sucesivas y el fraccionamiento en el pago de la prima. Comentario de la Sentencia de la Sala 1ª del Tribunal Supremo, de 30 de junio de 2015."
+category: "Reseñas"
+pdf_download: "/almacen/pdf/jurisprudencia-sobre-el-consorcio-de-compensacion-de-seguros-3.pdf"
+sidebar_image: "/images/numero-3/foto_portada_jurisprudencia.jpg"
+weight: 7
+image: "/images/numero-3/foto_portada_jurisprudencia.jpg"
+summary: "Comentario de José Antonio Badillo Arias sobre la Sentencia de la Sala 1ª del Tribunal Supremo de 30 de junio de 2015 (RJ 2015/2555), analizando el impago de primas sucesivas, el fraccionamiento del pago de la prima y sus efectos frente a terceros perjudicados."
+authors:
+    - name: "José Antonio Badillo Arias"
+      institution: "Delegado Territorial del CCS en Madrid"
+---
+
+## El impago de primas sucesivas y el fraccionamiento en el pago de la prima. Comentario de la Sentencia de la Sala 1ª del Tribunal Supremo, de 30 de junio de 2015.
+
+**Ponente: Sr. Sancho Gargallo**
+
+---
+
+## 1. Planteamiento del problema
+
+El contrato de seguro se configura como un contrato recíproco y sinalagmático, que origina distintas obligaciones para las partes contratantes. La obligación principal del asegurador es la reparación del daño o el pago de la indemnización, en caso de siniestro, mientras que la del tomador del seguro es pagar la prima. El artículo 14 de la Ley de Contrato de Seguro (LCS) regula el pago de la prima y el artículo 15 las consecuencias jurídicas derivadas del impago de la primera prima, en su apartado primero, y las del impago de las primas sucesivas, en el segundo. Esta regulación plantea en la práctica bastante controversia, sobre todo en los seguros de responsabilidad civil, en los que aparecen terceros perjudicados, ajenos a la relación jurídica entre asegurador y asegurado. Y a tales perjudicados la LCS les otorga una protección especial, que se manifiesta, fundamentalmente, en la posibilidad de ejercitar la acción directa contra el asegurador, en virtud de las previsiones contenidas en artículo 76 de esta Ley.
+
+A esta problemática debemos añadir la que se produce en los casos de fraccionamiento de primas. Es muy frecuente que las entidades, en aras a facilitar el pago de la prima, ofrezcan a los asegurados la posibilidad de su fraccionamiento. En no pocas ocasiones, estos, una vez pagada la primera fracción, incumplen el pago de alguna o algunas de las siguientes.
+
+En estos casos entendemos que el asegurador debe asumir su cobertura por el tiempo convenido en el contrato, al margen de que el tomador, una vez pagada la primera fracción, incumpla con las siguientes, por el carácter único e indivisible de la prima. Eso no puede dar lugar a la extinción o suspensión del contrato.
+
+Nada dice la Ley de Contrato de Seguro sobre este carácter único e indivisible de la prima, por lo que ha sido la doctrina y la jurisprudencia mayoritaria -pues hay una corriente de jurisprudencia de Audiencias Provinciales que no lo entienden así - las que se han encargado de justificar estas características.
+
+La única referencia sobre el fraccionamiento del pago de la prima la encontramos en el Anteproyecto de Código Mercantil, de junio de 2014. En el párrafo 4º de su artículo 581-14, que lleva por título “Falta de pago de la prima”, dispone que “en caso de fraccionamiento del pago de la prima, el asegurador podrá deducir de la indemnización el importe de las fracciones pendientes de pago”.
+
+Por lo tanto, además de pretender regular por primera vez esta cuestión, de esta redacción podría interpretarse que la cobertura del seguro es por el tiempo pactado y que el asegurador, en los casos de impago de alguna de las siguientes fracciones a la primera, no solo debe asumir las consecuencias de los siniestros de responsabilidad civil, sino también los siniestros de daños, en los que la relación jurídica se establece solo entre asegurador y asegurado. De ahí, en este caso, la mención a que el asegurador podrá deducir de la indemnización -suponemos que al asegurado- el importe de las fracciones pendientes de pago.
+
+Esta regulación, de mantenerse en la futura Ley de Contrato de Seguro, avalaría la tesis de la indivisibilidad de la prima, que defendemos.
+
+Para Garrigues[^1]. la indivisibilidad significa que la prima se paga por entero al comienzo de cada periodo del seguro, y que no puede ser reducida ni devuelta si el riesgo ha comenzado a correr, aunque el contrato se extinga en el curso de aquel periodo. El fundamento de esta regla no está tanto en la equidad ni en la individualización del riesgo, como en las exigencias técnicas de la explotación del seguro. Es decir, en el hecho de que las observaciones estadísticas de los siniestros que sirven de guía para las tarifas de las primas se refieren habitualmente a periodos anuales. Pensamos que la prima fijada por el asegurador se ha calculado con referencia a un periodo de tiempo determinado y, precisamente, a la totalidad del mismo; es decir, a la probabilidad de siniestro en cualquier momento de dicho periodo.
+
+Nuestro alto tribunal ha matizado este carácter indivisible de la prima en la Sentencia del Tribunal Supremo (STS) (Sala 1ª) de 16 de septiembre de 2004 (RJ 2004/5477), en el siguiente sentido: “La obligación del pago de la prima puede ser de una sola vez, en los supuestos de prima única, o en forma periódica, cuando la duración del contrato comprende varios períodos (artículo 22). La prima única o periódica puede ser pagada a plazos. Esta posibilidad va en apariencia contra el principio de la indivisibilidad de la prima. Sin embargo, esto no es así, pues las partes pueden convenir en el pago a plazos de la prima que se estima única. Los términos convenidos asumen relevancia únicamente como una modalidad accesoria de la prestación, ya que no afectan a la modalidad de la obligación, sino a su cumplimiento. La prestación sigue siendo única con relación al período del seguro, aun cuando la ejecución de la misma se efectúe a plazos que se pagan por el tomador”.
+
+Posteriormente, la STS (Sala 1ª) de 22 de octubre de 2008 (RJ 2008\5785), aunque alude de forma tangencial a este problema, repite el mismo argumento que acabamos de ver en el párrafo anterior, añadiendo que “es cierto también que la doctrina y la jurisprudencia han considerado que la prima es indivisible, lo cual se deducía ya del art. 388 Código de Comercio, que establecía que 'por el cobro de la prima pagada anticipadamente, el asegurador la hará suya, cualquiera que sea la duración del seguro’ y aunque no exista una norma parecida en la vigente Ley de Contrato de Seguros, la propia naturaleza aleatoria del seguro da una cierta razón de ser a esta conclusión. La indivisibilidad, sin embargo, no tiene nada que ver con el pacto sobre el pago a plazos de una prima, cuyo monto total va a cubrir los siniestros acaecidos durante la duración del contrato”.
+
+Vemos que el Tribunal Supremo declara en estas sentencias este carácter único e indivisible de la prima, sin perjuicio de que las partes puedan acordar su fraccionamiento, siendo esto una modalidad accesoria a la prestación. Según esta interpretación, entendemos que, si se incumple una de las fracciones siguientes a la primera, el asegurador no podría rescindir el contrato hasta que no transcurra, en su caso, la anualidad prevista en el mismo, ni aplicar a este incumplimiento el régimen del impago de las primas sucesivas previsto en el art. 15.2 de la LCS.
+
+En base a esta hipótesis la compañía aseguradora se obliga, en efecto, a una cobertura anual indivisible. Es decir, no susceptible de aprovechamiento separado, en períodos distintos de un año, por parte del asegurado. A cambio, el tomador del seguro se obliga a satisfacer una prima que se configura como anual, aunque sea posible que el pago de su importe se haga en plazos fraccionados. Cada uno de estos plazos no retribuye una cobertura fraccionada prestada por el asegurador, sino que representa, simplemente, una facilidad de pago concedida por éste. En consecuencia, el fraccionamiento de los pagos no afecta al período del seguro, a su duración técnica, que continúa siendo anual, porque éste se presume que ha sido el período contemplado por la compañía aseguradora para efectuar las operaciones actuariales que posibilitan el cálculo de la prima. Esta forma de entender la naturaleza de las prestaciones periódicas de pago aplazado de la prima fue aceptada por el Tribunal Supremo (TS) en la STS (Sala 2ª) de 22 de marzo de 1991 (RJ 1991/2354), al señalar que “no pugna con la unidad del contrato en su duración el hecho de que la prima, por comodidad o facilidad de pago, se dividiera en períodos trimestrales” y que puede establecerse una clara distinción entre “prima anual, que se corresponde a la duración convenida, y pago por trimestres”.
+
+En cuanto a las consecuencias del impago de alguno de los plazos en que se ha dividido la prima anual, la anterior alternativa de interpretación implica la imposibilidad de que el asegurador pueda beneficiarse de la previsión contenida en el art. 15.2 de la LCS, pues, si se fracciona el pago, las diferentes fracciones seguirán siendo primera prima. Por el contrario, las primas sucesivas a las que se refiere este artículo son las correspondientes a los sucesivos periodos cubiertos, estén fraccionados o no[^2].
+
+Del mismo modo y desde otro punto de vista, por ese carácter único e indivisible de la prima, tampoco puede devolver el asegurador parte de la prima no consumida por cuestiones tales como cesación del riesgo, enajenación de la cosa asegurada, declaración de nulidad del seguro por mala fe del tomador o asegurado, etc.
+
+En este sentido, la STS (Sala 3ª) de 4 de marzo de 2002 (RJ 2002/2612) trata un supuesto en el que la entidad aseguradora incluía una cláusula en la póliza que preveía la posibilidad de que ésta pudiera rescindir el contrato con devolución de la prima no consumida tras la declaración de un siniestro. La Dirección General de Seguros le requirió a suprimir en el artículo 8 de la póliza «Multirriesgo del Hogar» la facultad rescisoria posterior a la declaración de siniestro.
+
+No obstante lo anterior, existe una corriente jurisprudencial minoritaria que ha asimilado la segunda y siguientes fracciones de la primera prima a las primas sucesivas. En consecuencia, han aplicado el régimen del art. 15.2 de la LCS a estos supuestos.
+
+Aunque, como hemos indicado al comienzo de este epígrafe, no es ésta la doctrina que podemos extraer del TS -sobre todo tras la mencionada STS (Sala 1ª) de 16 de septiembre de 2004 (RJ 2004/5477)-, lo cierto es que los defensores de esta corriente basan su argumentación, no sólo en los criterios seguidos por ciertas Audiencias Provinciales, sino también en alguna sentencia del alto tribunal que parece que mantiene esta segunda hipótesis.
+
+Entre estas sentencias, se encuentra la STS (Sala 1ª) de 9 de marzo de 1996 (RJ 1996/1938), que aplica las consecuencias previstas en el art. 15.2 de la LCS ante un incumplimiento de pago de primas fraccionadas, entendiendo que, pasado el mes de gracia sin que el tomador pagase la siguiente fracción, el contrato queda en suspenso. Aunque, en nuestra opinión, esta aplicación del art. 15.2 a este supuesto está basado en que esto era lo pactado en las condiciones generales por las partes.
+
+---
+
+## 2. La Sentencia del Tribunal Supremo de 30 de junio de 2015
+
+Aunque existen muchas resoluciones judiciales en la llamada jurisprudencia menor, no es frecuente encontrarnos con sentencias del alto tribunal que resuelven asuntos relacionados con el impago de las primas, y de ahí la importancia de la sentencia que comentamos de la Sala 1ª del Tribunal Supremo de 30 de junio de 2015 (RJ 2015\2555).
+
+### 2.1. Hechos probados
+
+Los hechos tienen que ver con la contratación de un seguro de responsabilidad civil. La empresa asegurada concertó con la entidad Mapfre, el 14 de marzo del año 2000, dicho seguro, el cual se fue prorrogando anualmente, habiéndose acordado entre las partes que el pago de la prima anual se fraccionaría en dos recibos. En la anualidad comprendida entre el 14 de marzo de 2005 y el 14 de marzo de 2006, el tomador dejó de pagar el primer recibo, el cual fue devuelto a mediados de marzo de 2005. En diciembre de ese mismo año se produjo un siniestro cuando los empleados de la entidad asegurada causaron daños en las instalaciones de Telefónica.
+
+Obviamente, al producirse el siniestro ocho meses después del impago de la anualidad 2005-2006, la aseguradora entendió que el contrato estaba extinguido en virtud de lo dispuesto en el artículo 15.2 de la Ley de Contrato de Seguro.
+
+Telefónica, no conforme con la no asunción del siniestro por la aseguradora, demandó a la empresa causante de los daños y a dicha entidad aseguradora. En primera instancia se estimó la demanda y tras el recurso de apelación de Mapfre, la Audiencia Provincial mantuvo la codena de la asegurada, causante de los daños, y absolvió a la entidad aseguradora recurrente. La Audiencia Provincial consideró que cuando se produjo el siniestro no estaba vigente la póliza, porque el asegurado había manifestado su voluntad de no continuar con la relación contractual con anterioridad a que ocurriera el siniestro, pues el recibo del primer fraccionamiento de pago de la prima fue devuelto por orden de la asegurada al banco en el que estaba domiciliado su pago.
+
+Ante la absolución de la entidad aseguradora, recurrió en casación la perjudicada pidiendo la condena de Mapfre, denunciando la infracción del artículo 15 de la LCS, en relación con el comienzo del plazo de suspensión de la cobertura de la póliza previsto en el apartado 2, y el plazo de seis meses para que pueda producirse la extinción del contrato de seguro como consecuencia del impago. Para la recurrente este momento se produce, no con el impago de uno de los fraccionamientos de la prima, sino con el impago de la última de las fracciones, pues hasta entonces no puede entenderse que se haya producido el impago de la prima.
+
+### 2.2. Argumentación jurídica
+
+El Tribunal Supremo desestima el recurso de casación y, en lo que ahora nos interesa, establece cómo debe interpretarse el impago de primas sucesivas.
+
+De este modo, después de citar textualmente el artículo 15.2 de la LCS nos dice que “a partir del mes siguiente al impago de la prima, y durante los cinco siguientes, mientras el tomador siga sin pagar la prima y el asegurador no haya resuelto el contrato, la cobertura del seguro queda suspendida. Esto significa que entre las partes no despliega efectos, en el sentido de que acaecido el siniestro en este tiempo, la aseguradora no lo cubre frente a su asegurada. Sin embargo, la suspensión de la cobertura del seguro no opera frente al tercero que ejercite la acción directa del art. 76 de la LCS, en la medida en que este mismo precepto prevé que «La acción directa es inmune a las excepciones que puedan corresponder al asegurador contra el asegurado»”.
+
+En buena lógica con lo anterior, añade que, transcurridos los seis meses desde el impago de la prima sin que el asegurador hubiera reclamado su pago, el contrato de seguro quedará extinguido de forma automática y por efecto de la propia disposición legal, sin que sea preciso instar la resolución por alguna de las partes. Lógicamente, el siniestro acaecido con posterioridad a la extinción del contrato, como es el caso, no queda cubierto por el seguro, y por ello el asegurador no sólo no responderá de la indemnización frente al asegurado, sino que tampoco lo hará frente al tercero que pretenda ejercitar la acción directa.
+
+Hasta ahora, como puede verse, el Tribunal Supremo corrobora la interpretación, prácticamente unánime, que tanto la doctrina como la jurisprudencia han mantenido respecto a las consecuencias jurídicas derivadas del impago de la prima sucesiva en el contrato de seguro, cuya regulación está en el artículo 15.2 de la LCS.
+
+Sin embargo, y aquí es donde puede venir la polémica, el alto tribunal termina sus argumentos indicando que “en casos, como el presente, en que se haya fraccionado el pago de la prima y se deja de pagar el primer fraccionamiento, a su vencimiento, desde ese momento opera la previsión contenida en el art. 15.2 de la LCS, sin que sea necesario esperar al vencimiento del último fraccionamiento, como sostiene el recurrente. A los efectos del art. 15.2 de la LCS, la prima debe entenderse impagada, y por ello desde ese momento comienza el plazo de gracia de un mes, y a partir de entonces se suspende la cobertura del seguro, hasta la extinción del contrato a los seis meses del impago, siempre que en este tiempo no conste que la aseguradora ha optado por reclamar la prima”.
+
+Pudiera interpretarse con esta última argumentación que el Tribunal Supremo entiende que deben aplicarse las previsiones del artículo 15.2 a los impagos de primas fraccionadas. Si fuera así, bastaría con resolver fehacientemente el contrato cuando está en suspensión de efectos -una vez pasado el mes de gracia-, tal como el propio Tribunal nos ha dicho anteriormente al interpretar el artículo 15.2 de la LCS, para dejar sin efecto el contrato cuando se haya impagado una de las fracciones de la prima.
+
+A nuestro juicio, el alto tribunal hace alusión a esta última cuestión del fraccionamiento en el pago de la prima porque era uno de los argumentos en los que se basaba el recurso de casación de la entidad recurrente, puesto que ésta hacía referencia al fraccionamiento de la prima porque le convenía en su argumentación, para sostener que, hasta que no se produzca el impago de la última de las fracciones, no puede entenderse que se haya producido el impago de la prima. Por tanto, esta alusión de la sentencia al fraccionamiento de la prima sería en todo caso un obiter dictum, a los que nos tiene acostumbrado el alto tribunal.
+
+No obstante, entendemos que el supuesto de hecho analizado en esta resolución no se refiere a que se haya producido el impago de una fracción de la prima, sino que estamos ante un impago de la prima sucesiva que, a su vez, estaba fraccionada. Lo que no se paga es la anualidad que va desde el 14 de marzo de 2005 al 14 de marzo de 2006. Como el siniestro ocurre 8 meses después del impago de la prima sucesiva, no existe cobertura alguna por parte de la entidad asegurada, tal como argumenta con claridad la Sala, interpretando el artículo 15.2 de la Ley de Contrato de Seguro, que es el que debe aplicarse a los hechos objeto de análisis por la sentencia.
+
+---
+
+{{< destacado-rojo >}}
+### Conclusiones
+
+Según lo dicho en los párrafos precedentes, podemos concluir que para el alto tribunal el impago de la prima sucesiva por culpa del tomador, en virtud de lo dispuesto en el artículo 15.2 de la Ley de Contrato de Seguro, produce los siguientes efectos:
+
+a. **Mes de gracia:** desde el impago de la prima sucesiva, durante el primer mes el contrato continúa vigente y con ello la cobertura del seguro, por lo que, si acaece el siniestro en este periodo de tiempo, la compañía está obligada a indemnizar al asegurado en los términos convenidos en el contrato y responde frente al tercero que ejercite la acción directa del art. 76 de la LCS.
+
+b. **Suspensión de efectos del contrato:** a partir del mes siguiente al impago de la prima, y durante los cinco siguientes, mientras el tomador siga sin pagar la prima y el asegurador no haya resuelto el contrato, la cobertura del seguro queda suspendida. Esto significa que entre las partes no despliega efectos, en el sentido de que acaecido el siniestro en este tiempo, la aseguradora no lo cubre frente a su asegurada. Sin embargo, la suspensión de la cobertura del seguro no opera frente al tercero que ejercite la acción directa del art. 76 de la LCS, en la medida en que este mismo precepto prevé que “la acción directa es inmune a las excepciones que puedan corresponder al asegurador contra el asegurado”.
+
+c. **Extinción del contrato:** transcurridos los seis meses desde el impago de la prima sin que el asegurador hubiera reclamado su pago, el contrato de seguro quedará extinguido de forma automática y por efecto de la propia disposición legal, sin que sea preciso instar la resolución por alguna de las partes. Lógicamente, el siniestro acaecido con posterioridad a la extinción del contrato, como es el caso analizado en esta sentencia que comentamos, no queda cubierto por el seguro, y por ello el asegurador no sólo no responderá de la indemnización frente al asegurado, sino que tampoco lo hará frente al tercero que pretenda ejercitar la acción directa.
+
+Por otro lado, como hemos argumentando, no pensamos que el Tribunal Supremo pretenda aplicar esta doctrina cuando se produce el impago de una de las fracciones de la prima, puesto que en el caso analizado no era este el problema planteado. El impago del asegurado fue de una prima sucesiva y no de una fracción de la prima.
+{{< /destacado-rojo >}}
+
+---
+
+[^1]: Vid GARRIGUES J, Contrato de seguro terrestre, 2ª edición. Madrid, 1983, pág. 104.
+[^2]: Cfr. REGLERO CAMPOS, L.F (Director) / BADILLO ARIAS, J.A. (coord.), Accidentes de Circulación: Responsabilidad Civil y Seguro, Cizur Menor (Navarra), Aranzadi, 3ª edición, 2013, pág. 829.

@@ -134,6 +134,13 @@
 			</item>
 			<item>
 				<title>Editorial</title>
+				<link>http://localhost:1313/revistas/numero-3/editorial/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-3/editorial/</guid>
+				<description>Presentación de los contenidos del número 3 de la revista Consorseguros Digital: los Planes de Gestión del Riesgo de Inundación, las novedades de la LOSSEAR y el nuevo baremo de autos.</description>
+			</item>
+			<item>
+				<title>Editorial</title>
 				<link>http://localhost:1313/revistas/numero-4/editorial/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/revistas/numero-4/editorial/</guid>
@@ -357,6 +364,13 @@
 				<description>Para que pueda hablarse de un accidente amparado por la Ley sobre responsabilidad civil y seguro en la circulación de vehículos a motor, aprobada por el RDL 8/2004, de 29 de octubre (LRCSCVM), debe ser calificado como un hecho de la circulación ocasionado por un vehículo a motor. Si no se dan estos dos presupuestos, no es aplicable la normativa especial establecida en la LRCSCVM y en su Reglamento.</description>
 			</item>
 			<item>
+				<title>Primeros resultados de la implantación de la Directiva 2007/60 de evaluación y gestión de los riesgos de inundación: los Planes de Gestión del Riesgo de Inundación</title>
+				<link>http://localhost:1313/revistas/numero-3/analisis/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-3/analisis/</guid>
+				<description>Análisis de las fases de implantación de la Directiva 2007/60/CE en España mediante el Real Decreto 903/2010, la identificación de las ARPSIs, los mapas de peligrosidad y el contenido de los Planes de Gestión del Riesgo de Inundación.</description>
+			</item>
+			<item>
 				<title>Proyección de los daños a los bienes por causas hidrometeorológicas (inundación y viento) y estimación de la capacidad del seguro de riesgos extraordinarios en el contexto del cambio climático</title>
 				<link>http://localhost:1313/revistas/numero-6/proyeccion_bienes/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -469,6 +483,13 @@
 				<description>La definición de la Gerencia de Riesgos no deja de crecer y ahora nos encontramos ante situaciones que pretenden proteger no solo la cuenta de resultados de las empresas, sino otros elementos capitales como son: los activos patrimoniales, corazón de la actividad; los empleados, motor fundamental del negocio; los suministradores, colaboradores relevantes en el proceso; el entorno social y económico de los ámbitos geográficos en los que se actúa, etc.</description>
 			</item>
 			<item>
+				<title>La reforma consensuada del sistema legal de valoración de daños personales en accidentes de circulación. Mejoras de la protección del perjudicado y de la contribución del sector asegurador</title>
+				<link>http://localhost:1313/revistas/numero-3/accidentes/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-3/accidentes/</guid>
+				<description>Análisis de los instrumentos legales de protección a las víctimas de accidentes de tráfico en España, la evolución histórica del Baremo desde 1991 y 1995, los principios y novedades de la reforma consensuada de 2015 y el papel del Consorcio de Compensación de Seguros.</description>
+			</item>
+			<item>
 				<title>La tempestad Klaus</title>
 				<link>http://localhost:1313/revistas/numero-16/klaus/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -530,6 +551,13 @@
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/revistas/numero-20/anatomia_ia/</guid>
 				<description>La IA está transformando cada aspecto de la cadena de valor de la industria aseguradora, desde la personalización de productos hasta la gestión de reclamaciones y la atención al cliente. A medida que la tecnología avanza, se espera que su integración en el sector asegurador se profundice aún más, llevando a una mayor eficiencia y mejores resultados para las empresas y sus clientes</description>
+			</item>
+			<item>
+				<title>Catástrofes naturales y seguro en Australia: ¿Ha llegado la hora de un sistema nacional de seguros de desastres naturales?</title>
+				<link>http://localhost:1313/revistas/numero-3/australia/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-3/australia/</guid>
+				<description>Examen del marco legal y regulador de los seguros en Australia, el análisis de las inundaciones de Queensland (2010-2011) y los incendios del Sábado Negro (2009), y la necesidad de un sistema nacional de seguros frente a desastres naturales.</description>
 			</item>
 			<item>
 				<title>Centro Zaragoza: breve historia de la evolución de un centro de investigación al servicio del sector asegurador español</title>
@@ -875,6 +903,13 @@
 				<description>Japón es el cuarto país del mundo con más volcanes activos, 111, tras los Estados Unidos, Rusia e Indonesia. Aunque la superficie de Japón es el 0,25 % de la total del planeta, posee el 7 % de los volcanes activos. El archipiélago japonés se sitúa en el encuentro entre cuatro placas tectónicas, lo que explica la frecuencia con la que ocurren terremotos y erupciones volcánicas.</description>
 			</item>
 			<item>
+				<title>La recuperación económica de Chile tras el terremoto de febrero de 2010</title>
+				<link>http://localhost:1313/revistas/numero-3/resena_chile/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-3/resena_chile/</guid>
+				<description>Reseña del libro «Leadership dispatches. Chile’s extraordinary comeback from disaster» (H. Kunreuther, E. Michel-Kerjan y M. Useem), que analiza la gestión de la crisis, la financiación mediante seguros y reaseguros y la rápida recuperación económica de Chile tras el terremoto de 2010.</description>
+			</item>
+			<item>
 				<title>La robótica y el derecho</title>
 				<link>http://localhost:1313/revistas/numero-9/robotica_y_derecho/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -985,6 +1020,13 @@
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/revistas/numero-5/ambest/</guid>
 				<description>Revisión de un informe de la agencia de calificación A.M. Best sobre las distintas opciones en Europa para el aseguramiento de catástrofes y cómo cada una de ellas intenta resolver los diferentes problemas que se presentan en este tipo de seguro.</description>
+			</item>
+			<item>
+				<title>Jurisprudencia sobre el Consorcio de Compensación de Seguros</title>
+				<link>http://localhost:1313/revistas/numero-3/jurisprudencia/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-3/jurisprudencia/</guid>
+				<description>Comentario de José Antonio Badillo Arias sobre la Sentencia de la Sala 1ª del Tribunal Supremo de 30 de junio de 2015 (RJ 2015/2555), analizando el impago de primas sucesivas, el fraccionamiento del pago de la prima y sus efectos frente a terceros perjudicados.</description>
 			</item>
 			<item>
 				<title>La cartografía de zonas inundables en España: el SNCZI como herramienta para la gestión del riesgo</title>
