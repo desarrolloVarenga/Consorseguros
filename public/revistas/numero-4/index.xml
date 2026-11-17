@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Nº 4 Abril 2016 on My New Hugo Project</title>
+		<link>http://localhost:1313/revistas/numero-4/</link>
+		<description>Recent content in Nº 4 Abril 2016 on My New Hugo Project</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/revistas/numero-4/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Editorial</title>
+				<link>http://localhost:1313/revistas/numero-4/editorial/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-4/editorial/</guid>
+				<description>Editorial del número 4 de la revista Consorseguros Digital, dedicado a la sismicidad en la Península Ibérica tras el episodio del Mar de Alborán, la Cumbre del Clima de París (COP-21) y sus efectos sobre el seguro de catástrofes naturales, así como al Registro de Seguros Obligatorios.</description>
+			</item>
+			<item>
+				<title>El Registro de seguros obligatorios y su gestión por el Consorcio de Compensación de Seguros</title>
+				<link>http://localhost:1313/revistas/numero-4/actualidad/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-4/actualidad/</guid>
+				<description>Marco normativo, finalidad informativa y criterios de consulta pública del Registro de seguros obligatorios en España gestionado por el Consorcio de Compensación de Seguros.</description>
+			</item>
+			<item>
+				<title>Los terremotos en España. La reciente actividad en el mar de Alborán</title>
+				<link>http://localhost:1313/revistas/numero-4/analisis/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-4/analisis/</guid>
+				<description>Análisis de las estructuras tectónicas y procesos sísmicos en la Península Ibérica, repaso histórico de los grandes terremotos ocurridos en España y estudio de la reciente serie sísmica en el sur del mar de Alborán.</description>
+			</item>
+			<item>
+				<title>Cambio climático y seguro: una interrelación multifacética</title>
+				<link>http://localhost:1313/revistas/numero-4/cambio_climatico_y_seguro/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-4/cambio_climatico_y_seguro/</guid>
+				<description>Análisis sobre las causas y escenarios del cambio climático, las tendencias previstas para los fenómenos extremos y el papel multifacético del sector asegurador en la adaptación, la mitigación y la resiliencia frente al riesgo, con especial referencia al sistema español de riesgos extraordinarios gestionado por el CCS.</description>
+			</item>
+			<item>
+				<title>Consecuencias del cambio climático para el seguro de catástrofes naturales en Francia</title>
+				<link>http://localhost:1313/revistas/numero-4/ccr/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-4/ccr/</guid>
+				<description>Modelización de la Caisse Centrale de Réassurance y Météo France sobre la evolución hasta 2050 de los riesgos climáticos cubiertos por el sistema francés Cat Nat y análisis de su sostenibilidad futura.</description>
+			</item>
+			<item>
+				<title>La cumbre del clima de París: un éxito del multilateralismo</title>
+				<link>http://localhost:1313/revistas/numero-4/clima_paris/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-4/clima_paris/</guid>
+				<description>Análisis de la Cumbre del Clima de París (COP21), los nueve ejes fundamentales del Acuerdo de París, la movilización financiera y de actores no gubernamentales, y el papel de la Unión Europea.</description>
+			</item>
+			<item>
+				<title>Estudios sobre previsiones de impacto económico del cambio climático</title>
+				<link>http://localhost:1313/revistas/numero-4/estudios_cambio_climatico/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-4/estudios_cambio_climatico/</guid>
+				<description>Reseña conjunta de los informes PESETA II del JRC (2014) y de la OCDE (2015) sobre la cuantificación económica sectorial y global de los impactos del cambio climático.</description>
+			</item>
+			<item>
+				<title>La responsabilidad civil automovilística. El hecho de la circulación</title>
+				<link>http://localhost:1313/revistas/numero-4/resp_civil_automovilistica/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-4/resp_civil_automovilistica/</guid>
+				<description>Reseña de la obra de José A. Badillo Arias (Aranzadi, abril de 2016) sobre la evolución histórica, normativa y jurisprudencial de la responsabilidad civil automovilística y los conceptos de vehículo a motor y hecho de la circulación.</description>
+			</item>
+			<item>
+				<title>Manual sobre catástrofes naturales de AGERS</title>
+				<link>http://localhost:1313/revistas/numero-4/agers/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-4/agers/</guid>
+				<description>Reseña del Manual sobre Catástrofes Naturales elaborado por AGERS (presentado en diciembre de 2015), centrado en la gerencia de riesgos y el papel del Consorcio de Compensación de Seguros en España.</description>
+			</item>
+			<item>
+				<title>Jurisprudencia sobre el Consorcio de Compensación de Seguros. Comentario de la sentencia del Tribunal Supremo de 5 de septiembre de 2011</title>
+				<link>http://localhost:1313/revistas/numero-4/jurisprudencia/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-4/jurisprudencia/</guid>
+				<description>Comentario jurisprudencial de la STS de 5 de septiembre de 2011 sobre la exención del Consorcio de Compensación de Seguros de consignar para recurrir en virtud del art. 12 de la LAJEIP y sus efectos en condenas solidarias.</description>
+			</item>
+	</channel>
+</rss>

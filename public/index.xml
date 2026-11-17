@@ -134,6 +134,13 @@
 			</item>
 			<item>
 				<title>Editorial</title>
+				<link>http://localhost:1313/revistas/numero-4/editorial/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-4/editorial/</guid>
+				<description>Editorial del número 4 de la revista Consorseguros Digital, dedicado a la sismicidad en la Península Ibérica tras el episodio del Mar de Alborán, la Cumbre del Clima de París (COP-21) y sus efectos sobre el seguro de catástrofes naturales, así como al Registro de Seguros Obligatorios.</description>
+			</item>
+			<item>
+				<title>Editorial</title>
 				<link>http://localhost:1313/revistas/numero-5/editorial/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/revistas/numero-5/editorial/</guid>
@@ -168,6 +175,13 @@
 				<description>A finales del pasado mes de septiembre de 2018, el CCS organizó en Madrid la 12ª reunión del WFCP, y ese importante evento constituye el eje central en torno al cual se articula el noveno número de la revista Consorseguros Digital. Otro gran bloque de este número tiene que ver con el seguro del automóvil, otra de las grandes áreas de actividad del CCS más allá de los riesgos catastróficos.</description>
 			</item>
 			<item>
+				<title>El Registro de seguros obligatorios y su gestión por el Consorcio de Compensación de Seguros</title>
+				<link>http://localhost:1313/revistas/numero-4/actualidad/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-4/actualidad/</guid>
+				<description>Marco normativo, finalidad informativa y criterios de consulta pública del Registro de seguros obligatorios en España gestionado por el Consorcio de Compensación de Seguros.</description>
+			</item>
+			<item>
 				<title>El sistema de liquidación de entidades aseguradoras (EE.AA.) por el Consorcio de Compensación de Seguros (CCS)</title>
 				<link>http://localhost:1313/revistas/numero-6/sistema_liquidacion_entidades/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -187,6 +201,13 @@
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/revistas/numero-7/analisis/</guid>
 				<description>Análisis del impacto del crecimiento urbanístico y la vulnerabilidad institucional en el aumento del riesgo de inundaciones en la costa mediterránea española.</description>
+			</item>
+			<item>
+				<title>Novedades en el seguro de riesgos extraordinarios y el seguro obligatorio de responsabilidad civil de automóviles</title>
+				<link>http://localhost:1313/revistas/numero-5/recargo_seguros/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-5/recargo_seguros/</guid>
+				<description>A partir del 1 de julio de 2016 se han hecho efectivas novedades importantes en la legislación que regula la actividad del Consorcio de Compensación de Seguros (CCS), que suponen una ampliación de coberturas y una reducción de los recargos en los seguros de automóviles.</description>
 			</item>
 			<item>
 				<title>¿Planificar los daños o la complejidad? Comisión de Terremotos de Nueva Zelanda: la historia hasta ahora</title>
@@ -322,6 +343,13 @@
 				<description>Estudio comparado entre estados y jurisdicciones sobre los programas de protección de los acreedores por contrato de seguro en situaciones de insolvencia, analizando su gobernanza, cobertura, financiación y papel en la resolución.</description>
 			</item>
 			<item>
+				<title>Los terremotos en España. La reciente actividad en el mar de Alborán</title>
+				<link>http://localhost:1313/revistas/numero-4/analisis/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-4/analisis/</guid>
+				<description>Análisis de las estructuras tectónicas y procesos sísmicos en la Península Ibérica, repaso histórico de los grandes terremotos ocurridos en España y estudio de la reciente serie sísmica en el sur del mar de Alborán.</description>
+			</item>
+			<item>
 				<title>Prevención, protección, preparación y reparación: medidas para la disminución del riesgo de inundación en el eje del Ebro</title>
 				<link>http://localhost:1313/revistas/numero-12/analisis/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -355,6 +383,13 @@
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/revistas/numero-17/aseguramiento_bienes_culturales/</guid>
 				<description>El sector de las obras de arte ha tenido un amplio desarrollo en los últimos años empujado por la creciente incorporación de nuevos coleccionistas. El interés de las administraciones por desarrollar exposiciones permanentes o temporales, como polo de atracción turística, tiene un claro impacto económico que despierta el interés de multitud de operadores económicos. De forma paralela, la industria aseguradora ha ido adaptando sus productos a las necesidades, cada vez más sofisticadas, de los titulares de obras y colecciones.</description>
+			</item>
+			<item>
+				<title>Cambio climático y seguro: una interrelación multifacética</title>
+				<link>http://localhost:1313/revistas/numero-4/cambio_climatico_y_seguro/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-4/cambio_climatico_y_seguro/</guid>
+				<description>Análisis sobre las causas y escenarios del cambio climático, las tendencias previstas para los fenómenos extremos y el papel multifacético del sector asegurador en la adaptación, la mitigación y la resiliencia frente al riesgo, con especial referencia al sistema español de riesgos extraordinarios gestionado por el CCS.</description>
 			</item>
 			<item>
 				<title>Casos piloto de adaptación al riesgo de inundación</title>
@@ -504,6 +539,13 @@
 				<description>A finales de la década de los 80 del siglo pasado un pequeño grupo de altos ejecutivos que trabajaban en diferentes entidades aseguradoras, entre las que se encontraba el Consorcio de Compensación de Seguros, decidieron crear un centro de investigación compartido por todas ellas, con el objetivo de adquirir un mayor conocimiento del automóvil.</description>
 			</item>
 			<item>
+				<title>Consecuencias del cambio climático para el seguro de catástrofes naturales en Francia</title>
+				<link>http://localhost:1313/revistas/numero-4/ccr/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-4/ccr/</guid>
+				<description>Modelización de la Caisse Centrale de Réassurance y Météo France sobre la evolución hasta 2050 de los riesgos climáticos cubiertos por el sistema francés Cat Nat y análisis de su sostenibilidad futura.</description>
+			</item>
+			<item>
 				<title>Datos de pólizas y capitales 2019 obtenidos a través del nuevo Sistema de Información de Recargos SIR: expectativas de mejora y alcance de la información en el futuro</title>
 				<link>http://localhost:1313/revistas/numero-13/datos_polizas/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -651,6 +693,13 @@
 				<description>Para que pueda hablarse de un accidente amparado por la Ley sobre responsabilidad civil y seguro en la circulación de vehículos a motor, aprobada por el RDL 8/2004, de 29 de octubre (LRCSCVM), debe ser calificado como un hecho de la circulación ocasionado por un vehículo a motor. Si no se dan estos dos presupuestos, no es aplicable la normativa especial establecida en la LRCSCVM y en su Reglamento.</description>
 			</item>
 			<item>
+				<title>La cumbre del clima de París: un éxito del multilateralismo</title>
+				<link>http://localhost:1313/revistas/numero-4/clima_paris/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-4/clima_paris/</guid>
+				<description>Análisis de la Cumbre del Clima de París (COP21), los nueve ejes fundamentales del Acuerdo de París, la movilización financiera y de actores no gubernamentales, y el papel de la Unión Europea.</description>
+			</item>
+			<item>
 				<title>La gestión de inundaciones en Galicia Costa</title>
 				<link>http://localhost:1313/revistas/numero-8/gestion_inundaciones_galicia/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -796,6 +845,13 @@
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/revistas/numero-10/seguro_medioambiental/</guid>
 				<description>La opción del seguro de Responsabilidad Medioambiental es quizás la opción más práctica y económica a la hora de transferir/financiar el riesgo medioambiental de las empresas ante un posible incidente de contaminación o daño ambiental.</description>
+			</item>
+			<item>
+				<title>Estudios sobre previsiones de impacto económico del cambio climático</title>
+				<link>http://localhost:1313/revistas/numero-4/estudios_cambio_climatico/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-4/estudios_cambio_climatico/</guid>
+				<description>Reseña conjunta de los informes PESETA II del JRC (2014) y de la OCDE (2015) sobre la cuantificación económica sectorial y global de los impactos del cambio climático.</description>
 			</item>
 			<item>
 				<title>Incendios del futuro: nuevos enfoques participativos basados en la planificación territorial</title>
@@ -959,6 +1015,13 @@
 				<description>La calidad del Dictamen del Abogado General y el alineamiento final de la Sentencia del TJUE con sus conclusiones presentadas en audiencia pública el 26 de abril de 2018, justifican que en este caso nos detengamos a comentar dicho Dictamen, al margen del contenido de la Sentencia posterior de 4 de septiembre de 2018.</description>
 			</item>
 			<item>
+				<title>La responsabilidad civil automovilística. El hecho de la circulación</title>
+				<link>http://localhost:1313/revistas/numero-4/resp_civil_automovilistica/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-4/resp_civil_automovilistica/</guid>
+				<description>Reseña de la obra de José A. Badillo Arias (Aranzadi, abril de 2016) sobre la evolución histórica, normativa y jurisprudencial de la responsabilidad civil automovilística y los conceptos de vehículo a motor y hecho de la circulación.</description>
+			</item>
+			<item>
 				<title>La valoración de los daños materiales ocasionados a un vehículo automóvil.</title>
 				<link>http://localhost:1313/revistas/numero-13/valoraci%C3%B3n/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -1113,6 +1176,13 @@
 				<description>La creciente evidencia de que al clima le está pasando algo grave hace que cada vez haga menos falta intentar convencer a los escépticos de que estamos inmersos en una crisis climática o, como establece la legislación española, en una emergencia climática.</description>
 			</item>
 			<item>
+				<title>Manual sobre catástrofes naturales de AGERS</title>
+				<link>http://localhost:1313/revistas/numero-4/agers/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-4/agers/</guid>
+				<description>Reseña del Manual sobre Catástrofes Naturales elaborado por AGERS (presentado en diciembre de 2015), centrado en la gerencia de riesgos y el papel del Consorcio de Compensación de Seguros en España.</description>
+			</item>
+			<item>
 				<title>Pago de la prima después de seis meses del vencimiento. El pacto entre tomador y asegurador no es oponible al Consorcio de Compensación de Seguros, cuya relación jurídica con ambos es distinta, aunque derive de la misma póliza</title>
 				<link>http://localhost:1313/revistas/numero-11/jurisprudencia/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -1202,6 +1272,13 @@
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/revistas/numero-9/centro_zaragoza/</guid>
 				<description>El pasado 27 de septiembre tuvo lugar la ?IV Jornada sobre Biomecánica de impactos? en el Paraninfo de la Universidad de Zaragoza. La jornada se inició con la presentación de las ponencias y los ponentes que las iban a impartir por parte de David Casademont, presidente de la entidad organizadora, el Centro Zaragoza.</description>
+			</item>
+			<item>
+				<title>Jurisprudencia sobre el Consorcio de Compensación de Seguros. Comentario de la sentencia del Tribunal Supremo de 5 de septiembre de 2011</title>
+				<link>http://localhost:1313/revistas/numero-4/jurisprudencia/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-4/jurisprudencia/</guid>
+				<description>Comentario jurisprudencial de la STS de 5 de septiembre de 2011 sobre la exención del Consorcio de Compensación de Seguros de consignar para recurrir en virtud del art. 12 de la LAJEIP y sus efectos en condenas solidarias.</description>
 			</item>
 			<item>
 				<title>La acción subrogatoria del artículo 43 de la Ley de contrato de seguro: última jurisprudencia de la Sala 1ª del Tribunal Supremo</title>
@@ -1307,13 +1384,6 @@
 				<pubDate>Sun, 15 Jan 2023 09:00:00 -0700</pubDate>
 				<guid>http://localhost:1313/posts/post-1/</guid>
 				<description>&lt;p&gt;Tempor proident minim aliquip reprehenderit dolor et ad anim Lorem duis sint eiusmod. Labore ut ea duis dolor. Incididunt consectetur proident qui occaecat incididunt do nisi Lorem. Tempor do laborum elit laboris excepteur eiusmod do. Eiusmod nisi excepteur ut amet pariatur adipisicing Lorem.&lt;/p&gt;&#xA;&lt;p&gt;Occaecat nulla excepteur dolore excepteur duis eiusmod ullamco officia anim in voluptate ea occaecat officia. Cillum sint esse velit ea officia minim fugiat. Elit ea esse id aliquip pariatur cupidatat id duis minim incididunt ea ea. Anim ut duis sunt nisi. Culpa cillum sit voluptate voluptate eiusmod dolor. Enim nisi Lorem ipsum irure est excepteur voluptate eu in enim nisi. Nostrud ipsum Lorem anim sint labore consequat do.&lt;/p&gt;</description>
-			</item>
-			<item>
-				<title></title>
-				<link>http://localhost:1313/revistas/numero-5/recargo_seguros/</link>
-				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/revistas/numero-5/recargo_seguros/</guid>
-				<description></description>
 			</item>
 			<item>
 				<title>Contacto</title>

@@ -1,0 +1,27 @@
+---
+title: "La responsabilidad civil automovilística. El hecho de la circulación"
+category: "Reseñas"
+pdf_download: "/pdf/num22/editorial.pdf"
+sidebar_image: "/images/numero-4/resp_civil_automovilistica.jpg"
+sidebar_text: "La regulación de la responsabilidad civil automovilística y el seguro que la ampara, junto con otros mecanismos, constituyen la mayor garantía de las víctimas de los accidentes de circulación, para que sean resarcidas en toda su integridad de los daños y perjuicios que sufran como consecuencia de dichos accidentes."
+weight: 7
+image: "/images/numero-4/resp_civil_automovilistica.jpg"
+summary: "Reseña de la obra de José A. Badillo Arias (Aranzadi, abril de 2016) sobre la evolución histórica, normativa y jurisprudencial de la responsabilidad civil automovilística y los conceptos de vehículo a motor y hecho de la circulación."
+authors:
+    - name: "José A. Badillo Arias"
+      institution: "Editorial: Aranzadi. Abril 2016. 764 págs."
+---
+
+Este trabajo se corresponde con la tesis doctoral de su autor, que ha sido actualizada teniendo en cuenta las últimas modificaciones legislativas, sobre todo, la Ley 35/2015, de 22 de septiembre, de Reforma del Sistema para la Valoración de los Daños y Perjuicios Causados a las Personas en Accidentes de Circulación, que ha modificado la Ley de Responsabilidad Civil y Seguro de la Circulación de Vehículos a Motor (LRCSCVM), la cual es objeto de análisis pormenorizado en este estudio.
+
+La regulación de la responsabilidad civil automovilística y el seguro que la ampara, junto con otros mecanismos, constituyen la mayor garantía de las víctimas de los accidentes de circulación, para que sean resarcidas en toda su integridad de los daños y perjuicios que sufran como consecuencia de dichos accidentes.
+
+Por este motivo, el autor dedica la primera parte del trabajo a describir la evolución que ha tenido la responsabilidad civil de la circulación de vehículos y su seguro desde los primeros años del siglo pasado hasta nuestros días. No se pretende dar una visión exclusivamente histórica y dogmática de dicha evolución, sino describir los problemas prácticos que se han ido planteando a lo largo de los años, para analizar cómo la doctrina y, sobre todo, la jurisprudencia -al ser una disciplina muy casuística-, han ido solucionándolos. El autor, sin embargo, no renuncia a hacer sus propias propuestas de mejora o modificación de determinados aspectos.
+
+De esta suerte, cuando se habla de la creación de determinadas instituciones o figuras jurídicas -como el seguro de responsabilidad civil, la acción directa, el auto de cuantía máxima, el procedimiento de oferta y respuesta motivadas, los convenios y otros mecanismos para la tramitación de los accidentes con elemento extranjero, la intervención del CCS o el sistema de valoración de daños personales-, no se pretende solo contar cómo se crearon o cuál ha sido su finalidad, sino que también se analiza su evolución y la problemática actual que pudieran plantear, proponiendo, en su caso, las soluciones que el autor considera más adecuadas.
+
+Obviamente, esta evolución ha estado marcada por la necesidad de transponer a nuestro ordenamiento jurídico las cinco directivas comunitarias que se han promulgado sobre esta materia, sin perjuicio de que, en la mayoría de las ocasiones y aprovechando esta adaptación, se hayan introducido otras modificaciones no previstas por el legislador comunitario. Alguna de ellas ha sido de gran calado, como la instauración con carácter vinculante del sistema de valoración de daños personales para accidentes de circulación, que fue llevada a cabo mediante la Ley 30/1995, que adaptó la Tercera Directiva de Automóviles.
+
+En la segunda parte de este trabajo se reflexiona acerca de los aspectos claves de dicha responsabilidad civil automovilística y su seguro, como son las nociones de “vehículo a motor” y “hecho de la circulación”, porque constituyen la columna vertebral de esta responsabilidad civil. De este modo, como se estudia, éstos son los elementos que determinan que entre en juego la legislación especial de responsabilidad civil y el seguro en la circulación de vehículos a motor. Estos conceptos, pese a su subordinación a la ordenación reglamentaria -que el autor cuestiona-, determinan el ámbito material de aplicación de la LRCSCVM, con todo lo que ello conlleva.
+
+La inmensa casuística que se deriva de los accidentes de circulación hace que sea imprescindible acudir a la jurisprudencia para intentar solucionar los problemas planteados en la práctica. Las situaciones en las que determinados vehículos pueden originar accidentes de circulación, la forma en que éstos pueden ser ocasionados, la intencionalidad del sujeto responsable o los lugares o actividades en los que se producen, entre otros factores, originan un entramado de situaciones que a veces son difíciles de resolver, dando lugar a una excesiva judicialización. En todo caso, como se verá, la experiencia demuestra que, en no pocas ocasiones, no se puede acudir a una solución legal de los problemas planeados, debiendo resolverlos caso a caso, teniendo en cuenta una serie de circunstancias concurrentes. De esta forma, el estudio está orientado, fundamentalmente, al análisis de la jurisprudencia.

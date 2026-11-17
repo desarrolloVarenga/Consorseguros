@@ -21,6 +21,13 @@
 				<description>Editorial del número 5 (otoño de 2016) de la revista Consorseguros Digital sobre la intersección entre el conocimiento y la gestión de los riesgos naturales y sus consecuencias financieras desde la perspectiva aseguradora.</description>
 			</item>
 			<item>
+				<title>Novedades en el seguro de riesgos extraordinarios y el seguro obligatorio de responsabilidad civil de automóviles</title>
+				<link>http://localhost:1313/revistas/numero-5/recargo_seguros/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-5/recargo_seguros/</guid>
+				<description>A partir del 1 de julio de 2016 se han hecho efectivas novedades importantes en la legislación que regula la actividad del Consorcio de Compensación de Seguros (CCS), que suponen una ampliación de coberturas y una reducción de los recargos en los seguros de automóviles.</description>
+			</item>
+			<item>
 				<title>¿Planificar los daños o la complejidad? Comisión de Terremotos de Nueva Zelanda: la historia hasta ahora</title>
 				<link>http://localhost:1313/revistas/numero-5/analisis/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -68,13 +75,6 @@
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/revistas/numero-5/jurisprudencia/</guid>
 				<description>Comentario a la Sentencia de la Sala Primera del Tribunal Supremo, de 10 de septiembre de 2015, sobre la necesidad de notificación fehaciente de resolución del contrato por impago culpable de la primera prima en el seguro obligatorio de automóviles.</description>
-			</item>
-			<item>
-				<title></title>
-				<link>http://localhost:1313/revistas/numero-5/recargo_seguros/</link>
-				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/revistas/numero-5/recargo_seguros/</guid>
-				<description></description>
 			</item>
 	</channel>
 </rss>

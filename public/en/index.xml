@@ -127,6 +127,13 @@
 			</item>
 			<item>
 				<title>Editorial</title>
+				<link>http://localhost:1313/en/revistas/numero-4/editorial/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-4/editorial/</guid>
+				<description>Editorial of Volume 4 of the Consorseguros Digital Magazine, covering seismic activity in the Iberian Peninsula following the Alboran Sea earthquake, the Paris Climate Conference (COP-21) and its impact on natural disaster insurance, and the Register of Compulsory Insurance.</description>
+			</item>
+			<item>
+				<title>Editorial</title>
 				<link>http://localhost:1313/en/revistas/numero-5/editorial/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/en/revistas/numero-5/editorial/</guid>
@@ -159,6 +166,20 @@
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/en/revistas/numero-9/editorial/</guid>
 				<description>At the end of September 2018, the CCS organised the 12th meeting of the WFCP in Madrid, and that important event constitutes the central axis around which the ninth issue of the Consorseguros Digital magazine revolves. Another important group of articles in this issue relates to automobile insurance, another of the major areas of activity of the CCS beyond catastrophic risks.</description>
+			</item>
+			<item>
+				<title>Novelties in the extraordinary risk insurance and the compulsory third-party automobile insurance</title>
+				<link>http://localhost:1313/en/revistas/numero-5/recargo_seguros/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-5/recargo_seguros/</guid>
+				<description>A number of important new developments have entered into effect starting on 1 July 2016, with respect to the legislation regulating the activity of the Consorcio de Compensación de Seguros (CCS), involving added coverage and a reduction in surcharges for automobile insurance.</description>
+			</item>
+			<item>
+				<title>Register of Compulsory Insurance [Registro de Seguros Obligatorios] kept by the Consorcio de Compensación de Seguros</title>
+				<link>http://localhost:1313/en/revistas/numero-4/actualidad/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-4/actualidad/</guid>
+				<description>Overview of the legal framework, purpose, public access, and operation of the Register of Compulsory Insurance managed by the Consorcio de Compensación de Seguros.</description>
 			</item>
 			<item>
 				<title>Study of hazard levels in relation to tsunamis along the Spanish coastline</title>
@@ -250,6 +271,13 @@
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/en/revistas/numero-17/bic_mapfre/</guid>
 				<description>Cultural heritage is understood to be the assets making up Spain&amp;rsquo;s Historical Heritage that have been accorded a special classification under our country&amp;rsquo;s national legislation. Cultural heritage assets also include real property located anywhere in Spain not owned by the central government that is protected in that category under the legislation of Spain&amp;rsquo;s regional authorities, the Autonomous Communities.</description>
+			</item>
+			<item>
+				<title>Earthquakes in Spain. Recent activity in the Alborán Sea</title>
+				<link>http://localhost:1313/en/revistas/numero-4/analisis/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-4/analisis/</guid>
+				<description>Analysis of the tectonic structures and seismic processes affecting the Iberian Peninsula, historical review of major earthquakes in Spain over the last 500 years, and study of the recent seismic activity in the southern Alborán Sea.</description>
 			</item>
 			<item>
 				<title>Failure to pay successive premiums and its effects on the Extraordinary Risk coverage by the Consorcio de Compensación de Seguros</title>
@@ -355,6 +383,13 @@
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/en/revistas/numero-21/australia/</guid>
 				<description>Since 2003, the Australian Reinsurance Pool Corporation (ARPC) has been the Australian Government’s provider of catastrophic reinsurance cover – first, for terrorism risk, and since 2022, for cyclone and cyclone related flooding risk. This paper focuses on the cyclone pool – from the creation of ARPC over two decades ago, the nature of cyclone risk in Australia, the commencement of the cyclone pool in 2022, its accepting risk from customers for the first time in January 2023, and official and community responses to its operations since then.</description>
+			</item>
+			<item>
+				<title>Climate change and insurance: a many-sided interrelationship</title>
+				<link>http://localhost:1313/en/revistas/numero-4/cambio_climatico_y_seguro/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-4/cambio_climatico_y_seguro/</guid>
+				<description>Analysis of climate change projections, extreme weather attribution, the role of the insurance sector in adaptation and mitigation, and Spain&amp;rsquo;s extraordinary risk coverage scheme managed by the Consorcio de Compensación de Seguros.</description>
 			</item>
 			<item>
 				<title>Digital applications: use in natural disaster management</title>
@@ -532,6 +567,13 @@
 				<description>Analysis of the Spanish State-sponsored coverage program for internationalisation risks, the role of CESCE as the management agent, and the functions of the Consorcio de Compensación de Seguros as administrator of the Internationalisation Risk Reserve Fund (FRRI).</description>
 			</item>
 			<item>
+				<title>Impact of climate change on natural disaster insurance in France</title>
+				<link>http://localhost:1313/en/revistas/numero-4/ccr/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-4/ccr/</guid>
+				<description>Modelling exercise by Caisse Centrale de Réassurance and Météo France on the evolution until 2050 of the main climatic risks covered by the French Cat Nat system and its future capacity.</description>
+			</item>
+			<item>
 				<title>Importance of computational modelling and risk forecasting in cardiovascular disease prevention to reduce morbidity, mortality, and health insurance claim rates</title>
 				<link>http://localhost:1313/en/revistas/numero-18/modelizacion_computacional/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -707,6 +749,13 @@
 				<description>In the last 20 years tsunamis have been responsible for hundreds of thousands of direct mortal victims and over 11 million displaced persons, which makes this type of phenomenon the most deadly of natural hazards in the history of humanity.</description>
 			</item>
 			<item>
+				<title>The Paris climate change summit: a success for multilateralism</title>
+				<link>http://localhost:1313/en/revistas/numero-4/clima_paris/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-4/clima_paris/</guid>
+				<description>Analysis of the Paris Climate Change Conference (COP21), the nine core pillars of the Paris Agreement, climate finance mobilization, non-governmental action, and the role of the European Union.</description>
+			</item>
+			<item>
 				<title>Transition of compulsory earthquake insurance policy to compulsory disaster insurance policy in Türkiye</title>
 				<link>http://localhost:1313/en/revistas/numero-21/transicion_seguro_obligatorio/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -768,6 +817,13 @@
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/en/revistas/numero-10/seguro_medioambiental/</guid>
 				<description>The option of Environmental Liability insurance is perhaps the most practical and economic choice when transferring/financing the environmental risk of companies in the event of a potential contamination incident or environmental damage.</description>
+			</item>
+			<item>
+				<title>Forecasts of the economic impacts of climate change</title>
+				<link>http://localhost:1313/en/revistas/numero-4/estudios_cambio_climatico/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-4/estudios_cambio_climatico/</guid>
+				<description>Joint review of the JRC PESETA II report (2014) and the OECD report (2015) on quantitative sector-by-sector and global economic projections of climate change impacts.</description>
 			</item>
 			<item>
 				<title>Geographical and temporal description of extraordinary risk loss data arising from natural causes</title>
@@ -924,6 +980,13 @@
 				<description>This article describes the measures taken by Consorcio and its collaborating loss adjusters to cope with this loss event, unprecedented in terms of the number of claims, the severity of the damage, and its social and media impacts.</description>
 			</item>
 			<item>
+				<title>Motor vehicle civil liability. Traffic events</title>
+				<link>http://localhost:1313/en/revistas/numero-4/resp_civil_automovilistica/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-4/resp_civil_automovilistica/</guid>
+				<description>Review of José A. Badillo Arias&amp;rsquo;s monograph (Aranzadi, April 2016) on the historical, regulatory, and case-law evolution of motor vehicle civil liability and the concepts of motor vehicle and traffic events.</description>
+			</item>
+			<item>
 				<title>New publication on Floods and climate change (2018)</title>
 				<link>http://localhost:1313/en/revistas/numero-11/cambio_climatico_inundaciones/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -1057,6 +1120,13 @@
 				<description>The IMPACTO project is an inter-institutional collaborative initiative aimed at sharing data and statistics on natural and technological events considered priorities for civil protection and causing damage and losses in Spain.</description>
 			</item>
 			<item>
+				<title>Jurisprudence about the Consorcio de Compensación de Seguros. Commentary on the judgment of the Supreme Court of 5 September 2011</title>
+				<link>http://localhost:1313/en/revistas/numero-4/jurisprudencia/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-4/jurisprudencia/</guid>
+				<description>Case-law commentary on the Supreme Court judgment of 5 September 2011 regarding the Consorcio de Compensación de Seguros&amp;rsquo;s exemption from posting appeal deposits under Article 12 of the LAJEIP and its effects on jointly liable codefendants.</description>
+			</item>
+			<item>
 				<title>Legal consequences derived from non-payment by the policyholder of the first premium or single premium</title>
 				<link>http://localhost:1313/en/revistas/numero-5/jurisprudencia/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -1111,6 +1181,13 @@
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/en/revistas/numero-18/lecturas/</guid>
 				<description>The growing evidence that there is something utterly wrong with the climate makes it more and more unnecessary to make efforts to convince sceptics that we are amidst a climate crisis or, as the Spanish legislation states, a climate emergency.</description>
+			</item>
+			<item>
+				<title>The AGERS natural disasters handbook</title>
+				<link>http://localhost:1313/en/revistas/numero-4/agers/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-4/agers/</guid>
+				<description>Review of the Natural Disasters Handbook published by AGERS (presented on 2 December 2015), focusing on risk management and the role of the Consorcio de Compensación de Seguros in Spain.</description>
 			</item>
 			<item>
 				<title>The obligation on vehicle owners to take out compulsory insurance. Comment on the Judgment by the Court of Justice of the European Union of 4 September 2018 (Case C-80/17)</title>
@@ -1271,13 +1348,6 @@
 				<link>http://localhost:1313/en/revistas/numero-14/ume/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/en/revistas/numero-14/ume/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title></title>
-				<link>http://localhost:1313/en/revistas/numero-5/recargo_seguros/</link>
-				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/en/revistas/numero-5/recargo_seguros/</guid>
 				<description></description>
 			</item>
 			<item>

@@ -194,6 +194,18 @@
                 href="http://localhost:1313/en/revistas/numero-24/editorial/"
                 />
   </url><url>
+    <loc>http://localhost:1313/en/revistas/numero-4/editorial/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/revistas/numero-4/editorial/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/revistas/numero-4/editorial/"
+                />
+  </url><url>
     <loc>http://localhost:1313/en/revistas/numero-5/editorial/</loc>
     <xhtml:link
                 rel="alternate"
@@ -252,6 +264,30 @@
                 rel="alternate"
                 hreflang="en-US"
                 href="http://localhost:1313/en/revistas/numero-9/editorial/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/en/revistas/numero-5/recargo_seguros/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/revistas/numero-5/recargo_seguros/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/revistas/numero-5/recargo_seguros/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/en/revistas/numero-4/actualidad/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/revistas/numero-4/actualidad/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/revistas/numero-4/actualidad/"
                 />
   </url><url>
     <loc>http://localhost:1313/en/revistas/numero-6/maremotos/</loc>
@@ -408,6 +444,18 @@
                 rel="alternate"
                 hreflang="en-US"
                 href="http://localhost:1313/en/revistas/numero-17/bic_mapfre/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/en/revistas/numero-4/analisis/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/revistas/numero-4/analisis/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/revistas/numero-4/analisis/"
                 />
   </url><url>
     <loc>http://localhost:1313/en/revistas/numero-6/jurisprudencia/</loc>
@@ -588,6 +636,18 @@
                 rel="alternate"
                 hreflang="en-US"
                 href="http://localhost:1313/en/revistas/numero-21/australia/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/en/revistas/numero-4/cambio_climatico_y_seguro/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/revistas/numero-4/cambio_climatico_y_seguro/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/revistas/numero-4/cambio_climatico_y_seguro/"
                 />
   </url><url>
     <loc>http://localhost:1313/en/revistas/numero-18/aplicaciones_digitales/</loc>
@@ -890,6 +950,18 @@
                 href="http://localhost:1313/en/revistas/numero-5/frri/"
                 />
   </url><url>
+    <loc>http://localhost:1313/en/revistas/numero-4/ccr/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/revistas/numero-4/ccr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/revistas/numero-4/ccr/"
+                />
+  </url><url>
     <loc>http://localhost:1313/en/revistas/numero-18/modelizacion_computacional/</loc>
     <xhtml:link
                 rel="alternate"
@@ -1190,6 +1262,18 @@
                 href="http://localhost:1313/en/revistas/numero-9/tsunami/"
                 />
   </url><url>
+    <loc>http://localhost:1313/en/revistas/numero-4/clima_paris/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/revistas/numero-4/clima_paris/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/revistas/numero-4/clima_paris/"
+                />
+  </url><url>
     <loc>http://localhost:1313/en/revistas/numero-21/transicion_seguro_obligatorio/</loc>
     <xhtml:link
                 rel="alternate"
@@ -1296,6 +1380,18 @@
                 rel="alternate"
                 hreflang="en-US"
                 href="http://localhost:1313/en/revistas/numero-10/seguro_medioambiental/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/en/revistas/numero-4/estudios_cambio_climatico/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/revistas/numero-4/estudios_cambio_climatico/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/revistas/numero-4/estudios_cambio_climatico/"
                 />
   </url><url>
     <loc>http://localhost:1313/en/revistas/numero-19/representacion_espacio_temporal/</loc>
@@ -1562,6 +1658,18 @@
                 href="http://localhost:1313/en/revistas/numero-23/gestion_pericial/"
                 />
   </url><url>
+    <loc>http://localhost:1313/en/revistas/numero-4/resp_civil_automovilistica/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/revistas/numero-4/resp_civil_automovilistica/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/revistas/numero-4/resp_civil_automovilistica/"
+                />
+  </url><url>
     <loc>http://localhost:1313/en/revistas/numero-11/cambio_climatico_inundaciones/</loc>
     <xhtml:link
                 rel="alternate"
@@ -1790,6 +1898,18 @@
                 href="http://localhost:1313/en/revistas/numero-24/proyecto_impacto/"
                 />
   </url><url>
+    <loc>http://localhost:1313/en/revistas/numero-4/jurisprudencia/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/revistas/numero-4/jurisprudencia/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/revistas/numero-4/jurisprudencia/"
+                />
+  </url><url>
     <loc>http://localhost:1313/en/revistas/numero-5/jurisprudencia/</loc>
     <xhtml:link
                 rel="alternate"
@@ -1884,6 +2004,18 @@
                 rel="alternate"
                 hreflang="en-US"
                 href="http://localhost:1313/en/revistas/numero-18/lecturas/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/en/revistas/numero-4/agers/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/revistas/numero-4/agers/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/revistas/numero-4/agers/"
                 />
   </url><url>
     <loc>http://localhost:1313/en/revistas/numero-9/jurisprudencia/</loc>
@@ -2436,6 +2568,19 @@
                 href="http://localhost:1313/en/revistas/numero-5/"
                 />
   </url><url>
+    <loc>http://localhost:1313/en/revistas/numero-4/</loc>
+    <lastmod>2024-06-30T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/revistas/numero-4/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/revistas/numero-4/"
+                />
+  </url><url>
     <loc>http://localhost:1313/en/revistas/numero-14/ume/</loc>
     <xhtml:link
                 rel="alternate"
@@ -2448,16 +2593,16 @@
                 href="http://localhost:1313/en/revistas/numero-14/ume/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/revistas/numero-5/recargo_seguros/</loc>
+    <loc>http://localhost:1313/en/revistas/numero-3/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/revistas/numero-5/recargo_seguros/"
+                href="http://localhost:1313/revistas/numero-3/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/en/revistas/numero-5/recargo_seguros/"
+                href="http://localhost:1313/en/revistas/numero-3/"
                 />
   </url><url>
     <loc>http://localhost:1313/en/categories/</loc>
