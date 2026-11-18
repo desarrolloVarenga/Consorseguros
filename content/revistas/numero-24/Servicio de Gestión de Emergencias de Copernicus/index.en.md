@@ -5,7 +5,7 @@ image: "/images/numero-24/foto_portada_copernicus.jpg"
 sidebar_image: "/images/numero-24/foto_portada_copernicus.jpg"
 sidebar_text: "Following the free and open data policy of the Copernicus program all CEMS products are freely accessible except for EFAS real-time forecasts, which are restricted to authorised users, usually river basin management bodies and civil protection authorities. The CEMS On-Demand Mapping can also only be activated by authorised users, typically civil protection agencies."
 summary: "When floods inundate a city, wildfires spread, or drought threatens water supplies, authorities need fast, accurate information. They rely on scientists and practitioners to find, generate, and interpret near real-time, trustworthy data. Throughout this article we illustrate how satellite-derived geospatial information has helped Spain prepare for, respond to, and recover from disasters."
-pdf_download: "/pdf/num24/copernicus.pdf"
+pdf_download: "/pdf/copernicus_en.pdf"
 weight: 4
 authors:
   - name: "André Moreira Gonçalves "

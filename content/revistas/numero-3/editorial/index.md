@@ -1,7 +1,7 @@
 ---
 title: "Editorial"
 category: "Editorial"
-pdf_download: "/almacen/pdf/editorial03.pdf"
+pdf_download: "/pdf/editorial03.pdf"
 sidebar_image: "/images/numero-3/editorial_numero3.jpg"
 sidebar_text: "En este tercer número de nuestra revista el artículo principal está dedicado a una detallada exposición sobre la aplicación en España del Real Decreto de evaluación y gestión de riesgos de inundación."
 weight: 1

@@ -1,7 +1,7 @@
 ---
 title: "12ª reunión del World Forum of Catastrophe Programmes en Madrid"
 category: "Análisis"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/12-reunion-del-world-forum-of-catastrophe-programmes-en-madrid.pdf"
 sidebar_image: ""
 sidebar_text: ""
 weight: 2

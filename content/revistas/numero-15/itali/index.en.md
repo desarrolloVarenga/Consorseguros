@@ -1,7 +1,7 @@
 ---
 title: "Volcanic hazard in Italy: a variegated landscape"
 category: "Colaboraciones"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/volcanic-hazard-in-italy-a-variegated-landscape.pdf"
 sidebar_image: ""
 sidebar_text: "Southern Italy is one of the most active tectonic and volcanic settings in the Mediterranean area, comprising persistently active and dormant volcanoes. As we write, two volcanoes feature a persistent eruptive activity: Stromboli, belonging to the Aeolian Archipelago, in the Tyrrhenian Sea, and Etna, along the Eastern coast of Sicily. Both volcanoes are usually characterized by mild explosivity featuring the launch of pyroclasts near the vent, occasional lava flows and lava fountains up to several hundreds of meters. This kind of activity may culminate in the development of eruptive columns, which may reach up to 10-15 thousand meters, in the case of Etna."
 weight: 4

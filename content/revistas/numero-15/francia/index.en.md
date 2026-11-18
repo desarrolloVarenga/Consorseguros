@@ -1,7 +1,7 @@
 ---
 title: "Volcanic hazard in France: the insurance response"
 category: "Colaboraciones"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/volcanic-hazard-in-france-the-insurance-response.pdf"
 sidebar_image: ""
 sidebar_text: "The plethora of natural hazards connected to volcanic eruptions means that there is a not inconsiderable likelihood that French territory will be affected by an event similar to or even more destructive than the eruption of the Cumbre Vieja Volcano in the Canary Islands."
 weight: 3

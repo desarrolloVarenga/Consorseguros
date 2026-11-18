@@ -1,7 +1,7 @@
 ---
 title: "Proyección de los daños a los bienes por causas hidrometeorológicas (inundación y viento) y estimación de la capacidad del seguro de riesgos extraordinarios en el contexto del cambio climático"
 category: "Colaboraciones"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/proyeccion-de-los-danos-a-los-bienes-por-causas-hidrometeorologicas.pdf"
 sidebar_image: "/images/numero-6/proyeccion_bienes_hidrometeorologicas01.jpg"
 sidebar_text: "Dentro de los riesgos hidrometeorológicos, los datos demuestran que existe un efecto de atenuación de la vulnerabilidad, que puede deberse a una serie de factores, como la mejora de los sistemas de alerta temprana, de la gestión hidrológica y de las emergencias, de medidas de ordenación del territorio y de concienciación del riesgo o la adopción de medidas de autoprotección por parte de los asegurados."
 weight: 2

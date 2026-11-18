@@ -1,7 +1,7 @@
 ---
 title: "Editorial"
 category: "Editorial"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/editorial10.pdf"
 sidebar_image: "/images/numero-10/foto_portada10_editorial.jpg"
 sidebar_text: "El artículo de análisis, firmado por altos funcionarios del Ministerio para la Transición Ecológica, comenzando por su Director General de Biodiversidad y Calidad Ambiental, Javier Cachón de Mesa, aporta un contexto sobre el desarrollo del concepto de responsabilidad ambiental y su aplicación normativa, así como sobre la distribución de papeles y la coordinación de los distintos actores en juego. La sección de colaboraciones profundiza en este tema desde las diferentes perspectivas de esos actores."
 weight: 1

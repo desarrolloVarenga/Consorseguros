@@ -1,7 +1,7 @@
 ---
 title: "The Consorcio de Compensación de Seguros' support for the Multi-peril Agricultural Insurance scheme"
 category: "Contributions"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/el-css-y-el-sac.pdf"
 sidebar_image: "/images/numero-22/foto_portada_CCS_y_su_apoyo_al_SAC.jpg"
 sidebar_text: "The Consorcio's reinsurance scheme and its equalisation reserve are the main pillars supporting the economic and financial stability of Spain's Multi-peril Agricultural Insurance scheme. That stability is essential to the long-term viability of the scheme and sends a message to producers that the scheme is robust, in that way contributing to the upward growth trend we have been observing for the past 10 years."
 weight: 5

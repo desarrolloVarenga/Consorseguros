@@ -1,7 +1,7 @@
 ---
 title: "Leverage This Moment to Integrate Artificial Intelligence into Your Business"
 category: "Contributions"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/leverage-this-moment-to-integrate-artificial-intelligence-into-your-business.pdf"
 sidebar_image: "/images/numero-20/foto_portada_aproveche_integrar_IA.jpg"
 sidebar_text: "As Peter Drucker aptly pointed out, There is nothing so useless as doing efficiently that which should not be done at all. Limiting the unlimited potential of AI to the confines of traditional business software is a task doomed to failure, as these platforms were not conceived to fully leverage the capabilities of this revolutionary technology."
 weight: 8

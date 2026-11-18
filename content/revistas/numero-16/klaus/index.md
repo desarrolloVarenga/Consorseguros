@@ -1,7 +1,7 @@
 ---
 title: "La tempestad Klaus"
 category: "Colaboraciones"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/la-tempestad-klaus.pdf"
 sidebar_image: "/images/numero-16/foto_portada16_KLAUS.jpg"
 sidebar_text: "Si  bien el CCS ha tenido que hacer frente a catástrofes muy importantes y dañinas, como fueron los mencionados terremoto de Lorca y DANA de septiembre de 2019 que, sin lugar a dudas, pusieron al límite la capacidad de gestión del CCS con sus medios propios, en el caso de Klaus el insólito número de solicitudes de indemnización superó con creces dicha capacidad. El CCS se enfrentaba, por tanto, a un reto mayúsculo: gestionar una siniestralidad de dimensión inédita, que superaba ampliamente su capacidad de gestión directa; hacerlo de forma coordinada con las entidades aseguradoras privadas y todo ello sin merma en la calidad del servicio prestado a los asegurados."
 weight: 3

@@ -1,7 +1,7 @@
 ---
 title: "Editorial"
 category: "Editorial"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/editorial06.pdf"
 sidebar_image: "/almacen/numero06/images/editorial_numero6.jpg"
 sidebar_text: "Este número de primavera 2017 de «Consorseguros Digital» dedica especial atención a una de las funciones relevantes del Consorcio de Compensación de Seguros (CCS): la protección de los asegurados afectados por casos de insolvencia de entidades aseguradoras."
 weight: 1

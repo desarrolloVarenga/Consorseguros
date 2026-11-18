@@ -1,7 +1,7 @@
 ---
 title: "Actividad aseguradora y cambio climático: generación de conocimiento para impulsar la acción en materia de adaptación"
 category: "Actualidad"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/actividad-aseguradora-y-cambio-climatico-generacion-de-conocimiento-para-impulsar-la-accion-en-materia-de-adaptacion.pdf"
 sidebar_image: "/images/numero-14/actividad_aseguradora01.jpg"
 sidebar_text: "Figura 1. Portada del informe «Impactos, vulnerabilidad y adaptación al cambio climático en la actividad aseguradora»."
 weight: 9

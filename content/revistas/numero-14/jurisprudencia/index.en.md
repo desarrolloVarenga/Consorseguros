@@ -1,7 +1,7 @@
 ---
 title: "Scope of subrogation actions brought by insurance companies against the Consorcio de Compensación de Seguros in cases of dispute. Interpretation of the status of injured party"
 category: "Reseñas"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/scope-of-subrogation-actions-brought-by-insurance-companies-against-the-consorcio-de-compensacion-de-seguros-in-cases-of-dispute-interpretation-of-the-status-of-injured-party.pdf"
 sidebar_image: ""
 sidebar_text: "One of the problems encountered in practice –the substantive matter addressed by the judgment discussed below– concerns who is to be understood to be the \"injured party\" to be paid compensation by the CCS in a dispute, because sometimes there are \"other injured parties\" involved in an accident that claim entitlement to compensation from the CCS by application of the dispute mechanism. These are insurance companies that have paid compensation to their insured party, hospitals that have treated the victim, repair shops, and the like."
 weight: 9

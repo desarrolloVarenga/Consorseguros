@@ -1,7 +1,7 @@
 ---
 title: "Projection of property damage due to hydrometeorological causes (flood and wind) and estimate of the extraordinary risk insurance scheme capacity in the context of climate change"
 category: "Contributions"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/projection-of-property-damage-due-to-hydrometeorological-causes-flood-and-wind-and-estimate-of-the-extraordinary-risk-insurance-scheme-capacity-in-the-context-of-climate-change.pdf"
 sidebar_image: "/images/numero-6/proyeccion_bienes_hidrometeorologicas01.jpg"
 sidebar_text: "Within the orbit of hydrometeorological risks, data show the existence of a mitigating effect for vulnerability. This vulnerability reduction can be attributed to a series of factors, such as better early warning systems, better hydrological and emergency management, land planning and risk awareness measures, as well as to the adoption of self-protection measures by the policyholders."
 weight: 2

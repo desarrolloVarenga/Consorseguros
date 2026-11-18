@@ -1,7 +1,7 @@
 ---
 title: "Jurisprudence about the Consorcio de Compensación de Seguros"
 category: "Reviews"
-pdf_download: "/almacen/pdf/jurisprudence-about-the-consorcio-de-compensacion-de-seguros02.pdf"
+pdf_download: "/pdf/jurisprudence-about-the-consorcio-de-compensacion-de-seguros02.pdf"
 weight: 7
 image: "/images/numero02/JURISPRUDENCIA.jpg"
 summary: "Two-part jurisprudential analysis: José Antonio Badillo Arias examines the concept of 'use of motor vehicle' following the CJEU ruling of 4 September 2014 (Vnuk case), and Santiago Espinosa Blanco comments on the Spanish Supreme Court ruling of 27 November 2014 regarding the exemption from paying appeal deposits in CCS recovery proceedings."

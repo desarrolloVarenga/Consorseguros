@@ -1,7 +1,7 @@
 ---
 title: "The insured interest and distinguishing it from the insured risk"
 category: "Case law"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/the-insured-interest-and-distinguishing-it-from-the-insured-risk.pdf"
 sidebar_image: "/images/numero-18/foto_portada18_jurisprudencia.jpg"
 sidebar_text: "The economic interest which a person has in the loss event not occurring constitutes a legitimate purpose of coverage in a contract for an insurance policy against loss or damage, the rationale for which lies precisely in obtaining compensation for harm to the interest. The loss event is thus the materialisation of the risk and the harm to the insured interest."
 weight: 6

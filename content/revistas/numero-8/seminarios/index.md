@@ -1,7 +1,7 @@
 ---
 title: "Seminarios del Plan Nacional de Adaptación al Cambio Climático: impactos y adaptación al cambio climático en el sector del seguro"
 category: "Reseñas"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/seminarios-del-plan-nacional-de-adaptacion-al-cambio-climatico-impactos-y-adaptacion-al-cambio-climatico-en-el-sector-del-seguro.pdf"
 sidebar_image: "/images/numero-8/foto_portada08_seminarios.jpg"
 sidebar_text: "El pasado noviembre de 2017, se celebró  con notable aceptación el seminario sobre los impactos y la adaptación al cambio climático en el sector del seguro en España. Este seminario se planteó con la intención de poner en contacto y relacionar el mundo científico técnico que trabaja en el campo de los fenómenos meteorológicos extremos y el mundo del sector asegurador y financiero, con la intención de buscar sinergias e identificar retos y dificultades mutuas, como son las necesidades de información climática que requiere el sector asegurador, la identificación de carencias y recomendaciones para fundamentar mejor la toma de decisiones o las posibilidades del seguro como herramienta para la adaptación al cambio climático y para la gestión de sus riesgos asociados."
 weight: 7

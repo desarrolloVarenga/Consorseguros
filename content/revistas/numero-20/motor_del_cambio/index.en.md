@@ -1,7 +1,7 @@
 ---
 title: "Artificial Intelligence, Driving Change in the Insurance Industry"
 category: "Contributions"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/artificial-intelligence-driving-change-in-the-insurance-industry.pdf"
 sidebar_image: "/images/numero-20/foto_portada_IA_el_motor_del_cambio.jpg"
 sidebar_text: "Businesses have been caught up in a process of developing strategies at a reasonable pace to adapt to the new working environment that has emerged thanks to artificial intelligence. The main initiatives in the insurance sector chiefly focus on improving operational efficiency, supporting decision-making, personalising commercial offerings, enhancing interactions with customers and customer service, and including technology product development tools."
 weight: 3

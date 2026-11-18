@@ -1,7 +1,7 @@
 ---
 title: "Editorial"
 category: "Editorial"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/editorial09.pdf"
 sidebar_image: "/images/numero-9/foto_portada09_editorial.jpg"
 sidebar_text: "A finales del pasado mes de septiembre de 2018, el CCS organizó en Madrid la 12ª reunión del WFCP, y ese importante evento constituye el eje central en torno al cual se articula el noveno número de la revista Consorseguros Digital. El artículo de análisis es una visión panorámica del WFCP y de su evolución histórica, así como del desarrollo de la 12ª reunión. "
 weight: 1

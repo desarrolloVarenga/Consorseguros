@@ -1,7 +1,7 @@
 ---
 title: "Editorial"
 category: "Editorial"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/editorial-15.pdf"
 sidebar_image: "/images/numero-15/foto_portada15_editorial.jpg"
 sidebar_text: "Contamos con la suerte de editar el número probablemente más internacional en nuestra historia, en el que desde varios rincones del mundo que representan riesgos situados en todos los continentes, expertos del seguro y de la vulcanología nos ilustran sobre el riesgo volcánico, su gestión y su cobertura aseguradora: Colombia, Francia, Islandia, Italia, Japón, Nueva Zelanda y Portugal. "
 weight: 1

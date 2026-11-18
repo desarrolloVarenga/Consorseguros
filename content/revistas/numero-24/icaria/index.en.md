@@ -5,7 +5,7 @@ image: "/images/numero-24/foto_portada_ICARIA.jpg"
 sidebar_image: "/images/numero-24/foto_portada_ICARIA.jpg"
 sidebar_text: "The study area covered the 36 municipalities of the AMB, with an approximate area of 636 km². The territorial complexity of the area under analysis—combining densely urbanised zones, critical infrastructure, industrial areas and particularly exposed coastal sectors—made it necessary to develop a large-scale model with a high level of detail."
 summary: "Over the past two decades, floods worldwide have affected more than 1.6 billion people, causing economic losses running into the billions (UNDRR, 2020). Urban areas are particularly vulnerable to these events due to their high population and infrastructure density, which leads to cascading failures in essential services."
-pdf_download: "/pdf/num24/ICARIA.pdf"
+pdf_download: "/pdf/proyecto_icaria_en.pdf"
 weight: 3
 authors:
   - name: "Àlex de la Cruz Coronas "

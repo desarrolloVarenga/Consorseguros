@@ -1,7 +1,7 @@
 ---
 title: "Las siniestralidades de Gloria"
 category: "Colaboraciones"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/las-siniestralidades-de-gloria.pdf"
 sidebar_image: "/images/numero-16/foto_portada16_gloria.jpg"
 sidebar_text: "La extensión de la inundación extraordinaria fue muy importante, registrándose 16.926 siniestros en 913 municipios de las comunidades autónomas de Cataluña, Comunidad Valenciana, Andalucía, Baleares, Murcia y Aragón, con un coste de 145,35 M€. El desglose del número de siniestros por clase de riesgo otorga el protagonismo, como es habitual, a las viviendas y comunidades de propietarios, con 11.047 siniestros, mientras que por costes totales destacan los riesgos empresariales que, en su conjunto, alcanzan 73,82 M€. Los costes medios más altos corresponden a las obras civiles, singularmente infraestructuras portuarias muy afectadas por el embate de mar. Respecto a los daños personales, las últimas noticias publicadas los fijaron en 13 muertos y 4 desaparecidos, la mayor parte en Cataluña y Baleares, principalmente a consecuencia del temporal marítimo."
 weight: 5

@@ -1,7 +1,7 @@
 ---
 title: "Measures to improve the resilience of historical buildings"
 category: "Contributions"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/measures-to-improve-the-resilience-of-historical-buildings.pdf"
 sidebar_image: ""
 sidebar_text: "The Dirección General del Agua [Directorate General for Water] (MITERD) [Ministry for the Ecological Transition and the Demographic Challenge] set in motion a specially designed programme under a contract to conduct assessments and propose measures to improve resilience, the 'PLAN PIMA ADAPTA. DESARROLLO DE PROGRAMAS PILOTO DE ADAPTACIÓN AL RIESGO DE INUNDACIÓN Y DE FOMENTO DE LA CONSCIENCIA DEL RIESGO DE INUNDACIÓN EN DIVERSOS SECTORES ECONÓMICOS'. Work was split three ways to assess the problems of three strategic sectors, i.e., agriculture, industry, and urban environments, the aspect dealt with in this article."
 weight: 8

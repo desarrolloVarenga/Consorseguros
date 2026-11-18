@@ -1,7 +1,7 @@
 ---
 title: "La importancia de los datos en la reducción de los riesgos de desastres"
 category: "Análisis"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/la-importancia-de-los-datos-en-la-reduccion-de-los-riesgos-de-desastres.pdf"
 sidebar_image: ""
 sidebar_text: ""
 weight: 2

@@ -1,7 +1,7 @@
 ---
 title: "The August 1983 floods in the Basque Country: events and lessons"
 category: "Contributions"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/the-august-1983-floods-in-the-basque-country-events-and-lessons.pdf"
 sidebar_image: "/images/numero-19/portada_avenidas_agosto_1983.jpg"
 sidebar_text: "Since then government administrations set about first of all to rebuild and then to seek to explain and quantify what had happened, to draw what lessons were to be learned and thus what approaches and steps could be taken with a view to tackling flood risk now and in the future."
 weight: 5

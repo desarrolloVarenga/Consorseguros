@@ -2,7 +2,7 @@
 title: "Nº 22 Primavera 2025"
 hero_title: "45 años de seguro agrario en España"
 cover_image: "/images/numero-22/banner_portada22.jpg"
-pdf_download: "/pdfs/numero-22.pdf"
+pdf_download: "/pdf/numero-22-es.pdf"
 layout: "list"
 type: "revistas"
 portada: "/images/numero-22/mini_portada_22.jpg"

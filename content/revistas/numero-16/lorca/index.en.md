@@ -1,7 +1,7 @@
 ---
 title: "Claims experience for Lorca, 11 May 2011"
 category: "Colaboraciones"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/claims-experience-for-lorca-11-may-2011.pdf"
 sidebar_image: "/images/numero-16/foto_portada16_lorca.jpg"
 sidebar_text: "In the old part of the city there were many homes that had rooms located in the building on the adjacent plot of land, which had at one time been split up, which gave rise to a whole set of problems when it came to justifying the actual insurance coverage for such abodes or rooms. The quandary also arose of illegal structures or unlawful extension of areas where building is allowed, such as on terraced roofs."
 weight: 4

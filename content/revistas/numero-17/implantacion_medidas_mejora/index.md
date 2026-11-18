@@ -1,7 +1,7 @@
 ---
 title: "La implantación de medidas de mejora de la resiliencia en edificios históricos"
 category: "Colaboraciones"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/la-implantacion-de-medidas-de-mejora-de-la-resiliencia-en-edificios-historicos.pdf"
 sidebar_image: ""
 sidebar_text: "Con el fin de difundir las medidas que cada titular de un edificio o una instalación puede implantar, la Dirección General del Agua (Ministerio para la Transición Ecológica y el Reto Demográfico) puso en marcha un contrato específico que se enfrentaba a la tarea de análisis y difusión de las medidas para mejora de la resiliencia: «PLAN PIMA ADAPTA. DESARROLLO DE PROGRAMAS PILOTO DE ADAPTACIÓN AL RIESGO DE INUNDACIÓN Y DE FOMENTO DE LA CONSCIENCIA DEL RIESGO DE INUNDACIÓN EN DIVERSOS SECTORES ECONÓMICOS». Los trabajos se dividieron en tres lotes, que analizaban la problemática de tres sectores estratégicos: el sector agrícola, el sector industrial y el ámbito urbano, que es el objeto de este artículo."
 weight: 8

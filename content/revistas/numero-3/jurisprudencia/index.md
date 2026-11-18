@@ -2,7 +2,7 @@
 title: "Jurisprudencia sobre el Consorcio de Compensación de Seguros"
 subtitle: "El impago de primas sucesivas y el fraccionamiento en el pago de la prima. Comentario de la Sentencia de la Sala 1ª del Tribunal Supremo, de 30 de junio de 2015."
 category: "Reseñas"
-pdf_download: "/almacen/pdf/jurisprudencia-sobre-el-consorcio-de-compensacion-de-seguros-3.pdf"
+pdf_download: "/pdf/jurisprudencia-sobre-el-consorcio-de-compensacion-de-seguros-3.pdf"
 sidebar_image: "/images/numero-3/foto_portada_jurisprudencia.jpg"
 weight: 7
 image: "/images/numero-3/foto_portada_jurisprudencia.jpg"

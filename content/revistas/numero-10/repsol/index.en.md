@@ -1,7 +1,7 @@
 ---
 title: "Environmental risks at Repsol"
 category: "Colaboraciones"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/environmental-risks-at-repsol.pdf"
 sidebar_image: ""
 sidebar_text: "As part of the risk management process, and within its commitment to continuous improvement, Repsol carries out both internal and external auditing processes. Regarding external processes, risk engineering visits by insurance companies are key. These visits represent one of the mechanisms that allow Repsol to keep in touch with industry best practices and implement improvements at facilities and in processes, thus reducing the risk of suffering an event with consequences for both safety and the environment, while at the same time fostering transparency and collaborative relations with insurance companies."
 weight: 4

@@ -1,7 +1,7 @@
 ---
 title: "Editorial"
 category: "Editorial"
-pdf_download: "/pdf/num24/editorial.pdf"
+pdf_download: "/pdf/editorial-23.pdf"
 sidebar_image: "/images/numero-23/foto_portada_editorial_23.jpg"
 sidebar_text: "Posiblemente la conclusión más general que podemos extraer de esta catástrofe y de su gestión es que no hay ningún otro medio como el seguro para garantizar la rápida recuperación económica de los daños."
 weight: 1

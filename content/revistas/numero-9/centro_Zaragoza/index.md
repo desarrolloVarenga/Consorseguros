@@ -1,7 +1,7 @@
 ---
 title: "IV Jornada sobre Biomecánica de Impactos, organizada por Centro Zaragoza"
 category: "Actualidad"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/iv-jornada-sobre-biomecanica-de-impactos-organizada-por-centro-zaragoza.pdf"
 sidebar_image: "/images/numero-9/foto_portada_09_centro-Zaragoza.jpg"
 sidebar_text: "Para Carlos Arregui, Director General de Centro Zaragoza, la biomecánica del impacto sirve para determinar cómo se producen las lesiones. Las ecuaciones matemáticas son útiles pero muy complejas. Por ello, la aproximación experimental y el conocimiento de la literatura científica son las mejores estrategias. Juan Luis de Miguel, subdirector de Centro Zaragoza, señaló que los impactos de gran intensidad son fácilmente medibles, ya que existen muchas herramientas para ello, lo que no ocurre para impactos de baja intensidad; si bien no era algo muy demandado hasta que cambió la Ley. A su juicio, el mejor abordaje para los impactos de baja intensidad es el experimental. Hay que ser escéptico con los modelos teóricos."
 weight: 9

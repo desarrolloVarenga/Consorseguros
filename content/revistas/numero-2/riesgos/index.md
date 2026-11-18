@@ -1,7 +1,7 @@
 ---
 title: "Los riesgos a que nos enfrentamos. Una perspectiva mundial"
 category: "Reseñas"
-pdf_download: "/almacen/pdf/los-riesgos-a-que-nos-enfrentamos-una-perspectiva-mundial.pdf"
+pdf_download: "/pdf/los-riesgos-a-que-nos-enfrentamos-una-perspectiva-mundial.pdf"
 weight: 6
 image: "/images/numero-2/Danger-signals-def.jpg"
 summary: "Análisis de Alfonso Nájera Ibáñez (Subdirector de Estudios y Relaciones Internacionales del CCS) sobre la décima edición del informe 'Global Risks 2015' del Foro Económico Mundial, examinando la evolución de los riesgos geopolíticos, medioambientales, sociales, económicos y tecnológicos, así como las cifras de siniestralidad catastrófica de 2014."

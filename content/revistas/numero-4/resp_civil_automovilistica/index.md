@@ -1,7 +1,7 @@
 ---
 title: "La responsabilidad civil automovilística. El hecho de la circulación"
 category: "Reseñas"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/la-responsabilidad-civil-automovilistica-el-hecho-de-la-circulacion.pdf"
 sidebar_image: "/images/numero-4/resp_civil_automovilistica.jpg"
 sidebar_text: "La regulación de la responsabilidad civil automovilística y el seguro que la ampara, junto con otros mecanismos, constituyen la mayor garantía de las víctimas de los accidentes de circulación, para que sean resarcidas en toda su integridad de los daños y perjuicios que sufran como consecuencia de dichos accidentes."
 weight: 7

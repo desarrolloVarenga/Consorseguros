@@ -1,7 +1,7 @@
 ---
 title: "XI Conferencia Internacional y Asamblea General Anual de IFIGS"
 category: "Reseñas"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/xi-conferencia-internacional-y-asamblea-general-anual-de-ifigs.pdf"
 sidebar_image: "/images/numero-21/ifigs_logo.png"
 sidebar_text: "El IFIGS, fundado el 15 de mayo de 2013 por un grupo de sistemas de garantía de seguros (SGS) de todo el mundo, es una red internacional sin ánimo de lucro de SGS, tanto de vida como de no vida. El principal propósito del IFIGS es intercambiar experiencias sobre la protección a los acreedores por contrato de seguro y facilitar y promover la cooperación internacional entre los SGS y otras organizaciones interesadas en el desarrollo de estos sistemas de protección, con el fin de mejorar las estructuras funcionales y las operaciones de los SGS y reforzar la protección de los acreedores por contrato de seguro en caso de insolvencia de una entidad aseguradora."
 weight: 8

@@ -1,7 +1,7 @@
 ---
 title: "Entidades para reducir la brecha en la cobertura (PGE): ámbito de las colaboraciones entre el gobierno y el mercado para el seguro de catástrofes"
 category: "Análisis"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/entidades-para-reducir-la-brecha-en-la-cobertura-pge-ambito-de-las-colaboraciones-entre-el-gobierno-y-el-mercado-para-el-seguro-de-catastrofes.pdf"
 sidebar_image: ""
 sidebar_text: "Metodología del estudio Nuestro estudio cualitativo de 13 PGE en 23 países se basa en: Entrevistas en profundidad con los actores de la PGE y sus partes interesadas clave (305 entrevistas con 359 participantes). 64 observaciones etnográficas con una muestra de PGE. Observación participante en 20 conferencias clave, talleres y reuniones, así como en 7 eventos sociales. Más de 9.500 páginas de datos documentales, tales como informes anuales, comunicados de prensa y artículos en los medios de comunicación. Nuestros informadores incluyen: las PGE; actores del mercado asegurador, como compañías aseguradoras, reaseguradoras, modelizadores de riesgos y corredores; actores gubernamentales como, por ejemplo, ministros, departamentos gubernamentales y organizaciones relacionadas con el gobierno; organizaciones intergubernamentales, tales como el Banco Mundial y la OCDE; otros actores clave en la brecha en la cobertura como, por ejemplo, consultores independientes y equipos de resiliencia. El foco de atención estuvo, de ese modo, no en una organización en particular, sino en el desarrollo de una comprensión holística de las soluciones locales particulares para la brecha en la cobertura a través de un enfoque de las múltiples partes interesadas."
 weight: 3

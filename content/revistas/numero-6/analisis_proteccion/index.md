@@ -1,7 +1,7 @@
 ---
 title: "Los programas de protección de los acreedores por contrato de seguro en situaciones de insolvencia. Estudio comparado entre estados y jurisdicciones. Nuevas perspectivas"
 category: "Análisis"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/los-programas-de-proteccion-de-los-acreedores.pdf"
 sidebar_image: "/images/numero-6/analisis_proteccion_acreedores01.jpg"
 sidebar_text: "Este artículo describe las principales características de las soluciones de protección de los asegurados en situaciones de insolvencia y las clasifica según su naturaleza, alcance y financiación."
 weight: 2

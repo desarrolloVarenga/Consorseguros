@@ -1,7 +1,7 @@
 ---
 title: "Viviendo tiempos interesantes"
 category: "Actualidad"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/viviendo-tiempos-interesantes.pdf"
 sidebar_image: ""
 sidebar_text: "Nuestra sociedad avanza, después de mucho sufrimiento y del sacrificio de muchos colectivos, muy en particular del sector sanitario, hacia la superación de la pandemia y por la senda de la recuperación de los niveles anteriores de actividad económica. El CCS quiere, como siempre, ser parte de las soluciones que apoyen a la sociedad en este difícil e incierto camino."
 weight: 9

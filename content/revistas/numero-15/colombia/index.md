@@ -1,7 +1,7 @@
 ---
 title: "La gestión del riesgo volcánico en Colombia: una historia eruptiva con importantes lecciones aprendidas"
 category: "Colaboraciones"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/la-gestion-del-riesgo-volcanico-en-colombia-una-historia-eruptiva-con-importantes-lecciones-aprendidas.pdf"
 sidebar_image: ""
 sidebar_text: "Los servicios y productos ofrecidos por la industria aseguradora y reaseguradora son, hoy más que nunca, parte de las alternativas para afrontar los fenómenos naturales con las que cuentan los aparatos productivos de las regiones que se encuentran en zonas de alta amenaza. Para el sector asegurador continúa siendo clave el conocimiento detallado asociado a estos tipos de riesgos, que no hay que olvidar, cuentan con el potencial de arrasar por completo una población. Desde hace un poco más de dos años se ha venido implementando en Colombia una nueva forma de operar el seguro de terremoto. Ahora la estimación de pérdidas por sismo debe realizarse a través de cualquiera de los modelos probabilísticos autorizados por el regulador colombiano. En este nuevo esquema, cada software computacional emplea la información física de los bienes muebles e inmuebles que componen las carteras de terremoto, mucha de ella obtenida en campo, siendo una de las grandes tareas de las aseguradoras que comercializan este seguro de daños el acceso a nuevos datos de las zonas de influencia de los riesgos de interés."
 weight: 2

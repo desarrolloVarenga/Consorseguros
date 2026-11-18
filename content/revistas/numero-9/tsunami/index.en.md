@@ -1,7 +1,7 @@
 ---
 title: "The need and the opportunity to study the economic impact of tsunamis on Spanish coasts"
 category: "Análisis"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/the-need-and-the-opportunity-to-study-the-economic-impact-of-tsunamis-on-spanish-coasts.pdf"
 sidebar_image: "/images/numero-9/foto_portada09_tsunami.jpg"
 sidebar_text: "Risk maps and studies do not serve a predictive purpose; in fact, the very last thing anybody wants is for even a single one of the premises upon which they are produced to come to pass. The purpose of risk maps is for them to serve as a tool to warn about possible undesirable consequences so that, from day one of publication or even before through educational and awareness work such as this very article, remedial work can start to mitigate those effects, consequences which are calculated using the best available science at any given time."
 weight: 5

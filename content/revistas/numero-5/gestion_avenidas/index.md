@@ -1,7 +1,7 @@
 ---
 title: "Pasado, presente y futuro de la gestión de las inundaciones en la cuenca hidrográfica del Ebro"
 category: "Colaboraciones"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/pasado-presente-y-futuro-de-la-gestion-de-las-inundaciones-en-la-cuenca-hidrografica-del-ebro.pdf"
 sidebar_image: "/images/numero-5/foto_portada_gestion_avenidas.jpg"
 sidebar_text: "La gestión del agua en España está encomendada a las Demarcaciones Hidrográficas en las cuencas intercomunitarias (su ámbito geográfico abarca a más de una comunidad autónoma) y son organismos autónomos dependientes del Ministerio de Agricultura, Alimentación y Medio Ambiente, mientras que en las cuencas intracomunitarias, la gestión la realizan los gobiernos autonómicos a través de entidades como son las agencias del agua."
 weight: 5

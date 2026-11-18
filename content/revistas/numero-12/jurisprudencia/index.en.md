@@ -1,7 +1,7 @@
 ---
 title: "The concept of a 'traffic event' in EU jurisprudence"
 category: "Reseñas"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/the-concept-of-a-traffic-event-in-eu-jurisprudence.pdf"
 sidebar_image: "/images/numero-12/foto_portada12_jurisprudencia.jpg"
 sidebar_text: "The regulatory definition of a traffic event must be related to driving motor vehicles, even when the engine is stopped, because even in these cases it can pose a risk to road users (think of accidents caused by failing to properly activate a vehicle's safety mechanisms, causing it to move without a driver). Therefore, it is sometimes not necessary for the vehicle to be moving in the places indicated to speak of traffic accidents. In this case, the decisive factor will be that the facts fall within the scope of traffic; that is, that they form part of traffic risk. The most common examples are vehicle fires that cause damage to other vehicles or property, motorcycle falls or vehicles moving while not running with the same effect, damage caused when getting into or out of a vehicle, etc."
 weight: 7

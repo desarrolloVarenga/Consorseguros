@@ -5,7 +5,7 @@ image: "/images/numero-24/foto_portada_incendios.jpg"
 sidebar_image: "/images/numero-24/foto_portada_incendios.jpg"
 sidebar_text: "La expansión y densificación de las masas forestales debido a la falta de gestión, el abandono de las actividades del sector primario y las políticas de exclusión del fuego de baja intensidad han generado paisajes homogéneos altamente vulnerables a los incendios extremos. En este contexto, la gestión forestal y del combustible de superficie en especial, en la que destacan los tratamientos silvícolas, las quemas prescritas y el pastoreo, se sitúa en el centro de la prevención y se presenta como un pilar clave dentro de una estrategia MIF (Ascoli et al., 2023)."
 summary: "Si bien la mayoría de los incendios forestales se originan por causas humanas, su comportamiento y propagación están influenciados en gran medida por las características y la distribución del combustible forestal, estrechamente vinculadas a la gestión del territorio. En algunas regiones como la mediterránea, la acumulación de combustibles en los paisajes debido al abandono rural, junto con la expansión de la matriz urbano-forestal, aumentan aún más el riesgo."
-pdf_download: "/pdf/num24/incendios.pdf"
+pdf_download: "/pdf/incendios_forestales.pdf"
 weight: 5
 authors:
   - name: "Eduard Plana Bach "

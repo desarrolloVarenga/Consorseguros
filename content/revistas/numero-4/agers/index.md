@@ -1,7 +1,7 @@
 ---
 title: "Manual sobre catástrofes naturales de AGERS"
 category: "Reseñas"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/manual-sobre-catastrofes-naturales-de-agers.pdf"
 sidebar_image: "/images/numero-4/agers.png"
 sidebar_text: "Manual sobre Catástrofes Naturales publicado por la Asociación Española de Gerencia de Riesgos y Seguros, AGERS."
 weight: 8

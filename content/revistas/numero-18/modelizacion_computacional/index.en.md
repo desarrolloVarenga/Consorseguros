@@ -1,7 +1,7 @@
 ---
 title: "Importance of computational modelling and risk forecasting in cardiovascular disease prevention to reduce morbidity, mortality, and health insurance claim rates"
 category: "Contributions"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/importance-of-computational-modelling-and-risk-forecasting-in-cardiovascular-disease-prevention-to-reduce-morbidity-mortality-and-health-insurance-claim-rates.pdf"
 sidebar_image: "/images/numero-18/doctor_Javier_Cabo_Salvador.jpg"
 sidebar_text: "Dr. Javier Cabo Salvador, Doctor in Medicine and Cardiovascular Surgery. Director of the Department of Health Sciences and Professor of Health Management and Health Sciences at UDIMA University, Professor of Biomedical Engineering at the Catholic University of Murcia (UCAM) and Professor of Biomedical Research at the Catholic University Nordestana (UCNE), Member of BIONECA (Biomaterials and Advanced Physical Techniques for Regenerative Cardiology and Neurology). Member of the New York Academy of Sciences. General Director of Medytec Salud, health branch manager for Groupama Plus Ultra (now Catalana de Occidente) 2000-2010. Head of Cardiovascular Surgery at La Paz University Hospital (1990-2017)."
 weight: 4

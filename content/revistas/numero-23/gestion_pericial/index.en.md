@@ -5,7 +5,7 @@ image: "/images/numero-23/foto_portada_gestion_pericial.jpg"
 sidebar_image: "/images/numero-23/foto_portada_gestion_pericial.jpg"
 sidebar_text: "The DANA that took place from 28 October to 4 November 2024 is unquestionably the most catastrophic episode Consorcio de Compensación de Seguros has had to deal with in its more than 70 years' existence, and managing loss adjustment for that mega loss event has posed an unprecedented challenge."
 summary: "This article describes the measures taken by Consorcio and its collaborating loss adjusters to cope with this loss event, unprecedented in terms of the number of claims, the severity of the damage, and its social and media impacts."
-pdf_download: "/pdf/num24/ICARIA.pdf"
+pdf_download: "/pdf/lessons_learned.pdf"
 weight: 7
 authors:
   - name: "Pablo José López Vilares"

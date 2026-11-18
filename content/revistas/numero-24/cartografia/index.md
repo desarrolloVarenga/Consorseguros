@@ -5,7 +5,7 @@ image: "/images/numero-24/foto_portada_cartografia_zona_inundables.jpg"
 sidebar_image: "/images/numero-24/foto_portada_cartografia_zona_inundables.jpg"
 sidebar_text: "La normativa establece una relación directa entre la cartografía de inundabilidad y los procedimientos administrativos relativos al uso del suelo, la planificación urbanística y las autorizaciones en el dominio público hidráulico, como se verá en la última parte de este artículo. La información contenida en el SNCZI tiene, por tanto, un importante efecto jurídico y administrativo, además de su evidente valor técnico."
 summary: "Este artículo analiza qué es el SNCZI, dónde se localiza su información, los mecanismos y metodologías empleados para su elaboración, y las cruciales repercusiones legales que introduce el Reglamento del Dominio Público Hidráulico (RGDPH) en la limitación de los usos del suelo en las zonas inundables."
-pdf_download: "/pdf/num24/cambio_climatico.pdf"
+pdf_download: "/pdf/cartografia_zonas_inundables.pdf"
 weight: 7
 authors:
   - name: "Mónica Aparicio Martín"

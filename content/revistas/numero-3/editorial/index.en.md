@@ -1,7 +1,7 @@
 ---
 title: "Editorial"
 category: "Editorial"
-pdf_download: "/almacen/pdf/editorial-eng-3.pdf"
+pdf_download: "/pdf/editorial-eng-3.pdf"
 sidebar_image: "/images/numero-3/editorial_numero3.jpg"
 sidebar_text: "The feature article in this third issue of our magazine is devoted to a detailed exposition of the application in Spain of the Royal Decree for the assessment and management of flood risks."
 weight: 1

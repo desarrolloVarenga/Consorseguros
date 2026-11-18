@@ -1,7 +1,7 @@
 ---
 title: "Prevention, protection, preparation and repair: measures to reduce flood risk along the axis of the Ebro"
 category: "Colaboraciones"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/prevention-protection-preparation-and-repair-measures-to-reduce-flood-risk-along-the-axis-of-the-ebro.pdf"
 sidebar_image: ""
 sidebar_text: ""
 weight: 2

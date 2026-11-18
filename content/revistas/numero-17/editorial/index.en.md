@@ -1,7 +1,7 @@
 ---
 title: "Editorial"
 category: "Editorial"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/editorial-17-en.pdf"
 sidebar_image: "/images/numero-17/foto_portada17_editorial.jpg"
 sidebar_text: "We introduce in this issue, as a novelty, the interview format. Our colleague Ms. Marta García interviewed, at the premises of the Ministry of Culture and Sports, Mr. Carlos González-Barandiarán, Assistant Director General for Registers and Documentation of the Cultural Heritage; Mr. Ángel Rivas, Secretary of the Assets Classification Board and Mr. José Luis Rodríguez, Manager of the Acquisitions and State Guarantee Service. They explain the workings of this State Guarantee instrument, by which the Kingdom of Spain provides a public insurance to works of art borrowed to or being borrowed from other institutions that is a key element in the insurance of works of art exhibited in venues owned by the central government."
 weight: 1

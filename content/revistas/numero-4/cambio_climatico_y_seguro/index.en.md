@@ -1,7 +1,7 @@
 ---
 title: "Climate change and insurance: a many-sided interrelationship"
 category: "Contributions"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/climate-change-and-insurance-a-many-sided-interrelationship.pdf"
 sidebar_image: "/images/numero-4/CC y seguro 1.JPG"
 sidebar_text: "The effects of warming are not limited just to an increase in the mean temperature; rather, the variation in the chemical composition of the atmosphere also entails a multitude of impacts on other climate system components, namely, precipitation and the precipitation pattern, atmospheric circulation, the frequency and strength of extreme weather events, and indeed all the ecological and economic systems that are affected by or depend on these."
 weight: 3

@@ -2,7 +2,7 @@
 title: "Legal consequences derived from non-payment by the policyholder of the first premium or single premium"
 subtitle: "Commentary on the Judgement handed down by the Plenum of the Supreme Court, of 10 September 2015"
 category: "Reviews"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/legal-consequences-derived-from-non-payment-by-the-policyholder-of-the-first-premium-or-single-premium.pdf"
 sidebar_image: "/images/numero-5/jurisprudencia01.jpg"
 sidebar_text: "In the case concerning us here, the controversy arose due to the non-payment by the policyholder/insured of the first premium of a third-party automobile insurance policy, which was interpreted differently by the two entities. The CCS was of the opinion that the insurance company should have paid the compensation since it had failed to terminate the insurance contract following the default in payment of the first premium by its insured, while the insurance company contended, in brief, that since a culpable default in payment was involved, the insurance policy had not become effective and, therefore, the vehicle was uninsured, a situation which determined the payment of compensation by the CCS."
 weight: 8

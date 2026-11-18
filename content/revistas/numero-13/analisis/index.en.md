@@ -1,7 +1,7 @@
 ---
 title: "Loss rate analysis for the extraordinary risks covered by the Consorcio de Compensación de Seguros, 1995-2019"
 category: "Análisis"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/loss-rate-analysis-for-the-extraordinary-risks-covered-by-the-consorcio-de-compensacion-de-seguros-1995-2019.pdf"
 sidebar_image: ""
 sidebar_text: ""
 weight: 2

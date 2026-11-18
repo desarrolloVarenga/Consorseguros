@@ -1,7 +1,7 @@
 ---
 title: "Drones: plan estratégico 2018-2021, responsabilidad civil y seguro"
 category: "Reseñas"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/drones-plan-estrategico-2018-2021-responsabilidad-civil-y-seguro.pdf"
 sidebar_image: ""
 sidebar_text: "En cuanto a las previsiones para España, a partir del número de aeronaves necesarias, se ha evaluado el impacto económico que supondrá para el sector la realización de ciertas tareas mediante la utilización de drones, así como el número de puestos de trabajo que se generarán para el período 2035 y 2050. En tal sentido, la flota de drones para uso profesional podría superar las 51.400 aeronaves en 2035 y alcanzar las 53.500 en 2050, con un impacto económico de hasta 1.520 millones de euros en 2050. En cuanto al número de puestos de trabajo, estima el Plan que este mercado genere 11.000 puestos de trabajo en 2035 y 11.500 empleos en 2050."
 weight: 8

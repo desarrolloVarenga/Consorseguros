@@ -1,7 +1,7 @@
 ---
 title: "Representación del riesgo de inundación en España a partir de los datos del seguro de riesgos extraordinarios"
 category: "Colaboraciones"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/representacion-del-riesgo-de-inundacion-en-espana-a-partir-de-los-datos-del-seguro-de-riesgos-extraordinarios.pdf"
 sidebar_image: "/images/numero-13/foto_portada13_representacion_riesgo.jpg"
 sidebar_text: "El riesgo de inundación, a partir de los datos de daños asegurados reelaborados, es mayor en aquellas provincias donde se combinan la proximidad al mar, relieves de importancia con cursos fluviales cortos y escaso tiempo de acumulación y llanuras o fondos de valle muy ocupados por el hombre. Así, Guipúzcoa, Murcia y Alicante presentan, por ese orden, los mayores daños per cápita. En menor medida, esto también es así para el resto del litoral mediterráneo –con las excepciones de Granada, por la simple razón de que la mayoría de la población no vive en la costa sino en el área metropolitana de la capital, y de Barcelona, cuya enorme población hace bajar la media de forma muy apreciable–; para el resto de la cornisa cantábrica, así como para las provincias de Cádiz, Pontevedra y Santa Cruz de Tenerife. "
 weight: 6

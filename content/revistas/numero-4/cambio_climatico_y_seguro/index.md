@@ -1,7 +1,7 @@
 ---
 title: "Cambio climático y seguro: una interrelación multifacética"
 category: "Colaboraciones"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/cambio-climatico-y-seguro-una-interrelacion-multifacetica.pdf"
 sidebar_image: "/images/numero-4/CC y seguro 1.JPG"
 sidebar_text: "Los efectos del calentamiento no se limitan al aumento de la temperatura media, sino que esta variación en la composición de la química atmosférica supone también múltiples impactos sobre otros elementos del sistema climático: las precipitaciones y su distribución, la circulación atmosférica, la frecuencia e intensidad de los extremos meteorológicos, así como sobre todos los sistemas ecológicos y económicos, que se ven afectados o dependen de ellos."
 weight: 3

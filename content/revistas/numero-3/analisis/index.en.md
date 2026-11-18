@@ -1,7 +1,7 @@
 ---
 title: "Initial results of the implementation of Directive 2007/60 on the assessment and management of flood risks: Flood Risk Management Plans"
 category: "In depth"
-pdf_download: "/almacen/pdf/flood-risk-management-plans.pdf"
+pdf_download: "/pdf/flood-risk-management-plans.pdf"
 sidebar_image: "/images/numero-3/ANALISIS_portada.jpg"
 sidebar_text: "The introduction of European Directive 2007/60 on the assessment and management of flood risk into Spanish law in 2010 is already producing results, being reflected in a better understanding and general awareness of flood risk."
 weight: 2

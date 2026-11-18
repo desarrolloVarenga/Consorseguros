@@ -1,7 +1,7 @@
 ---
 title: "Volcanic eruption risk management in Japan"
 category: "Colaboraciones"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/volcanic-eruption-risk-management-in-japan.pdf"
 sidebar_image: ""
 sidebar_text: "With 111 active volcanoes, Japan ranks 4th in number, after the United States, Russia and Indonesia. Although Japan’s share of global land area is 0.25 %, it houses 7 % of active volcanoes. The Japanese archipelago is situated where four tectonic plates meet, which describes why earthquakes and volcanic eruptions occur so frequently. Active volcanoes are aligned with the plate boundaries, and many of which are found in parallel to the trench formed by the Pacific Ocean Plate sinking underneath the Japanese archipelago."
 weight: 6

@@ -1,7 +1,7 @@
 ---
 title: "La Unidad Militar de Emergencias. Medio extraordinario del Estado en la respuesta ante emergencias"
 category: "Colaboraciones"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/la-unidad-militar-de-emergencias-medio-extraordinario-del-estado-en-la-respuesta-ante-emergencias.pdf"
 sidebar_image: ""
 sidebar_text: "Desde sus primeras intervenciones en 2007, la UME ha intervenido en más de 570 ocasiones, principalmente contra incendios forestales (404), seguido de inundaciones y rescates (57), tormentas invernales (35), riesgos tecnológicos (37), misiones en el exterior (17) y en «otro tipo» de operaciones (20). Ha sido en el año 2020 cuando se ha requerido un mayor esfuerzo sostenido como consecuencia de la lucha contra la pandemia, principalmente durante la Operación «BALMIS». La UME ha intervenido en seis terremotos: dos en España, Lorca (2011) y Melilla (2016), y cuatro en el extranjero, Haití (2010), Nepal (2015), Ecuador (2016) y México (2017). Además, la UME se desplegó en la isla de El Hierro durante la erupción volcánica submarina en 2011. Se ha desplegado en apoyo en la lucha contra incendios forestales en el extranjero: en Chile (2017), Portugal  (2017, 2018 y 2019) y Grecia (2018 y 2019). También ha participado de una manera muy activa en la misión de la ONU en el Líbano (UNIFIL) formando al personal para su intervención en emergencias."
 weight: 6

@@ -1,7 +1,7 @@
 ---
 title: "Los riesgos medioambientales en Repsol"
 category: "Colaboraciones"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/los-riesgos-medioambientales-en-repsol.pdf"
 sidebar_image: ""
 sidebar_text: "Como parte del proceso de gestión del riesgo, y dentro de su compromiso con la mejora continua, Repsol lleva a cabo procesos de auditoría, tanto internos como externos. En lo que respecta a los procesos externos, son clave las visitas de ingeniería de riesgos que realizan las compañías aseguradoras. Estas visitas constituyen uno de los mecanismos que permiten a Repsol estar en contacto con las mejores prácticas del sector e implementar mejoras en las instalaciones y procesos reduciendo, de esta manera, el riesgo de sufrir un evento con consecuencias, tanto para la seguridad como para el medioambiente, a la vez que se genera un ejercicio de trasparencia y de relaciones de colaboración con las compañías aseguradoras.
  "

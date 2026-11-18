@@ -1,7 +1,7 @@
 ---
 title: "La robótica y el derecho"
 category: "Reseñas"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/la-robotica-y-el-derecho.pdf"
 sidebar_image: "/images/numero-9/foto_portada09_robotica.jpg"
 sidebar_text: "En robótica se está produciendo una revolución tecnológica que va a afectar prácticamente a todas las actividades humanas, por lo que resulta urgente elaborar códigos éticos que permitan que los robots contribuyan a que la humanidad alcance la felicidad y la justicia, así como que las máquinas no escapen nunca al control humano. En el sentido apuntado, cabe señalar que la Comisión Europea inició, el pasado 20 de octubre, la primera de las reuniones del grupo de 52 expertos creado para estudiar el marco jurídico de la inteligencia artificial y la robótica. En consecuencia, estos expertos empezarán a trabajar en el catálogo de los derechos y obligaciones, tanto desde una perspectiva jurídico-legal como ética, de los robots y de los sistemas de inteligencia artificial. "
 weight: 6

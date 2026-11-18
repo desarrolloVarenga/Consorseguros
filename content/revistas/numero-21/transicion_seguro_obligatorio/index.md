@@ -1,7 +1,7 @@
 ---
 title: "La transición del seguro obligatorio de terremotos al seguro obligatorio de riesgos catastróficos en Turquía"
 category: "Colaboraciones"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/la-transicion-del-seguro-obligatorio-de-terremotos-al-seguro-obligatorio-de-riesgos-catastroficos-en-turquia.pdf"
 sidebar_image: "/images/numero-21/foto_portada_transicion_seguro_obligatorio.jpg"
 sidebar_text: "TCIP avanza en la actualidad hacia un marco de seguro de desastre más amplio, que dé respuestas a la evolución de los riesgos y aumente la resiliencia común. Este cambio pretende incorporar un programa de seguros obligatorios para múltiples peligros. El marco propuesto extiende la cobertura más allá de los terremotos e incluye peligros como las inundaciones, deslizamientos del terreno, tempestades de viento, granizo, incendios forestales y aludes. Esta iniciativa proporciona una respuesta fundamental a los distintos peligros asociados con las características geográficas y climáticas de Turquía."
 weight: 5

@@ -1,7 +1,7 @@
 ---
 title: "Robotics and the law"
 category: "Reseñas"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/robotics-and-the-law.pdf"
 sidebar_image: "/images/numero-9/foto_portada09_robotica.jpg"
 sidebar_text: "A technological revolution is happening in robotics that will affect virtually all human activities, for which reason there is a pressing need to draw up ethical codes that enable robots to help humanity to achieve happiness and justice, as well as to stop machines ever escaping from human control. In this regard it is worth noting that on 20 October this year the European Commission began with the first of its meetings of the group of 52 experts that was assembled to study the legal framework for artificial intelligence and robotics. These experts will start work on cataloguing the rights and obligations of robots and artificial intelligence from a legal and an ethical standpoint."
 weight: 6

@@ -1,7 +1,7 @@
 ---
 title: "Artificial intelligence and liability: proposed European Commission directives"
 category: "Contribution"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/artificial-intelligence-and-liability-proposed-european-commission-directives.pdf"
 sidebar_image: "/images/numero-18/foto_portada18_inteligencia%20artificial.jpg"
 sidebar_text: "Just as the fundamental aim of the Artificial Intelligence Regulation is to prevent damage, the AI Liability Directive lays down specific guarantees for victims to obtain reimbursement or compensation when such damage arises."
 weight: 5

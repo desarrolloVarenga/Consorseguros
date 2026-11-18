@@ -1,7 +1,7 @@
 ---
 title: "Fenómenos meteorológicos adversos más comunes que afectan a la Península Ibérica"
 category: "Colaboraciones"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/fenomenos-meteorologicos-adversos-mas-comunes-que-afectan-a-la-peninsula-iberica.pdf"
 sidebar_image: "/images/numero-16/foto_portada16_ciclones.jpg"
 sidebar_text: "En Canarias se han dado el caso de la llegada de los restos de ciclones extratropicales. Son casos muy infrecuentes, pero que deben tenerse en cuenta. Los ejemplos de Gloria y Filomena han producido un elevado impacto económico y se ha escrito mucho sobre ellos. La modelización y la mejora de los sistemas de observación permiten avanzar en la detección y predicción. Un caso muy interesante -y en parte olvidado- es el ocurrido el 11 de marzo de 2011 en el que se produjo la rotura de la troposfera con una fuerte incursión de aire estratosférico hasta una altura de 600 hPa. Y en este episodio la modelización ha permitido conocer mucho mas acerca de él. Las nevadas en la sierra de Segovia y de Madrid fueron impresionantes."
 weight: 5

@@ -1,7 +1,7 @@
 ---
 title: "Data on policies and sums insured in 2019 based on the new surcharge reporting system (SIR): prospects for future improvements in the data and scope of reporting"
 category: "Colaboraciones"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/data-on-policies-and-sums-insured-in-2019-based-on-the-new-surcharge-reporting-system-sir-prospects-for-future-improvements-in-the-data-and-scope-of-reporting.pdf"
 sidebar_image: "/images/numero-13/foto_portada13_datos_polizas.jpg"
 sidebar_text: "The main objectives of this paper can be summarized in three points: To present and analyze the data on policies and sums insured obtained through the SIR for the year 2019. To set out the possible improvements that can be carried out to increase the quality of the information once the first year's data from this new system has been analyzed. To show what the scope of all this information will be in the future."
 weight: 4

@@ -1,7 +1,7 @@
 ---
 title: "Pago de la prima después de seis meses del vencimiento. El pacto entre tomador y asegurador no es oponible al Consorcio de Compensación de Seguros, cuya relación jurídica con ambos es distinta, aunque derive de la misma póliza"
 category: "Jurisprudencia"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/pago-de-la-prima-despues-de-seis-meses-del-vencimiento.pdf"
 sidebar_image: "/images/numero-11/foto_portada11_comparativa.jpg"
 sidebar_text: "La situación que motiva este estudio, y este número de la revista Consorseguros, es el episodio de inundación producida por la DANA que afectó, principalmente, al cuadrante suroriental peninsular entre el 10 y el 15 de septiembre de 2019. A fecha 11 de diciembre de 2019, el importe total estimado para esta siniestralidad es de 505,6 millones de euros, en un total de 67.531 solicitudes de indemnización registradas en el CCS. Se trata de la siniestralidad por inundación con mayor número de tramitaciones en la historia del CCS y de la segunda en cuantía económica en todo el registro histórico, aunque supera por mucho a cualquiera de los grandes eventos de inundación considerados en el periodo de estudio de este trabajo, 1995-2018."
 weight: 9

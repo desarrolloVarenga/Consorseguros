@@ -1,7 +1,7 @@
 ---
 title: "Siniestralidad de Lorca, 11 de mayo de 2011"
 category: "Colaboraciones"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/siniestralidad-de-lorca-11-de-mayo-de-2011.pdf"
 sidebar_image: "/images/numero-16/foto_portada16_lorca.jpg"
 sidebar_text: "En la zona del casco antiguo había muchas viviendas que tenían habitaciones situadas en el inmueble de la parcela contigua, que en su día habían dividido, lo que daba muchos problemas a la hora de justificar la cobertura aseguradora efectiva de dichas estancias. También surgió el problema de construcciones ilegales o de aumento ilegal de edificabilidad, como construcciones en azotea."
 weight: 4

@@ -1,7 +1,7 @@
 ---
 title: "Alcance de la acción subrogatoria ejercitada por la entidad aseguradora frente al Consorcio de Compensación de Seguros en supuestos de controversia. Interpretación de la condición de perjudicado"
 category: "Reseñas"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/alcance-de-la-accion-subrogatoria-ejercitada-por-la-entidad-aseguradora-frente-al-consorcio-de-compensacion-de-seguros-en-supuestos-de-controversia.pdf"
 sidebar_image: ""
 sidebar_text: "Uno de los problemas que se plantean en la práctica –y que es el asunto de fondo abordado en la sentencia que comentamos–, es lo que debe entenderse por «perjudicado» a los efectos de la aplicación de la controversia por parte del CCS, puesto que en ocasiones «otros perjudicados» en el accidente pretenden que se les aplique este régimen de controversia y obtener la indemnización a cargo del CCS. Nos referimos a entidades aseguradoras que han pagado los daños a su asegurado, hospitales que han atendido al lesionado, talleres, etc."
 weight: 9

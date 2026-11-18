@@ -1,7 +1,7 @@
 ---
 title: "The State Guarantee for works of cultural interest"
 category: "Contributions"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/the-state-guarantee-for-works-of-cultural-interest.pdf"
 sidebar_image: ""
 sidebar_text: "The basic question that needs to be addressed to insure these assets properly, whether under property insurance or under transport insurance, is assessing their value. This is no easy task for assets of this kind, since in most cases their cultural value is incalculable and monetary compensation is small consolation. The only way around this impediment is what is referred to in the insurance trade as an agreed amount. That is, the owner and the insurer come to a consensus about the value to be indemnified if the insured asset is lost, preventing the rule of proportional insurance from coming into play due to underinsurance, to the detriment of the owner."
 weight: 2

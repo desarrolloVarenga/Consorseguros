@@ -1,7 +1,7 @@
 ---
 title: "The reform of the Spanish legal system for the assessment of personal injury damages in traffic accidents. Improvement by consensus and contribution by the insurance sector"
 category: "Contributions"
-pdf_download: "/almacen/pdf/the-reform-of-the-spanish-legal-system-for-the-assessment-of-personal-injury-damages-in-traffic-accident.pdf"
+pdf_download: "/pdf/the-reform-of-the-spanish-legal-system-for-the-assessment-of-personal-injury-damages-in-traffic-accidents-improvement-by-consensus-and-contribution-by-the-insurance-sector.pdf"
 sidebar_image: "/images/numero-3/foto_portada_accidentes.jpg"
 sidebar_text: "The protection of traffic accident victims is achieved through a set of legal instruments which facilitate a fair, certain and rapid compensation for the damages caused by the drivers of motor vehicles responsible for accidents."
 weight: 3

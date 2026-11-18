@@ -1,7 +1,7 @@
 ---
 title: "Multi-peril agricultural insurance: 45 years protecting the farming sector"
 category: "Contributions"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/enesa_en.pdf"
 sidebar_image: "/images/numero-22/foto_portada_enesa.jpg"
 sidebar_text: "In recent years, in particular starting in 2017, the insurance scheme entered a period of instability caused by the inability of premiums to cover the rates of reported losses. Except for the multi-peril agricultural insurance scheme's initial start-up years, there had never been such a protracted time of sustained imbalances as between 2017 and 2024."
 weight: 4

@@ -1,7 +1,7 @@
 ---
 title: "Perspectiva de una empresa internacional en la gestión de riesgos de la naturaleza"
 category: "Colaboraciones"
-pdf_download: "/almacen/pdf/perspectiva-de-una-empresa-internacional-en-la-gestion-de-riesgos-de-la-naturaleza.pdf"
+pdf_download: "/pdf/perspectiva-de-una-empresa-internacional-en-la-gestion-de-riesgos-de-la-naturaleza.pdf"
 weight: 4
 image: "/images/numero-2/Refineria-2.jpg"
 summary: "Análisis de Miguel Luque Herrán (Director de Seguros de REPSOL) sobre cómo una corporación internacional identifica, evalúa, mitiga y asegura los riesgos de la naturaleza bajo el marco de la norma ISO 31.000, detallando las cláusulas técnicas clave en la contratación de pólizas y el papel de los sistemas públicos de cobertura."

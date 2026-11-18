@@ -1,7 +1,7 @@
 ---
 title: "The risks we are dealing with. A global perspective"
 category: "Reviews"
-pdf_download: "/almacen/pdf/the-risk-we-are-dealing-with-a-global-perspective.pdf"
+pdf_download: "/pdf/the-risk-we-are-dealing-with-a-global-perspective.pdf"
 weight: 6
 image: "/images/numero-2/Danger-signals-def.jpg"
 summary: "Analysis by Alfonso Nájera Ibáñez (Deputy Manager for Studies and International Relations at the CCS) of the tenth edition of the World Economic Forum's 'Global Risks 2015' report, examining the evolution of geopolitical, environmental, societal, economic, and technological risks, as well as the 2014 natural catastrophe loss figures."

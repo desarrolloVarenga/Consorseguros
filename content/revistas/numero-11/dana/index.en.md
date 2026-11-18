@@ -1,7 +1,7 @@
 ---
 title: "Cut-off lows (DANA): Their characteristics and their effects"
 category: "Análisis"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/cut-off-lows-their-characteristics-and-their-effects.pdf"
 sidebar_image: ""
 sidebar_text: ""
 weight: 8

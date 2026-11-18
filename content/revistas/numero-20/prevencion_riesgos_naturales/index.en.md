@@ -1,7 +1,7 @@
 ---
 title: "Artificial Intelligence in Preventing Natural Perils"
 category: "Contributions"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/artificial-intelligence-in-preventing-natural-perils.pdf"
 sidebar_image: "/images/numero-20/foto_portada_IA_prevencion_riesgos_naturales.jpg"
 sidebar_text: "Tesicnor's NOE application makes it possible to digitise and speed up implementation of municipal disaster planning. In case of an emergency, the system provides real-time directions concerning the prevention tasks that need to be carried out and their status (not started, in progress, completed). Since it is a dynamic tool, the contact telephone numbers of the people in charge can be quickly and easily updated and new functionalities, such as sending automated SMS alerts and early flood warnings out to the public using AI, can be added."
 weight: 6

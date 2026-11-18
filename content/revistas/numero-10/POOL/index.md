@@ -1,7 +1,7 @@
 ---
 title: "El Pool Español de Riesgos Medioambientales: el seguro medioambiental al alcance de todos"
 category: "Colaboraciones"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/pool-espanol-de-riesgos-medioambientales-el-seguro-medioambiental-al-alcance-de-todos.pdf"
 sidebar_image: ""
 sidebar_text: "En el Pool, el mercado español tiene un referente en la oferta de seguros medioambientales que ha mantenido estable, solvente y atractiva a lo largo de los años. A ella tienen acceso compañías grandes, medianas y pequeñas, en las mismas condiciones técnicas. Mantiene la confianza de todos sus socios gracias a una total transparencia y neutralidad en la operativa, junto a una estricta confidencialidad en el tratamiento de la información que cada uno entrega. Los resultados técnicos, tras los tres primeros años de arranque, se mantienen crecientemente positivos y están respaldados por una prudente dotación de provisiones. El equipo del Pool es la unidad que atesora mayor experiencia en esta modalidad de seguros en España, tanto en suscripción como en gestión de siniestros."
 weight: 5

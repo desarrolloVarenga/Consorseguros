@@ -1,7 +1,7 @@
 ---
 title: "Editorial"
 category: "Editorial"
-pdf_download: "/almacen/pdf/editorialen02.pdf"
+pdf_download: "/pdf/editorialEN02.pdf"
 weight: 1
 image: "/images/numero-2/Editorial.jpg"
 summary: "Introduction to the second issue of Consorseguros digital magazine, highlighting analyses on the Spanish Combined Agricultural Insurance system, the Norwegian natural catastrophe compensation system, and natural risk management from an international company's perspective."

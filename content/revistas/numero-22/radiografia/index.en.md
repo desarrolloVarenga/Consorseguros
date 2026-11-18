@@ -1,7 +1,7 @@
 ---
 title: "X-ray image of Agroseguro and the Spanish multi-peril agricultural insurance scheme: linchpins of crop and livestock farming in Spain"
 category: "Contributions"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/x_ray_image.pdf"
 sidebar_image: ""
 sidebar_text: "Pablo González de Castejón, Managing Director of Seguros Generales Rural has noted that taking out insurance or not taking out insurance may have been an option a number of years ago, but at the present time it is purely a question of business survival, because multi-peril agricultural insurance is not only an effective tool, it is a genuine lifeline in today's increasingly more complex climate scenario. With this in mind, potential strains on the stability of Spain's Multi-peril Agricultural Insurance scheme caused by climate change are one of the main focal points drawing the attention of everyone involved in managing multi-peril agricultural insurance."
 weight: 3

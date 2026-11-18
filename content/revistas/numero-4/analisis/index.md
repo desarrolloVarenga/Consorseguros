@@ -1,7 +1,7 @@
 ---
 title: "Los terremotos en España. La reciente actividad en el mar de Alborán"
 category: "Análisis"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/los-terremotos-en-espana-la-reciente-actividad-en-el-mar-de-alboran.pdf"
 sidebar_image: "/images/numero-4/analisis00.jpg"
 sidebar_text: "El artículo explica las estructuras tectónicas y los procesos sísmicos que afectan a la Península Ibérica, describiendo los principales terremotos que se han producido en los últimos 500 años y poniendo en contexto los terremotos recientemente acaecidos en el mar de Alborán, que han afectado especialmente a la ciudad de Melilla."
 weight: 2

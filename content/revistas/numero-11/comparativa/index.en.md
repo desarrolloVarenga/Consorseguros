@@ -1,7 +1,7 @@
 ---
 title: "Comparative analysis of the claims incurred and borne by the CCS due to major floods: the relative weight of cut-off lows"
 category: "Artículos"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/payment-of-the-premium-after-six-months-from-its-due-date.pdf"
 sidebar_image: "/images/numero-11/foto_portada11_comparativa.jpg"
 sidebar_text: "There is a perception that the flood phenomena which have the greatest impact in Spain relate to cut-off lows (gotas frías) towards the end of summer and in early autumn. Events such as the flooding in the Basque Country of August 1983, still representing the costliest loss rate on record for Consorcio de Compensación de Seguros (CCS), the floods in the Valencian Region of 1982 or the recent cut-off low of September 2019 appear to support this impression."
 weight: 9

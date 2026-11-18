@@ -1,7 +1,7 @@
 ---
 title: "Administrative competencies and coordination in applying environmental liability legislation"
 category: "Análisis"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/administrative-competencies-and-coordination-in-applying-environmental-liability-legislation.pdf"
 sidebar_image: ""
 sidebar_text: ""
 weight: 2

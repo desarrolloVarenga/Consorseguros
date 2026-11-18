@@ -1,7 +1,7 @@
 ---
 title: "Digital applications: use in natural disaster management"
 category: "Contributions"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/digital-applications-use-in-natural-disaster-management.pdf"
 sidebar_image: "/images/numero-18/foto_portada18_aplicaciones_digitales.jpg"
 sidebar_text: "Digital applications can be integrated into disaster prevention, mitigation, and management plans in places where the population knows how to use mobile devices and where secure data networks are in place. Even though demand for the services provided by these applications is growing, most have been developed and are operated by private companies. Only a small percentage have been developed by public enterprises that offer them as a public service for information, training, and preparedness purposes in case of disaster events. Furthermore, nearly all these applications include a clause in their privacy policies entitling their operators to share user data with third parties and to sell the data entered into these applications for advertising or business purposes."
 weight: 3

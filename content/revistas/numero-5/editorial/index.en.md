@@ -1,7 +1,7 @@
 ---
 title: "Editorial"
 category: "Editorial"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/editorial05en.pdf"
 sidebar_image: "/images/numero-5/editorial_numero5.jpg"
 sidebar_text: "In this autumn 2016 issue of the Consorseguros Digital magazine, our intention is once again to examine the intersection between natural risk knowledge, its management and the management of the financial consequences of such risks from the perspective of an insurance institution."
 weight: 1

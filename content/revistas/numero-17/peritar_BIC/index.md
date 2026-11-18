@@ -1,7 +1,7 @@
 ---
 title: "Peritación para el Consorcio de Compensación de Seguros de daños producidos en bienes de interés cultural por riesgos extraordinarios"
 category: "Colaboraciones"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/peritacion-para-el-consorcio-de-compensacion-de-seguros-de-danos-producidos-en-bienes-de-interes-cultural-por-riesgos-extraordinarios.pdf"
 sidebar_image: ""
 sidebar_text: "La primera visita se suele realizar con el representante del asegurado y con técnicos especializados designados por el mismo, que generalmente se ocupan de la conservación, ya que el asegurado es plenamente consciente de lo trascendente del bien y su responsabilidad le lleva a ofrecernos un interlocutor experto, facilitando con ello la peritación. A esta primera inspección le siguen otras muchas que se requieren para la toma de datos, tanto de forma previa a las intervenciones como durante el proceso de reparación."
 weight: 7

@@ -1,7 +1,7 @@
 ---
 title: "Pago de la prima después de seis meses del vencimiento. El pacto entre tomador y asegurador no es oponible al Consorcio de Compensación de Seguros, cuya relación jurídica con ambos es distinta, aunque derive de la misma póliza"
 category: "Jurisprudencia"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/pago-de-la-prima-despues-de-seis-meses-del-vencimiento.pdf"
 sidebar_image: "/images/numero-11/foto_portada11_jurisprudencia.jpg"
 sidebar_text: "No debemos olvidar que el CCS es una entidad de naturaleza pública, que actúa en el ámbito del seguro de riesgos extraordinarios con plena sujeción a lo dispuesto en su Estatuto Legal, en la Ley de Contrato de Seguro y en el Reglamento del seguro de riesgos extraordinarios. De dichas normas se puede decir claramente que, en estos supuestos, no quedan cubiertos por el CCS los daños correspondientes a siniestros extraordinarios producidos antes del pago de la prima o cuando el contrato se encontrase suspendido con arreglo a lo dispuesto en la LCS."
 weight: 8

@@ -1,7 +1,7 @@
 ---
 title: "The IBER model and its application to flood studying"
 category: "Análisis"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/the-iber-model-and-its-application-to-flood-studying.pdf"
 sidebar_image: "/images/numero-9/foto_portada09_IBER.png"
 sidebar_text: "Iber has options for feeding in various different kinds of initial conditions and inflow and outflow boundary conditions. It has tools to automatically assign channel roughness and also features configuration options for internal boundary conditions to define spillways, sluices, bridges, drains or covered sections of channel. Post-processing consists of viewing the results in a way that makes them easy to interpret, for which purpose displays can be made using colours, level curves, labels, vectors, graphics, animations, etc."
 weight: 4

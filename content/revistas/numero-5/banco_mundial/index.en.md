@@ -1,7 +1,7 @@
 ---
 title: "Recent World Bank publications on disaster risk finance"
 category: "Reviews"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/recent-world-bank-publications-on-disaster-risk-finance.pdf"
 sidebar_image: "/images/numero-5/banco_mundial01.png"
 sidebar_text: ""
 weight: 6

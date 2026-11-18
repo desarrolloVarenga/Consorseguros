@@ -1,7 +1,7 @@
 ---
 title: "The CCS and its international presence"
 category: "Reviews"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/the-ccs-and-its-international-presence.pdf"
 sidebar_image: ""
 sidebar_text: "The international activities of the CCS are undertaken through separate sections of the institution according to the matter in question. The guidelines are framed by its Directorate-General and Management Committee with strategic objectives that are set in Three-Year Plans of Action, which mark out specific different actions to pursue in each period."
 weight: 10

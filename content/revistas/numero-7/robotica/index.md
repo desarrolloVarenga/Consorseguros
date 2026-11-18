@@ -1,7 +1,7 @@
 ---
 title: "Robótica, inteligencia artificial y vehículos autónomos"
 category: "Colaboraciones"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/robotica-inteligencia-artificial-y-vehiculos-autonomos.pdf"
 sidebar_image: "/images/numero-7/robotica01.jpg"
 sidebar_text: "El Parlamento Europeo considera que nos encontramos a las puertas de una era en la que los robots, bots, androides y otras formas de inteligencia artificial, va a desencadenar una nueva revolución industrial, por lo que resulta imprescindible que el legislador pondere las consecuencias jurídicas y éticas de dicha innovación."
 weight: 5

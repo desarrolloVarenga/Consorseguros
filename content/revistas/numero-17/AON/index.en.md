@@ -1,7 +1,7 @@
 ---
 title: "2021 Disaster Barometer of the Aon España Foundation's Catastrophe Observatory"
 category: "News"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/2021-disaster-barometer-of-the-aon-espana-foundations-catastrophe-observatory.pdf"
 sidebar_image: ""
 sidebar_text: "The sums insured under property damage insurance have grown from 1.6 trillion euros in 1990 to 6 trillion euros in 2021, according to Francisco Espejo Gil, the Consorcio de Compensación de Seguros's Assistant Director of Research and International Relations. Over that period the number of insurance policies grew from 15 million to nearly 60 million."
 weight: 10

@@ -1,7 +1,7 @@
 ---
 title: "1980. Decisiones que hacen historia"
 category: "Colaboraciones"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/decisiones.pdf"
 sidebar_image: ""
 sidebar_text: "El capital asegurado por el seguro agrario no ha dejado, con honrosas excepciones, de batir récords a lo largo de toda su historia, hasta rebasar los 18.000 millones de euros de valor de producción asegurada en 2025, cifra que representa la mitad de la renta agraria nacional –un porcentaje muy considerable, sobre todo en términos comparados– y que se apoya en el amplio aseguramiento de producciones clave para nuestro campo y nuestra economía, como el cereal, los frutales, el viñedo o las hortalizas, entre otras, pero que aún mantiene opciones de crecimiento en otros cultivos, como el olivar. En total, han sido casi 17 millones de pólizas y más de 20.000 millones de euros en primas, de las que el 50 % han sido aportadas por las administraciones públicas (ENESA y comunidades autónomas)."
 weight: 2

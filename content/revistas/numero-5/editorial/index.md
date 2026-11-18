@@ -1,7 +1,7 @@
 ---
 title: "Editorial"
 category: "Editorial"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/editorial05.pdf"
 sidebar_image: "/images/numero-5/editorial_numero5.jpg"
 sidebar_text: "En este número de otoño de 2016 de la revista Consorseguros Digital es nuestra intención incidir de nuevo en la intersección entre el conocimiento y gestión de los riesgos naturales y la gestión de sus consecuencias financieras desde la perspectiva de una institución aseguradora."
 weight: 1

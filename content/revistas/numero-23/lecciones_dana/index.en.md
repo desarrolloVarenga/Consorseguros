@@ -5,7 +5,7 @@ image: "/images/numero-23/foto_portada_lecciones_dana.jpg"
 sidebar_image: "/images/numero-23/foto_portada_lecciones_dana.jpg"
 sidebar_text: "In normal circumstances CCS covers losses from extraordinary risks using the resources it has at its disposal. With over 70 years behind it, CCS has dealt with major crises. But what happened in Valencia was an entirely different occurrence. The intensity, the swiftness, and above all the volume of the losses outpaced all projections."
 summary: "On 29 October 2024 a DANA, from the Spanish abbreviation for a closed upper level low or a cut-off low storm system, dropped more than 770 litres per square metre in just 24 hours. To put this in perspective, this is the volume of precipitation that falls on the province of Valencia in 19 months."
-pdf_download: "/pdf/num24/ICARIA.pdf"
+pdf_download: "/pdf/lecciones_aseguradoras_dana.pdf"
 weight: 3
 authors:
   - name: "Mirenchu del Valle Schaan"

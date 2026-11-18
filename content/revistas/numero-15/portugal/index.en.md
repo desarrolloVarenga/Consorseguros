@@ -1,7 +1,7 @@
 ---
 title: "Volcanic activity and insurance in Portugal"
 category: "Colaboraciones"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/volcanic-activity-and-insurance-in-portugal.pdf"
 sidebar_image: ""
 sidebar_text: "Property insurance coverage in Portugal typically includes property damage caused by volcanic eruptions under the category of seismic events and their repercussions, one being earthquakes. Lost earnings due to events of this type may be covered by business interruption insurance, which can be taken out together with seismic damage coverage."
 weight: 8

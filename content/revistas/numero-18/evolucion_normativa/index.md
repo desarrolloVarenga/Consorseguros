@@ -1,7 +1,7 @@
 ---
 title: "Evolución de la normativa reguladora de la cobertura de los riesgos extraordinarios por parte del Consorcio de Compensación de Seguros Serie 1954 - mayo 2023"
 category: "Análisis"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/evolucion-de-la-normativa-reguladora-de-la-cobertura-de-los-riesgos-extraordinarios-por-parte-del-consorcio-de-compensacion-de-seguros.pdf"
 sidebar_image: ""
 sidebar_text: ""
 weight: 2

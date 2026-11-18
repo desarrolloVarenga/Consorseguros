@@ -1,7 +1,7 @@
 ---
 title: "The most common adverse weather phenomena impacting the Iberian Peninsula"
 category: "Colaboraciones"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/the-most-common-adverse-weather-phenomena-impacting-the-iberian-peninsula.pdf"
 sidebar_image: "/images/numero-16/foto_portada16_ciclones.jpg"
 sidebar_text: "The remnants of extratropical cyclones have sometimes reached the Canary Islands. This is very unusual but should not be overlooked. The storms Gloria and Filomena caused heavy economic losses and much has been written about them. Modelling and improved systems for making observations have made it possible to make progress in detecting and predicting these events. One very interesting case, to some extent forgotten, took place on 11 March 2011. There was a break in the troposphere with intense penetration by stratospheric air to a height of 600 hPa. Modelling has provided much more detailed information about that episode. The snowfalls in the mountain ranges near Segovia and Madrid were spectacular."
 weight: 5

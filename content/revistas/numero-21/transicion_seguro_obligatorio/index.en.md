@@ -1,7 +1,7 @@
 ---
 title: "Transition of compulsory earthquake insurance policy to compulsory disaster insurance policy in Türkiye"
 category: "Colaboraciones"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/transition-of-compulsory-earthquake-insurance-policy-to-compulsory-disaster-insurance-policy-in-turkiye.pdf"
 sidebar_image: "/images/numero-21/foto_portada_transicion_seguro_obligatorio.jpg"
 sidebar_text: "TCIP is now advancing toward a more comprehensive disaster insurance framework to address the evolving risk landscape and enhance community resilience. This shift aims to establish a compulsory multi-hazard disaster insurance program. The proposed framework extends coverage beyond earthquakes to include risks such as floods, landslides, hurricanes, hailstorms, wildfires, and avalanches. This initiative is a pivotal response to the diverse hazards associated with Türkiye's geographical and climatic characteristics."
 weight: 5

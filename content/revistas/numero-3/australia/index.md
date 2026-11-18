@@ -1,7 +1,7 @@
 ---
 title: "Catástrofes naturales y seguro en Australia: ¿Ha llegado la hora de un sistema nacional de seguros de desastres naturales?"
 category: "Colaboraciones"
-pdf_download: "/almacen/pdf/catastrofes-naturales-y-seguro-en-australia.pdf"
+pdf_download: "/pdf/catastrofes-naturales-y-seguro-en-australia.pdf"
 sidebar_image: "/images/numero-3/inundaciones_queensland.jpg"
 sidebar_text: "Durante las inundaciones de Queensland más del 78 % del estado resultó afectado, con más de 58.463 viviendas y negocios inundados y un volumen adicional de 72.203 reclamaciones a las aseguradoras como consecuencia del ciclón Yasi."
 weight: 4

@@ -1,7 +1,7 @@
 ---
 title: "Prevención, protección, preparación y reparación: medidas para la disminución del riesgo de inundación en el eje del Ebro"
 category: "Colaboraciones"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/prevencion-proteccion-preparacion-y-reparacion-medidas-para-la-disminucion-del-riesgo-de-inundacion-en-el-eje-del-ebro.pdf"
 sidebar_image: ""
 sidebar_text: ""
 weight: 2

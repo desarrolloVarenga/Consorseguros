@@ -1,7 +1,7 @@
 ---
 title: "El impago de primas sucesivas y sus efectos en la cobertura de los riesgos extraordinarios por el Consorcio de Compensación de Seguros"
 category: "Reseñas"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/el-impago-de-primas-sucesivas-y-sus-efectos-en-la-cobertura-de-los-riesgos-extraordinarios-por-el-consorcio-de-compensacion-de-seguros.pdf"
 sidebar_image: "/images/numero-6/jurisprudencia01.jpg"
 sidebar_text: "En el caso que nos ocupa, y en relación con la cobertura del Consorcio de Compensación de Seguros (CCS) de los riesgos extraordinarios, se plantea la cuestión de los efectos que tiene el hecho de que la prima sucesiva se pague a la entidad aseguradora en una fecha posterior al siniestro -inundaciones-, cuando el contrato se encontraba en suspensión de efectos por no haberse abonado la prima en el mes posterior a su vencimiento."
 weight: 2

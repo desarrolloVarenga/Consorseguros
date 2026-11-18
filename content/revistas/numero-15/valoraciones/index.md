@@ -1,7 +1,7 @@
 ---
 title: "Revisión de las valoraciones del riesgo de erupción volcánica y aplicación al evento de La Palma"
 category: "Actualidad"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/revision-de-las-valoraciones-del-riesgo-de-erupcion-volcanica-y-aplicacion-al-evento-de-la-palma.pdf"
 sidebar_image: ""
 sidebar_text: "Se confirma que el orden de magnitud del capital expuesto en la isla de La Palma en 2013 es de 4.876 millones de euros para daños en los bienes y pérdidas pecuniarias, 4.464 y 412 millones de euros, respectivamente, incluido en el estudio de AON Benfield consultor externo, es coherente con el capital expuesto en la isla de La Palma en 2021, según datos SIR, de 5.316 millones de euros para daños en los bienes y pérdidas pecuniarias."
 weight: 10

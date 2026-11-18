@@ -1,7 +1,7 @@
 ---
 title: "FSFC: Una nueva arquitectura financiera para anticiparse al hambre"
 category: "Colaboraciones"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/fsfc_arquitectura_financiera.pdf"
 sidebar_image: "/images/numero-22/foto_portada_fsfc.jpg"
 sidebar_text: "El FSFC se apoya en una red de socios técnicos y operativos liderada por la FAO, el Programa Mundial de Alimentos (PMA) y OCHA, en colaboración con centros de investigación y actores del sector reasegurador, como Munich Re, que aportan su experiencia en modelización, evaluación de exposición y diseño de productos financieros basados en riesgo. Juntos, desarrollan modelos predictivos calibrados con evidencia, ajustados al riesgo real y no a decisiones discrecionales."
 weight: 8

@@ -1,7 +1,7 @@
 ---
 title: "La obligación del propietario de un vehículo a motor de suscribir el seguro de responsabilidad civil obligatorio: comentario a la Sentencia del Tribunal de Justicia de la Unión Europea de 4 de septiembre de 2018 en el asunto prejudicial C-80/2017"
 category: "Reseñas"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/obligacion-de-suscribir-el-seguro-de-rc-del-automovil-comentario-a-la-sentencia-del-tjue-de-4-de-septiembre-de-2018-en-el-asunto-prejudicial-c-802017.pdf"
 sidebar_image: ""
 sidebar_text: "El TJUE nos recuerda que, por una lado, todo vehículo a motor apto para circular, lo haga o no por los motivos que sea, debe estar debidamente asegurado y, por otro, los Fondos de Garantía no pueden asumir los supuestos en los que un vehículo no tuviera la obligación de estar asegurado por la circunstancias que fueran, como por ejemplo, por estar dados de baja. Dicha interpretación –dicen la Sentencia-, garantiza que las víctimas sean indemnizadas en todo caso, bien por el asegurador, en virtud de un contrato suscrito a tal fin, bien por el organismo previsto en el artículo 1, apartado 4, de la Segunda Directiva, en el supuesto de que no se haya cumplido la obligación de asegurar el vehículo implicado en el accidente o cuando dicho vehículo no haya sido identificado."
 weight: 8

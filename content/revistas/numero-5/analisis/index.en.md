@@ -1,7 +1,7 @@
 ---
 title: "Planning for Loss or Complexity? New Zealand’s Earthquake Commission: The Story So Far"
 category: "In depth"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/planning-for-loss-or-complexity-new-zealandandacute-s-earthquake-commission-the-story-so-far.pdf"
 sidebar_image: "/images/numero-5/ANALISIS_00.jpg"
 sidebar_text: "The New Zealand Earthquake Commission (EQC), the New Zealand public scheme to provide insurance cover against geological hazards, working in close cooperation with the private sector, had to face between 2010 and 2011 one of the biggest challenges for a catastrophe scheme: the Canterbury earthquake sequence."
 weight: 2

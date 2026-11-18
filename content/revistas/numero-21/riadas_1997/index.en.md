@@ -1,7 +1,7 @@
 ---
 title: "The 1997 floods in the province of Badajoz and subsequent measures taken by the water management authorities"
 category: "Contributions"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/the-1997-floods-in-the-province-of-badajoz.pdf"
 sidebar_image: ""
 sidebar_text: "The basis for action was to resize the channels so that they would be able to contain the maximum discharge volumes in the historical record, namely, the November 1997 flooding, so that if a similar flood situation recurred, it would cause no damage. In the case of Mérida and Badajoz, the opportunity provided by the works was also used to transform the environmentally neglected margins of the streams in question into green areas (parks and walking paths), land uses that were apt for areas potentially subject to flooding. This would help integrate the river channels into the urban setting while at the same time creating recreational areas for public use."
 weight: 6

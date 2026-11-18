@@ -1,7 +1,7 @@
 ---
 title: "Reseña de Disaster Insurance Reimagined"
 category: "Reseñas"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/resena-de-disaster-insurance-reimagined.pdf"
 sidebar_image: "/images/numero-19/disaster%20insurance%20reimagined.jpg"
 sidebar_text: ""
 weight: 8

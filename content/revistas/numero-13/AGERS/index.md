@@ -1,7 +1,7 @@
 ---
 title: "Guía de AGERS sobre la función de la gestión de riesgos en las entidades aseguradoras"
 category: "ACtualidad"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/guia-de-agers-sobre-la-funcion-de-la-gestion-de-riesgos-en-las-entidades-aseguradoras.pdf"
 sidebar_image: "/images/numero-13/foto_portada13_AGERS.jpg"
 sidebar_text: "La principal finalidad de la Guía es servir de referencia a los gestores de riesgos de las entidades aseguradoras al objeto de comprobar si están o no alineados con las prácticas y tareas comunes analizadas, de manera que permita la aplicación eficiente del sistema de gestión de riesgos. Se trata de un modelo flexible de forma que, aplicando el principio de proporcionalidad, cada entidad pueda autoevaluarse dentro del marco de actuación propuesto, teniendo en cuenta sus propias características, estructura y normativa interna. "
 weight: 8

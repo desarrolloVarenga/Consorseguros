@@ -1,7 +1,7 @@
 ---
 title: "Análisis de la situación meteorológica que ocasionó las inundaciones de agosto de 1983 en el País Vasco"
 category: "Colaboraciones"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/analisis-de-la-situacion-meteorologica-que-ocasiono-las-inundaciones-de-agosto-de-1983-en-el-pais-vasco.pdf"
 sidebar_image: "/images/numero-19/foto_portada_analisis_situacion_meteorologica.jpg"
 sidebar_text: "Los modelos pronosticaban un entorno de marcada inestabilidad, pero en absoluto un escenario de lluvias torrenciales como el que realmente tuvo lugar. «Muy nuboso con chubascos moderados más frecuentes en la mitad oriental (del Cantábrico)»: esta fue la predicción oficial para ese día. "
 weight: 4

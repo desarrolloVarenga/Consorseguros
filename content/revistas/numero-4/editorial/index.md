@@ -1,7 +1,7 @@
 ---
 title: "Editorial"
 category: "Editorial"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/editorial04.pdf"
 sidebar_image: "/images/numero-4/editorial_numero4.jpg"
 sidebar_text: "De cuando en cuando, un terremoto de magnitud perceptible y con daños de variada índole y severidad sacude nuestra geografía, recordándonos que nuestro país, aunque no es de los más amenazados, no ha estado exento históricamente de padecer sacudidas sísmicas, algunas de significativa intensidad. El artículo principal de este cuarto número repasa los grandes terremotos ocurridos en la Península Ibérica."
 weight: 1

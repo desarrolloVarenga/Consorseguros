@@ -1,7 +1,7 @@
 ---
 title: "Informe de la OCDE sobre la Respuesta al COVID-19 y a la brecha de protección frente a las pandemias en el seguro"
 category: "Reseñas"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/informe-de-la-ocde-sobre-la-respuesta-al-covid-19-y-a-la-brecha-de-proteccion-frente-a-las-pandemias-en-el-seguro.pdf"
 sidebar_image: ""
 sidebar_text: "Desde el punto de vista del seguro, el problema fundamental de la situación presente causada por el COVID-19 es la pérdida de beneficios sin daño material, producida por la adopción gubernamental de medidas preventivas para la contención de la propagación del virus, con impactos enormes sobre sectores como el comercio o la hostelería que hacen peligrar la viabilidad de millares de empresas, en particular las pequeñas y medianas."
 weight: 8

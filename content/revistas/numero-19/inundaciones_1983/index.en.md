@@ -1,7 +1,7 @@
 ---
 title: "40 years after the 1983 floodings"
 category: "Contributions"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/40-years-after-the-1983-floodings.pdf"
 sidebar_image: "/images/numero-19/inundaciones_1983.jpg"
 sidebar_text: "More than a hundred towns were declared disaster areas, with Llodio, Barakaldo, Arrigorriaga, Basauri, Galdácano and the Old Town and Peña districts of Bilbao being particularly hard hit."
 weight: 3

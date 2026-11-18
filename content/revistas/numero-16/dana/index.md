@@ -1,7 +1,7 @@
 ---
 title: "Las danas de 2012 y 2019 en el sureste peninsular"
 category: "Colaboraciones"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/las-danas-de-2012-y-2019-en-el-sureste-peninsular.pdf"
 sidebar_image: ""
 sidebar_text: "Junto  con una red pericial muy extensa, formada por técnicos de distinta formación, el otro gran mecanismo de flexibilidad con el que cuenta el CCS actualmente es la gestión compartida de las siniestralidades ocasionadas por riesgos extraordinarios, que permite utilizar a todas las unidades de gestión de siniestros de la entidad como vasos comunicantes, igualando las cargas de trabajo de los gestores de todas ellas, tanto en los servicios centrales como en las delegaciones territoriales."
 weight: 7

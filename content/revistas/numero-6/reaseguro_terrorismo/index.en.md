@@ -1,7 +1,7 @@
 ---
 title: "Terrorism risk (re) insurance: Minding the Gap"
 category: "Contributions"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/terrorism-risk-re-insurance-minding-the-gap.pdf"
 sidebar_image: "/images/numero-6/reaseguro_terrorismo.jpg"
 sidebar_text: "The most recent report from Pool Re’s Terrorism Research and Analysis Centre highlights the issue of the Terrorism Insurance Gap. Enormous terrorism risks to property remain uninsured. This coverage gap is exacerbated by a significant knowledge gap regarding the nature of terrorism risk, both at the level of individual businesses, and within the insurance industry."
 weight: 1

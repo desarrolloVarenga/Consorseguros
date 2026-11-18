@@ -1,7 +1,7 @@
 ---
 title: "Vehicle driver vs passenger"
 category: "Case law"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/vehicle-driver-vs-passenger.pdf"
 sidebar_image: "/images/numero-21/foto_portada_conductor_versus_ocupante.jpg"
 sidebar_text: "The judgment of 9 May 2023 by the Provincial Court of Appeal of Cartagena, Fifth Section, ruled that the passenger of a vehicle who had at a given point in time jerked on the steering wheel should be regarded as the driver and that the driver of the vehicle, who had been severely injured, should therefore be regarded as the passenger and hence covered by the compulsory vehicle insurance for the vehicle he was driving."
 weight: 9

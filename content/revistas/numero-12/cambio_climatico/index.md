@@ -1,7 +1,7 @@
 ---
 title: "El cambio climático en la costa y las medidas de adaptación"
 category: "Colaboraciones"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/el-cambio-climatico-en-la-costa-y-las-medidas-de-adaptacion.pdf"
 sidebar_image: ""
 sidebar_text: "Las medidas de protección consisten en el desarrollo de estructuras que reduzcan la exposición a la inundación, reduciendo la frecuencia de afección asociada a los periodos de retorno del NEM y a la subida del NMM. Dentro de esta categoría hay una amplia gama de posibilidades, por lo que la solución adecuada dependerá de un análisis multidisciplinar en el que existirán condicionantes morfodinámicos, constructivos, funcionales, administrativos o medioambientales. Si las protecciones costeras están bien diseñadas, son muy eficientes a la hora de reducir los daños asociados a NEM y, por tanto, aunque fuera necesario realizar cierta inversión en las mismas, este esfuerzo se ve más que compensado por la reducción de gastos en reparaciones o restituciones ambientales. "
 weight: 4

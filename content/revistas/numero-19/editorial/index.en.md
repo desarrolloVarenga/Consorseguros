@@ -1,7 +1,7 @@
 ---
 title: "Editorial"
 category: "Editorial"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/editorial-19-en.pdf"
 sidebar_image: "/images/numero-20/editorial_portada19.jpg"
 sidebar_text: "The floods caused havoc not just in the Basque Country but also in Navarre and Cantabria. As regrettable and catastrophic as they were in terms of both personal injury and property damage, they were also a wake-up call and an opportunity to undertake far-reaching changes, changes that can be seen today when we walk through the most hard-struck areas, which are now places of interest to tourists that offer world-class services. The situation also resulted in new approaches by the institutions in charge of water and land management, weather forecasting and insurance coverage. "
 weight: 1

@@ -5,7 +5,7 @@ image: "/images/numero-23/foto_portada_aprendizajes.jpg"
 sidebar_image: "/images/numero-23/foto_portada_aprendizajes.jpg"
 sidebar_text: "El primer paso que da un Mediador tras una DANA suele ser comprender quién indemniza y bajo qué procedimiento. La Mediación profesional ofrece claridad. Explicamos al cliente no solo qué cobertura se activa, sino cómo, cuándo, con qué documentación y qué expectativas razonables puede tener."
 summary: "Cada catástrofe natural es un recordatorio de la necesidad de mantener un sistema asegurador fuerte, accesible y bien articulado. El papel de la Mediación, lejos de ser accesorio, es central."
-pdf_download: "/pdf/num24/ICARIA.pdf"
+pdf_download: "/pdf/aprendizajes.pdf"
 weight: 6
 authors:
   - name: "Javier Barberá Farré"

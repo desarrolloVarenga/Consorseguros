@@ -1,7 +1,7 @@
 ---
 title: "Centro Zaragoza: breve historia de la evolución de un centro de investigación al servicio del sector asegurador español"
 category: "Colaboraciones"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/centro-zaragoza-breve-historia-de-la-evolucion-de-un-centro-de-investigacion-al-servicio-del-sector-asegurador-espanol.pdf"
 sidebar_image: "/images/numero-8/zaragoza00.jpg"
 sidebar_text: "En 1993 se creó el departamento de investigación de accidentes de tráfico. El objetivo era claro: investigar en profundidad las causas que daban origen a los accidentes para ayudar a esclarecer las responsabilidades en los mismos, pero también contribuir a prevenir que se repitieran esas causas, ayudando con ello a disminuir la cifra de muertos y heridos en las carreteras y ciudades españolas. Ese año, conviene recordarlo, habían fallecido en España 6.378 personas en accidentes de tráfico, más de cinco veces la cifra actual. El nivel de precisión alcanzado en el estudio en profundidad de los siniestros, gracias a la aplicación de una metodología científica de análisis, pronto posicionó a Centro Zaragoza como referente nacional en la investigación de accidentes de tráfico. Desde esa fecha se ha intervenido en el análisis de más de 2.000 siniestros graves."
 weight: 4

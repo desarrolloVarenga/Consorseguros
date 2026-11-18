@@ -1,7 +1,7 @@
 ---
 title: "New publication on Floods and climate change (2018)"
 category: "Reseñas"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/new-publication-on-floods-and-climate-change-2018.pdf"
 sidebar_image: "/images/numero-11/cambio_climatico_inundaciones00.png"
 sidebar_text: "The report bearing the title of 'Floods and climate change: European studies and experiences in the first cycle of the Floods Directive', recently published by the Ministry for Ecological Transition (MITECO), consists of four sections that look at the state of the art in both scientific and technical terms and the findings from assessments of the change in hazardousness based on regional and local studies."
 weight: 7

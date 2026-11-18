@@ -1,7 +1,7 @@
 ---
 title: "El seguro medioambiental y su relevancia en la gestión de los riesgos empresariales"
 category: "Colaboraciones"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/el-seguro-medioambiental-y-su-relevancia-en-la-gestion-de-los-riesgos-empresariales.pdf"
 sidebar_image: ""
 sidebar_text: "La situación actual del mercado no es tan favorable como en pasadas anualidades. En el último año, hemos visto ciertas reservas del mercado frente a la demanda de reducción de primas de los clientes. Las compañías han suplido la negativa casi generalizada de reducción de primas con una relativa facilidad para mejorar los términos de cobertura. El endurecimiento del mercado se debe al incremento de la siniestralidad de dos sectores principales: sector petroquímico y gestión de residuos. A esto se añade el que se hayan producido siniestros de relevancia en el mercado y la perspectiva de que pueda haberlos también, a futuro, en otros sectores."
 weight: 6

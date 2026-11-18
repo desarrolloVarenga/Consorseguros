@@ -1,7 +1,7 @@
 ---
 title: "El Plan Nacional de Adaptación al Cambio Climático: una revisión para afrontar el futuro"
 category: "Colaboraciones"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/el-plan-nacional-de-adaptacion-al-cambio-climatico-una-revision-para-afrontar-el-futuro.pdf"
 sidebar_image: "/images/numero-11/foto_portada11_Balance_PNACC.jpg"
 sidebar_text: "La actividad aseguradora está incluida entre los sectores de trabajo clave en el PNACC y sus programas de trabajo. Los seguros suponen una vía fundamental para la transferencia del riesgo, permitiendo que la sociedad aumente su capacidad de recuperación tras los daños producidos, entre otros, por los eventos extremos relacionados con el clima. Además, poseen un gran potencial para la promoción de medidas de reducción del riesgo, contribuyendo así al incremento de la resiliencia de la sociedad y fortaleciendo la viabilidad de sectores económicos estratégicos que deben afrontar los impactos del cambio climático, como el sector agrícola."
 weight: 6

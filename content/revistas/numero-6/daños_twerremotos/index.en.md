@@ -1,7 +1,7 @@
 ---
 title: "Catalogue of earthquake damage in Spain: a tool to reduce disaster risk"
 category: "News"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/catalogue-of-earthquake-damage-in-spain-a-tool-to-reduce-disaster-risk.pdf"
 sidebar_image: "/images/numero-6/catalogo_terremotos02.jpg.png"
 sidebar_text: "Given that the overriding objective of the CDTE is to catalogue all the damage caused by earthquakes in Spain, the information it covers has been grouped into two broad blocks according to content. The first block, named general data, features information on the seismic data, and the sources and documentation on the event. The second, damage by municipality, offers the data available on personal injury and damage to households, infrastructure, agriculture and livestock, industry, basic services, and equipment that is caused by each event."
 weight: 1

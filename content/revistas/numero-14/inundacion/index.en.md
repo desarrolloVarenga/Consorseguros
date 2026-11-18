@@ -1,7 +1,7 @@
 ---
 title: "Analysis of flood loss data in Spain at the municipal level"
 category: "Analysis"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/analysis-of-flood-loss-data-in-spain-at-the-municipal-level.pdf"
 sidebar_image: "/images/numero-14/foto_portada14_inundacion.png"
 sidebar_text: "The previous volume of this magazine published a depiction of flood risk in Spain based on Extraordinary Risk Insurance Scheme data. Resolution in that study was down to the provincial level, and a series of assumptions were made to refine the plot of the level of risk, e.g. extrapolation of loss data onto the percentage uninsured homes."
 weight: 2

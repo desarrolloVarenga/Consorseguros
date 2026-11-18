@@ -1,7 +1,7 @@
 ---
 title: "La gestión del riesgo volcánico en Japón"
 category: "Colaboraciones"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/La-gestion-del-riesgo-volcanico-en-Japon.pdf"
 sidebar_image: ""
 sidebar_text: "La Agencia Meteorológica de Japón (JMA) define cinco tipos de niveles de alerta volcánica basados en la zona objetivo y las acciones a adoptar definidas según medidas prácticas. Con un nivel de alerta 5 hay riesgo de gran erupción que implica evacuación. En el momento de escribir estas líneas, no hay ningún volcán con niveles de alerta 4 o 5. Hay tres clasificados como nivel 3 y cinco clasificados como nivel 2."
 weight: 6

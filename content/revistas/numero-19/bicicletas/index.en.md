@@ -1,7 +1,7 @@
 ---
 title: "Electric cycles are not motor vehicles Comment on the judgment by the Court of Justice of the European Union of 12 October 2023. Case C-286/22"
 category: "Case law"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/electric-cycles-are-not-motor-vehicles.pdf"
 sidebar_image: "/images/numero-19/foto_portada_bicicletas.jpg"
 sidebar_text: "Thus far we have encountered a mixed bag of incomplete legislation with nationwide regulations thrown together with municipal by-laws, which, in our view have still not addressed the problems that arise, particularly as these concern road safety. "
 weight: 7

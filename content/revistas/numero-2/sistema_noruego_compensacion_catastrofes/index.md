@@ -1,7 +1,7 @@
 ---
 title: "El sistema noruego de compensación por catástrofes naturales en el pasado y el futuro"
 category: "Colaboraciones"
-pdf_download: "/almacen/pdf/el-sistema-noruego-de-compensacion-por-catastrofes-naturales-en-el-pasado-y-en-el-futuro.pdf"
+pdf_download: "/pdf/el-sistema-noruego-de-compensacion-por-catastrofes-naturales-en-el-pasado-y-en-el-futuro.pdf"
 weight: 3
 image: "/images/numero-2/Malselv.jpg"
 summary: "Análisis de Gunn Eide (Agencia Noruega de Agricultura) sobre la evolución histórica, funcionamiento y reformas del sistema noruego de compensación por desastres naturales, combinando el Fondo Nacional de Desastres Naturales y el seguro obligatorio privado frente a retos futuros como el cambio climático."

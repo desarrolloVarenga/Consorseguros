@@ -1,7 +1,7 @@
 ---
 title: "Centro Zaragoza: brief history of a research centre serving Spain's insurance sector"
 category: "Colaboraciones"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/centro-zaragoza-brief-history-of-a-research-centre-serving-spains-insurance-sector.pdf"
 sidebar_image: "/images/numero-8/zaragoza00.jpg"
 sidebar_text: "In 1993 the traffic accident research department was created. The objective was clear: to investigate in depth the causes that gave rise to accidents to help clarify the responsibilities in them, but also to contribute to preventing those causes from being repeated, thereby helping to reduce the number of deaths and injuries on Spanish roads and cities. That year, it is worth remembering, 6,378 people had died in Spain in traffic accidents, more than five times the current figure. The level of precision achieved in the in-depth study of claims, thanks to the application of a scientific analysis methodology, soon positioned Centro Zaragoza as a national benchmark in traffic accident investigation. Since that date, it has intervened in the analysis of more than 2,000 serious claims."
 weight: 4

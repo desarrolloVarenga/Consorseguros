@@ -1,7 +1,7 @@
 ---
 title: "Sixth Symposium of the Aon España Foundation's Catastrophe Observatory 'Catastrophes and their Cost'"
 category: "Reseñas"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/sixth-symposium-of-the-aon-espana-foundations-catastrophe-observatory.pdf"
 sidebar_image: ""
 sidebar_text: "The ranking of disasters with the highest economic cost was topped by the cut-off low that occurred in Alicante and Murcia in September 2019, with an impact of 1,319 million euros, followed by the storm Gloria in January 2020 that covered all of mainland Spain, reaching a cost of 843 million euros. The third most expensive was the flooding and storms in southeastern Spain in December 2016, which did 272.72 million euros worth of damage. The ten largest disasters accounted for losses amounting to 3,540 million euros, 30.5% of the overall estimated economic cost."
 weight: 9

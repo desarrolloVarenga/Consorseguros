@@ -1,7 +1,7 @@
 ---
 title: "CESVIMAP: La innovación como servicio"
 category: "Colaboraciones"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/cesvimap-la-innovacion-como-servicio.pdf"
 sidebar_image: "/images/numero-14/foto_portada14_CESVIMAP.jpg"
 sidebar_text: "Figura 1. Sede de CESVIMAP (Ávila). Fuente: CESVIMAP."
 weight: 8

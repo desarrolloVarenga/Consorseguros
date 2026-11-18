@@ -1,7 +1,7 @@
 ---
 title: "No todo cabe en un algoritmo"
 category: "Colaboraciones"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/no-todo-cabe-en-un-algoritmo.pdf"
 sidebar_image: ""
 sidebar_text: "En el sector de los seguros, la demanda de rapidez en las respuestas está ejerciendo una gran presión para que las compañías se adapten y ofrezcan servicios más ágiles y accesibles. Los clientes esperan respuestas rápidas a sus consultas, ya sea para obtener cotizaciones, declarar un siniestro o solicitar asistencia. Como resultado, las aseguradoras están adoptando tecnologías innovadoras para agilizar los procesos y proporcionar respuestas instantáneas a sus clientes. Además, se están implementando la automatización y el uso de inteligencia artificial para mejorar la eficiencia y la capacidad de respuesta, permitiendo a las compañías de seguros satisfacer la demanda en un mercado cada vez más competitivo y exigente."
 weight: 5

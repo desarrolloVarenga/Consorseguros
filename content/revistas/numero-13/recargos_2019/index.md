@@ -1,7 +1,7 @@
 ---
 title: "Recargos 2019: impacto de la aplicación de la Resolución de 28 de marzo de 2018"
 category: "Colaboraciones"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/recargos-2019-impacto-de-la-aplicacion-de-la-resolucion-de-28-de-marzo-de-2018.pdf"
 sidebar_image: "/images/numero-13/foto_portada13_recargos2019.jpg"
 sidebar_text: "Según las estimaciones realizadas en el estudio actuarial llevado a cabo para la elaboración de la actual tarifa de riesgos extraordinarios, los recargos del Consorcio se iban a ver reducidos, de media anual, en un 13,3 % al pasar de aplicar, para los mismos capitales, la Resolución de 2006 a aplicar la Resolución de 2018. Por modalidades, la estimación fue la siguiente: Bienes: reducción del 11 %. Personas: reducción del 42 %. Pérdidas Pecuniarias (PP): reducción del 30 %."
 weight: 5

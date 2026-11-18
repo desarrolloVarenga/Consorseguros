@@ -1,7 +1,7 @@
 ---
 title: "Estrategias de gestión riesgos agrarios y cambio climático"
 category: "Colaboraciones"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/estrategias.pdf"
 sidebar_image: "/images/numero-22/foto_portada_estrategias.jpg"
 sidebar_text: "El CC va a aumentar la probabilidad de las amenazas, la posibilidad de que se produzcan sucesos adversos y, por tanto, si queremos mantener los riesgos en una escala asumible será necesario reducir la vulnerabilidad del sector agrario, reduciendo la exposición y la sensibilidad a esos sucesos adversos o aumentando la adaptación. Para ello, cobran mayor importancia las estrategias de prevención y mitigación para reducir el impacto negativo del suceso adverso, con el fin de que la transferencia de riesgos mediante el seguro sea asumible."
 weight: 7

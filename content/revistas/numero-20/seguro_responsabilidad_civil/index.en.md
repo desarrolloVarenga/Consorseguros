@@ -1,7 +1,7 @@
 ---
 title: "Third-Party Liability Motor Vehicle Insurance Does Not Cover the Insured Driver against the Death of Family Members Caused by the Driver's Own Action Judgment by the First Chamber of the Spanish Supreme Court of 2 April 2024"
 category: "Case law"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/third-party-liability-motor-vehicle-insurance-does-not-cover-the-insured-driver-against-the-death-of-family-members-caused-by-the-drivers-own-action.pdf"
 sidebar_image: "/images/numero-20/foto_portada_seguro_responsabilidad_civil.jpg"
 sidebar_text: "Civil liability always entails harm to another. This is specified in section 1902 of the Spanish Civil Code: whoever causes harm to another... Therefore, no civil liability arises when someone causes harm to oneself."
 weight: 7

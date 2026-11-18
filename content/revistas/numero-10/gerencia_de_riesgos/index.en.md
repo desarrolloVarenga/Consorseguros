@@ -1,7 +1,7 @@
 ---
 title: "Risk management and environmental liability"
 category: "Colaboraciones"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/risk-management-and-environmental-liability.pdf"
 sidebar_image: "/images/numero-10/foto_portada10_gerencia-de-riesgos.jpg"
 sidebar_text: "For training purposes in Risk Management, it is important to reiterate the difference between environmental liability and liability for pollution. Environmental liability refers exclusively to damage to natural resources (wild species and their habitat, aquifers, soil, and subsoil), which can only be claimed by Public Administrations against the holder of the economic or professional activity that caused said damage, as previously indicated. In this case, the responsible party must minimize the damage, repair the consequences, and return the assets to their previous state, keeping the competent Administration informed. On the other hand, in a loss involving damage caused by general civil liability (damage due to pollution), the damage is caused to property or persons and is claimed directly by the affected party. In this case, the obligation will be to indemnify and repair the harm caused to the third party."
 weight: 3

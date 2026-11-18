@@ -1,7 +1,7 @@
 ---
 title: "Editorial"
 category: "Editorial"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/editorial-18-EN.pdf"
 sidebar_image: "/images/numero-18/foto_portada18_editorial.jpg"
 sidebar_text: ""
 weight: 1

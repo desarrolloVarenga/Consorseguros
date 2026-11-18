@@ -1,7 +1,7 @@
 ---
 title: "Some readings for a climate crisis"
 category: "Reviews"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/some-readings-for-a-climate-crisis.pdf"
 sidebar_image: "/images/numero-18/foto_portada18_lecturas.jpg"
 sidebar_text: "The changes are impacting all the components of the climate system: weather, oceans, ice caps, and biosphere and, hence, all the human economical activities depending on and related to them. All these elements are now imbalanced and that is how the term of climate crisis, as we will discuss later, is much more suitable to describe the current and, undoubtedly, future challenge that humanity must face."
 weight: 8

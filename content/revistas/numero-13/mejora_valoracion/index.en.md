@@ -1,7 +1,7 @@
 ---
 title: "Improving the assessments of real costs of disasters"
 category: "Contributions"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/improving-the-assessments-of-real-costs-of-disasters.pdf"
 sidebar_image: ""
 sidebar_text: "Estimates of the comprehensive costs of disasters are necessary to analyse the benefits of past and future risk management policies. This information is helpful to inform decision making and to develop cost effective strategies and measures to prevent or reduce the negative impacts of disasters and threats."
 weight: 3

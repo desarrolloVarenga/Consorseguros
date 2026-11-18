@@ -1,7 +1,7 @@
 ---
 title: "Editorial"
 category: "Editorial"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/editorial-13.pdf"
 sidebar_image: "/images/numero-13/foto_portada13_editorial.jpg"
 sidebar_text: "Una de las publicaciones anuales con más tradición en el Consorcio de Compensación de Seguros es su Estadística de Riesgos Extraordinarios. En su edición de 2020 se incluyen datos del periodo 1971-2019. Esta publicación es una verdadera radiografía de los daños por riesgos extraordinarios en España, de la que es la fuente básica de información."
 weight: 1

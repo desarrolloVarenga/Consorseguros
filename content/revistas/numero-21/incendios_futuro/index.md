@@ -1,7 +1,7 @@
 ---
 title: "Incendios del futuro: nuevos enfoques participativos basados en la planificación territorial"
 category: "Colaboraciones"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/incendios-del-futuro-nuevos-enfoques-participativos-basados-en-la-planificacion-territorial.pdf"
 sidebar_image: ""
 sidebar_text: "Las áreas agroforestales se ven menos afectadas por incendios forestales grandes y severos que los bosques, matorrales o pastizales, lo que proporciona evidencia de su potencial a gran escala para reducir el riesgo de incendio y aumentar la capacidad de extinción. Los incendios grandes y severos están inherentemente vinculados al abandono rural desde mediados del siglo XX, lo que ha resultado en una transición forestal extremadamente rápida sobre un paisaje tradicionalmente cultivado. La pérdida de mosaicos agroforestales da lugar a la fusión de fragmentos forestales y una mayor continuidad del combustible, llevando muchos incendios forestales más allá de la capacidad de supresión."
 weight: 6

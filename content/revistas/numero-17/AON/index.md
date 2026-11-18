@@ -1,7 +1,7 @@
 ---
 title: "Barómetro de Catástrofes 2021 del Observatorio de Catástrofes de la Fundación Aon España"
 category: "Actualidad"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/barometro-de-catastrofes-2021-del-observatorio-de-catastrofes-de-la-fundacion-aon-espana.pdf"
 sidebar_image: ""
 sidebar_text: "Los capitales asegurados por daños en los bienes han crecido de 1,6 billones de euros en 1990 a 6 billones de euros en 2021, según Francisco Espejo Gil, Subdirector de Estudios y Relaciones Internacionales del Consorcio de Compensación de Seguros. En ese tiempo, el número de pólizas de seguros de bienes pasó de 15 millones a cerca de 60 millones."
 weight: 10

@@ -1,7 +1,7 @@
 ---
 title: "Editorial"
 category: "Editorial"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/editorial-16.pdf"
 sidebar_image: "/images/numero-16/foto_portada16_editorial.jpg"
 sidebar_text: "En los veinte años transcurridos entre 1990 y 2009, el capital asegurado en daños en los bienes por el Consorcio de Compensación de Seguros (CCS) ha pasado de 1,6 a 5 billones de euros, si bien desde entonces hasta hoy se ha mantenido entre 5 y 6 billones de euros. "
 weight: 1

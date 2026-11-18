@@ -5,7 +5,7 @@ image: "/images/numero-23/foto_portada_aprendizajes.jpg"
 sidebar_image: "/images/numero-23/foto_portada_aprendizajes.jpg"
 sidebar_text: "The first step an insurance broker takes after a cut-off low appearance, implying heavy rainfall and flooding, is usually to understand who compensates and under what procedure. Professional brokerage offers clarity. We explain to the client not only which coverage is activated, but how, when, with what documents and what reasonable expectations they can have."
 summary: "Each natural catastrophe serves as a reminder of the need for a strong, accessible and well-structured insurance system. The role of brokerage, far from being ancillary, is central."
-pdf_download: "/pdf/num24/ICARIA.pdf"
+pdf_download: "/pdf/lessons.pdf"
 weight: 6
 authors:
   - name: "Javier Barberá Farré"

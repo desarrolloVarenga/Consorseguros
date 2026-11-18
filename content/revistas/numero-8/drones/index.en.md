@@ -1,7 +1,7 @@
 ---
 title: "Drones: 2018-2021 strategy plan, civil liability and insurance"
 category: "Reviews"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/drones-2018-2021-strategy-plan-civil-liability-and-insurance.pdf"
 sidebar_image: ""
 sidebar_text: "With respect to forecasts for Spain, based on the number of aircraft required an assessment has been made for the sector of the economic impact of performing certain tasks by using drones, as well as the number of jobs that will be created for the 2035-2050 period. In this regard, the fleet of drones for professional use could top 51,400 aircraft in 2035 and reach 53,500 in 2050, producing an economic impact of up to 1.52 billion euros in 2050. In terms of jobs the plan estimates that the market will have created some 11,000 in 2035 and 11,500 in 2050."
 weight: 8

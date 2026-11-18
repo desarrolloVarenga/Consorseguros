@@ -1,7 +1,7 @@
 ---
 title: "Review of valuations of volcanic risk. How they apply to the La Palma event"
 category: "Actualidad"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/review-of-valuations-of-volcanic-risk-how-they-apply-to-the-la-palma-event.pdf"
 sidebar_image: ""
 sidebar_text: "It shows that the order of magnitude of the exposed sum insured on the island of La Palma in 2013, 4,876 million euros for property damage and pecuniary losses, 4,464 and 412 million euros, respectively, reported in the AON Benfield study, was consistent with the exposure on the island of La Palma in 2021, 5,316 million euros for property damage and pecuniary losses based on SIR data."
 weight: 10

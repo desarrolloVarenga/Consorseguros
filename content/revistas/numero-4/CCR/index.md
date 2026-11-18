@@ -1,7 +1,7 @@
 ---
 title: "Consecuencias del cambio climático para el seguro de catástrofes naturales en Francia"
 category: "Colaboraciones"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/consecuencias-del-cambio-climatico-para-el-seguro-de-catastrofes-naturales-en-francia.pdf"
 sidebar_image: "/images/numero-4/ccr.png"
 sidebar_text: "La Caisse Centrale de Réassurance (Caja Central de Reaseguros, CCR) es una empresa reaseguradora cuyo cometido es diseñar, poner en marcha y gestionar instrumentos eficientes que den respuesta a las necesidades de cobertura de riesgos extraordinarios, dando servicio a sus clientes y al interés general."
 weight: 4

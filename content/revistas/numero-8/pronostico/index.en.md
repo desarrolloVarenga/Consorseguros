@@ -1,7 +1,7 @@
 ---
 title: "El pronóstico médico legal en los accidentes de tráfico. Estado actual y nuevas exigencias (Solvencia II, Ley 35/2015)"
 category: "Análisis"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/el-pronostico-medico-legal-en-los-accidentes-de-trafico-estado-actual-y-nuevas-exigencias-solvencia-ii-ley-35-2015.pdf"
 sidebar_image: "/images/numero-8/foto_portada08_pronostico-198896426.jpg"
 sidebar_text: "Debemos distinguir entre pronóstico médico y pronóstico médico-legal. El pronóstico médico en los accidentes de tráfico se relaciona con la supervivencia a corto plazo, mientras que el pronóstico médico-legal se relaciona con las consecuencias a largo plazo. Cuando un perito médico realiza una valoración inicial de un accidentado hace un pronóstico médico-legal (días de curación previstos, secuelas previsibles, etc.), en la mayoría de los casos en base a su experiencia, ajustando las previsiones a las circunstancias concretas observadas (edad, antecedentes, etc.), y en base a la información facilitada. Podemos afirmar que la mayoría de las valoraciones realizadas son peritodependientes o subjetivas."
 weight: 3

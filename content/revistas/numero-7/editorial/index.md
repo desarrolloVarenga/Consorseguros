@@ -1,7 +1,7 @@
 ---
 title: "Editorial"
 category: "Editorial"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/editorial07.pdf"
 sidebar_image: "/images/numero-7/editorial.jpg"
 sidebar_text: "Todas las perspectivas para la reducción de los riesgos de desastre se ven complicadas por las previsiones de los escenarios de cambio climático, que prevén un aumento en la frecuencia y la intensidad, así como un cambio en la distribución, de los fenómenos hidrometeorológicos y climáticos extremos que generan peligro."
 weight: 1

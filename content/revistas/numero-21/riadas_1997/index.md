@@ -1,7 +1,7 @@
 ---
 title: "Las riadas de noviembre de 1997 en la provincia de Badajoz y las actuaciones posteriores de la administración hidráulica"
 category: "Colaboraciones"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/las-riadas-de-noviembre-de-1997-en-la-provincia-de-badajoz-y-las-actuaciones-posteriores-de-la-administracion-hidraulica.pdf"
 sidebar_image: ""
 sidebar_text: "El criterio de actuación fue dimensionar los encauzamientos para la máxima avenida histórica conocida, que era precisamente la de noviembre de 1997, de forma que, en el caso de volver a presentarse avenidas similares, éstas no causaran daños. Además, en los casos de Mérida y Badajoz se aprovechó para transformar las márgenes de los arroyos citados, en general muy degradadas ambientalmente, en zonas verdes (parques y paseos), usos compatibles con posibles inundaciones, que facilitaran la integración urbanística del cauce y pusieran a disposición de los ciudadanos zonas de ocio y recreo ."
 weight: 6

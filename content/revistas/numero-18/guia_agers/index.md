@@ -1,7 +1,7 @@
 ---
 title: "Manual de riesgos operacionales de Agers"
 category: "Reseñas"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/manual-de-riesgos-operacionales-de-agers.pdf"
 sidebar_image: "/images/numero-18/foto_portada18_GUIA_AGERS.jpg"
 sidebar_text: "La herramienta estratégica para la gestión del riesgo operacional es el análisis de riesgos. Este análisis incluye el proceso de apreciación del riesgo, a través de su identificación y evaluación, la metodología aplicable para su medición, que incluye tanto métodos cualitativos como semicuantitativos y cuantitativos, su monitorización y seguimiento a través de indicadores y el desarrollo de metodologías y técnicas de cuantificación de los riesgos operacionales."
 weight: 7

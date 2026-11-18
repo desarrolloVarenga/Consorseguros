@@ -1,7 +1,7 @@
 ---
 title: "Las particularidades de los siniestros asociados al patrimonio cultural"
 category: "Colaboraciones"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/las-particularidades-de-los-siniestros-asociados-al-patrimonio-cultural.pdf"
 sidebar_image: "/images/numero-17/foto_portada17_siniestros_asociados_patrimonio_cultural.jpg"
 sidebar_text: "La exposición a la luz o la ausencia de esta, el porcentaje de humedad, la altura a la que se encuentra o el material en el que se almacena son algunos de los factores que marcan la diferencia en lo que concierne a la conservación y el cuidado de un bien cultural, así como en el proceso de peritación que se realice en caso de siniestro. Por tal motivo, resulta crucial identificar las particularidades de cada factor para reducir los riesgos de sufrir un siniestro, así como para realizar una correcta peritación que requiera rapidez y especialización."
 weight: 6

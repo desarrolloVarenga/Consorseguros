@@ -1,7 +1,7 @@
 ---
 title: "Inundaciones pluviales en zonas urbanas españolas: un modelo de estimación de daños basado en la experiencia pericial"
 category: "Colaboraciones"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/inundaciones-pluviales-en-zonas-urbanas-espanolas-un-modelo-de-estimacion-de-danos-basado-en-la-experiencia-pericial.pdf"
 sidebar_image: ""
 sidebar_text: "Analizando únicamente las indemnizaciones relacionadas con edificios (excluyendo obras civiles y vehículos), el año 2018 supuso prácticamente un 75 % del total indemnizado concentrado en comercios, almacenes y restos de riesgos. Se confirma, por tanto, que los comercios son el tipo de propiedad más vulnerable a las inundaciones urbanas de origen pluvial. Con estos datos, parece destacable la relevancia de las inundaciones urbanas de origen pluvial y queda de manifiesto la necesidad de herramientas que ayuden a estimar los daños que estas pueden ocasionar. "
 weight: 5

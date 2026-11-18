@@ -1,7 +1,7 @@
 ---
 title: "Conferencia de la OCDE sobre la gestión financiera del riesgo de inundación"
 category: "Colaboraciones"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/conferencia-de-la-ocde-sobre-la-gestion-financiera-del-riesgo-de-inundacion.pdf"
 sidebar_image: "/images/numero-5/OCDE_02.jpg"
 sidebar_text: "La OCDE proporciona un foro único para que los gobiernos comparen experiencias sobre políticas, busquen respuestas a los problemas comunes, identifiquen buenas prácticas y trabajen para coordinar políticas nacionales e internacionales."
 weight: 3

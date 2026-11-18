@@ -1,7 +1,7 @@
 ---
 title: "Editorial"
 category: "Editorial"
-pdf_download: "/pdf/num24/editorial.pdf"
+pdf_download: "/pdf/editorial-22-en.pdf"
 sidebar_image: "/images/numero-22/foto_portada_editorial_22.jpg"
 sidebar_text: "This twenty second issue of the online magazine of Consorcio de Compensación de Seguros deals with the subject of agricultural insurance with contributions written by the main characters of a good part of the history of the Spanish Multi-Peril Agricultural Insurance and with other contributions highlighting the importance of agricultural insurance as a key element in global food security."
 weight: 1

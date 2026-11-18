@@ -1,7 +1,7 @@
 ---
 title: "The cut-off lows of 2012 and 2019 in the south-east of the Iberian Peninsula"
 category: "Colaboraciones"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/the-cut-off-lows-of-2012-and-2019-in-the-south-east-of-the-iberian-peninsula.pdf"
 sidebar_image: ""
 sidebar_text: "Together with a very extensive adjuster network comprising experts trained in different fields, the other great mechanism to afford flexibility which CCS currently has available is shared handling for claims experiences prompted by extraordinary risks, which enables deployment of all of CCS’ claims handling units as interconnected channels to share out the workloads of all of the handlers in them equally, in both central services and the territorial offices."
 weight: 7

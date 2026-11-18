@@ -1,7 +1,7 @@
 ---
 title: "Natural catastrophes and insurance in Australia: is it time for a national insurance scheme for natural disasters?"
 category: "Contributions"
-pdf_download: "/almacen/pdf/natural-catastrophes-and-insurance-in-australia.pdf"
+pdf_download: "/pdf/natural-catastrophes-and-insurance-in-australia.pdf"
 sidebar_image: "/images/numero-3/inundaciones_queensland.jpg"
 sidebar_text: "During the Queensland floods, more than 78% of the state was affected with more than 58,463 homes and businesses experiencing inundation and a further 72,203 insurance claims arising from Cyclone Yasi."
 weight: 4

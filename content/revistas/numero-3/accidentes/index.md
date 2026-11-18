@@ -1,7 +1,7 @@
 ---
 title: "La reforma consensuada del sistema legal de valoración de daños personales en accidentes de circulación. Mejoras de la protección del perjudicado y de la contribución del sector asegurador"
 category: "Colaboraciones"
-pdf_download: "/almacen/pdf/la-reforma-consensuada-del-sistema-legal-de-valoracion-de-danos-personales-en-accidentes-de-circulacion.pdf"
+pdf_download: "/pdf/la-reforma-consensuada-del-sistema-legal-de-valoracion-de-danos-personales-en-accidentes-de-circulacion.pdf"
 sidebar_image: "/images/numero-3/foto_portada_accidentes.jpg"
 sidebar_text: "La protección a las víctimas de accidentes de circulación se articula a través de un conjunto de instrumentos legales que facilitan un resarcimiento justo, cierto y rápido de los daños y perjuicios ocasionados por los conductores de vehículos a motor responsables de los accidentes."
 weight: 3

@@ -1,7 +1,7 @@
 ---
 title: "Environmental insurance and its significance for business risk management"
 category: "Colaboraciones"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/environmental-insurance-and-its-significance-for-business-risk-management.pdf"
 sidebar_image: ""
 sidebar_text: "The current market situation is not as favorable as in past years. In the last year, we have seen certain market reservations regarding customer demand for premium reductions. Companies have compensated for the almost widespread refusal to reduce premiums with relative ease in improving coverage terms. The hardening of the market is due to an increase in loss rates in two main sectors: the petrochemical sector and waste management. Added to this is the fact that major claims have occurred in the market, along with the prospect that there may also be others in other sectors in the future."
 weight: 6

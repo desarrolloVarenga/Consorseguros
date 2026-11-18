@@ -1,7 +1,7 @@
 ---
 title: "Inteligencia artificial para la prevención de riesgos naturales"
 category: "Colaboraciones"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/inteligencia-artificial-para-la-prevencion-de-riesgos-naturales.pdf"
 sidebar_image: "/images/numero-20/foto_portada_IA_prevencion_riesgos_naturales.jpg"
 sidebar_text: "La aplicación NOE de Tesicnor permite digitalizar los planes de protección municipal para agilizar su puesta en marcha. En caso de emergencia, el sistema da indicaciones en tiempo real sobre las labores de prevención que se tienen que realizar y el estado en el que se encuentran (por hacer, en proceso y realizado). Asimismo, al ser una herramienta dinámica, se pueden actualizar fácilmente los teléfonos de contacto del personal responsable, además de incorporar funcionalidades adicionales, como la posibilidad de enviar avisos automáticos a la población mediante SMS y alertas tempranas de inundaciones con IA."
 weight: 6

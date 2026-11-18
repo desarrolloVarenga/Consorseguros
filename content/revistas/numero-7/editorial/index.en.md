@@ -1,7 +1,7 @@
 ---
 title: "Editorial"
 category: "Editorial"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/editorial07en.pdf"
 sidebar_image: "/images/numero-7/editorial.jpg"
 sidebar_text: "All of the perspectives for disaster risk reduction have been complicated by the predictions of climate change scenarios, which envision an increase in frequency and intensity, together with a change in the distribution of the hydrometeorological and extreme climate events that generate danger."
 weight: 1

@@ -1,7 +1,7 @@
 ---
 title: "Insuring exceptional buildings: a Portuguese case study"
 category: "Contributions"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/insuring-exceptional-buildings-a-portuguese-case-study.pdf"
 sidebar_image: ""
 sidebar_text: "Fidelidade has a highly specialised team capable of handling the most complicated loss events. In addition, in special cases we also work with independent adjustment firms with in-house capabilities that enable them to handle specific types of loss expeditiously. Specialist adjusters are assigned to the insured from the outset and are named in the policy. When a loss occurs, the insured must fulfil the duty of salvage and take all available steps to minimise the damage and preserve the historical value of the buildings and their contents. Having a mitigation and contingency plan in place is another aspect that will have a positive impact when a loss occurs."
 weight: 5

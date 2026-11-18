@@ -1,7 +1,7 @@
 ---
 title: "Progress in bank recovery and resolution; a new legislative and institutional framework since 2015"
 category: "In depth"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/progress-in-bank-recovery-and-resolution-a-new-legislative-and-institutional-framework-since-2015.pdf"
 sidebar_image: "/images/numero-6/analisis_legislacion_banca01.jpg"
 sidebar_text: "This article examines the new legislative and institutional framework for bank recovery and resolution in the European Union following the financial crisis, including the SRM and the SRF."
 weight: 3

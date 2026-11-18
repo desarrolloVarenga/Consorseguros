@@ -1,7 +1,7 @@
 ---
 title: "The Paris climate change summit: a success for multilateralism"
 category: "Contributions"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/the-paris-climate-change-summit-a-success-for-multilateralism.pdf"
 sidebar_image: "/images/numero-4/clima_paris.png"
 sidebar_text: "The Paris Agreement has also been an incontrovertible success of worldwide diplomacy, which has for years been seeking a framework for action that would bring all countries into the fold."
 weight: 5

@@ -1,7 +1,7 @@
 ---
 title: "Non-payment of subsequent premiums. The suspension of effects of the contract is not enforceable against the injured third party, and the Consorcio de Compensación de Seguros takes over this position when it exercises proceedings for recourse in a claim for the recovery of the amount paid to injured third parties in fulfilment of its function as a Guarantee Fund due to controversy concerning the coverage of the accident by the insurance policy"
 category: "Reviews"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/failure-to-pay-successive-premiums-and-its-effects-on-the-extraordinary-risk-coverage-by-the-consorcio-de-compensacion-de-seguros.pdf"
 sidebar_image: "/images/numero-8/foto_portada_jurisprudencia.jpg"
 sidebar_text: "Perhaps the most interesting aspect of the judgement examined here is the affirmation that the CCS, in these cases in which it indemnifies the injured party due to controversy and afterwards initiates proceedings for recourse against the insurance undertaking, acquires injured third party status upon taking over the latter’s position by subrogation, being able -as occurs in this proceeding- to take direct action against the insurance undertaking which should have paid for the damages."
 weight: 9

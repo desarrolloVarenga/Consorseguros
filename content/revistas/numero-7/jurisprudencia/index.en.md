@@ -1,7 +1,7 @@
 ---
 title: "Exceptional harm in Law 35/2015 of 22 September reforming the system for the assessment of damages for harm or loss caused to victims in traffic accidents"
 category: "Reviews"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/2015-of-22-september-reforming-the-system-for-the-assessment-of-damages-for-harm-or-loss-caused-to-victims-in-traffic-accidents.pdf"
 sidebar_image: "/images/numero-7/jurisprudencia01.jpg"
 sidebar_text: "The facts that gave rise to the judgement that we are commenting on concern the running over and death of the mother of the aggrieved party by the driver of an uninsured vehicle."
 weight: 9

@@ -1,7 +1,7 @@
 ---
 title: "Editorial"
 category: "Editorial"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/editorial-21-en.pdf"
 sidebar_image: "/images/numero-21/foto_portada_editorial_21.jpg"
 sidebar_text: "This twenty first issue of Consorseguros Digital coincides with two outstanding events for Consorcio de Compensación de Seguros (CCS): one, the 70th anniversary of the company, that took place on December 16th 2024, and the other, far less festive, the management of the most important loss event that Spain and this entity has had, at least in these 70 years: the floods caused by the cut-off low (dana, for the Spanish) affecting multiple areas of the south and east of mainland Spain and the Balearic Islands, much particularly on October 29th around Valencia."
 weight: 1

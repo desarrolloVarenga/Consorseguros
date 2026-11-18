@@ -1,7 +1,7 @@
 ---
 title: "Analysis of the seven most significant events which the Consorcio de Compensación de Seguros covered in the 2009-2021 dataset"
 category: "In depth"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/analysis-of-the-seven-most-significant-events-which-the-consorcio-de-compensacion-de-seguros-covered-in-the-2009-2021-dataset.pdf"
 sidebar_image: ""
 sidebar_text: ""
 weight: 2

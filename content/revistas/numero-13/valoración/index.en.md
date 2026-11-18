@@ -1,7 +1,7 @@
 ---
 title: "Appraising damage caused to a motor vehicle"
 category: "Reseñas"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/appraising-damage-caused-to-a-motor-vehicle.pdf"
 sidebar_image: ""
 sidebar_text: "The total loss clause is usually worded as follows: 'It may be considered that there is total loss of the insured vehicle when the budgeted amount of repairs exceeds 100 % of the compensable or covered value in each case (value as new/market value, depending on the age of the vehicle)’. The problem the cited clause poses in practice (which stipulates that in the event of total loss of the vehicle compensation shall be paid for the loss according to value at the time of the accident) is whether this is a clause that delimits the risk or which limits the rights of the insured. We cannot assert that there is unanimity in case law as to whether it is consistent with one particular assumption or the other."
 weight: 7

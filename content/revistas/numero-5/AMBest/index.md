@@ -2,7 +2,7 @@
 title: "Informe especial de A.M. BEST"
 subtitle: "Estudio sobre sistemas para el aseguramiento de catástrofes. Seguridad para el futuro: el valor de los sistemas para el aseguramiento de catástrofes naturales en Europa"
 category: "Reseñas"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/bestandacute-s-special-report-catastrophe-schemes-issue-review-future-proofing-the-value-of-natural-catastrophe-schemes-in-europe.pdf"
 sidebar_image: "/images/numero-5/AMBest_01.jpg"
 sidebar_text: "Este informe, editado por la agencia de calificación crediticia de la industria aseguradora A.M. Best, efectúa una revisión de los diversos sistemas de aseguramiento de catástrofes naturales en Europa, haciendo especial hincapié en el riesgo de inundación que es el que más daños produce."
 weight: 7

@@ -1,7 +1,7 @@
 ---
 title: "El Registro de seguros obligatorios y su gestión por el Consorcio de Compensación de Seguros"
 category: "Actualidad CCS"
-pdf_download: "/almacen/pdf/el-registro-de-seguros-obligatorios-y-su-gestion-por-el-consorcio-de-compensacion-de-seguros.pdf"
+pdf_download: "/pdf/el-registro-de-seguros-obligatorios-y-su-gestion-por-el-consorcio-de-compensacion-de-seguros.pdf"
 sidebar_image: "/images/numero-4/Actualidd-CCS-seguro-obligatorio.jpg"
 sidebar_text: "Para facilitar al público la consulta al Registro, el Consorcio de Compensación de Seguros ha dispuesto diversos criterios de acceso a la información contenida en el mismo, como son la denominación del seguro, el ámbito territorial del mismo, la fecha de entrada en vigor, la actividad que regula o el rango normativo de la disposición que lo establece."
 weight: 1

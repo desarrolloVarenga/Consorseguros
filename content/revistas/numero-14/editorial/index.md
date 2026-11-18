@@ -1,7 +1,7 @@
 ---
 title: "Editorial"
 category: "Editorial"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/editorial-14.pdf"
 sidebar_image: "/images/numero-14/foto_portada14_editorial.jpg"
 sidebar_text: "El lector se encuentra ante el número decimocuarto de nuestra revista digital, en el que se abordan temas nuevos relacionados con los actores principales en la gestión de riesgos relacionados con las actividades y funciones del Consorcio de Compensación de Seguros (CCS), con papeles importantes tanto en los riesgos de catástrofe como en el seguro del automóvil.  "
 weight: 1

@@ -1,7 +1,7 @@
 ---
 title: "Payment of the premium after six months from its due date. A covenant between the policyholder and the insurer is not enforceable against Consorcio de Compensación de Seguros, whose legal relationships with each of them are different, even though they stem from the same policy"
 category: "Jurisprudencia"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/payment-of-the-premium-after-six-months-from-its-due-date.pdf"
 sidebar_image: "/images/numero-11/foto_portada11_jurisprudencia.jpg"
 sidebar_text: "We must not lose sight of the fact that CCS is an entity of a public nature, operating in the environment of the coverage of extraordinary risks fully subject to the provisions of its Bylaws, the Insurance Contract Act and the Extraordinary Risk Insurance Regulation. From these provisions, it can be clearly concluded that, in these cases, the damage referring to extraordinary losses occurring prior to the payment of the premium or when a contract is suspended pursuant to the LCS is not covered by CCS."
 weight: 8

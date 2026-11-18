@@ -1,7 +1,7 @@
 ---
 title: "Análisis del sistema de reaseguro del Consorcio de Compensación de Seguros en el Seguro Agrario Combinado durante los últimos 20 años. Serie 2005 – 2024"
 category: "Colaboraciones"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/sistema_reaseguro.pdf"
 sidebar_image: "/images/numero-22/foto_portada_reaseguro_SAC.jpg"
 sidebar_text: "Desde el origen del SAC, el CCS ha actuado como un pilar fundamental para la estabilidad y sostenibilidad del sistema de aseguramiento. Su papel como reasegurador obligatorio ha permitido que, hasta la actualidad, el sistema soporte fenómenos meteorológicos extremos sin comprometer la viabilidad técnica ni financiera del mismo."
 weight: 6

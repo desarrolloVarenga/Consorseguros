@@ -1,7 +1,7 @@
 ---
 title: "La gestión por el CCS de la siniestralidad de la erupción volcánica de La Palma en 2021"
 category: "Actualidad"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/la-gestion-por-el-ccs-de-la-siniestralidad-de-la-erupcion-volcanica-de-la-palma-en-2021.pdf"
 sidebar_image: ""
 sidebar_text: "A esta fecha del 16 de diciembre, el CCS había abonado ya 73.484.337 € en indemnizaciones correspondientes a 419 viviendas (por un importe de 62.948.909 €); 75 automóviles (por 275.210 €); 48 comercios y locales de oficina (por 9.845.083 €) y 5 industrias (por 415.135 €). El CCS espera que el importe de esta siniestralidad, primera ocasión en su historia en la que tiene que hacer frente a este tipo de riesgo, termine por ser del orden de entre 125 y 180 millones de euros, de no alterarse las condiciones de la erupción."
 weight: 10

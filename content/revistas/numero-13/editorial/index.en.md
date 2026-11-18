@@ -1,7 +1,7 @@
 ---
 title: "Editorial"
 category: "Editorial"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/editorial-13-en.pdf"
 sidebar_image: "/images/numero-13/foto_portada13_editorial.jpg"
 sidebar_text: "The Extraordinary Risk Statistics is one of the longest standing annual publications issued by the Consorcio de Compensación de Seguros (CCS). The 2020 release contains data for the period 1971-2019. This publication is a basic information source and indeed provides an X-ray of damage caused by the so-called 'extraordinary’ risks in Spain."
 weight: 1

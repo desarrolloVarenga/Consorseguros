@@ -1,7 +1,7 @@
 ---
 title: "Australia’s cyclone pool: the journey so far, and what its data is telling us"
 category: "Contributions"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/australia-cyclone-pool.pdf"
 sidebar_image: "/images/numero-21/foto_portada_australia.jpg"
 sidebar_text: "Since 2003, the Australian Reinsurance Pool Corporation (ARPC) has been the Australian Government’s provider of catastrophic reinsurance cover – first, for terrorism risk, and since 2022, for cyclone and cyclone related flooding risk."
 weight: 3

@@ -1,7 +1,7 @@
 ---
 title: "Loss adjusting for cultural heritage assets in Spain for Consorcio de Compensación de Seguros"
 category: "Colaboraciones"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/loss-adjusting-for-cultural-heritage-assets-in-spain-for-consorcio-de-compensacion-de-seguros.pdf"
 sidebar_image: ""
 sidebar_text: "The first inspection visit is usually held in the company of the insured's agent and specialists the insured has designated, who are generally involved in conservation, inasmuch as the insured is fully aware of the importance of the asset, and as responsible parties they try to help us in our assessment by providing us with an expert to work with. This first inspection will be followed by many others to collect data, both before any action is taken and while repairs are in progress."
 weight: 7

@@ -1,7 +1,7 @@
 ---
 title: "Editorial"
 category: "Editorial"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/editorial12-en.pdf"
 sidebar_image: "/images/numero-12/foto_portada12_editorial.jpg"
 sidebar_text: "With respect to floods and other natural hazards covered by extraordinary risk insurance, Spain’s system is well-equipped to respond to loss events of this kind and also to adapt and evolve. Despite this, in a context where it appears that the effects of climate change are set to become increasingly conspicuous, in order to be in a position to be able to control risk within insurable parameters, even when these extraordinary risk insurance parameters have already been set at an extremely high level relative to other schemes, the other components of risk will also have to be addressed, such as exposure and vulnerability, which essentially means prevention."
 weight: 1

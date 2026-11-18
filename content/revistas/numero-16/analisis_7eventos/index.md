@@ -1,7 +1,7 @@
 ---
 title: "Análisis de los 7 eventos más importantes cubiertos por el Consorcio de Compensación de Seguros en la serie 2009-2021 PDF"
 category: "Análisis"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/analisis-de-los-7-eventos-mas-importantes-cubiertos-por-el-consorcio-de-compensacion-de-seguros-en-la-serie-2009-2021.pdf"
 sidebar_image: ""
 sidebar_text: ""
 weight: 2

@@ -1,7 +1,7 @@
 ---
 title: "Representación espacio-temporal de los siniestros de riesgos extraordinarios por causas naturales"
 category: "Colaboraciones"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/representacion-espacio-temporal-de-los-siniestros-de-riesgos-extraordinarios-por-causas-naturales.pdf"
 sidebar_image: "/images/numero-19/portada_representación-espacio-temporal.jpg"
 sidebar_text: "La relación entre los valores de costes de indemnizaciones, los bienes asegurados y los eventos naturales causantes de siniestros que se dan en el territorio muestra diversas características según la escala o el detalle de agregación con el que son observadas."
 weight: 6

@@ -1,7 +1,7 @@
 ---
 title: "(Rea)seguro del riesgo de terrorismo: cerrar la brecha"
 category: "Colaboraciones"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/rea-seguro-del-riesgo-de-terrorismo-cerrar-la-brecha.pdf"
 sidebar_image: "/images/numero-6/reaseguro_terrorismo.jpg"
 sidebar_text: "El último informe del Centro de Investigación y Análisis de Pool Re pone en relevancia el tema de la brecha en el seguro de terrorismo. Una cantidad enorme de propiedades siguen sin asegurarse frente al riesgo de terrorismo. Esta brecha en la cobertura se agrava por una destacable falta de conocimiento sobre la naturaleza del riesgo de terrorismo, tanto a nivel de compañías individuales como en la industria del seguro en su totalidad."
 weight: 1

@@ -1,7 +1,7 @@
 ---
 title: "Los escritores y el mundo financiero"
 category: "Reseñas"
-pdf_download: "/almacen/pdf/los-escritores-y-el-mundo-financiero.pdf"
+pdf_download: "/pdf/los-escritores-y-el-mundo-financiero.pdf"
 weight: 5
 image: "/images/numero-2/Escritores_def.jpg"
 summary: "Repaso divulgativo de Antonio González Estévez (Jefe del Servicio de Atención al Asegurado del CCS) sobre los escritores célebres que trabajaron en el sector bancario y asegurador para sustentar su vocación literaria, cerrando con una reflexión sobre el fraude en el seguro a partir de la película 'En bandeja de plata'."

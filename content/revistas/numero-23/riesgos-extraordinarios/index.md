@@ -5,7 +5,7 @@ image: "/images/numero-23/foto_portada_riesgos_extraordinarios.jpg"
 sidebar_image: "/images/numero-23/foto_portada_riesgos_extraordinarios.jpg"
 sidebar_text: "Las inundaciones del 29 de octubre de 2024, que afectaron muy particularmente a la provincia de Valencia, supusieron la siniestralidad más importante en los 71 años de historia del Consorcio de Compensación de Seguros. En este artículo se detallan todas las medidas que ha tenido que adoptar la entidad a lo largo de este año para poder gestionar esta siniestralidad y poder dar una respuesta aseguradora eficaz."
 summary: "En la noche del 29 de octubre, contemplamos desolados –como todos los ciudadanos de este país y del resto del mundo– el drama que se estaba desarrollando en una gran zona metropolitana de España y en otras áreas próximas. Muy pronto fuimos conscientes de que la magnitud de la catástrofe iba a ser devastadora, como desgraciadamente lo fue en pérdida de vidas humanas y en daños materiales, y del reto que iba a suponer su gestión."
-pdf_download: "/pdf/num24/ICARIA.pdf"
+pdf_download: "/pdf/seguro_riesgos_extraordinarios.pdf"
 weight: 2
 authors:
   - name: "Flavia Rodríguez-Ponga Salamanca"

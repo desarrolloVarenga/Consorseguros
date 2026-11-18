@@ -1,7 +1,7 @@
 ---
 title: "Documentación histórica relativa a las inundaciones del País Vasco de agosto de 1983"
 category: "Análisis"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/documentacion-historica-relativa-a-las-inundaciones-del-pais-vasco-de-agosto-de-1983.pdf"
 sidebar_image: ""
 sidebar_text: ""
 weight: 2

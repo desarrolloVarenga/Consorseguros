@@ -1,7 +1,7 @@
 ---
 title: "X Conferencia Internacional del Foro Mundial de Sistemas de Cobertura de Catástrofes"
 category: "Actualidad CCS"
-pdf_download: "/almacen/pdf/actualidad-ccs-3.pdf"
+pdf_download: "/pdf/actualidad-ccs-3.pdf"
 sidebar_image: "/images/numero-3/Actualidd-CCS-Logo-World-Forum.jpg"
 sidebar_text: "El WFCP es una plataforma internacional, de carácter informal, que congrega a sistemas de cobertura de catástrofes naturales que operan en el mundo con alguna forma de participación pública."
 weight: 8

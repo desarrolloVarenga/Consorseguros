@@ -1,7 +1,7 @@
 ---
 title: "Estadística del fondo de garantía del seguro de responsabilidad civil en la circulación de vehículos a motor"
 category: "Colaboraciones"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/estadistica-del-fondo-de-garantia-del-seguro-de-responsabilidad-civil-en-la-circulacion-de-vehiculos-a-motor.pdf"
 sidebar_image: "/images/numero-14/foto_portada14_estadistica.jpg"
 sidebar_text: "El CCS obtiene los recursos económicos necesarios para hacerse cargo de la cobertura del Fondo de Garantía a través del recargo del SOA, cuya base de cálculo es la prima comercial de la cobertura obligatoria, que ha de incluirse en todos los recibos de seguros de vehículos a motor que tengan su establecimiento habitual en España. "
 weight: 3

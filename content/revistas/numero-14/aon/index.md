@@ -1,7 +1,7 @@
 ---
 title: "El Observatorio de Catástrofes de la Fundación Aon España: investigación, previsión, asistencia y continuidad"
 category: "Colaboraciones"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/el-observatorio-de-catastrofes-de-la-fundacion-aon-espana-investigacion-prevision-asistencia-y-continuidad.pdf"
 sidebar_image: ""
 sidebar_text: " "
 weight: 4

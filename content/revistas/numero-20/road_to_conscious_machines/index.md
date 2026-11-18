@@ -1,7 +1,7 @@
 ---
 title: "Reseña de The Road to Conscious Machines. The Story of AI"
 category: "Reseñas"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/resena-de-the-road-to-conscious-machines-the-story-of-ai.pdf"
 sidebar_image: "/images/numero-20/foto_portada_IA_perspectivas.jpg"
 sidebar_text: "La IA busca construir máquinas que «imiten» cada vez más fielmente el comportamiento humano, con el objetivo final de hacerlas indistinguibles de nosotros. Máquinas con el mismo rango de capacidades que tiene la inteligencia humana, lo que se conoce como IA general, es decir, una inteligencia autónoma y auto-consciente, con capacidad para hacer planes, para razonar, para mantener una conversación, entender los chistes y narrar historias... Y esto no se ha conseguido aún."
 weight: 9

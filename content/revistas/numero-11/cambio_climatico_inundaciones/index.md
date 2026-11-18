@@ -1,7 +1,7 @@
 ---
 title: "Nueva publicación sobre Inundaciones y cambio climático (2018)"
 category: "Reseñas"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/libro-inundaciones-y-cambio-climatico.pdf"
 sidebar_image: "/images/numero-11/cambio_climatico_inundaciones00.png"
 sidebar_text: "El informe “Inundaciones y cambio climático. Estudios y experiencias a nivel europeo en el primer ciclo de la Directiva de Inundaciones”, recientemente publicado por el Ministerio para la Transición Ecológica (MITECO), consta de cuatro apartados que analizan el estado del arte científico y técnico y los resultados de valoraciones del cambio en la peligrosidad en base a estudios regionales y locales. "
 weight: 7

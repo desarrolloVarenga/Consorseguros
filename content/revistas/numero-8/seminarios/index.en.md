@@ -1,7 +1,7 @@
 ---
 title: "Seminars within the National Plan for Adaptation to Climate Change: impacts and adaptation in relation to climate change within the insurance industry"
 category: "Reviews"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/seminars-within-the-national-plan-for-adaptation-to-climate-change-impacts-and-adaptation-in-relation-to-climate-change-within-the-insurance-industry.pdf"
 sidebar_image: "/images/numero-8/foto_portada08_seminarios.jpg"
 sidebar_text: "In November 2017, a notably popular seminar was held on the impacts and adaptation in relation to climate change within the insurance industry in Spain. This seminar was conceived with the intention of establishing contact between those in the technico-scientific community who work in the field of extreme weather phenomena and those from the insurance and financial world, with the intention of finding synergies and identifying mutual challenges and problems, such as the climate information needs of the insurance industry, identifying deficiencies and recommendations for decision-making to be based on a firmer footing, or the potential of insurance as a tool for adaptation to climate change and the management of its associated risks."
 weight: 7

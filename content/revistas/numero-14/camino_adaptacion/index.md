@@ -1,7 +1,7 @@
 ---
 title: "El camino a la adaptación frente al riesgo de inundación: La promoción de ayudas"
 category: "Colaboraciones"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/el-camino-a-la-adaptacion-frente-al-riesgo-de-inundacion-la-promocion-de-ayudas.pdf"
 sidebar_image: "/images/numero-14/foto_portada14_camino_adaptacion.jpg"
 sidebar_text: "La Dirección General del Agua en colaboración con el Consorcio de Compensación de Seguros (CCS), publica en el año 2017, la «Guía para la Reducción de la Vulnerabilidad de Edificios frente a Inundaciones». El objetivo fundamental de la guía no es otro que orientar, desde un punto de vista práctico, a los propietarios, usuarios o responsables de edificios de diversa índole en la reducción del riesgo a través de la recomendación de pautas y soluciones que puedan acometerse para minimizar los daños ocasionados por las inundaciones. "
 weight: 7

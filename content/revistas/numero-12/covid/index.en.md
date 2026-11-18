@@ -1,7 +1,7 @@
 ---
 title: "OECD report on 'Responding to the COVID-19 and pandemic protection gap in insurance'"
 category: "Reseñas"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/oecd-report-on-responding-to-the-covid-19-and-pandemic-protection-gap-in-insurance.pdf"
 sidebar_image: ""
 sidebar_text: "From the insurance point of view, the key problem in the present situation caused by COVID-19 is business interruption loss without physical damage, produced by the government adoption of preventive measures to contain the spread of the virus, with huge impacts on sectors such as commerce or hospitality that threaten the viability of thousands of companies, particularly small and medium-sized enterprises."
 weight: 8

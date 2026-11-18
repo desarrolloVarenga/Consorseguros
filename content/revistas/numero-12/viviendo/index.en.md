@@ -1,7 +1,7 @@
 ---
 title: "Living in interesting times"
 category: "Actualidad"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/living-in-interesting-times.pdf"
 sidebar_image: ""
 sidebar_text: "Our society is moving forward, after much suffering and the sacrifice of many groups, most particularly the healthcare sector, towards overcoming the pandemic and along the path to recovering previous levels of economic activity. As ever, the CCS wants to be a part of the solutions that help society negotiate this awkward and uncertain path."
 weight: 9

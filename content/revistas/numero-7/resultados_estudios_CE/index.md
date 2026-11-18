@@ -1,7 +1,7 @@
 ---
 title: "Resultados de estudios de la Comisión Europea y de la Agencia Europea del Medio Ambiente"
 category: "Reseñas"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/resultados-de-estudios-de-la-comision-europea-y-de-la-agencia-europea-del-medio-ambiente.pdf"
 sidebar_image: "/images/numero-7/resultados_estudios_CE.jpg"
 sidebar_text: "Los resultados del estudio comienzan por constatar que no hay una relación clara entre el aumento de los daños experimentado y un aumento de los peligros, sino que más bien este aumento se debe al incremento de la exposición de bienes e infraestructuras en zonas de riesgo. Se discute posteriormente el papel del seguro más allá de la mera indemnización de las pérdidas, para convertirse en una herramienta para la gestión del riesgo y el aumento de la resiliencia."
 weight: 8

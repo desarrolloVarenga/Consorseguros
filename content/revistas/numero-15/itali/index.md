@@ -1,7 +1,7 @@
 ---
 title: "Peligro volcánico en Italia: un paisaje variado"
 category: "Colaboraciones"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/peligro-volcanico-en-italia-un-paisaje-variado.pdf"
 sidebar_image: ""
 sidebar_text: "El sur de Italia es uno de los escenarios tectónicos y volcánicos más activos en el área mediterránea, que comprende volcanes persistentemente activos e inactivos. Mientras escribimos, dos volcanes presentan una actividad eruptiva persistente: el Estrómboli, que pertenece al archipiélago de las Eolias, en el mar Tirreno, y el Etna, en la costa oriental de Sicilia. Ambos volcanes se caracterizan generalmente por una explosividad leve que presenta el lanzamiento de piroclastos cerca del cráter, flujos de lava ocasionales y fuentes de lava de hasta varios cientos de metros. Este tipo de actividad puede culminar en el desarrollo de columnas eruptivas, que pueden alcanzar hasta 10-15 mil metros en el caso del Etna. "
 weight: 4

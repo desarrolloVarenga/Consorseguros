@@ -1,7 +1,7 @@
 ---
 title: "Los avances en materia de recuperación y resolución bancaria, un nuevo marco legislativo e institucional desde el año 2015"
 category: "Análisis"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/los-avances-en-materia-de-recuperacion-y-resolucion-bancaria-un-nuevo-marco-legislativo-e-institucional-desde-el-ano-2015.pdf"
 sidebar_image: "/images/numero-6/analisis_legislacion_banca01.jpg"
 sidebar_text: "Este artículo analiza el nuevo marco legislativo e institucional de recuperación y resolución bancaria en la Unión Europea tras la crisis financiera, incluyendo el SRM y el SRF."
 weight: 3

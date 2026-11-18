@@ -1,7 +1,7 @@
 ---
 title: "Novelties in the extraordinary risk insurance and the compulsory third-party automobile insurance"
 category: "News"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/novelties-in-the-extraordinary-risk-insurance-and-the-compulsory-third-party-automobile-insurance.pdf"
 sidebar_image: "/images/numero-5/recargo_seguros_01.jpg"
 sidebar_text: "The new developments affect the two principal environments in which the CCS carries out its activity as an insurer: the extraordinary risk insurance and the compulsory third-party automobile insurance. Essentially the change involves added coverage and at the same time a reduction in the surcharges collected for the CCS, paid by the insured through their automobile insurance premium receipts."
 weight: 1

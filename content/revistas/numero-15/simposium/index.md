@@ -1,7 +1,7 @@
 ---
 title: "VI Simposium del Observatorio de Catástrofes de la Fundación Aon España «El Coste de las Catástrofes»"
 category: "Reseñas"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/vi-simposium-del-observatorio-de-catastrofes-de-la-fundacion-aon-espana.pdf"
 sidebar_image: ""
 sidebar_text: "El ranking de los desastres con mayor coste económico lo encabeza la DANA de septiembre de 2019 en Alicante y Murcia, con 1.319 millones de euros de impacto, seguida del temporal de enero de 2020 en toda la península, con un coste de 843 millones de euros. El tercero fueron las inundaciones y temporales de diciembre de 2016 del sureste de España, con un coste de 272,72 millones de euros. Los diez mayores desastres acumulan 3.540 millones de euros de daños y pérdidas, lo que representa un 30,5 % del coste económico total estimado."
 weight: 9

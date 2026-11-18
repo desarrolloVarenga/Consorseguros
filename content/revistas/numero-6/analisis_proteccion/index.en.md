@@ -1,7 +1,7 @@
 ---
 title: "Policyholder protection schemes in situations of insolvency. Comparative study between states and jurisdictions. New perspectives"
 category: "In depth"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/policyholder-protection-schemes-in-situations-of-insolvency-comparative-study-between-states-and-jurisdictions-new-perspectives.pdf"
 sidebar_image: "/images/numero-6/analisis_proteccion_acreedores01.jpg"
 sidebar_text: "This article describes the principal characteristics of policyholder protection schemes in situations of insurer insolvency and classifies them according to their nature, membership, scope, and funding."
 weight: 2

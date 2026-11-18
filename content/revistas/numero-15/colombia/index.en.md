@@ -1,7 +1,7 @@
 ---
 title: "Management of volcanic hazard in Colombia: eruption history and lessons learned"
 category: "Colaboraciones"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/management-of-volcanic-hazard-in-colombia-eruption-history-and-lessons-learned.pdf"
 sidebar_image: ""
 sidebar_text: "The products and services supplied by the insurance and re-insurance industry are, now more than ever, one of the alternatives for responding to natural events that are relied on by the productive fabric of regions that are subject to high threat levels. A detailed understanding of this type of hazards is still critical for the insurance industry, since, lest we forget, these events have the potential to wipe out entire population centres. A new type of earthquake insurance has been in operation in Colombia for a little over two years. Now earthquake losses are to be estimated using any of the probabilistic models authorised by Colombian regulatory authorities. Under this new scheme, computational software uses the physical information concerning both personal property and real estate making up the earthquake portfolio, much obtained through field work. One of the main tasks of insurers selling this type of property insurance is to be able to access new data on the zones under the influence of the hazards in question."
 weight: 2

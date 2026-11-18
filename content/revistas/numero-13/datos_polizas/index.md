@@ -1,7 +1,7 @@
 ---
 title: "Datos de pólizas y capitales 2019 obtenidos a través del nuevo Sistema de Información de Recargos SIR: expectativas de mejora y alcance de la información en el futuro"
 category: "Colaboraciones"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/datos-de-polizas-y-capitales-2019-obtenidos-a-traves-del-nuevo-sistema-de-informacion-de-recargos-sir-expectativas-de-mejora-y-alcance-de-la-informacion-en-el-futuro.pdf"
 sidebar_image: "/images/numero-13/foto_portada13_datos_polizas.jpg"
 sidebar_text: "El objeto de este artículo se puede resumir en tres puntos: Presentar y analizar los datos de pólizas y capitales asegurados obtenidos a través del SIR para el año 2019. Exponer las posibles mejoras que se pueden llevar a cabo para aumentar la calidad de la información una vez que se han analizado los datos del primer año de este nuevo sistema. Mostrar cuál será el alcance de toda esta información en el futuro."
 weight: 4

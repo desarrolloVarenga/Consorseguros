@@ -1,7 +1,7 @@
-﻿---
+---
 title: "Flood Re: cómo lograr que el seguro de hogar sea asequible para los británicos que residen en zonas con alto riesgo de inundació"
 category: "Colaboraciones"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/flood-re-como-lograr-que-el-seguro-de-hogar-sea-asequible-para-los-britanicos-que-residen-en-zonas-con-alto-riesgo-de-inundacion-andy-bord-flood-re.pdf"
 sidebar_image: "/images/numero-8/foto_portada08_Flood_RE.png"
 sidebar_text: "Se espera que el cambio climático agrave, en un futuro, el problema de las inundaciones. Un estudio reciente de la Universidad de Newcastle apunta a que el 85% de las ciudades británicas con río verán aumentar la frecuencia de las inundaciones en 2100. Actualmente los daños por esta causa en el Reino Unido ascienden a 1.200 millones de libras al año (1.380 millones de euros). En la década de 2050 se espera que los daños oscilen entre 1.600 y 6.800 millones de libras al año (entre 1.840 y 7.800 millones de euros)."
 weight: 5

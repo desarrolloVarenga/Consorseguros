@@ -1,7 +1,7 @@
 ---
 title: "Motor vehicle civil liability. Traffic events"
 category: "Reviews"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/motor-vehicle-civil-liability-traffic-events.pdf"
 sidebar_image: "/images/numero-4/resp_civil_automovilistica.jpg"
 sidebar_text: "Regulation of civil liability for motor vehicles and the corresponding insurance cover is, together with certain other mechanisms, the best guarantee that traffic accident victims will be fully compensated for injuries and damages sustained as a consequence of an accident."
 weight: 7

@@ -1,7 +1,7 @@
 ---
 title: "Foreign business risk coverage for spanish companies"
 category: "Contributions"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/foreign-business-risk-coverage-for-spanish-companies.pdf"
 sidebar_image: "/images/numero-5/FRRI.jpg"
 sidebar_text: "In the free market context prevailing in the most developed economies, the coverage by States of the risks of overseas transactions complements the coverage provided by private companies, with the State acting as the insurer of last resort and, particularly, for transactions involving strategic interests."
 weight: 4

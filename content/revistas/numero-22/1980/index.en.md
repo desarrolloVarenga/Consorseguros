@@ -1,7 +1,7 @@
 ---
 title: "1980. Decisions that make history"
 category: "Contributions"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/decisions.pdf"
 sidebar_image: ""
 sidebar_text: "The sum insured by the multi-peril agricultural insurance scheme has, with some exceptions, continually set record after record throughout the course of its history, reaching more than 18billion euros of production value insured in 2025. That amount is half of the country's entire agricultural output, quite a substantial share, especially in comparative terms, and has been attained through high volumes of insurance for certain key agricultural products critical to our country's economy, for instance, cereal grains, fruits, wine grapes, and vegetables. Other crops though, like olives, still have room for growth. In all, nearly 17 million policies were purchased, with more than 20,000 million euros in premiums, 50% of which have come from government entities (ENESA and the Regional Governments)."
 weight: 2

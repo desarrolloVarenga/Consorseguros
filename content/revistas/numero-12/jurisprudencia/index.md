@@ -1,7 +1,7 @@
 ---
 title: "El concepto de hecho de la circulación en la jurisprudencia comunitaria"
 category: "Colaboraciones"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/el-concepto-de-hecho-de-la-circulacion-en-la-jurisprudencia-comunitaria.pdf"
 sidebar_image: "/images/numero-12/foto_portada12_jurisprudencia.jpg"
 sidebar_text: "La definición reglamentaria de hecho de la circulación tiene que relacionarse con la conducción de vehículos, incluso aunque estén con el motor parado, porque también en estos casos puede suponer un riesgo para los usuarios de la vía (pensemos en los accidentes que se ocasionan por no activar correctamente los mecanismos de seguridad del vehículo, dando lugar a su desplazamiento sin conductor). Por tanto, no es necesario, en ocasiones, que el vehículo esté en movimiento por los lugares que hemos indicado para que podamos hablar de accidentes de circulación. En este caso, lo decisivo será que los hechos estén dentro del ámbito de la circulación; es decir, que formen parte del riesgo circulatorio. Los ejemplos más cotidianos son los incendios de vehículos que ocasionan daños a otros vehículos o bienes, las caídas de motos o desplazamiento de vehículos sin estar en marcha con el mismo efecto, los daños producidos al subir o bajar de un vehículo, etc."
 weight: 7

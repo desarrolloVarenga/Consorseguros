@@ -1,7 +1,7 @@
 ---
 title: "Mejora de la estimación de los costes reales de los desastres"
 category: "Colaboraciones"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/mejora-de-la-estimacion-de-los-costes-reales-de-los-desastres.pdf"
 sidebar_image: ""
 sidebar_text: "Es necesario disponer de estimaciones del coste global de los desastres para analizar las ventajas de las políticas de gestión del riesgo pasadas y futuras. Esta información es útil para la toma de decisiones y para el desarrollo de estrategias y medidas eficaces con el fin de prevenir o reducir el impacto negativo de los desastres y de las amenazas."
 weight: 3

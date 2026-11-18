@@ -1,7 +1,7 @@
 ---
 title: "Volcanic hazards and risk management in Iceland"
 category: "Colaboraciones"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/volcanic-hazards-and-risk-management-in-iceland.pdf"
 sidebar_image: ""
 sidebar_text: "Volcanic activity is common in Iceland and eruptions, usually lasting days to weeks, happen on average once every three years. Even though some eruptions cause substantial damage, most eruptions do not. This is mainly because Iceland is very sparsely populated with on average only 3-4 people per square kilometer and most live in SW-Iceland, just outside the boundary of the volcanically active zone. However, the threat from volcanic eruptions is ever present in Iceland where authorities and monitoring institutions need to be on constant alert. This level of alertness, and the fact that locals in general are well-aware of the potential dangers posed by volcanoes, is the key to successful co-existence of people and volcanoes in Iceland."
 weight: 5

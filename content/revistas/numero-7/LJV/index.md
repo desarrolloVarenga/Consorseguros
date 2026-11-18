@@ -1,7 +1,7 @@
 ---
 title: "Modificaciones introducidas por la Ley de Jurisdicción Voluntaria 15/2015 de interés para el sector asegurador"
 category: "Colaboraciones"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/2015-de-interes-para-el-sector-asegurador.pdf"
 sidebar_image: "/images/numero-7/LJV.jpg"
 sidebar_text: "La principal modificación que introduce la nueva LJV es que, antes de la entrada en vigor de la misma, en caso de existir discrepancias entre los peritos designados por el asegurador y asegurado y no haber conformidad respecto a la designación del tercer perito, era el Juez de Primera Instancia del lugar en el que se hallaren los bienes, quien tenía competencia para designarlo.\n\nActualmente la designación de perito tercero puede tramitarse o bien ante el Juzgado de lo Mercantil del domicilio del asegurado, siendo el Secretario Judicial (el Letrado de la Administración de Justicia en virtud de la reforma operada en la Ley Orgánica del Poder Judicial por la LO 7/2015) el que lo nombrará si no hay acuerdo entre las partes, o bien ante el Notario en la forma establecida en el art 80 de la Ley del Notariado, de 28 de mayo de 1862."
 weight: 6

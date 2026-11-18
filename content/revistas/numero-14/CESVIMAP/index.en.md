@@ -1,7 +1,7 @@
 ---
 title: "CESVIMAP: Innovation as a service"
 category: "Colaboraciones"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/cesvimap-innovation-as-a-service.pdf"
 sidebar_image: "/images/numero-14/foto_portada14_CESVIMAP.jpg"
 sidebar_text: "Figure 1. CESVIMAP Headquarters (Ávila). Source: CESVIMAP."
 weight: 8

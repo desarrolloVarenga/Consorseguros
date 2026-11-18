@@ -5,7 +5,7 @@ image: "/images/numero-23/foto_portada_vision.jpg"
 sidebar_image: "/images/numero-23/foto_portada_vision.jpg"
 sidebar_text: "El equipo de la delegación, como toda la sociedad valenciana, se ha sentido especialmente unido y cercano a las víctimas, afectados y perjudicados de esta gran catástrofe. Como residentes en Valencia compartíamos el dolor y sufrimiento de los afectados."
 summary: "La Delegación Territorial del Consorcio de Compensación de Seguros (CCS) en Valencia tiene un papel crucial en la gestión de los riesgos extraordinarios."
-pdf_download: "/pdf/num24/ICARIA.pdf"
+pdf_download: "/pdf/vision.pdf"
 weight: 9
 authors:
   - name: "Luis Delibes Senna-Cheribbo"

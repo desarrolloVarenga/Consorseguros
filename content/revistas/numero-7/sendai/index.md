@@ -1,7 +1,7 @@
 ---
 title: "El Marco de Sendai para la reducción de desastres 2015-2030. Progresos alcanzados en su implantación"
 category: "Colaboraciones"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/el-marco-de-sendai-para-la-reduccion-de-desastres-2015-2030-progresos-alcanzados-en-su-implantacion-plataforma-global-2017.pdf"
 sidebar_image: "/images/numero-7/foto_portada07_Sendai.png"
 sidebar_text: "Desde la década de los años sesenta Naciones Unidas venía adoptando diferentes medidas en respuesta a diversos desastres severos, que se cobraron la vida de miles de personas, como los terremotos de Irán de 1962 y 1968, el huracán Flora, de octubre de 1963, que asoló Cuba, Haití, Jamaica, Republica Dominicana y Trinidad y Tobago, entre otros. La constatación de la alta recurrencia de los desastres y los graves daños que ocasionaban para el desarrollo de los pueblos y, en especial de los países menos adelantados, llevó a Naciones Unidas a plantear la necesidad de abordar acciones que fueran más allá de la respuesta meramente reactiva, acciones que, desde una perspectiva más integral, incluyeran el estudio, la prevención, la planificación y la preparación para casos de desastre, como vía más idónea para reducir los efectos que éstos estaban produciendo."
 weight: 4

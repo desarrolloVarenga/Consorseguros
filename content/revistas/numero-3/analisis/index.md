@@ -1,7 +1,7 @@
 ---
 title: "Primeros resultados de la implantación de la Directiva 2007/60 de evaluación y gestión de los riesgos de inundación: los Planes de Gestión del Riesgo de Inundación"
 category: "Análisis"
-pdf_download: "/almacen/pdf/primeros-resultados-de-la-implantacion-de-la-directiva-2007-60-de-evaluacion-y-gestion-de-los-riesgos-de-inundacion-los-planes-de-gestion-del-riesgo-de-inundacion.pdf"
+pdf_download: "/pdf/primeros-resultados-de-la-implantacion-de-la-directiva-2007-60-de-evaluacion-y-gestion-de-los-riesgos-de-inundacion-los-planes-de-gestion-del-riesgo-de-inundacion.pdf"
 sidebar_image: "/images/numero-3/ANALISIS_portada.jpg"
 sidebar_text: "La trasposición a la legislación española, en 2010, de la directiva europea 2007/60 sobre evaluación y gestión de los riesgos de inundación ya está produciendo resultados, plasmándose en un mejor conocimiento, divulgación y concienciación general del riesgo de inundación."
 weight: 2

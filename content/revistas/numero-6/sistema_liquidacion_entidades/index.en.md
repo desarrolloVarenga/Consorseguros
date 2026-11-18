@@ -1,7 +1,7 @@
 ---
 title: "The system for the liquidation of insurance companies by the Consorcio de Compensación de Seguros (CCS)"
 category: "In depth"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/the-system-for-the-liquidation-of-insurance-companies-by-the-consorcio-de-compensacion-de-seguros-ccs.pdf"
 sidebar_image: "/images/numero-6/analisis_sistema-de-liquidacion011.jpg"
 sidebar_text: "This article looks at the key features of the Spanish system for winding-up of insurers, which is handled by the Consorcio de Compensación de Seguros (CCS)."
 weight: 1

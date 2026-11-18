@@ -5,7 +5,7 @@ image: "/images/numero-23/foto_portada_lecciones_dana.jpg"
 sidebar_image: "/images/numero-23/foto_portada_lecciones_dana.jpg"
 sidebar_text: "En circunstancias normales, el CCS se ocupa de los siniestros derivados de riesgos extraordinarios con los medios a su disposición. Con más de 70 años de experiencia, ha gestionado crisis enormes. Pero lo de Valencia fue distinto. La intensidad, la rapidez y, sobre todo, el volumen de los daños, superaron cualquier previsión."
 summary: "El 29 de octubre de 2024 una DANA, una Depresión Aislada en Niveles Altos, descargó más de 770 litros por metro cuadrado en solo 24 horas. A modo de referencia: ese es el volumen de precipitaciones que recibe la provincia de Valencia en 19 meses."
-pdf_download: "/pdf/num24/ICARIA.pdf"
+pdf_download: "/pdf/lecciones_aseguradoras_dana.pdf"
 weight: 3
 authors:
   - name: "Mirenchu del Valle Schaan"

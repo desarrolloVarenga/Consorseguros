@@ -1,7 +1,7 @@
 ---
 title: "Anatomía de la inteligencia artificial en la cadena de valor del seguro"
 category: "Colaboraciones"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/anatomia-de-la-inteligencia-artificial-en-la-cadena-de-valor-del-seguro.pdf"
 sidebar_image: "/images/numero-20/foto_portada_anatomia_IA.jpg"
 sidebar_text: "En este trabajo se ha utilizado el concepto acuñado por la OCDE: «Un sistema de IA es un sistema basado en una máquina que, para objetivos explícitos o implícitos, infiere, a partir de la entrada que recibe, cómo generar resultados como predicciones, contenido, recomendaciones o decisiones que pueden influir en entornos físicos o virtuales. Los diferentes sistemas de IA varían en sus niveles de autonomía y adaptabilidad después del despliegue»."
 weight: 4

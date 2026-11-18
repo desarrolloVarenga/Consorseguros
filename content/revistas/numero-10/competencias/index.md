@@ -1,7 +1,7 @@
 ---
 title: "Competencias administrativas y coordinación en la aplicación de la normativa de responsabilidad medioambiental"
 category: "Análisis"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/competencias-administrativas-y-coordinacion-en-la-aplicacion-de-la-normativa-de-responsabilidad-medioambiental.pdf"
 sidebar_image: ""
 sidebar_text: ""
 weight: 2

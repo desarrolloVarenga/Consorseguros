@@ -1,7 +1,7 @@
 ---
 title: "Editorial"
 category: "Editorial"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/editorial12.pdf"
 sidebar_image: "/images/numero-12/foto_portada12_editorial.jpg"
 sidebar_text: "En lo relativo a las inundaciones y otros peligros naturales cubiertos por el seguro de riesgos extraordinarios, el sistema español tiene mucha capacidad de respuesta a este tipo de siniestralidades y también la tiene para adaptarse y evolucionar. No obstante, en un contexto en el que parece que los efectos del cambio climático van a ser crecientemente conspicuos, para poder controlar el riesgo dentro de unos parámetros asegurables, partiendo de la base de que el seguro de riesgos extraordinarios tiene esos parámetros en un nivel comparativamente muy alto frente a otros sistemas, será necesario actuar también sobre los otros componentes del riesgo: la exposición y la vulnerabilidad, es decir, sobre la prevención."
 weight: 1

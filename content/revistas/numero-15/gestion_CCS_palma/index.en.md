@@ -1,7 +1,7 @@
 ---
 title: "Management by the CCS of losses caused by the La Palma volcanic eruption in 2021"
 category: "Actualidad"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/management-by-the-ccs-of-losses-caused-by-the-la-palma-volcanic-eruption-in-2021.pdf"
 sidebar_image: ""
 sidebar_text: "As of that date [16 December], CCS had paid out 73,484,337 euros as compensation for 419 homes (totalling €62,948,909); 75 motor vehicles (totalling €275,210); 48 business and office premises (totalling €9,845,083), and 5 industrial properties (totalling €415,135). If the conditions of the eruption do not change, CCS estimates that the amount of this loss, the first time in its history that it has had to deal with this type of risk, will ultimately come to about 180 million euros."
 weight: 10

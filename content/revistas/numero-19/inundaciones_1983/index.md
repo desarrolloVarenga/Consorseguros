@@ -1,7 +1,7 @@
 ---
 title: "40 años de las inundaciones de 1983"
 category: "Colaboraciones"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/40-anos-de-las-inundaciones-de-1983.pdf"
 sidebar_image: "/images/numero-19/inundaciones_1983.jpg"
 sidebar_text: "Más de un centenar de poblaciones fueron declaradas zonas catastróficas; especialmente dañadas resultaron Llodio, Barakaldo, Arrigorriaga, Basauri, Galdácano y Bilbao en su casco viejo y en el barrio de La Peña."
 weight: 3

@@ -1,7 +1,7 @@
 ---
 title: "Natural assurance schemes: moving earlier in the risk management cycle with nature based solutions and strategies"
 category: "Colaboraciones"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/natural-assurance-schemes-moving-earlier-in-the-risk-management-cycle-with-nature-based-solutions-and-strategies.pdf"
 sidebar_image: ""
 sidebar_text: "The main objective of the NAIAD Project, funded by the EU, is to develop a more comprehensive conceptual framework to better understand the insurable and assurance value of nature to facilitate the prevention of natural risks, incorporating nature into the equation not only as a problem but as a solution. NAIAD is a project funded by the European Commission within the Horizon 2020 program, with a duration of three and a half years (2017-2020) and a budget of 5 million euros. This brief article will present the main results of the development of this conceptual framework and the operationalization of the ecosystem assurance value in disaster risk management, with a special emphasis on prevention and avoided damages thanks to investment in nature."
 weight: 6

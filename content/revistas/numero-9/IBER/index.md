@@ -1,7 +1,7 @@
 ---
 title: "El modelo IBER y su aplicación al estudio de inundaciones"
 category: "Análisis"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/el-modelo-iber-y-su-aplicacion-al-estudio-de-inundaciones.pdf"
 sidebar_image: "/images/numero-9/foto_portada09_IBER.png"
 sidebar_text: "Iber dispone de opciones para la introducción de los diferentes tipos de condiciones iniciales y de condiciones de contorno de entrada y salida de caudales. Dispone de herramientas para la asignación automática de la rugosidad del cauce, y además incorpora opciones de configuración de condiciones de contorno internas, para definir vertederos, compuertas, puentes, alcantarillas o tramos de cauce cubiertos. El postproceso consiste en la visualización de los resultados de modo que sean fácilmente interpretables, para lo cual pueden hacerse representaciones por colores, curvas de nivel, etiquetas, vectores, gráficas, animaciones, etc."
 weight: 4

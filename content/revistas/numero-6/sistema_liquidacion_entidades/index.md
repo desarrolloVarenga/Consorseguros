@@ -1,7 +1,7 @@
 ---
 title: "El sistema de liquidación de entidades aseguradoras (EE.AA.) por el Consorcio de Compensación de Seguros (CCS)"
 category: "Análisis"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/el-sistema-de-liquidacion-de-entidades-aseguradoras-ee-aa-por-el-consorcio-de-compensacion-de-seguros-ccs.pdf"
 sidebar_image: "/images/numero-6/analisis_sistema-de-liquidacion011.jpg"
 sidebar_text: "Este artículo trata de las principales características del sistema español de liquidación de entidades aseguradoras, gestionado por el Consorcio de Compensación de Seguros."
 weight: 1

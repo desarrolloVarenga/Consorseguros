@@ -1,7 +1,7 @@
 ---
 title: "El seguro de edificios singulares: el caso de Portugal"
 category: "Colaboraciones"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/el-seguro-de-edificios-singulares-el-caso-de-portugal.pdf"
 sidebar_image: ""
 sidebar_text: "En Fidelidade contamos con un equipo altamente especializado para atender los percances más complejos. Además, para casos específicos, trabajamos con peritos independientes que tienen las facultades in-house para atender este tipo de siniestro de forma ágil. Los peritos especialistas se designan de antemano con el asegurado y se mencionan en la póliza. En el momento del siniestro el asegurado deberá cumplir con su deber de salvamento y tomar todas las medidas a su alcance para minimizar los daños, así como preservar y conservar el valor histórico de los edificios y de su contenido. Contar con planes de mitigación y contingencia es otro aspecto que tendrá un impacto positivo en el momento de que se produzca un siniestro."
 weight: 5

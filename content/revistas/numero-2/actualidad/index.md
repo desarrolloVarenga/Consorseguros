@@ -1,7 +1,7 @@
 ---
 title: "Actualidad CCS"
 category: "Actualidad"
-pdf_download: "/almacen/pdf/actualidad-ccs.pdf"
+pdf_download: "/pdf/actualidad-ccs.pdf"
 weight: 8
 image: "/images/numero02/Actualidad.jpg"
 summary: "Repaso a las novedades normativas relevantes para el sector asegurador y el Consorcio de Compensación de Seguros en 2015 —incluyendo el Proyecto de Ley de Ordenación, Supervisión y Solvencia (LOSSEAR), la reforma del Código Penal mediante la Ley Orgánica 1/2015 y el nuevo baremo de daños personales en accidentes de circulación—, así como el anuncio de la III Conferencia Mundial del IFIGS en Madrid."

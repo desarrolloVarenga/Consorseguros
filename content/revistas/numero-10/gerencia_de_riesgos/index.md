@@ -1,7 +1,7 @@
 ---
 title: "La gerencia de riesgos y la responsabilidad medioambiental"
 category: "Colaboraciones"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/la-gerencia-de-riesgos-y-la-responsabilidad-medioambiental.pdf"
 sidebar_image: "/images/numero-10/foto_portada10_gerencia-de-riesgos.jpg"
 sidebar_text: "A efectos formativos de Gerencia de Riesgos es importante reiterar la diferencia entre la responsabilidad medioambiental y la responsabilidad por contaminación. La responsabilidad medioambiental se refiere de forma exclusiva al daño a los recursos naturales (especies silvestres y su hábitat, acuíferos, suelos y subsuelos), que solo puede ser reclamado por las Administraciones Públicas al titular de la actividad económica o profesional que ha causado dicho daño, como ya se ha indicado previamente. En este supuesto, el responsable debe de minimizar el daño, reparar las consecuencias y devolver los bienes a su anterior estado, manteniendo informada a la Administración competente. Por otra parte, en el siniestro con daños causados por responsabilidad civil genérica (daños por contaminación), el daño se causa al patrimonio o a las personas y es reclamado directamente por el sujeto afectado. En este caso la obligación será la de indemnizar y reparar el perjuicio causado al tercero."
 weight: 3

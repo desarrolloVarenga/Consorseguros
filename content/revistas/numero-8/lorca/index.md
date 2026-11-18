@@ -1,7 +1,7 @@
 ---
 title: "Edificios demolidos e indemnizados por el Consorcio de Compensación de Seguros tras el terremoto de Lorca de 2011"
 category: "Actualidad"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/edificios-demolidos-e-indemnizados-por-el-consorcio-de-compensacion-de-seguros-tras-el-terremoto-de-lorca-de-2011.pdf"
 sidebar_image: ""
 sidebar_text: "El Consorcio de Compensación de Seguros recibió más de 32.000 solicitudes de indemnización por parte de asegurados afectados. Para realizar las tareas de valoración de los daños indemnizables designó y desplazó a algo más de 200 peritos de seguros y asesores técnicos. En conjunto, el importe indemnizado por el Consorcio ascendió a 485 millones de euros."
 weight: 12

@@ -1,7 +1,7 @@
 ---
 title: "Robotics, artificial intelligence and autonomous vehicles"
 category: "Collaborations"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/robotics-artificial-intelligence-and-autonomous-vehicles.pdf"
 sidebar_image: "/images/numero-7/robotica01.jpg"
 sidebar_text: "The European Parliament considers that we are on the threshold of an era in which robots, bots, androids and other forms of artificial intelligence are going to unleash a new industrial revolution, for which reason it has become indispensable for legislators to consider the legal and ethical consequences of such innovation."
 weight: 5

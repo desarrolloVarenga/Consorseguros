@@ -1,7 +1,7 @@
 ---
 title: "Propuesta de Directiva del Parlamento Europeo (PE) y del Consejo sobre responsabilidad por productos defectuosos de 28-09-22 (Liability for Defective Products - PLD)"
 category: "Colaboraciones"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/inteligencia-artificial-y-responsabilidad-civil-propuestas-de-directivas-de-la-comision-europea.pdf"
 sidebar_image: "/images/numero-18/foto_portada18_inteligencia%20artificial.jpg"
 sidebar_text: "Así como el Reglamento de Inteligencia Artificial tiene como objetivo fundamental la prevención de los daños, la Directiva de responsabilidad civil por IA establece garantías específicas a los perjudicados para obtener el resarcimiento o compensación cuando se produzcan esos daños."
 weight: 5

@@ -5,7 +5,7 @@ image: "/images/numero-24/foto_portada_cartografia_zona_inundables.jpg"
 sidebar_image: "/images/numero-24/foto_portada_cartografia_zona_inundables.jpg"
 sidebar_text: "The regulations establish a direct link between flood hazard mapping and administrative procedures relating to land use, urban planning and authorisations within the public hydraulic domain, as will be seen in the final section of this article. The information contained in the SNCZI therefore has significant legal and administrative implications, in addition to its obvious technical value."
 summary: "This article analyses what the SNCZI is, where its information is located, the mechanisms and methodologies used in its development, and the crucial legal implications introduced by the Public Hydraulic Domain Regulations (RGDPH for its initials in Spanish) regarding restrictions on land use in flood-prone areas."
-pdf_download: "/pdf/num24/cambio_climatico.pdf"
+pdf_download: "/pdf/cartografia_zonas_inundables.pdf"
 weight: 7
 authors:
   - name: "Mónica Aparicio Martín"

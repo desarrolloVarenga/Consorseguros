@@ -1,7 +1,7 @@
 ---
 title: "The AGERS natural disasters handbook"
 category: "Reviews"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/the-agers-natural-disasters-handbook.pdf"
 sidebar_image: "/images/numero-4/agers.png"
 sidebar_text: "The Asociación Española de Gerencia de Riesgos y Seguros (AGERS) [Spanish Association of Insurance and Risk Management] presented its Natural Disasters Handbook this past 2 December 2015."
 weight: 8

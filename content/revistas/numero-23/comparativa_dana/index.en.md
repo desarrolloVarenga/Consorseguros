@@ -5,7 +5,7 @@ image: "/images/numero-23/foto_portada_comparativa_dana.jpg"
 sidebar_image: "/images/numero-23/foto_portada_comparativa_dana.jpg"
 sidebar_text: "La DANA de Valencia de octubre de 2024 tiene características propias que la diferencian del resto de las inundaciones que ha asumido el CCS a lo largo de su historia; el daño ocasionado por la misma no tiene precedentes en cuanto al número de expedientes ni a las indemnizaciones asumidas."
 summary: "Partiendo de la información contenida en la publicación «Estadística de Riesgos Extraordinarios, Serie 1971-2024», disponible en la página web del CCS, seleccionamos los mayores eventos por inundación en la serie histórica de los últimos 54 años."
-pdf_download: "/pdf/num24/ICARIA.pdf"
+pdf_download: "/pdf/comparison_dana.pdf"
 weight: 8
 authors:
   - name: "Belén Soriano Clavero"

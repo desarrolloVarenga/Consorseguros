@@ -5,7 +5,7 @@ image: "/images/numero-23/foto_portada_agroseguros.jpg"
 sidebar_image: "/images/numero-23/foto_portada_agroseguros.jpg"
 sidebar_text: "Para muchos agricultores, la indemnización de Agroseguro fue el primer ingreso que recibieron tras la catástrofe.En total, el número de afectados alcanzó los 10.000 agricultores y ganaderos, y las indemnizaciones se elevaron finalmente hasta los 60 millones de euros. Es una cifra que nada tiene que ver con los daños personales, materiales y empresariales que ha tenido que afrontar el Consorcio, sin duda, pero que sí demuestra en nuestro caso la excepcionalidad del evento meteorológico que produjo esos daños en apenas unas horas."
 summary: "Año tras año, los fenómenos extremos, sean meteorológicos, geológicos o político-sociales, ponen de relieve la vulnerabilidad de las vidas y las propiedades en la sociedad actual. Y uno muy especial –esta vez, meteorológico– acaba de cumplir un año. Me refiero, claro, a la DANA que arrasó parte del litoral mediterráneo el 29 de octubre de 2024."
-pdf_download: "/pdf/num24/ICARIA.pdf"
+pdf_download: "/pdf/seguro_agrario_experiencia.pdf"
 weight: 4
 authors:
   - name: "Ignacio Machetti Bermejo"

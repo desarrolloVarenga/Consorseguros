@@ -1,7 +1,7 @@
 ---
 title: "Análisis de la siniestralidad de los riesgos extraordinarios del Consorcio de Compensación de Seguros 1995-2019"
 category: "Análisis"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/analisis-de-la-siniestralidad-de-los-riesgos-extraordinarios-del-consorcio-de-compensacion-de-seguros-1995-2019.pdf"
 sidebar_image: ""
 sidebar_text: ""
 weight: 2

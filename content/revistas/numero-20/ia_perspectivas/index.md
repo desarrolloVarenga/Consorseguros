@@ -1,7 +1,7 @@
 ---
 title: "Inteligencia artificial en el sector asegurador: perspectivas de mercado y regulatorias"
 category: "Colaboraciones"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/inteligencia-artificial-en-el-sector-asegurador-perspectivas-de-mercado-y-regulatorias.pdf"
 sidebar_image: "/images/numero-20/foto_portada_IA_perspectivas.jpg"
 sidebar_text: "En relación con el grado de implantación de la IA en seguros, resulta muy ilustrativo el reciente Informe sobre la digitalización del sector asegurador europeo, publicado por EIOPA el 30 de abril de 2024, que incluye los resultados de una encuesta entre aseguradores de toda la UE. Los resultados señalan que el 50 % de las entidades están ya aplicando la IA en los ramos de seguro de no vida y el 24 % en el ramo de vida; adicionalmente, un 30 % y un 39 % de las entidades encuestadas esperan utilizar la IA en el negocio de seguros de no vida y vida respectivamente."
 weight: 2

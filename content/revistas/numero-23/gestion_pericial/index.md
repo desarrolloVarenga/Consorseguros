@@ -5,7 +5,7 @@ image: "/images/numero-23/foto_portada_gestion_pericial.jpg"
 sidebar_image: "/images/numero-23/foto_portada_gestion_pericial.jpg"
 sidebar_text: "La DANA de 28 de octubre a 4 de noviembre de 2024 es, sin duda, el episodio más catastrófico a que ha tenido que hacer frente el Consorcio de Compensación de Seguros en sus más de 70 años de historia, y la gestión pericial de esta macrosiniestralidad está suponiendo un reto sin precedentes."
 summary: "Este artículo describe las medidas adoptadas por el Consorcio y sus peritos colaboradores para afrontar una siniestralidad inédita, tanto por el número de siniestros como por la gravedad de los daños y su repercusión social y mediática."
-pdf_download: "/pdf/num24/ICARIA.pdf"
+pdf_download: "/pdf/gestion-pericial.pdf"
 weight: 7
 authors:
   - name: "Pablo José López Vilares"

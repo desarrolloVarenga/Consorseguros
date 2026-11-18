@@ -1,7 +1,7 @@
 ---
 title: "Importancia de la modelización computacional y la predicción de riesgos como factores de prevención de enfermedades, como la patología cardiovascular, para reducir la morbimortalidad y la siniestralidad en los seguros de salud"
 category: "Colaboraciones"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/importancia-de-la-modelizacion-computacional-y-la-prediccion-de-riesgos-como-factores-de-prevencion-de-enfermedades.pdf"
 sidebar_image: "/images/numero-18/doctor_Javier_Cabo_Salvador.jpg"
 sidebar_text: "Dr. Javier Cabo Salvador, doctor en Medicina y Cirugía Cardiovascular. Director del Departamento de Ciencias de la Salud y catedrático de Gestión Sanitaria y Ciencias de la Salud de la Universidad UDIMA, catedrático de Ingeniería Biomédica en la Universidad Católica de Murcia (UCAM) y catedrático de Investigación Biomédica en la Universidad Católica Nordestana (UCNE), Miembro de BIONECA (Biomaterials and Advanced Physical Techniques for Regenerative Cardiology and Neurology). Miembro de la Academia de Ciencias de New York. Director general de Medytec Salud, gestora del ramo de salud de Groupama Plus Ultra (actual Catalana de Occidente) 2000-2010. Jefe de Cirugía Cardiovascular Hospital Universitario La Paz (1990-2017)."
 weight: 4

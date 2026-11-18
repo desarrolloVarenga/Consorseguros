@@ -5,7 +5,7 @@ image: "/images/numero-23/foto_portada_apcas.jpg"
 sidebar_image: "/images/numero-23/foto_portada_apcas.jpg"
 sidebar_text: "Los peritos de seguros y gabinetes socios de APCAS han mostrado la capacidad de adaptación a las circunstancias tan dificultosas que ha presentado este siniestro y han aportado el conocimiento técnico y la infraestructura para afrontarlo y permitir al Consorcio y a las entidades aseguradoras poder cumplir con sus obligaciones hacia los asegurados."
 summary: "Durante este año, APCAS ha participado en distintos foros para colaborar con el análisis de las consecuencias y circunstancias de la DANA y la atención a los siniestros producidos."
-pdf_download: "/pdf/num24/ICARIA.pdf"
+pdf_download: "/pdf/apcas.pdf"
 weight: 5
 authors:
   - name: "Francisco de la Puente Álvarez"

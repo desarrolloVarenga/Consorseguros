@@ -1,7 +1,7 @@
 ---
 title: "The obligation of the owner of a motor vehicle to take out insurance against civil liability: comments on the Opinion of the Advocate General of the CJEU of 26 April 2018 in the question referred for a preliminary ruling C-80/2017"
 category: "Reseñas"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/the-obligation-of-the-owner-of-a-motor-vehicle-to-take-out-insurance-against-civil-liability-comments-on-the-opinion-of-26-april-2018.pdf"
 sidebar_image: ""
 sidebar_text: "In the request for a preliminary ruling C-80/17, known as the “Juliana case”, two questions arise of key interest for the management of compensation payments to traffic accident victims by the compulsory third-party insurance scheme. On the one hand, the question arises as to how far the obligation to insure a motor vehicle should extend. Secondly, the question arises as to whether, in a case where there is an obligation to have a vehicle insured, the Fund, which has paid compensation to the victim of the accident, can extend its recovery action not only to include the driver of the uninsured vehicle responsible for the accident, but also the owner who was not driving and was not involved in the accident."
 weight: 6

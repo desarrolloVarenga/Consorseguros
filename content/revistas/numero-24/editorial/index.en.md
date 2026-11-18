@@ -1,7 +1,7 @@
 ---
 title: "Editorial"
 category: "Editorial"
-pdf_download: "/pdf/num24/editorial.pdf"
+pdf_download: "/pdf/editorial-24-en.pdf"
 sidebar_image: "/images/numero-24/foto_portada_editorial_24.jpg"
 sidebar_text: "With this issue, we reach the milestone of 195 contributions, generously provided by many experts since we began this magazine in 2014 autumn. All these contributions remain online, both in Spanish and English, freely accessible to all those interested in learning more about CCS, risks, and the role of insurance in its management and reduction."
 weight: 1

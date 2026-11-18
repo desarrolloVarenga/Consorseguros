@@ -1,7 +1,7 @@
 ---
 title: "Modelos de inundación del Sistema Nacional de Cartografía de zonas inundables vs. inundaciones reales"
 category: "Colaboraciones"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/modelos-de-inundacion-del-sistema-nacional-de-cartografia-de-zonas-inundables-vs-inundaciones-reales.pdf"
 sidebar_image: ""
 sidebar_text: "Las zonas inundables calculadas tienen limitaciones importantes respecto a la inundación que se produciría en un evento concreto y, aunque las técnicas y modelos actuales son muy precisos, una inundación real de un evento puede variar significativamente respecto a lo calculado. En  cualquier caso, las inundaciones ocurren y cuando, para un lugar concreto que sufre el evento, existe un mapa de peligrosidad, este puede calibrarse con la toma de datos en campo, identificando cualquier indicio que permita delimitar la extensión de la inundación o, incluso, determinar los calados que ha alcanzado la inundación."
 weight: 5

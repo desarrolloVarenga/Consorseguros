@@ -1,7 +1,7 @@
 ---
 title: "Casos piloto de adaptación al riesgo de inundación"
 category: "Colaboraciones"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/casos-piloto-de-adaptacion-al-riesgo-de-inundacion.pdf"
 sidebar_image: "/images/numero-12/casos_piloto01.jpg"
 sidebar_text: "Figura 1. Inundación en Los Alcázares en septiembre de 2019. Fuente: Confederación Hidrográfica del Segura."
 weight: 3

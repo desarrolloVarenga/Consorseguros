@@ -1,7 +1,7 @@
 ---
 title: "Floods, a danger to road safety"
 category: "Colaboraciones"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/floods-a-danger-to-road-safety.pdf"
 sidebar_image: ""
 sidebar_text: "If flooding or the carrying off of the vehicle seem imminent, it is almost certain that it is already too late to try to save it. Doing so would mean risking our lives."
 weight: 4

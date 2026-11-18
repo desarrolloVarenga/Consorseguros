@@ -1,7 +1,7 @@
 ---
 title: "Inundaciones de Navarra, País Vasco, Aragón y Burgos, 2021"
 category: "Colaboraciones"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/inundaciones-de-navarra-pais-vasco-aragon-y-burgos-2021.pdf"
 sidebar_image: ""
 sidebar_text: "Gracias a todos los sistemas de aviso de los organismos de cuenca y de los servicios oficiales meteorológicos, se dispone incluso de estimaciones de los niveles máximos que pueden alcanzar los ríos. La experiencia acumulada, la mejora de los sistemas de monitorización y el uso de nuevas tecnologías y procedimientos como el big data, permiten, con horas o incluso días de antelación, prever la evolución de los ríos, siempre desde una perspectiva probabilística, permitiendo la toma de las medidas necesarias establecidas en los planes de protección ."
 weight: 8

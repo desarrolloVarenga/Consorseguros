@@ -1,7 +1,7 @@
 ---
 title: "New Zealand’s natural hazards insurance scheme is based on lessons of the past"
 category: "Contributions"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/new-zealands-natural-hazards-insurance-scheme-is-based-on-lessons-of-the-past.pdf"
 sidebar_image: ""
 sidebar_text: "The new legislation changed the name of the scheme from the Earthquake Commission (EQC) to the Natural Hazards Commission. The new name is an important signal to homeowners that cover is available for a range of natural hazards, not just earthquakes. There is no additional hazards covered – the new name is just to make it clear that the cover available is for a range of hazards."
 weight: 4

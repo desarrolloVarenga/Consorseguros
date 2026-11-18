@@ -1,7 +1,7 @@
 ---
 title: "Radiografía de Agroseguro y el seguro agrario en España: pilares fundamentales para la agricultura y la ganadería"
 category: "Colaboraciones"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/radiografia.pdf"
 sidebar_image: ""
 sidebar_text: "El sistema español de Seguros Agrarios Combinados está muy consolidado, con 45 años de historia y trayectoria, con una gestión seria y basada en su estabilidad en el largo plazo. Y aunque sus pilares financieros acusan el impacto de la creciente siniestralidad debido a una realidad climática en pleno cambio, el compromiso de todos sus intervinientes –Agroseguro y las entidades coaseguradoras, las administraciones públicas y las organizaciones agrarias y cooperativas– ha sido trabajar y aportar ideas y mejoras para garantizar su estabilidad futura."
 weight: 3

@@ -5,7 +5,7 @@ image: "/images/numero-24/foto_portada_incendios.jpg"
 sidebar_image: "/images/numero-24/foto_portada_incendios.jpg"
 sidebar_text: "he expansion and densification of woodland due to a lack of management, the abandonment of primary sector activities and policies aimed at excluding low-intensity fires have resulted in homogeneous landscapes that are highly vulnerable to extreme fires. In this context, forest management, and surface fuel management in particular, notably through silvicultural treatments, prescribed burning and grazing, lies at the heart of prevention and is a key pillar of an MIF strategy (Ascoli et al., 2023). These measures help to modify the structure, load and continuity of the fuel, thereby influencing fire behaviour and reducing the likelihood of extreme fires."
 summary: "Whilst most wildfires are caused by human activity, their behaviour and spread are largely influenced by the characteristics and distribution of forest fuel, which are closely linked to land management. In some regions, such as the Mediterranean, the accumulation of fuel in the landscape due to rural depopulation, together with the expansion of the Wildland-Urban Interface, further increases the risk."
-pdf_download: "/pdf/num24/incendios.pdf"
+pdf_download: "/pdf/wildfire_prevention.pdf"
 weight: 5
 authors:
   - name: "Eduard Plana Bach "

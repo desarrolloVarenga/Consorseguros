@@ -1,7 +1,7 @@
 ---
 title: "Bienes de interés cultural"
 category: "Colaboraciones"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/bienes-de-interes-cultural.pdf"
 sidebar_image: ""
 sidebar_text: "La cuestión inicial a abordar para un correcto aseguramiento de estos bienes, independientemente de si hablamos de un seguro de daños materiales o de un seguro de transportes, es determinar un valor para los mismos. Por la tipología que se trata, no resulta una tarea sencilla, ya que en la mayoría de los supuestos son bienes con un valor cultural incalculable, difícilmente resarcible con una compensación económica. La única fórmula para amortiguar en parte este obstáculo es acudir a lo que en terminología de seguros se denomina aseguramiento a valor convenido. Es decir, propiedad y asegurador llegan a un consenso sobre el valor a indemnizar en caso de que se produzca una pérdida del bien asegurado, evitando que, producido un evento siniestral, se pueda aplicar infraseguro que pueda dejar desprotegida a la propiedad."
 weight: 2

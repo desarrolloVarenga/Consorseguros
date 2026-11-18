@@ -1,7 +1,7 @@
 ---
 title: "Chile's economic recovery after the earthquake of February 2010"
 category: "Reviews"
-pdf_download: "/almacen/pdf/chiles-economic-recovery-after-the-earthquake-of-february-2010.pdf"
+pdf_download: "/pdf/chiles-economic-recovery-after-the-earthquake-of-february-2010.pdf"
 sidebar_image: "/images/numero-3/terremoto_chile2010.jpg"
 sidebar_text: "Surprisingly, just one year after the disaster the Chilean economy was growing by 6%, as the world economy was still reeling from the effects of the financial crisis of 2008-2009. The management of the crisis gained international recognition: the OECD made Chile a permanent member in 2010 and it was one of the countries invited to participate at the G20 summit held in Mexico City in 2012."
 weight: 6

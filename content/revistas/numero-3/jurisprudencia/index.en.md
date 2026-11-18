@@ -2,7 +2,7 @@
 title: "Jurisprudence about the Consorcio de Compensación de Seguros"
 subtitle: "Non-payment of successive premiums and instalment payments. Review of the ruling of the First Chamber of the Supreme Court of 30 June, 2015"
 category: "Reviews"
-pdf_download: "/almacen/pdf/jurisprudencia-sobre-el-consorcio-de-compensacion-de-seguros-3.pdf"
+pdf_download: "/pdf/jurisprudencia-sobre-el-consorcio-de-compensacion-de-seguros-3.pdf"
 sidebar_image: "/images/numero-3/jurisprudencia01.jpg"
 weight: 7
 image: "/images/numero-3/foto_portada_jurisprudencia.jpg"

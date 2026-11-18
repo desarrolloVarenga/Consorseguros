@@ -1,7 +1,7 @@
 ---
 title: "Sistemas de aseguranza natural: actuar antes en el ciclo de gestión del riesgo con soluciones y estrategias basadas en la naturaleza"
 category: "Colaboraciones"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/sistemas-de-aseguranza-natural-actuar-antes-en-el-ciclo-de-gestion-del-riesgo-con-soluciones-y-estrategias-basadas-en-la-naturaleza.pdf"
 sidebar_image: ""
 sidebar_text: "El principal objetivo del Proyecto NAIAD, financiado por la UE , es desarrollar un marco conceptual más completo para entender mejor el valor asegurable y de la aseguranza de la naturaleza que facilite la prevención de los riesgos naturales, incorporando la naturaleza a la ecuación no solo como un problema sino como una solución. NAIAD es un proyecto financiado por la Comisión Europea dentro del programa Horizonte 2020, con una duración de tres años y medio (2017-2020) y con un presupuesto de 5 millones de euros. Este breve artículo presentará los principales resultados del desarrollo de este marco conceptual y de la puesta en práctica del valor de aseguranza de los ecosistemas en la gestión de riesgos de desastre, haciendo un especial énfasis en la prevención y en los daños evitados gracias a la inversión en naturaleza."
 weight: 6

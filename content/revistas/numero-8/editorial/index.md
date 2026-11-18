@@ -1,7 +1,7 @@
 ---
 title: "Editorial"
 category: "Editorial"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/editorial08.pdf"
 sidebar_image: "/images/numero-8/foto_portada08_editorial.jpg"
 sidebar_text: "Este número trata, con bastante extensión, temas relacionados con el seguro del automóvil. El doctor Carlos Represas firma un artículo sobre la valoración de los daños corporales en los accidentes de circulación y Juan Luis de Miguel, Subdirector del Centro Zaragoza, explica la actividad de este centro pionero y puntero en la investigación de temas relacionados con el  automóvil y su aseguramiento."
 weight: 1

@@ -1,7 +1,7 @@
 ---
 title: "Volcanic risk management and insurance in New Zealand"
 category: "Colaboraciones"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/volcanic-risk-management-and-insurance-in-new-zealand.pdf"
 sidebar_image: "/images/numero-15/foto_portada15_NUEVA_ZELANDA.jpg"
 sidebar_text: "While a range of Government agencies and private sector organisations work to reduce volcanic risk and plan and prepare for volcanic activity, New Zealand is fortunate to also have very high insurance coverage for volcanic impacts. New Zealand has two major public insurance schemes: the Accident Compensation Corporation (ACC) which insures anyone in New Zealand (regardless of residency or citizenship status) with 'no-fault' personal injury cover, and the Earthquake Commission (EQC) which provides cover for residential property (homes and residential land) against natural disaster damage (including volcanic eruption). In addition to the Government-run schemes, vehicle, commercial, and agricultural interests are covered through the private insurance market."
 weight: 7

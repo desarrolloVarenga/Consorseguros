@@ -1,7 +1,7 @@
 ---
 title: "CCS Update"
 category: "News"
-pdf_download: "/almacen/pdf/ccs-update.pdf"
+pdf_download: "/pdf/ccs-update.pdf"
 weight: 8
 image: "/images/numero02/Actualidad.jpg"
 summary: "Overview of key 2015 legislative and regulatory developments impacting the insurance sector and the Consorcio de Compensación de Seguros —including the Draft Law on the Regulation, Supervision and Solvency of Insurance and Reinsurance Companies, the Penal Code reform (Organic Law 1/2015), and the new personal injury assessment scale for traffic accidents— alongside the announcement of the Third World Conference of IFIGS in Madrid."

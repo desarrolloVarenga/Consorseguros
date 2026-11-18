@@ -2,7 +2,7 @@
 title: "Consecuencias jurídicas derivadas del impago de la primera prima o prima única por culpa del tomador"
 subtitle: "Comentario de la Sentencia del Pleno del Tribunal Supremo, de 10 de septiembre de 2015"
 category: "Reseñas"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/consecuencias-juridicas-derivadas-del-impago-de-la-primera-prima-o-prima-unica-por-culpa-del-tomador.pdf"
 sidebar_image: "/images/numero-5/jurisprudencia01.jpg"
 sidebar_text: "En el caso que nos ocupa, la controversia surgió por el impago de la primera prima por parte del tomador/asegurado en un seguro de responsabilidad civil en la circulación de vehículos a motor, que fue interpretado de distinta forma por ambas entidades. El CCS consideraba que debía hacerse cargo la aseguradora por no haber resuelto el contrato tras el impago de la primera prima por parte de su asegurado; mientras que la entidad aseguradora sostenía, en síntesis, que al tratarse de un impago culpable, no había surgido sus efectos el seguro y, por tanto, el vehículo carecía de seguro, lo que conllevaba que le correspondía el pago al CCS."
 weight: 8

@@ -1,7 +1,7 @@
 ---
 title: "La gestión de inundaciones en Galicia Costa"
 category: "Colaboraciones"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/la-gestion-de-inundaciones-en-galicia-costa.pdf"
 sidebar_image: ""
 sidebar_text: "En cuencas como Galicia Costa adelantarse al fenómeno es muy importante, ya que cuando se empiezan a producir los desbordamientos hay poco tiempo de respuesta, dado  que los tiempos de concentración son muy bajos. Es por esto que se está potenciando el desarrollo de sistemas de predicción en tiempo real, en los que a partir de las predicciones meteorológicas facilitadas por Meteogalicia se hacen predicciones de caudal en distintos puntos de la Demarcación a 72h vista. Esto permite, en caso de que se esperen caudales superiores a la capacidad del cauce, establecer una coordinación con Protección Civil y tener los medios preparados para el seguimiento y posible intervención."
 weight: 5

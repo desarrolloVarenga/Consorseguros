@@ -1,7 +1,7 @@
 ---
 title: "The Environmental Damage Compensation Fund"
 category: "Colaboraciones"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/the-environmental-damage-compensation-fund.pdf"
 sidebar_image: "/images/numero-10/foto_portada10_compensacion.jpg"
 sidebar_text: "Remedial measures are intended to restore damaged natural resources or provide an equivalent alternative. As established in Article 20 et seq. of the Regulations, remedial measures may be of three types: (i) primary, restoration of natural resources to their basic state; (ii) supplementary, when restoration is not possible or it consumes too long a period of time or primary remedy is very costly; and (iii) compensatory for the provisional loss of natural resources during recovery. Liability can be enforced on the operator up to 30 years after the day on which the event causing the environmental damage has completely come to an end."
 weight: 9

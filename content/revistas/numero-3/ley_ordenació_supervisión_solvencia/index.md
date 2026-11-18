@@ -1,7 +1,7 @@
 ---
 title: "El Consorcio de Compensación de Seguros en la nueva Ley de ordenación, supervisión y solvencia de las entidades aseguradoras y reaseguradoras"
 category: "Reseñas"
-pdf_download: "/almacen/pdf/el-consorcio-de-compensacion-de-seguros-en-la-nueva-ley-de-ordenacion-supervision-y-solvencia.pdf"
+pdf_download: "/pdf/el-consorcio-de-compensacion-de-seguros-en-la-nueva-ley-de-ordenacion-supervision-y-solvencia.pdf"
 sidebar_image: "/images/numero-3/nueva-ley-ordenacion_resena.jpg"
 sidebar_text: "La LOSSEAR introduce novedades en la regulación de diversas materias que afectan directamente a la actividad del CCS. Además de recoger el marco global de Solvencia II, al que se adaptará el CCS en todo lo que resulte compatible con su naturaleza, se regulan aspectos específicos, bien atribuyéndole nuevas funciones, o bien reconsiderando algunos aspectos de la regulación actual. En todo caso, con ello se subraya el papel del CCS en el mercado de seguros español como una institución que contribuye a su estabilidad y, en general, al reforzamiento de la institución aseguradora."
 weight: 5

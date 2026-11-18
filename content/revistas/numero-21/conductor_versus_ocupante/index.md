@@ -1,7 +1,7 @@
 ---
 title: "Conductor versus ocupante de un vehí­culo"
 category: "Jurisprudencia"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/conductor-versus-ocupante-de-un-vehiculo.pdf"
 sidebar_image: "/images/numero-21/foto_portada_conductor_versus_ocupante.jpg"
 sidebar_text: "La Sentencia de 9 de mayo de 2023, de la Sección Quinta de la Audiencia Provincial de Cartagena, determinó que el ocupante de un vehículo que, en un momento determinado, dio un volantazo, debía ser considerado como conductor y, a su vez, el conductor del vehículo que resultó gravemente lesionado, tenía la consideración de ocupante y, por tanto, estaba cubierto por el seguro obligatorio del vehículo que conducía."
 weight: 9

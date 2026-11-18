@@ -5,7 +5,7 @@ image: "/images/numero-24/foto_portada_cambio_climatico.jpg"
 sidebar_image: "/images/numero-24/foto_portada_cambio_climatico.jpg"
 sidebar_text: "A escala regional, los impactos económicos del cambio climático son significativos, con pérdidas estimadas del orden de 250 millones de euros en la última década asociadas a eventos extremos. En el caso del municipio de Garachico, los daños por inundación costera alcanzan más de 2.000.000 € para el periodo 1996-2024 (Fuente CCS), lo que evidencia una elevada vulnerabilidad estructural y la necesidad de estrategias de adaptación específicas."
 summary: "European coastal areas are facing an increased risk of flooding due to climate change, driven by rising sea levels and more intense extreme weather events. This situation calls for adaptation approaches that reduce both physical risk and economic losses."
-pdf_download: "/pdf/num24/cambio_climatico.pdf"
+pdf_download: "/pdf/climate_change_adaptation.pdf"
 weight: 6
 authors:
   - name: "Javier L. Lara"

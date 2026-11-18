@@ -1,7 +1,7 @@
 ---
 title: "Statistics of the CCS' Guarantee Fund for compulsory Motor car Third-Party Liability insurance"
 category: "Colaboraciones"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/statistics-of-the-ccs-guarantee-fund-for-compulsory-motor-car-third-party-liability-insurance.pdf"
 sidebar_image: "/images/numero-14/foto_portada14_estadistica.jpg"
 sidebar_text: "The CCS obtains the financial wherewithal to be able to pay for the Guarantee Fund covers through the MTPL surcharge, calculated based on the commercial compulsory insurance premium. This surcharge is collected with the insurance premiums on all motor vehicles normally based in Spain."
 weight: 3

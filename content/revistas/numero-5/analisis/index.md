@@ -1,7 +1,7 @@
 ---
 title: "¿Planificar los daños o la complejidad? Comisión de Terremotos de Nueva Zelanda: la historia hasta ahora"
 category: "Análisis"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/planificar-los-danos-o-la-complejidad-comision-de-terremotos-de-nueva-zelanda-la-historia-hasta-ahora.pdf"
 sidebar_image: "/images/numero-5/ANALISIS_00.jpg"
 sidebar_text: "La Comisión de Terremotos de Nueva Zelanda (EQC), el sistema público neozelandés para la cobertura aseguradora de los riesgos geológicos, que funciona en cooperación con el sector privado, tuvo que afrontar entre 2010 y 2011 una de las mayores pruebas a nivel mundial para un sistema de catástrofes: la secuencia de terremotos de Canterbury."
 weight: 2

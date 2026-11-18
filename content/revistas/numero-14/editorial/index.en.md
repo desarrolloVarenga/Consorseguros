@@ -1,7 +1,7 @@
 ---
 title: "Editorial"
 category: "Editorial"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/editorial-14-en.pdf"
 sidebar_image: "/images/numero-14/foto_portada14_editorial.jpg"
 sidebar_text: "The reader faces the 14th issue of our digital magazine, in which new items related to the main actors dealing with the management of risks aligned with the activities and functions of Consorcio de Compensación de Seguros (CCS) are presented. These actors have important roles in both catastrophic risk and automobile insurance. Other articles published in this issue delve further into matters already considered previously, bringing more complete information or new perspectives in accordance with the evolution of the editorial line of this magazine. "
 weight: 1

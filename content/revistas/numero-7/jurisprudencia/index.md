@@ -1,7 +1,7 @@
 ---
 title: "El perjuicio excepcional, en la Ley 35/2015, de 22 de septiembre, de reforma del sistema para la valoración de los daños y perjuicios causados a las personas en accidentes de circulación"
 category: "Reseñas"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/2015-de-22-de-septiembre-de-reforma-del-sistema-para-la-valoracion-de-los-danos-y-perjuicios-causados-a-las-personas-en-accidentes-de-circulacion.pdf"
 sidebar_image: "/images/numero-7/foto_portada_jurisprudencia.jpg"
 sidebar_text: "Los hechos que dan lugar a la sentencia que comentamos, tienen que ver con el atropello y fallecimiento de la madre de la perjudicada por parte del conductor de un vehículo sin seguro."
 weight: 9

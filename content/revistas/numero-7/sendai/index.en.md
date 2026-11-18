@@ -1,7 +1,7 @@
 ---
 title: "The Sendai Framework for disaster risk reduction 2015-2030. Progress achieved in its implementation"
 category: "Collaborations"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/the-sendai-framework-for-disaster-risk-reduction-2015-2030-progress-achieved-in-its-implementation.pdf"
 sidebar_image: "/images/numero-7/foto_portada07_Sendai.png"
 sidebar_text: "Since the 70s the United Nations has been taking different measures in response to a diverse range of severe disasters which have claimed the lives of thousands of people, such as the earthquakes in Iran in 1962 and 1968, and hurricane Flora in October 1963, which devastated Cuba, Haiti, Jamaica, the Dominican Republic, and Trinidad & Tobago, among others. Witnessing the high level of recurrence of disasters and the serious damage they inflicted on the development of nations, especially among the least developed countries, led the United Nations to consider the need to take kinds of action that would go beyond a merely reactive response and which, from a more integrated perspective, might encompass studying, preventing, planning and preparing for disaster situations as the most suitable way to mitigate the effects that disasters were bringing about."
 weight: 4

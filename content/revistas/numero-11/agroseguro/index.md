@@ -1,7 +1,7 @@
 ---
 title: "El riesgo de inundación en la agricultura"
 category: "Análisis"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/el-riesgo-de-inundacion-en-la-agricultura.pdf"
 sidebar_image: "/images/numero-11/foto_portada11_Agroseguro.jpg"
 sidebar_text: "En el campo los agricultores suelen asistir impotentes a las pérdidas de sus cosechas o de las infraestructuras de sus explotaciones, a la imposibilidad de entrar en las parcelas para realizar los tratamientos necesarios o a ver cómo proliferan enfermedades ligadas a la humedad y al desarrollo de los cultivos. Y ello ocurre tanto en las zonas próximas a las vegas de los ríos, como consecuencia de desbordamientos, como en otro tipo de áreas a resultas de lluvias torrenciales."
 weight: 3

@@ -1,7 +1,7 @@
 ---
 title: "The importance of data in disaster risk reduction"
 category: "Análisis"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/the-importance-of-data-in-disaster-risk-reduction.pdf"
 sidebar_image: ""
 sidebar_text: ""
 weight: 2

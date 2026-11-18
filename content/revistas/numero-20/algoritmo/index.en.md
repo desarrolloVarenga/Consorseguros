@@ -1,7 +1,7 @@
 ---
 title: "Not Everything Fits into an Algorithm"
 category: "Contributions"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/not-everything-fits-into-an-algorithm.pdf"
 sidebar_image: ""
 sidebar_text: "The demand for speed by the insurance industry in responding is exerting great pressure on companies to adapt and offer faster, more accessible services. Customers expect quick answers to their enquiries, whether they are seeking a quote, filing a claim, or calling for assistance. As a result, insurers are turning to innovative technologies to speed up processes and provide their customers with immediate responses. They are also implementing automation and using artificial intelligence to improve their efficiency and response capabilities to enable insurance companies to satisfy demand in an ever more demanding and competitive marketplace."
 weight: 5

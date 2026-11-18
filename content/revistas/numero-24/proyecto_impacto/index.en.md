@@ -5,7 +5,7 @@ image: "/images/numero-24/foto_portada_proyecto_impacto.jpg"
 sidebar_image: "/images/numero-24/foto_portada_proyecto_impacto.jpg"
 sidebar_text: "Since IMPACTO went live in late 2025, the various agencies involved have been notified of the platform’s launch, and the necessary data has been collected to manage user registrations and permissions. At the moment of writing, IMPACTO has a total of 338 registered users."
 summary: "The IMPACTO project is an inter-institutional collaborative initiative aimed at sharing data and statistics on natural and technological events considered priorities for civil protection and causing damage and losses in Spain."
-pdf_download: "/pdf/num24/proyecto_impacto.pdf"
+pdf_download: "/pdf/proyecto_impacto_en.pdf"
 weight: 8
 authors:
   - name: "María del Carmen Montero Rocha"

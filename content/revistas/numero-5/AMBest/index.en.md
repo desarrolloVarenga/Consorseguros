@@ -2,7 +2,7 @@
 title: "Best's special report"
 subtitle: "Catastrophe Schemes - Issue Review. Future Proofing: The Value of Natural Catastrophe Schemes in Europe"
 category: "Reviews"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/bestandacute-s-special-report-catastrophe-schemes-issue-review-future-proofing-the-value-of-natural-catastrophe-schemes-in-europe.pdf"
 sidebar_image: "/images/numero-5/AMBest_01.jpg"
 sidebar_text: "This report, published by the insurance industry credit rating agency, A.M. Best, reviews the range of natural catastrophe insurance programs in Europe, focussing particularly on flood risk, which is responsible for causing the highest losses."
 weight: 7

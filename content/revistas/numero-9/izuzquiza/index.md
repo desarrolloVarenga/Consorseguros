@@ -1,7 +1,7 @@
 ---
 title: "La obligación del propietario de un vehículo a motor de suscribir el seguro de responsabilidad civil obligatorio: comentarios en torno al Dictamen del Abogado General del Tribunal de Justicia de la Unión Europea de 26 de abril de 2018 en el asunto prejudicial C-80/2017"
 category: "Reseñas"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/obligacion-de-suscribir-el-seguro-de-rc-del-automovil-comentarios-en-torno-al-dictamen-del-abogado-general-del-tjue-de-26-de-abril-de-2018-en-el-asunto-prejudicial-c-802017.pdf"
 sidebar_image: ""
 sidebar_text: "En el asunto prejudicial C-80/17, conocido como “asunto Juliana”, se suscitan dos cuestiones del máximo interés para la gestión de las indemnizaciones a perjudicados por accidentes de circulación con cargo al seguro obligatorio de responsabilidad civil de automóviles. Por una parte, se plantea hasta dónde cabe extender la obligación de aseguramiento de un vehículo a motor. En segundo lugar, se plantea la cuestión de si, en el caso de que efectivamente tuviera que estar asegurado el vehículo, el Fondo de Garantía que ha indemnizado a la víctima del accidente puede extender su acción de recobro no sólo frente al conductor del vehículo sin seguro responsable del accidente, sino también frente al propietario que no conducía y no intervino en el accidente."
 weight: 7

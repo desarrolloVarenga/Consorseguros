@@ -1,7 +1,7 @@
 ---
 title: "Responsabilidad medioambiental: hundimiento del buque Prestige"
 category: "Colaboraciones"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/responsabilidad-medioambiental-hundimiento-del-buque-prestige.pdf"
 sidebar_image: ""
 sidebar_text: "En 2005, el Ministerio de Economía y Hacienda encargó al CCS un estudio sobre las pérdidas económicas del año anterior producidas por el accidente del buque Prestige a los titulares de actividades económicas de pesca, marisqueo y acuicultura, de acuerdo con el Real Decreto 276/2005 de 11 de marzo. Dicho estudio fue realizado por la Subdirección de Tasaciones del CCS y sirvió de base para compensar las pérdidas de esos afectados con el fondo disponible en aquel momento de 3 millones de euros."
 weight: 7

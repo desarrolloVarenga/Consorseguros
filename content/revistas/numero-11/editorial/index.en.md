@@ -1,7 +1,7 @@
 ---
 title: "Editorial"
 category: "Editorial"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/editorial11-en.pdf"
 sidebar_image: "/images/numero-11/foto_portada11_editorial.jpg"
 sidebar_text: "Between the 10th and the 15th of September 2019, a closed upper-level low (a “cut-off low”), a high-level atmospheric depression cut off from the jet stream circumpolar current which, on becoming positioned over the Mediterranean Sea, warm after absorbing all of the summer heat, brought about a situation of intense rainfall over the entire southeast quadrant of the Peninsula and the Balearic Islands, which was especially torrential in the provinces of Murcia and Alicante. The conjunction of the meteorological and territorial factors, including here the demographic and economic factors, turned this flood episode into the event which has generated the highest number of claims ever for this reason under the extraordinary risk insurance, approximately 67,000, becoming the second most expensive flood event to date in the history of the Consorcio de Compensación de Seguros (CCS), with a current estimate of damage of slightly over 500 million euros. For this reason, we have devoted this issue of the Consorseguros digital magazine to addressing this subject, that is, the cut-off lows, specifically, and flood risk, in general."
 weight: 1

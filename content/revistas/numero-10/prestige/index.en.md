@@ -1,7 +1,7 @@
 ---
 title: "Environmental liability: the sinking of the vessel Prestige"
 category: "Colaboraciones"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/environmental-liability-the-sinking-of-the-vessel-prestige.pdf"
 sidebar_image: ""
 sidebar_text: "In 2005, the Ministry of Economy and Finance commissioned the CCS to make a study of the economic loss the year before that had been caused to owners of fishing, shellfish and aqua-farming businesses by the accident involving the tanker Prestige, pursuant to Royal Decree 276/2005 of 11 March. The study was conducted by the Expertise Area of the CCS and was used as the basis for compensating losses to those affected using the fund available at that time of 3 million euros."
 weight: 7

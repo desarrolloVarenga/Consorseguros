@@ -1,7 +1,7 @@
 ---
 title: "El interés asegurado y su distinción con el riesgo objeto del seguro Comentario de la sentencia de la Sala 1ª del Tribunal Supremo de 1 de marzo de 2023"
 category: "Jurisprudencia"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/el-interes-asegurado-y-su-distincion-con-el-riesgo-objeto-del-seguro.pdf"
 sidebar_image: "/images/numero-18/foto_portada18_jurisprudencia.jpg"
 sidebar_text: "El  interés económico que una persona ostenta en que no se produzca el siniestro constituye objeto legítimo de cobertura en el contrato de seguro de daños, cuya razón de ser radica precisamente en obtener el resarcimiento concreto de la lesión del interés. De esta manera, el siniestro es la realización del riesgo y la lesión del interés asegurado."
 weight: 6

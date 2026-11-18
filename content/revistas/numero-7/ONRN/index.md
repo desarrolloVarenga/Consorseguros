@@ -1,7 +1,7 @@
 ---
 title: "La contribución de las aseguradoras francesas a la creación y la gestión de un Observatorio Nacional de los Riesgos Naturales (ONRN)"
 category: "Colaboraciones"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/la-contribucion-de-las-aseguradoras-francesas-a-la-creacion-y-la-gestion-de-un-observatorio-nacional-de-los-riesgos-naturales-onrn.pdf"
 sidebar_image: "/images/numero-7/foto_portada07_ONRN.png"
 sidebar_text: "El Observatorio Nacional de los Riesgos Naturales (ONRN) es un ejemplo de asociación público-privada que reúne al Estado, a las aseguradoras y a la reaseguradora, que se basa en un gobierno concertado que incluye a los colectivos territoriales y a socios en proyectos voluntarios para compartir datos, experiencia y estudios."
 weight: 3

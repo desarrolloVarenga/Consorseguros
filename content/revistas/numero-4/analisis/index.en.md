@@ -1,7 +1,7 @@
 ---
 title: "Earthquakes in Spain. Recent activity in the Alborán Sea"
 category: "In depth"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/earthquakes-in-spain-recent-activity-in-the-alboran-sea-en.pdf"
 sidebar_image: "/images/numero-4/analisis00.jpg"
 sidebar_text: "This article describes the tectonic structures and the seismic processes affecting the Iberian Peninsula, listing the main earthquakes that have occurred along the last 500 years and giving thus context to the recently occurred earthquakes in the Alborán Sea, that have affected the Spanish city of Melilla."
 weight: 2

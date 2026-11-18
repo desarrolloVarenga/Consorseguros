@@ -1,7 +1,7 @@
 ---
 title: "Editorial"
 category: "Editorial"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/editorial-16-en.pdf"
 sidebar_image: "/images/numero-16/foto_portada16_editorial.jpg"
 sidebar_text: "In the space of just 20 years between 1990 and storm Klaus, the total sum assured for property damage with the Consorcio de Compensación de Seguros (CCS) rose from roughly 1.6 to 5 trillion euros, and the figure of somewhere in the region of 5 to 6 trillion euros has remained fairly stable ever since."
 weight: 1

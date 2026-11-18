@@ -1,7 +1,7 @@
 ---
 title: "Special problems posed by losses to cultural heritage assets"
 category: "Contributions"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/special-problems-posed-by-losses-to-cultural-heritage-assets.pdf"
 sidebar_image: "/images/numero-17/foto_portada17_siniestros_asociados_patrimonio_cultural.jpg"
 sidebar_text: "Exposure to or the absence of light, relative humidity, the height at which works are kept, and the materials in which they are stored are some of the factors that make a difference to the maintenance and care of cultural heritage assets and to the claims adjustment process in case of loss. For that reason, it is essential to identify the special features inherent to each factor with a view to mitigating the risk of suffering a loss and being able to adjust claims with the requisite speed and specialist knowledge."
 weight: 6

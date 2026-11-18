@@ -1,7 +1,7 @@
 ---
 title: "COVID-19 and the declarations of the states of alarm"
 category: "Reviews"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/covid-19-and-the-declarations-of-the-states-of-alarm.pdf"
 sidebar_image: "/images/numero-17/foto_portada17_COVID19.jpg"
 sidebar_text: "Oddly, one of the most common arguments put forward by claimants is the strange claim that they did not have the opportunity to review the specifications of or limits on the lost profit cover before signing the policy, something that is hard to verify unless the insured has first signed an insurance proposal or precontractual information document and then later the policy in accordance with section 3 Insurance Act. Another common argument used by claimants is that these clauses describing lost profit relied on by insurers are limiting (the descriptions exclude cases) or are unclear or partially vitiate the scope of coverage being purchased."
 weight: 9

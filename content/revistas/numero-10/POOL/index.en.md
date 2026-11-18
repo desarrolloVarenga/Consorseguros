@@ -1,7 +1,7 @@
 ---
 title: "Pool Español de Riesgos Medioambientales: environmental insurance accessible for everybody"
 category: "Colaboraciones"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/pool-espanol-de-riesgos-medioambientales-environmental-insurance-accessible-for-everybody.pdf"
 sidebar_image: ""
 sidebar_text: "In the Pool, the Spanish market has a reference point for the environmental insurance on offer, which it has kept stable, solvent and attractive over the years. Large, medium and small companies all have access to it subject to the same technical conditions. It still retains the trust of all of its member firms thanks to its fully transparent and neutral modus operandi, together with strict confidentiality in processing the information that is passed to it by each member. The underwriting results after the first three years since it was started up have held up in increasingly positive figures and they are backed up by a prudent provision allowance. The team at the Pool is the unit that has the most experience in this type of insurance in Spain, both in terms of underwriting and claims handling."
 weight: 5

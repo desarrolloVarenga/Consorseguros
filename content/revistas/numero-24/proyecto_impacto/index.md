@@ -5,7 +5,7 @@ image: "/images/numero-24/foto_portada_proyecto_impacto.jpg"
 sidebar_image: "/images/numero-24/foto_portada_proyecto_impacto.jpg"
 sidebar_text: "Desde la puesta en funcionamiento de IMPACTO, a finales de 2025, se fue notificando a los distintos organismos implicados el inicio de la operatividad de la plataforma, así como recabando los datos necesarios para la gestión de altas y permisos a los usuarios de dicha plataforma. En la actualidad, IMPACTO cuenta ya con un total de 338 usuarios registrados."
 summary: "El proyecto IMPACTO surge como una iniciativa de colaboración interinstitucional para la compartición de datos y estadísticas sobre eventos, tanto naturales como tecnológicos, considerados prioritarios para protección civil y que ocasionan daños y pérdidas en España."
-pdf_download: "/pdf/num24/proyecto_impacto.pdf"
+pdf_download: "/pdf/proyecto_impacto.pdf"
 weight: 8
 authors:
   - name: "María del Carmen Montero Rocha"

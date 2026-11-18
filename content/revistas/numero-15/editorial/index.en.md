@@ -1,7 +1,7 @@
 ---
 title: "Editorial"
 category: "Editorial"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/editorial-15-en.pdf"
 sidebar_image: "/images/numero-15/foto_portada15_editorial.jpg"
 sidebar_text: "We are lucky to edit the probably most international issue in the history of Consorseguros. In it we have contributions from different corners of the World representing risks from all Continents, in which volcano science and insurance experts enlighten us about volcanic risk, its management and its insurance cover. Contributions come from Colombia, France, Iceland, Italy, Japan, New Zealand and Portugal."
 weight: 1

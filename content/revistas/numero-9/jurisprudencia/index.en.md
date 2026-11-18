@@ -1,7 +1,7 @@
 ---
 title: "The obligation on vehicle owners to take out compulsory insurance. Comment on the Judgment by the Court of Justice of the European Union of 4 September 2018 (Case C-80/17)"
 category: "Reseñas"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/reviewsthe-obligation-on-vehicle-owners-to-take-out-compulsory-insurance-comment-on-the-judgment-by-the-court-of-justice-of-the-european-union-of-4-september-2018.pdf"
 sidebar_image: ""
 sidebar_text: "The CJEU reminds us that, on the one hand, any vehicle deemed fit to be used, whether or not it is actually driven for whatever reasons, must be properly insured and, on the other hand, the Guarantee Funds cannot take responsibility for cases where a vehicle is not obliged to be insured for whatever circumstances, such as, for example, being decommissioned. This interpretation, as the judgment says, guarantees that the victims are compensated whatever happens, either by the insurer under a policy taken out for such purpose, or by the organisation envisaged in Article 1, Section 4 of the Second Directive in the case where the obligation to insure the vehicle involved in the accident has not been satisfied or when the vehicle in question has not been identified."
 weight: 8

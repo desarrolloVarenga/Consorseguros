@@ -1,7 +1,7 @@
 ---
 title: "Jurisprudencia sobre el Consorcio de Compensación de Seguros. Comentario de la sentencia del Tribunal Supremo de 5 de septiembre de 2011"
 category: "Reseñas"
-pdf_download: "/almacen/pdf/comentario-de-la-sentencia-del-tribunal-supremo-de-5-de-septiembre-de-2011.pdf"
+pdf_download: "/pdf/comentario-de-la-sentencia-del-Tribunal-Supremo-de-5-de-septiembre-de-2011.pdf"
 sidebar_image: "/images/numero-4/foto_portada_jurisprudencia.jpg"
 sidebar_text: "La Sentencia de la Sala Primera del Tribunal Supremo de 5 de septiembre de 2011 resuelve la controversia sobre si existe o no obligación de consignación para apelar por parte del Consorcio de Compensación de Seguros, en los términos del artículo 449.3 de la Ley de Enjuiciamiento Civil."
 weight: 9

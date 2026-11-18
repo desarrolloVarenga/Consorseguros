@@ -5,7 +5,7 @@ image: "/images/numero-23/foto_portada_agroseguros.jpg"
 sidebar_image: "/images/numero-23/foto_portada_agroseguros.jpg"
 sidebar_text: "For many farmers the compensation paid out by Agroseguro was the first income they had had since the disaster. In all, 10,000 crop and livestock farmers were affected, and compensations ultimately reached 60 million euros. That figure is a far cry from the personal injury, property damage, and business interruption losses Consorcio has had to deal with, but still it demonstrates the exceptional nature of that weather event in our case, which produced that level of losses in just a few hours."
 summary: "Year after year, extreme weather, geological, and political and social events highlight the vulnerability faced by people and property in today's society. A year has just gone by since one particular event, this one a weather event. I am, of course, talking about the floods that devastated part of the Mediterranean coast of Spain on 29 October 2024."
-pdf_download: "/pdf/num24/ICARIA.pdf"
+pdf_download: "/pdf/agricultural_insurence_experience.pdf"
 weight: 4
 authors:
   - name: "Ignacio Machetti Bermejo"

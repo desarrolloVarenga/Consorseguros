@@ -1,7 +1,7 @@
 ---
 title: "The Catastrophe Observatory of the Aon Spain Foundation: research, prevention, assistance and continuity"
 category: "Colaboraciones"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/the-catastrophe-observatory-of-the-aon-spain-foundation-research-prevention-assistance-and-continuity.pdf"
 sidebar_image: ""
 sidebar_text: " "
 weight: 4

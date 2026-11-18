@@ -1,7 +1,7 @@
 ---
 title: "Las bicicletas eléctricas no son vehículos a motor Comentario de la sentencia del Tribunal de Justicia de la Unión Europea, de 12 de octubre de 2023. Asunto C-286/22"
 category: "Jurisprudencia"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/las-bicicletas-electricas-no-son-vehiculos-a-motor.pdf"
 sidebar_image: "/images/numero-19/foto_portada_bicicletas.jpg"
 sidebar_text: "Hasta ahora, nos encontramos con una legislación dispersa e incompleta, en la que conviven normas de ámbito estatal con otras municipales que, a nuestro juicio, no resuelven todavía los problemas que se están planteando, sobre todo de seguridad vial."
 weight: 7

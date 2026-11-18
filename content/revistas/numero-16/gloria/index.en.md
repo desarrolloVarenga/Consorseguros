@@ -1,7 +1,7 @@
 ---
 title: "The claims incurred from Gloria"
 category: "Colaboraciones"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/The-claims-incurred-from-Gloria.pdf"
 sidebar_image: "/images/numero-16/foto_portada16_gloria.jpg"
 sidebar_text: "The extent of extraordinary flooding was very substantial, with 16,926 claims recorded in 913 municipalities in the regional autonomies of Catalonia, Valencia, Andalusia, the Balearic Islands, Murcia and Aragon at a cost of some 145.35 million euros. Leading the way in the breakdown of the number of claims by kind of property were (as is usually the case) homes and condominiums with 11,047 claims, while business risks stood out in terms of overall costs, which, altogether totalled 73.82 million euros. The highest average costs were for civil works, notably harbour facilities, which were hard hit by sea-wash. Turning to personal injury, the most recent figures put this at 13 deaths and 4 missing persons, mostly in Catalonia and the Balearic Islands and in the main attributable to the storm at sea."
 weight: 5

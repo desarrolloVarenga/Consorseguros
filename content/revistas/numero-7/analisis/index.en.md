@@ -1,7 +1,7 @@
 ---
 title: "The significance of vulnerability and exposure in increased flood risk on the mediterranean coast"
 category: "In depth"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/the-significance-of-vulnerability-and-exposure-in-increased-flood-risk-on-the-mediterranean-coast.pdf"
 sidebar_image: "/images/numero-7/analisis00.jpg"
 sidebar_text: "In the past twenty-five years there has been a significant rise in flood risk on the Mediterranean coast due to the increase in vulnerability and exposure to the hazard of heavy rains."
 weight: 1

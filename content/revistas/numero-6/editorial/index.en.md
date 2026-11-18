@@ -1,7 +1,7 @@
 ---
 title: "Editorial"
 category: "Editorial"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/editorial06en.pdf"
 sidebar_image: "/images/numero-6/editorial_numero6.jpg"
 sidebar_text: "This Spring 2017 issue of “Consorseguros Digital” devotes special attention to one of the significant functions of the Consorcio de Compensación de Seguros (CCS): the protection of the insureds affected by cases of insurance company insolvency."
 weight: 1

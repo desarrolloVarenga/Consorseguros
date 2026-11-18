@@ -1,7 +1,7 @@
 ---
 title: "Rain flooding in Spanish urban zones: a damage estimation model based on adjustment experience"
 category: "Colaboraciones"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/rain-flooding-in-spanish-urban-zones-a-damage-estimation-model-based-on-adjustment-experience.pdf"
 sidebar_image: ""
 sidebar_text: "Analyzing only indemnities related to buildings (excluding civil works and vehicles), the year 2018 accounted for practically 75% of the total indemnified concentrated in shops, warehouses, and other risks. It is therefore confirmed that shops are the most vulnerable property type to urban pluvial floods. With these data, the relevance of urban pluvial flooding is notable and highlights the need for tools to help estimate the damage they can cause."
 weight: 5

@@ -1,7 +1,7 @@
 ---
 title: "Editorial"
 category: "Editorial"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/editorial09en.pdf"
 sidebar_image: "/images/numero-9/foto_portada09_editorial.jpg"
 sidebar_text: "At the end of September 2018, the CCS organised the 12th meeting of the WFCP in Madrid, and that important event constitutes the central axis around which the ninth issue of the Consorseguros Digital magazine revolves. The analysis article is an overview of the WFCP and its history, as well as a description of the development of the 12th meeting."
 weight: 1

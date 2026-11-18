@@ -1,7 +1,7 @@
 ---
 title: "El Pool de riesgo de ciclón australiano. El camino hasta aquí y lo que nos dicen los datos"
 category: "Contribuciones"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/el-pool-de-riesgo-de-ciclon-australiano.pdf"
 sidebar_image: "/images/numero-21/foto_portada_australia.jpg"
 sidebar_text: "Desde el año 2003, la Sociedad Australiana del Pool de Reaseguro (Australian Reinsurance Pool Corporation –ARPC–) ha sido el mecanismo del Gobierno de Australia para proveer cobertura de reaseguro de catástrofe, primero para el riesgo de terrorismo y desde 2022 para los riesgos de ciclón y de inundación relacionada con un ciclón. Este artículo se centra en el Pool de riesgo de ciclón, desde la creación de la ARPC hace más de dos décadas, la naturaleza del riesgo de ciclón, la puesta en marcha del Pool de riesgo de ciclón en 2022 y la aceptación de riesgos de sus clientes por primera vez en enero de 2023 y las subsiguientes respuestas oficiales y de la sociedad."
 weight: 3

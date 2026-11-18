@@ -1,7 +1,7 @@
 ---
 title: "The contribution of French insurers to the creation and management of a National Observatory for Natural Hazards (ONRN)"
 category: "Collaborations"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/the-contribution-of-french-insurers-to-the-creation-and-management-of-a-national-observatory-for-natural-hazards-onrn.pdf"
 sidebar_image: "/images/numero-7/foto_portada07_ONRN.png"
 sidebar_text: "The National Observatory for Natural Hazards (ONRN) is an example of a public-private partnership that brings together the state, insurers and the reinsurer, founded on concerted governance that embraces territorial groups and partners on voluntary projects to pool data, experience and studies."
 weight: 3

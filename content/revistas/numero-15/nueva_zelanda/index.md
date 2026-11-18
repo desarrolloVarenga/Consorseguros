@@ -1,7 +1,7 @@
 ---
 title: "Gestión del riesgo volcánico y seguro en Nueva Zelanda"
 category: "Colaboraciones"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/gestion-del-riesgo-volcanico-y-seguro-en-nueva-zelanda.pdf"
 sidebar_image: "/images/numero-15/foto_portada15_NUEVA_ZELANDA.jpg"
 sidebar_text: "Aunque hay muchas agencias gubernamentales y organizaciones del sector privado trabajando en Nueva Zelanda para reducir el riesgo volcánico y para planificar y prepararse ante la actividad volcánica, nuestro país tiene la fortuna de contar con una cobertura aseguradora de los impactos volcánicos muy alta. Nueva Zelanda tiene dos programas principales de seguro público: La Corporación de Compensación de Accidentes (Accident Compensation Corporation, ACC), que asegura que cualquier persona en Nueva Zelanda (independientemente de su residencia o ciudadanía) tenga una cobertura «sin culpa» de accidentes personales, y la Comisión de Terremotos (Earthquake Commission, EQC), que proporciona cobertura para propiedades residenciales (viviendas y suelo residencial) contra daños causados por los desastres naturales (la erupción volcánica incluida). Además de los programas gubernamentales, los vehículos, los comercios y la actividad agraria están cubiertos por el mercado asegurador privado."
 weight: 7

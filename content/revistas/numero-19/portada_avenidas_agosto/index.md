@@ -1,7 +1,7 @@
 ---
 title: "Las avenidas de agosto de 1983 en Euskadi: hechos y enseñanzas"
 category: "Colaboraciones"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/las-avenidas-de-agosto-de-1983-en-euskadi-hechos-y-ensenanzas.pdf"
 sidebar_image: "/images/numero-19/portada_avenidas_agosto_1983.jpg"
 sidebar_text: "En los años posteriores, además de a la reconstrucción, las administraciones se pusieron a trabajar, primero, en intentar entender y cuantificar lo que había ocurrido, cuáles eran las enseñanzas que podían aprehenderse y, como consecuencia, qué líneas de trabajo y qué actuaciones debían acometerse para afrontar en el presente, y de cara al futuro, el riesgo de inundación."
 weight: 5

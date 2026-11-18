@@ -1,7 +1,7 @@
 ---
 title: "Register of Compulsory Insurance [Registro de Seguros Obligatorios] kept by the Consorcio de Compensación de Seguros"
 category: "News"
-pdf_download: "/almacen/pdf/ccs-update04.pdf"
+pdf_download: "/pdf/ccs-update04.pdf"
 sidebar_image: "/images/numero-4/Actualidd-CCS-seguro-obligatorio.jpg"
 sidebar_text: "The purpose of this new Register is to furnish systematic, general, up to date, information to the public regarding the types of insurance that are required in order to be able to carry on certain business activities. Furthermore, the Register enables the General Directorate for Insurance and Pension Funds to report the perils for which insurance coverage is compulsory under Spanish law to the European Commission, as required under the provisions of Directive 2009/38/EC, known as the Solvency II Directive."
 weight: 1

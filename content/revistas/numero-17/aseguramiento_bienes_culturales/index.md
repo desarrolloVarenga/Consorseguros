@@ -1,7 +1,7 @@
 ---
 title: "Aseguramiento de bienes culturales bajo la perspectiva de la mediación aseguradora"
 category: "Colaboraciones"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/bienes-de-interes-cultural.pdf"
 sidebar_image: "/images/numero-17/foto_portada17_aseguramiento de bienes culturales.jpg"
 sidebar_text: "En la determinación del daño deberemos acudir a la diferencia entre el valor inmediatamente anterior a la producción del evento dañoso y el valor, si existe, tras la producción del daño (principio indemnizatorio). Para evitar la conflictividad derivada de la valoración del bien a asegurar es habitual que las partes fijen en póliza el valor del interés asegurado, tal y como permite el art. 28 de la Ley de Contrato de Seguro (LCS) bajo el principio de autonomía de la voluntad. De esa forma ambas partes quedarán vinculadas por el valor acordado y se facilitará el proceso indemnizatorio. En caso contrario, la valoración efectuada por el asegurado será la cantidad máxima que el titular del interés asegurado puede recibir en caso de siniestro . Como anécdota hay que indicar que ciertos museos únicamente contratan seguros para el transporte de las obras a exposiciones o cesiones temporales. El altísimo valor de los fondos de un museo difícilmente encuentra capacidad en el mercado asegurador o reasegurador. En esos casos se posibilita la cobertura directa por parte del Estado o una combinación con el seguro privado."
 weight: 3

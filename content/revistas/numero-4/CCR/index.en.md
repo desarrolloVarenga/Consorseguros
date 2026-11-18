@@ -1,7 +1,7 @@
 ---
 title: "Impact of climate change on natural disaster insurance in France"
 category: "Contributions"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/impact-of-climate-change-on-natural-disaster-insurance-in-france.pdf"
 sidebar_image: "/images/numero-4/ccr.png"
 sidebar_text: "The Caisse Centrale de Réassurance [Central Reinsurance Fund (French abbreviation: CCR)] is a reinsurance company whose mandate is to design, put in practice, and manage efficient instruments that respond to the need for coverage of catastrophic risk and thereby serve its clients and the general welfare."
 weight: 4

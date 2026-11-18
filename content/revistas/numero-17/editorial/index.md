@@ -1,7 +1,7 @@
 ---
 title: "Editorial"
 category: "Editorial"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/Editorial-17.pdf"
 sidebar_image: "/images/numero-17/foto_portada17_editorial.jpg"
 sidebar_text: "Una novedad es que utilizamos, en este número de la revista, el formato de entrevista. Nuestra compañera Marta García ha entrevistado en el Ministerio de Cultura y Deportes a Carlos González-Barandiarán, Subdirector General de Registros y Documentación; a Ángel Rivas, Secretario de la Junta de Calificación, y a José Luis Rodríguez, Jefe de Servicio de la Garantía del Estado, que nos explican cómo funciona este sistema de la Garantía del Estado, un seguro público que presta el Reino de España a las obras de arte cedidas o recibidas en préstamo de otras instituciones, y que es un elemento clave en el aseguramiento de las obras de arte en espacios de titularidad pública estatal. "
 weight: 1

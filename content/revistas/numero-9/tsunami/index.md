@@ -1,7 +1,7 @@
 ---
 title: "La necesidad y la oportunidad de estudiar el impacto económico de los tsunamis en las costas españolas"
 category: "Análisis"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/la-necesidad-y-la-oportunidad-de-estudiar-el-impacto-economico-de-los-tsunamis-en-las-costas-espanolas.pdf"
 sidebar_image: "/images/numero-9/foto_portada09_tsunami.jpg"
 sidebar_text: "Los mapas y los estudios de riesgos no tienen propósito predictivo; de hecho, lo último que se quiere es que se cumpla ni siquiera una sola de las premisas con que se realizan. El propósito de los mapas de riesgo es que sirvan como instrumento para alertar de las posibles consecuencias indeseadas para que, desde el día uno de su publicación, o incluso antes con trabajos de divulgación como este mismo artículo, se empiece a poner remedio para mitigar esos efectos, unas consecuencias que se calculan con la mejor ciencia disponible en cada momento."
 weight: 5

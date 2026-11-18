@@ -1,7 +1,7 @@
 ---
 title: "State of meteorology and weather conditions that led to the flooding in the Basque Country in August 1983"
 category: "Contributions"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/state-of-meteorology-and-weather-conditions-that-led-to-the-flooding-in-the-basque-country-in-august-1983.pdf"
 sidebar_image: "/images/numero-19/foto_portada_analisis_situacion_meteorologica.jpg"
 sidebar_text: "The models therefore predicted a scenario of high instability but by no means the torrential rains that came about in the end. Heavy cloud cover with moderate rain showers, more frequent in the eastern half (of the Bay of Biscay) was the official forecast for the day in question."
 weight: 4

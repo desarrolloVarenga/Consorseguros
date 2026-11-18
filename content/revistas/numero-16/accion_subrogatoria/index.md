@@ -1,7 +1,7 @@
 ---
 title: "La acción subrogatoria del artículo 43 de la Ley de contrato de seguro: última jurisprudencia de la Sala 1ª del Tribunal Supremo"
 category: "Reseñas"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/la-accion-subrogatoria-del-artículo-43-de-la-ley-de-contrato-de-seguro.pdf"
 sidebar_image: "/images/numero-16/foto_portada16_accion_subrogatoria.jpg"
 sidebar_text: "La  acción subrogatoria está regulada en el artículo 43 LCS, que establece que «El asegurador, una vez pagada la indemnización podrá ejercitar los derechos y las acciones que por razón del siniestro correspondieran al asegurado frente a las personas responsables del mismo, hasta el límite de la indemnización». Por tanto, la subrogación del asegurador en la posición del asegurado frente al tercero causante del siniestro se producirá si concurren tres condiciones: a) que el asegurador haya hecho el pago de la indemnización, en virtud y como consecuencia de un contrato de seguro, b) que haya nacido para el asegurado una acción de responsabilidad frente al tercero, que no sea tomador del seguro ni asegurado y c) que se cumplan los requisitos para la existencia de responsabilidad civil, sea cual fuere su naturaleza (contractual, extracontractual o ex delicto)."
 weight: 9

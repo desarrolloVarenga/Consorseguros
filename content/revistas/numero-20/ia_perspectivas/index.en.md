@@ -1,7 +1,7 @@
 ---
 title: "Artificial Intelligence and the Insurance Industry: Regulatory and Market Perspectives"
 category: "Contributions"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/artificial-intelligence-and-the-insurance-industry-regulatory-and-market-perspectives.pdf"
 sidebar_image: "/images/numero-20/foto_portada_IA_perspectivas.jpg"
 sidebar_text: "EIOPA published on 30 April 2024 the results of a recent survey of insurers throughout the EU dealing with the level of implementation of AI in the insurance sector in its Report on the digitalisation of the European insurance sector. According to the survey results, 50% of companies are already using AI in the non-life insurance lines and 24% in the life insurance lines, with a further 30% and 39% of the companies surveyed expecting to use AI in the non-life and life lines of business, respectively."
 weight: 2

@@ -1,7 +1,7 @@
 ---
 title: "Aproveche este momento para integrar inteligencia artificial en su empresa"
 category: "Colaboraciones"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/aproveche-este-momento-para-integrar-inteligencia-artificial-en-su-empresa.pdf"
 sidebar_image: "/images/numero-20/foto_portada_aproveche_integrar_IA.jpg"
 sidebar_text: "Como bien señaló Peter Drucker, «No hay nada tan inútil como hacer con gran eficiencia algo que no debería haberse hecho en absoluto». Limitar el potencial ilimitado de la IA a los confines de un software empresarial tradicional es una tarea condenada al fracaso, ya que estas soluciones no fueron concebidas para aprovechar al máximo las capacidades de esta tecnología revolucionaria."
 weight: 8

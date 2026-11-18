@@ -1,7 +1,7 @@
 ---
 title: "Daños al medio ambiente provocados por una central hidroeléctrica que había sido debidamente autorizada para ejercer su actividad"
 category: "Colaboraciones"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/danos-al-medio-ambiente-provocados-por-una-central-hidroelectrica-que-habia-sido-debidamente-autorizada-para-ejercer-su-actividad.pdf"
 sidebar_image: "/images/numero-10/foto_portada_jurisprudencia.jpg"
 sidebar_text: "El asunto que da lugar a esta resolución deriva de la explotación de una central hidroeléctrica en el río Mürz, en Austria, cuyas instalaciones comprenden una zona de derivación de 1.455 metros. Dicha explotación fue autorizada mediante resolución del Presidente del estado federado de Estiria de 20 de agosto de 1998, y comenzó a funcionar en el año 2002, fecha anterior a la entrada en vigor de la Directiva 2004/35, que fue el 30 de abril de 2007 . Por otro lado, el Sr. Folk, demandante del litigio principal, es titular de una autorización de pesca en dicho río, a lo largo de un tramo del curso de agua de unos 12 km situado aguas abajo de la presa, quien manifiesta que la explotación de dicha central hidroeléctrica afecta gravemente al medioambiente, poniendo en peligro la reproducción natural de los peces y ocasionándoles una mortalidad masiva en largos tramos del río. "
 weight: 8

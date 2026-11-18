@@ -1,7 +1,7 @@
 ---
 title: "Editorial"
 category: "Editorial"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/editorial10-en.pdf"
 sidebar_image: "/images/numero-10/foto_portada10_editorial.jpg"
 sidebar_text: "The in-depth article, signed by senior civil servants of the Ministry for the Ecological Transition, starting by the Director-General for Biodiversity and Environmental Quality, Mr. Javier Cachón de Mesa, puts in context the development of the concept of environmental liability and its implementing legislation, as well as the distribution of roles between the different actors involved and their coordination. This subject is further expanded in the “Contributions” section, considered from the different perspectives of the stakeholders."
 weight: 1

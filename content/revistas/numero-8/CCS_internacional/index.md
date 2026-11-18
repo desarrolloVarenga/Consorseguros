@@ -1,7 +1,7 @@
 ---
 title: "El CCS y su presencia internacional"
 category: "Reseñas"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/el-ccs-y-su-presencia-internacional.pdf"
 sidebar_image: ""
 sidebar_text: "La actividad exterior del CCS se lleva a cabo a través de distintas áreas de la entidad, en función de la materia de que se trate. Las líneas de actuación las marca la Dirección General y el Comité de Dirección de la entidad, con objetivos estratégicos que vienen fijados en los distintos Planes de Actuación Trienal, que establecen diversas acciones específicas a desarrollar en cada periodo."
 weight: 10

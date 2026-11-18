@@ -1,7 +1,7 @@
 ---
 title: "Flooding in Navarre, the Basque Country, Aragon and Burgos, 2021"
 category: "Colaboraciones"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/flooding-in-navarre-the-basque-country-aragon-and-burgos-2021.pdf"
 sidebar_image: ""
 sidebar_text: "Thanks to all the warning systems belonging to basin authorities and official weather services, there are even estimates available of the highest river discharges. The cumulative experience acquired over time, enhancement and upgrading of monitoring systems, as well as the use of new technologies and procedures such as big data enable prediction of trends for rivers hours or even days in advance, always from a probability-based perspective, which allows the readings and measurements to be taken which the protection planning establishes."
 weight: 8

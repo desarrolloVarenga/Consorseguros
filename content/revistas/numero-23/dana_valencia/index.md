@@ -5,7 +5,7 @@ image: "/images/numero-23/foto_portada_dana_valencia.jpg"
 sidebar_image: ""
 sidebar_text: "La dimensión económica de la catástrofe marca un punto de inflexión en la historia del seguro en España. Tanto por volumen como por velocidad de pago, la gestión de esta DANA es ya un caso de estudio obligado. En marzo de 2025, apenas cuatro meses después del evento, el CCS ya había abonado más de 2.600 millones de euros. Para noviembre de 2025, el importe pagado ha superado los 4.000 millones de euros, con una tasa de resolución de expedientes del 98,3 %."
 summary: "La Depresión Aislada en Niveles Altos (DANA) que golpeó a la Comunidad Valenciana a finales de octubre de 2024 ha trascendido la crónica meteorológica para consolidarse como el mayor siniestro por inundación jamás gestionado por el Consorcio de Compensación de Seguros (CCS)."
-pdf_download: "/pdf/num24/ICARIA.pdf"
+pdf_download: "/pdf/la_dana_de_valencia.pdf"
 weight: 7
 authors:
   - name: "Celedonio Villamayor Pozo"

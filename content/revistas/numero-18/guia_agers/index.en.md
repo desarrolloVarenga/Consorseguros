@@ -1,7 +1,7 @@
 ---
 title: "AGERS operational risk handbook"
 category: "Reviews"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/agers-operational-risk-handbook.pdf"
 sidebar_image: "/images/numero-18/foto_portada18_GUIA_AGERS.jpg"
 sidebar_text: "The strategic tool for operational risk management is risk analysis. Such analysis includes recognizing risk by identifying and evaluating it, the methodology that applies to measuring it (including qualitative, semi-quantitative and quantitative methods), monitoring it and tracking it via indicators, and developing methodologies and techniques to quantify operational risks."
 weight: 7

@@ -1,7 +1,7 @@
 ---
 title: "Failure to pay successive premiums and its effects on the Extraordinary Risk coverage by the Consorcio de Compensación de Seguros"
 category: "Reviews"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/failure-to-pay-successive-premiums-and-its-effects-on-the-extraordinary-risk-coverage-by-the-consorcio-de-compensacion-de-seguros.pdf"
 sidebar_image: "/images/numero-6/jurisprudencia01.jpg"
 sidebar_text: "As regards the case we are concerned with here, and with respect to CCS extraordinary risk cover, we shall discuss the legal effects that arise from the situation where the successive premium is only paid to the insurer on a date after the loss event (involving flooding) and when the contract was legally in a state of suspension given that the premium had not been paid within the month following the expiration thereof."
 weight: 2

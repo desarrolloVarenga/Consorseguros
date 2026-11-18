@@ -1,7 +1,7 @@
 ---
 title: "4th Meeting on Impact Biomechanics, organised by Centro Zaragoza"
 category: "Actualidad"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/4th Meeting on Impact Biomechanics, organised by Centro Zaragoza.pdf"
 sidebar_image: "/images/numero-9/foto_portada_09_centro-Zaragoza.jpg"
 sidebar_text: "For Carlos Arregui, Director General of Centro Zaragoza, impact biomechanics serves to determine how injuries occur. Mathematical equations are useful but very complex. For this, experimental approximation and knowledge of scientific literature are the best strategies. Juan Luis de Miguel, Deputy Director of Centro Zaragoza, pointed out that high-intensity impacts are easy to measure, since tools exist to enable such measurement. This is not the case with low-intensity impacts, although there was not much demand for measuring these impacts prior to the change in legislation. In his opinion, the best way to address low-intensity impacts is the experimental approach. You have to be sceptical about the theoretical models."
 weight: 9

@@ -5,7 +5,7 @@ image: "/images/numero-24/foto_portada_copernicus.jpg"
 sidebar_image: "/images/numero-24/foto_portada_copernicus.jpg"
 sidebar_text: "De acuerdo con la política de datos libres y abiertos del programa Copernicus, todos los productos del CEMS son de libre acceso, salvo las previsiones en tiempo real del EFAS, cuyo acceso está restringido a usuarios autorizados, normalmente organismos de gestión de cuencas hidrográficas y autoridades de protección civil. Así, el servicio de cartografía bajo demanda del CEMS solo puede ser activado por usuarios autorizados, normalmente organismos de protección civil."
 summary: "Cuando las inundaciones anegan una ciudad, los incendios forestales se extienden o la sequía amenaza el suministro de agua, las autoridades necesitan información rápida y precisa. Para ello, recurren a científicos y profesionales que recopilan, generan e interpretan datos fiables casi en tiempo real. A lo largo de este artículo mostramos cómo la información geoespacial obtenida por satélite ha ayudado a España a prepararse para las catástrofes, darles respuesta y recuperarse tras ellas."
-pdf_download: "/pdf/num24/copernicus.pdf"
+pdf_download: "/pdf/copernicus.pdf"
 weight: 4
 authors:
   - name: "André Moreira Gonçalves "

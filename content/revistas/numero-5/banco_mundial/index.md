@@ -1,7 +1,7 @@
 ---
 title: "Publicaciones recientes del banco mundial sobre financiación de riesgos de desastres"
 category: "Reseñas"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/publicaciones-recientes-del-banco-mundial-sobre-financiacion-de-riesgos-de-desastre.pdf"
 sidebar_image: "/images/numero-5/banco_mundial01.png"
 sidebar_text: ""
 weight: 6

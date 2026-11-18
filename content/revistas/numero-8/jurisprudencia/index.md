@@ -1,7 +1,7 @@
 ---
 title: "Impago de primas sucesivas. La suspensión de efectos del contrato no es oponible al tercero perjudicado y el Consorcio de Compensación de Seguros lo es cuando ejercita acción de repetición en reclamación de la cantidad abonada a terceros perjudicados en cumplimiento de sus funciones como Fondo de Garantía, al existir controversia en cuanto a la cobertura del accidente por la póliza de seguro"
 category: "Reseñas"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/el-impago-de-primas-sucesivas-y-sus-efectos-en-la-cobertura-de-los-riesgos-extraordinarios-por-el-consorcio-de-compensacion-de-seguros.pdf"
 sidebar_image: "/images/numero-8/foto_portada_jurisprudencia.jpg"
 sidebar_text: "Quizá lo más interesante de la sentencia que analizamos sea la afirmación de que el CCS, en estos casos, en los que indemniza al perjudicado por controversia y después repite contra la entidad aseguradora, adquiere la condición de tercero perjudicado porque se subroga en su posición, pudiendo ejercitar, como así hace en este procedimiento, la acción directa contra la aseguradora que debía haberse hecho cargo de los daños."
 weight: 9

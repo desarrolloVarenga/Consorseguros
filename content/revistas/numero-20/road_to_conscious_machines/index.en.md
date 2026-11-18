@@ -1,7 +1,7 @@
 ---
 title: "Book review: The Road to Conscious Machines. The Story of AI"
 category: "Reviews"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/book-review-the-road-to-conscious-machines-the-story-of-ai.pdf"
 sidebar_image: "/images/numero-20/foto_portada_IA_perspectivas.jpg"
 sidebar_text: "AI seeks to build machines that can mimic human behaviour so closely that they will ultimately be indistinguishable from ourselves. Machines that have the same range of abilities human intelligence has, known as artificial general intelligence, i.e., autonomous, self-aware intelligence capable of planning, reasoning, conversing, understanding jokes, telling stories, and so forth. This has not yet been achieved."
 weight: 9

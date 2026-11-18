@@ -1,7 +1,7 @@
 ---
 title: "Flood models of the National Cartography System for floodable zones vs. actual floods"
 category: "Colaboraciones"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/flood-models-of-the-national-cartography-system-for-floodable-zones-vs-actual-floods.pdf"
 sidebar_image: ""
 sidebar_text: "The calculated floodable zones have serious limitations with respect to the flood that would occur in a specific event and, even though current techniques and models are very accurate, a real-life flood in an event can vary significantly relative to what has been calculated. Whatever the case, floods happen and, when a hazard map exists for a specific place that suffers the event, it can be calibrated with field data collection, identifying any evidence that enables demarcation of the extent of the flood or even determination of the depths it has reached."
 weight: 5

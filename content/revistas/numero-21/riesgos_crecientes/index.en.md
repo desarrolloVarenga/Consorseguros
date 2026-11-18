@@ -1,7 +1,7 @@
 ---
 title: "Growing risks: the role of insurance"
 category: "In depth"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/growing-risks.pdf"
 sidebar_image: "/images/numero-21/foto_portada_riesgos_crecientes.jpg"
 sidebar_text: "Given an increasingly complex environment, insurance can keep being a tool adding resilience and sustainability, providing the own insurance schemes are so and are designed in such a way that the economic resilience they provide is added to the effort of other bodies, in a coordinated manner, to add physical resilience."
 weight: 2

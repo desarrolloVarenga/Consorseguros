@@ -1,7 +1,7 @@
 ---
 title: "Damage to the environment caused by a hydroelectric power station which had been duly authorised to conduct its activities"
 category: "Colaboraciones"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/damage-to-the-environment-caused-by-a-hydroelectric-power-station-which-had-been-duly-authorised-to-conduct-its-activities.pdf"
 sidebar_image: "/images/numero-10/foto_portada_jurisprudencia.jpg"
 sidebar_text: "The matter which brought about the decision stems from the operation of a hydroelectric power station on the river Mürz in Austria, where the facilities include an outlet area of 1,455 metres. Operation of the power station was authorised under a decision by the Governor of the federal state of Styria of 20 August 1998 and it came into service in 2002, which was prior to the entry into force of Directive 2004/35 on 30 April 2007. On the other hand, Herr Folk, who was the claimant in the main dispute proceedings, owns fishing rights on the river along a 12 km stretch of water located downstream of the dam. He asserted that operation of the hydroelectric power station has a serious effect on the environment and endangers the natural reproduction of fish, causing them to die en masse over long stretches of the river."
 weight: 8

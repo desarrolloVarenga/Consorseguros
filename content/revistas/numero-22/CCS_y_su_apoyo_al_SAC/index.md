@@ -1,7 +1,7 @@
 ---
 title: "El Consorcio de Compensación de Seguros y su apoyo al sistema de Seguros Agrarios Combinados"
 category: "Colaboraciones"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/el-css-y-el-sac.pdf"
 sidebar_image: "/images/numero-22/foto_portada_CCS_y_su_apoyo_al_SAC.jpg"
 sidebar_text: "El reaseguro del Consorcio y su reserva de estabilización constituyen el principal apoyo del sistema de seguros agrarios español para mantener su estabilidad económico-financiera. Esta estabilidad es imprescindible para dar viabilidad a largo plazo al sistema y permite lanzar un mensaje de solidez del mismo a los productores, que favorece su tendencia al crecimiento que observamos en los últimos 10 años."
 weight: 5

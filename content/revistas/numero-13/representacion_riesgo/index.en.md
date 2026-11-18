@@ -1,7 +1,7 @@
 ---
 title: "Mapping flood risk in Spain from Extraordinary Risk Insurance Scheme data"
 category: "Colaboraciones"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/mapping-flood-risk-in-spain-from-extraordinary-risk-insurance-scheme-data.pdf"
 sidebar_image: "/images/numero-13/foto_portada13_representacion_riesgo.jpg"
 sidebar_text: "Based on the reworked insured damage data, flood risk is greater in provinces that combine nearness to the sea, substantial relief with short fluvial watercourses and low accumulation times, and plains or valleys densely populated by people. Thus, Guipúzcoa, Murcia, and Alicante, in that order, report the greatest per capita damage. To a lesser extent, this is also the case for the rest of the Mediterranean coastal region – except for Granada, for the simple reason that most of the population does not live along the coast but in the metropolitan area of the capital city, and for Barcelona, because its extremely large population brings the average down considerably – and for the provinces of Cádiz, Pontevedra, and Santa Cruz de Tenerife."
 weight: 6

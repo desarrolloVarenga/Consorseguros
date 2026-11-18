@@ -1,7 +1,7 @@
 ---
 title: "Estudio de la peligrosidad frente a maremotos en las costas españolas"
 category: "Reseñas"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/estudio-de-la-peligrosidad-frente-a-maremotos-en-las-costas-espanolas.pdf"
 sidebar_image: "/images/numero-6/Maremoto01.png"
 sidebar_text: "Se trata, pese a las limitaciones que los propios autores reconocen, de un estudio muy interesante y, en gran medida, pionero, sobre el peligro de tsunami en España, que deberá complementarse con otros más específicos y de mayor detalle, y que servirá para que las distintas administraciones autonómicas y locales puedan comenzar a desarrollar sus propios planes de gestión de emergencias por maremoto."
 weight: 1

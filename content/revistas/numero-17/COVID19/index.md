@@ -1,7 +1,7 @@
 ---
 title: "El COVID-19 y la declaración del estado de alarma Las reclamaciones judiciales derivadas de ambos a las aseguradoras y al Consorcio de Compensación de Seguros por las pérdidas de beneficios"
 category: "Reseñas"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/el-covid-19-y-la-declaracion-del-estado-de-alarma.pdf"
 sidebar_image: "/images/numero-17/foto_portada17_COVID19.jpg"
 sidebar_text: "Es curioso ver cómo una de las alegaciones que más frecuentemente hacen los demandantes, y que resulta un tanto extraña, es que no han tenido oportunidad de ver la delimitación o las limitaciones de esta cobertura de pérdida de beneficios antes de suscribir la póliza, cuestión difícilmente comprobable salvo que se haya firmado por el asegurado, primero la proposición de seguro o el documento de información precontractual y posteriormente la póliza, conforme al artículo 3 de la LCS. Complementaria a ella es común la afirmación de los demandantes de que esas cláusulas, que describen la pérdida de beneficios que ampara la aseguradora, son limitativas (describen excluyendo supuestos) o no son claras o vacían parcialmente de contenido la cobertura que se contrata."
 weight: 9

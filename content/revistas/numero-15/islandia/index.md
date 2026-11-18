@@ -1,7 +1,7 @@
 ---
 title: "Peligros volcánicos y gestión de riesgos en Islandia"
 category: "Colaboraciones"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/peligros-volcanicos-y-gestion-de-riesgos-en-islandia.pdf"
 sidebar_image: ""
 sidebar_text: "Islandia está escasamente poblada, con unas 380.000 personas que viven en un país de poco más de 100.000 km2. Una consecuencia de este hecho es que, a pesar de las frecuentes erupciones volcánicas, las víctimas mortales no son habituales. Hay únicamente dos muertes que pueden atribuirse directamente a la actividad volcánica (un proyectil de lava que cayó y golpeó a un científico en 1947 y un envenenamiento por gas en 1973) en los últimos 100 años.  "
 weight: 5

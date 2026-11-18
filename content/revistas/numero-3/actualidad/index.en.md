@@ -1,7 +1,7 @@
 ---
 title: "Tenth International Conference of the World Forum of Catastrophe Programmes"
 category: "News"
-pdf_download: "/almacen/pdf/ccs-update-3.pdf"
+pdf_download: "/pdf/ccs-update-3.pdf"
 sidebar_image: "/images/numero-3/Actualidd-CCS-Logo-World-Forum.jpg"
 sidebar_text: "The WFCP is an informal international platform for the natural disaster coverage schemes operating throughout the world with some form of public participation. Its objective is to establish a flexible framework for the free exchange of information and experience among the members on matters relating to natural disasters and their insurance coverage."
 weight: 8

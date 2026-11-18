@@ -1,7 +1,7 @@
 ---
 title: "Insurance and climate change: knowledge generation as a driver of adaptive action"
 category: "Actualidad"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/insurance-and-climate-change-knowledge-generation-as-a-driver-of-adaptive-action.pdf"
 sidebar_image: "/images/numero-14/actividad_aseguradora01.jpg"
 sidebar_text: "Figure 1. Cover of the report \"Impacts, vulnerability, and adjustment to climate change by the insurance sector\"."
 weight: 9

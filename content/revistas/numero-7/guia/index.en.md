@@ -1,7 +1,7 @@
 ---
 title: "Guide to reducing building vulnerability to flooding"
 category: "News"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/guide-to-reducing-building-vulnerability-to-flooding.pdf"
 sidebar_image: "/images/numero-7/guia_reduccion_vulnerabilidad_edificios.png"
 sidebar_text: "Cover of the Guide to reducing building vulnerability to flooding."
 weight: 10

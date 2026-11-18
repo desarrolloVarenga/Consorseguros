@@ -1,7 +1,7 @@
 ---
 title: "Los seguros agrarios: 45 años protegiendo al sector agrario"
 category: "Colaboraciones"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/enesa.pdf"
 sidebar_image: "/images/numero-22/foto_portada_enesa.jpg"
 sidebar_text: "Durante los últimos años, especialmente a partir de 2017, el sistema de seguros entró en una senda de desequilibrio motivada por la insuficiencia de primas para abordar la siniestralidad resultante. Exceptuando los primeros años de asentamiento del seguro agrario, no se había conocido un periodo de desequilibrios tan largo y persistente como el comprendido entre 2017 y 2024."
 weight: 4

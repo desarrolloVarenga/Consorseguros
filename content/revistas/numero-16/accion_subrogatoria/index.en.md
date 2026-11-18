@@ -1,7 +1,7 @@
 ---
 title: "The action for subrogation in Article 43 of the Insurance Contracts Act: latest case law in the First Chamber (Civil Division) of the Supreme Court"
 category: "Reseñas"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/the-action-for-subrogation-in-article-43.pdf"
 sidebar_image: "/images/numero-16/foto_portada16_accion_subrogatoria.jpg"
 sidebar_text: "Actions for subrogation are regulated under Article 43 of the Insurance Contracts Act, which stipulates that 'having paid out the indemnity, the insurer can exercise those rights and remedies to which the insured might be entitled to pursue on account of the loss event against the persons liable for it, up to the limit on indemnity.' Therefore subrogation of the insurer to the insured’s position in relation to the third party who has perpetrated the loss shall arise if three conditions are present: a) the insurer has paid out the indemnity by dint and as a result of the insurance contract, b) the option has arisen for the insured of suing the third party for liability, where the latter is neither the policyholder nor an insured party, and c) the requirements are satisfied for civil liability to exist, be this of whatever kind (contractual, extra-contractual or ex delicto)."
 weight: 9

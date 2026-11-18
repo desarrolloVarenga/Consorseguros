@@ -1,7 +1,7 @@
 ---
 title: "Jurisprudencia sobre el Consorcio de Compensación de Seguros"
 category: "Reseñas"
-pdf_download: "/almacen/pdf/jurisprudencia-sobre-el-consorcio-de-compensacion-de-seguros.pdf"
+pdf_download: "/pdf/jurisprudencia-sobre-el-consorcio-de-compensacion-de-seguros.pdf"
 weight: 7
 image: "/images/numero-1/ESP/jurisprudencia01.jpg"
 summary: "Análisis jurisprudencial dividido en dos partes: José Antonio Badillo Arias examina el concepto de 'hecho de la circulación' a raíz de la STJUE de 4 de septiembre de 2014 (caso Vnuk), y Santiago Espinosa Blanco comenta la STS de 27 de noviembre de 2014 sobre la exención de constituir depósito para apelar en las acciones de recobro del Consorcio."

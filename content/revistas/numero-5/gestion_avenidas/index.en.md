@@ -1,7 +1,7 @@
 ---
 title: "Past, present and future of flood management in the Ebro River Basin"
 category: "Contributions"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/past-present-and-future-of-flood-management-in-the-ebro-river-basin.pdf"
 sidebar_image: "/images/numero-5/foto_portada_gestion_avenidas.jpg"
 sidebar_text: "The management of water in Spain is entrusted to the River Basin Districts in the inter-Community basins (their geographical scope comprises more than one Autonomous Community), which are autonomous bodies dependent on the Ministry of Agriculture, Food and the Environment, while in the intra-Community basins, the management is performed by the regional governments through entities such as the water resources agencies."
 weight: 5

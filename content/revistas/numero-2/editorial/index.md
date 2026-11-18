@@ -1,7 +1,7 @@
 ---
 title: "Editorial"
 category: "Editorial"
-pdf_download: "/almacen/pdf/editorial02.pdf"
+pdf_download: "/pdf/editorial02.pdf"
 weight: 1
 image: "/images/numero-2/Editorial.jpg"
 summary: "Presentación del segundo número de la revista digital Consorseguros, destacando los análisis sobre los Seguros Agrarios Combinados en España, el sistema noruego de compensación por catástrofes naturales y la gestión de riesgos de la naturaleza en una empresa internacional."

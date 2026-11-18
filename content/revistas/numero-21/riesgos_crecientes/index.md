@@ -1,7 +1,7 @@
 ---
 title: "Riesgos crecientes: el papel del seguro"
 category: "Análisis"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/riesgos-crecientes.pdf"
 sidebar_image: "/images/numero-21/foto_portada_riesgos_crecientes.jpg"
 sidebar_text: "Ante un contexto cada vez más complejo, el seguro puede seguir siendo una herramienta que aporte resiliencia y sostenibilidad, siempre que los propios sistemas aseguradores lo sean y que se diseñen de forma que la resiliencia económica que aportan se sume al esfuerzo de otros estamentos, coordinadamente, para aumentar la resiliencia física."
 weight: 2

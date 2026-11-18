@@ -1,7 +1,7 @@
 ---
 title: "La cumbre del clima de París: un éxito del multilateralismo"
 category: "Colaboraciones"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/la-cumbre-del-clima-de-paris-un-exito-del-multilateralismo.pdf"
 sidebar_image: "/images/numero-4/clima_paris.png"
 sidebar_text: "El Acuerdo de París supone, además, un éxito sin matices para la diplomacia global, que llevaba años en busca de un marco de acción en el que poder incluir a todos los países. Francia ha tenido un papel clave al liderar de manera muy organizada, transparente y concertada, todo el proceso que ha culminado con este texto."
 weight: 5

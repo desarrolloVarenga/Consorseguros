@@ -1,7 +1,7 @@
 ---
 title: "El riesgo volcánico en Francia: la respuesta del seguro"
 category: "Colaboraciones"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/el-riesgo-volcanico-en-francia-la-respuesta-del-seguro.pdf"
 sidebar_image: ""
 sidebar_text: "Desde la puesta en marcha del régimen Cat Nat en 1982, y pese a que el territorio francés, especialmente el de Ultramar, está expuesto a este peligro, solo hay un evento objeto de una declaración de estado de catástrofe natural: la erupción de abril de 2007 en La Reunión, que no tuvo más que un coste marginal para el sector asegurador puesto que se trató de coladas de lava que afectaron a muy pocos bienes asegurados. El coste económico global, aunque no se evaluó oficialmente, fue a todas luces mínimo, pese a que un eje principal de circulación se mantuvo cortado durante dos meses y que se prohibió el acceso a zonas turísticas y de pesca mientras las coladas de lava alcanzaban el océano. En todo caso, la multiplicidad de los peligros naturales relacionados con una erupción volcánica hace que no sea despreciable la probabilidad de que en algún momento el territorio francés se vea afectado por un fenómeno similar o incluso superior al de la erupción de Cumbre Vieja en Canarias."
 weight: 3

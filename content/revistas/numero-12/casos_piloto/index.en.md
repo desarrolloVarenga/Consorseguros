@@ -1,7 +1,7 @@
 ---
 title: "Pilot cases for adapting to flood risk"
 category: "Colaboraciones"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/pilot-cases-for-adapting-to-flood-risk.pdf"
 sidebar_image: "/images/numero-12/casos_piloto01.jpg"
 sidebar_text: "Figure 1. Flooding in Los Alcázares in September 2019. Source: Segura Hydrographic Confederation."
 weight: 3

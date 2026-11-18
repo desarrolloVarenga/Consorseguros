@@ -1,7 +1,7 @@
 ---
 title: "FSFC: A new financial architecture for anticipating hunger"
 category: "Contributions"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/fsfc_financial_architecture.pdf"
 sidebar_image: "/images/numero-22/foto_portada_fsfc.jpg"
 sidebar_text: "The FSFC is supported by a network of technical and operational partners led by the FAO, the World Food Programme (WFP), and the United Nations Office for the Coordination of Humanitarian Affairs (OCHA) in association with research centres and participants in the reinsurance sector like Munich Re, which bring their experience to bear in modelling, assessing exposure, and designing risk-based financial products. Together they develop evidence-calibrated predictive models tuned to actual risks, not discretionary decision-making."
 weight: 8

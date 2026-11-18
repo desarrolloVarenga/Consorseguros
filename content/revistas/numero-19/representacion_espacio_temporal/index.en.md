@@ -1,7 +1,7 @@
 ---
 title: "Geographical and temporal description of extraordinary risk loss data arising from natural causes"
 category: "Contributions"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/geographical-and-temporal-description-of-extraordinary-risk-loss-data-arising-from-natural-causes.pdf"
 sidebar_image: "/images/numero-19/portada_representación-espacio-temporal.jpg"
 sidebar_text: "The relationship between the values of costs of compensation pay-outs, the assets insured and the natural events which bring about claims that arise in a territory shows varying characteristics depending on the scale or detail of aggregation whereby they are observed."
 weight: 6

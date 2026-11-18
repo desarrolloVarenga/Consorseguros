@@ -1,7 +1,7 @@
 ---
 title: "Editorial"
 category: "Editorial"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/editorial-20-en.pdf"
 sidebar_image: "/images/numero-20/foto_portada_editorial_20.jpg"
 sidebar_text: "Only time will say if widespread AI application marks a turning point for both humankind and the insurance industry, if it ends up being a disrupting technology adding new capacities with serious repercussions on work processes, or if it is just another continuous advance in this increasingly hi-tech world."
 weight: 1

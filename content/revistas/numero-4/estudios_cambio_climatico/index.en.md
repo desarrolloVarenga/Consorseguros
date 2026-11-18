@@ -1,7 +1,7 @@
 ---
 title: "Forecasts of the economic impacts of climate change"
 category: "Reviews"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/forecasts-of-the-economic-impacts-of-climate-change.pdf"
 sidebar_image: "/images/numero-4/estudios_cambio_climatico.jpg"
 sidebar_text: "Two reports forecasting the expected repercussions of the impacts of climate change to different sectors of the economy have recently been published. Specifically, we will be discussing here the 2014 report entitled “Climate Impacts in Europe”, the final summary report of the European Commission’s Joint Research Centre (JRC)’s Projection of Economic impacts of climate change in Sectors of the European Union based on boTtom-up Analysis or PESETA II Project, and the 2015 report entitled “Economic consequences of climate change” by the Organization for Economic Cooperation and Development (OECD)."
 weight: 6

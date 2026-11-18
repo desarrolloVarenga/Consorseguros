@@ -1,7 +1,7 @@
 ---
 title: "OECD Conference on the Financial Management of Flood Risk"
 category: "Contributions"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/oecd-conference-on-the-financial-management-of-flood-risk.pdf"
 sidebar_image: "/images/numero-5/OCDE_02.jpg"
 sidebar_text: "The OECD provides a unique forum for governments to compare policy experiences, seek answers to common problems, identify good practice and work to co-ordinate domestic and international policies."
 weight: 3

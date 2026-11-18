@@ -1,7 +1,7 @@
 ---
 title: "The Copernicus Climate Change Service: perspective from the insurance industry"
 category: "Reviews"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/the-copernicus-climate-change-service-perspective-from-the-insurance-industry.pdf"
 sidebar_image: "/images/numero-7/copernicus.png"
 sidebar_text: "The Copernicus Climate Change Service, or C3S, is progressively coming online and will provide access to information for monitoring and predicting climate change, for the specific purpose of supporting the development of adaptation and mitigation strategies. It will provide access to a range of climate information, such as temperature increase, sea level rise, ice sheet melting, warming of the ocean and drought events, to name just a few, but also a range of standard tools and functionalities, which will allow users to transform climate data into actionable information."
 weight: 7

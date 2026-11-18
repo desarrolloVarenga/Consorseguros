@@ -1,7 +1,7 @@
 ---
 title: "La valoración de los daños materiales ocasionados a un vehículo automóvil."
 category: "Reseñas"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/la-valoracion-de-los-danos-materiales-ocasionados-a-un-vehiculo-automovil.pdf"
 sidebar_image: ""
 sidebar_text: "La denominada cláusula de pérdida total se suele redactar de la siguiente forma: «Se podrá considerar que existe pérdida total del vehículo asegurado cuando el importe presupuestado de la reparación exceda del 100 % del valor indemnizable o garantizado, en cada caso (valor nuevo, valor de mercado, según la antigüedad del vehículo)». El problema que plantea en la práctica la citada cláusula –que establece que en caso de pérdida total del vehículo se indemnizará el daño de acuerdo con su valor en el momento del siniestro– es si se trata de una cláusula delimitadora del riesgo o limitativa de los derechos del asegurado. No podemos decir que haya unanimidad en la jurisprudencia sobre su encaje en uno u otro supuesto. "
 weight: 7

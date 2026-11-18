@@ -1,7 +1,7 @@
 ---
 title: "Writers and the financial world"
 category: "Reviews"
-pdf_download: "/almacen/pdf/writers-and-the-financial-world.pdf"
+pdf_download: "/pdf/writers-and-the-financial-world.pdf"
 weight: 5
 image: "/images/numero-2/Escritores_def.jpg"
 summary: "An informative overview by Antonio González Estévez (Head of the Customer Care Service for the Insured at the CCS) exploring famous writers who worked in the banking and insurance sectors to support their literary vocations, concluding with a reflection on insurance fraud inspired by the film 'The Fortune Cookie'."

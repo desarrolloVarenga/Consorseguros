@@ -5,7 +5,7 @@ image: "/images/numero-23/foto_portada_riesgos_extraordinarios.jpg"
 sidebar_image: "/images/numero-23/foto_portada_riesgos_extraordinarios.jpg"
 sidebar_text: "The floods of 29 October 2024, which particularly affected the province of Valencia, resulted in the largest loss event in the 71-year history of Consorcio de Compensación de Seguros. This article details all the measures the organization has had to adopt throughout this year to manage this loss event and provide an effective insurance response."
 summary: "On the night of 29 October, we watched in dismay – like all citizens of this country and the rest of the world – the drama unfolding across a large metropolitan area of Spain and other nearby regions. We quickly realised that the magnitude of the catastrophe was going to be devastating, as it sadly was in terms of loss of human life and material damage, and the challenge its management would entail."
-pdf_download: "/pdf/num24/ICARIA.pdf"
+pdf_download: "/pdf/extraordinary_risk_insurance.pdf"
 weight: 2
 authors:
   - name: "Flavia Rodríguez-Ponga Salamanca"

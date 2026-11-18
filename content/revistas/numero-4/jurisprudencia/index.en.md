@@ -1,7 +1,7 @@
 ---
 title: "Jurisprudence about the Consorcio de Compensación de Seguros. Commentary on the judgment of the Supreme Court of 5 September 2011"
 category: "Reviews"
-pdf_download: "/almacen/pdf/comentario-de-la-sentencia-del-tribunal-supremo-de-5-de-septiembre-de-2011.pdf"
+pdf_download: "/pdf/comentario-de-la-sentencia-del-Tribunal-Supremo-de-5-de-septiembre-de-2011.pdf"
 sidebar_image: "/images/numero-4/foto_portada_jurisprudencia.jpg"
 sidebar_text: "The judgment of Chamber One of the Supreme Court dated 5 September 2011 settles the controversy that previously persisted concerning whether or not the Consorcio de Compensación de Seguros was required to post deposits on appeal pursuant to Article 449.3 of the Code of Civil Procedure [Ley de Enjuiciamiento Civil (LEC)]."
 weight: 8

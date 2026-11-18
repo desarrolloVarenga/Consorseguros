@@ -1,7 +1,7 @@
 ---
 title: "Editorial"
 category: "Editorial"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/editorial08-en.pdf"
 sidebar_image: "/images/numero-8/foto_portada08_editorial.jpg"
 sidebar_text: "This issue makes a quite extensive examination of questions associated with automobile insurance. Dr Carlos Represas signs an article on the assessment of bodily harm in road accidents, and Juan Luis de Miguel, Deputy Director of Centro Zaragoza, explains the pioneering activity of this centre on the cutting edge of the research on subjects relating to vehicles and their insurance."
 weight: 1

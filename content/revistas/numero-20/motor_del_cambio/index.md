@@ -1,7 +1,7 @@
 ---
 title: "Inteligencia artificial, el motor del cambio en el sector asegurador"
 category: "Colaboraciones"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/inteligencia-artificial-el-motor-del-cambio-en-el-sector-asegurador.pdf"
 sidebar_image: "/images/numero-20/foto_portada_IA_el_motor_del_cambio.jpg"
 sidebar_text: "Las organizaciones están inmersas en un proceso de definición de estrategias para adaptarse, a una velocidad razonable, al nuevo escenario de trabajo que ha surgido con la inteligencia artificial. En el sector asegurador las grandes iniciativas se centran principalmente en mejoras en la eficiencia operativa, apoyo en la toma de decisiones, personalización de propuestas comerciales, adaptación en la interacción y el soporte al usuario, y la inclusión de herramientas en el desarrollo de productos tecnológicos."
 weight: 3

@@ -1,7 +1,7 @@
 ---
 title: "The Consorcio de Compensación de Seguros in the new law on the regulation, supervision and solvency of insurance and reinsurance undertakings"
 category: "Reviews"
-pdf_download: "/almacen/pdf/the-consorcio-de-compensacion-de-seguros-in-the-new-law-on-the-regulation-supervision-and-solvency-of-insurance-and-reinsurance-undertakings.pdf"
+pdf_download: "/pdf/the-consorcio-de-compensacion-de-seguros-in-the-new-law-on-the-regulation-supervision-and-solvency-of-insurance-and-reinsurance-undertakings.pdf"
 sidebar_image: "/images/numero-3/nueva-ley-ordenacion_resena.jpg"
 sidebar_text: "The LOSSEAR introduces new developments in the regulation of a number of issues directly affecting the activity of the CCS. In addition to taking in the overall framework of Solvency II, to which the CCS will adapt in all that is compatible with its nature, specific aspects are regulated, either by attributing new functions to the CCS or by reconsidering some aspects of the current regulation. In any case, this underlines the role of the CCS in the Spanish insurance market as an institution which contributes to its stability and, in general, to the reinforcement of the insurance institution."
 weight: 5

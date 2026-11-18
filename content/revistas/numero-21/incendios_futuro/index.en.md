@@ -1,7 +1,7 @@
 ---
 title: "Wildfires of the future: new participatory approaches based on territorial planning"
 category: "Contributions"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/wildfires-of-the-future-new-participatory-approaches-based-on-territorial-planning.pdf"
 sidebar_image: ""
 sidebar_text: "Agroforestry landscapes are less affected by large and severe wildfire events than forests, shrublands, or grasslands, evidencing their large-scale potential to reduce fire hazard and increase fire suppression capabilities. Large, severe fires have been closely linked to rural abandonment since the mid-twentieth century, a trend that has brought about extremely rapid transition of traditional farmlands to forested landscapes. The loss of agroforestry mosaics ends up causing forest patches to merge, thereby increasing fuel continuity, which can drive many wildfires to levels that exceed suppression capabilities."
 weight: 6

@@ -1,7 +1,7 @@
 ---
 title: "Las riadas, un peligro para la seguridad vial"
 category: "Colaboraciones"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/las-riadas-un-peligro-para-la-seguridad-vial.pdf"
 sidebar_image: ""
 sidebar_text: "Si la inundación o el arrastre del vehículo nos parecen inminentes, con toda seguridad, ya es tarde para intentar salvarlo. Hacerlo supondrá poner en riesgo nuestra vida. Como se tratará de explicar a lo largo de este artículo, en muchas de las situaciones que se van a describir, cuando nos veamos sorprendidos por lluvias torrenciales o inundaciones, desgraciadamente tendremos que asumir que alguna pérdida, mayor o menor, ya se ha producido, pero evitemos con nuestro comportamiento que el problema aumente y la pérdida sea mayor o, incluso, irreparable ."
 weight: 4

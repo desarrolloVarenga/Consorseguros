@@ -1,7 +1,7 @@
 ---
 title: "Results of studies of the European Commission and the European Environment Agency"
 category: "Reviews"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/results-of-studies-of-the-european-commission-and-the-european-environment-agency.pdf"
 sidebar_image: "/images/numero-7/resultados_estudios_CE.jpg"
 sidebar_text: "The findings of the study begin by verifying that there is no clear correlation between the increase in loss experienced and any rise in hazards, but instead it appears that this increase is due to greater exposure of assets and infrastructure in hazard-prone areas. Subsequently there is discussion of the role of insurance beyond merely providing compensation for losses such that it might become a tool to managing risk and enhancing resilience."
 weight: 8

@@ -1,7 +1,7 @@
 ---
 title: "Volcanic risk management in Spain"
 category: "Colaboraciones"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/volcanic-risk-management-in-spain.pdf"
 sidebar_image: ""
 sidebar_text: "Although volcanic activity in Spain is not only present in the Canary Islands, the Basic Civil Protection Planning Guidelines and Volcanic Risk in Spain approved by the Council of Ministers on 19 January 1996 (BOE, 1996) describes the Autonomous Region of the Canary Islands as the only region in the territory of Spain that is exposed to volcanic risk."
 weight: 5

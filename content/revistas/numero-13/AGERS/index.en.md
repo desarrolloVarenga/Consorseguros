@@ -1,7 +1,7 @@
 ---
 title: "AGERS Guide to the risk management function in insurance companies"
 category: "Actualidad"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/agers-guide-to-the-risk-management-function-in-insurance-companies.pdf"
 sidebar_image: "/images/numero-13/foto_portada13_AGERS.jpg"
 sidebar_text: "The main purpose of the Guide is to provide a reference intended to enable insurance company risk managers to ascertain whether or not what they are doing is in line with the common tasks and practices considered, with a view to being able to establish an efficient risk management system. The idea is to provide a flexible model that will allow each company to perform proportional self-assessments under the proposed framework, taking into account its own nature, structure, and internal rules and procedures."
 weight: 8

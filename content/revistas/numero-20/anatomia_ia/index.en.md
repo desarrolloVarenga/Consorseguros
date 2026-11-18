@@ -1,7 +1,7 @@
 ---
 title: "Anatomy of Artificial Intelligence in the Insurance Value Chain"
 category: "Contributions"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/anatomy-of-artificial-intelligence-in-the-insurance-value-chain.pdf"
 sidebar_image: "/images/numero-20/foto_portada_anatomia_IA.jpg"
 sidebar_text: "This article uses the definition given by the OECD: An AI system is a machine-based system that, for explicit or implicit objectives, infers, from the input it receives, how to generate outputs such as predictions, content, recommendations, or decisions that can influence physical or virtual environments. Different AI systems vary in their levels of autonomy and adaptiveness after deployment"
 weight: 4

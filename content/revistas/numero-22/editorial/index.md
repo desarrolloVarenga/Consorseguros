@@ -1,7 +1,7 @@
 ---
 title: "Editorial"
 category: "Editorial"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/editorial-22.pdf"
 sidebar_image: "/images/numero-22/foto_portada_editorial_22.jpg"
 sidebar_text: "En este vigésimo segundo número de la revista digital del Consorcio de Compensación de Seguros tratamos el tema del seguro agrario con artículos escritos por los protagonistas de buena parte de la historia del Seguro Agrario Combinado en España y con otras contribuciones que destacan la importancia del seguro agrario como un elemento clave en la seguridad alimentaria global."
 weight: 1

@@ -1,7 +1,7 @@
 ---
 title: "The path to adaptation to flood risk: proactive measures"
 category: "Colaboraciones"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/the-path-to-adaptation-to-flood-risk-proactive-measures.pdf"
 sidebar_image: "/images/numero-14/foto_portada14_camino_adaptacion.jpg"
 sidebar_text: "In 2017, the Directorate General for Water, in collaboration with the Consorcio de Compensación de Seguros (CCS), published the \"Guía para la Reducción de la Vulnerabilidad de Edificios frente a Inundaciones\" (\"Guide to Reducing Vulnerability of Buildings to Floods\"). The main objective of the guide was to advise the various building owners, users, and managers, from a practical perspective, on how to reduce risk by recommending guidelines and solutions they could follow to mitigate the damage caused by flooding."
 weight: 7

@@ -1,7 +1,7 @@
 ---
 title: "Fondo de Compensación de Daños Medioambientales"
 category: "Colaboraciones"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/fondo-de-compensacion-de-danos-medioambientales.pdf"
 sidebar_image: "/images/numero-10/foto_portada10_compensacion.jpg"
 sidebar_text: "Las medidas reparadoras tienen por objeto restaurar los recursos naturales dañados o facilitar una alternativa equivalente. Según establece el artículo 20 y siguientes del Reglamento, las medidas reparadoras pueden ser de tres tipos: (i) primarias, restitución de los recursos naturales a su estado básico; (ii) complementarias, cuando no es posible la restitución o consume un periodo de tiempo demasiado amplio o es muy costosa la reparación primaria; y (iii) compensatorias de la pérdida provisional de los recursos naturales durante su recuperación . La responsabilidad se puede exigir al operador hasta 30 años después del día en que haya terminado por completo el suceso causante del daño medioambiental."
 weight: 9

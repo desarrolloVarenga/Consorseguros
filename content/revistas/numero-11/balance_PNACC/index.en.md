@@ -1,7 +1,7 @@
 ---
 title: "Spain's National Climate Change Adaptation Plan: a review to face the future"
 category: "Colaboraciones"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/spain-s-national-climate-change-adaptation-plan-a-review-to-face-the-future.pdf"
 sidebar_image: "/images/numero-11/foto_portada11_Balance_PNACC.jpg"
 sidebar_text: "Insurance activity is included among the key sectors of undertakings in the PNACC and its work programmes. Insurance represents an essential means of passing on risk, thereby allowing society to enhance its capacity to recover after loss and damage that has been caused by, among other factors, extreme events linked to the climate."
 weight: 6

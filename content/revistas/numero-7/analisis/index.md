@@ -1,7 +1,7 @@
 ---
 title: "La importancia de la vulnerabilidad y la exposición en el aumento del riesgo de inundaciones en el litoral mediterráneo"
 category: "Análisis"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/la-importancia-de-la-vulnerabilidad-y-la-exposicion-en-el-aumento-del-riesgo-de-inundaciones-en-el-litoral-mediterraneo.pdf"
 sidebar_image: "/images/numero-7/analisis00.jpg"
 sidebar_text: "En los últimos veinticinco años se ha producido un aumento significativo del riesgo de inundación en el litoral mediterráneo debido al incremento de la vulnerabilidad y la exposición al peligro de lluvias intensas."
 weight: 1

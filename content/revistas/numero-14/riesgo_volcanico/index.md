@@ -1,7 +1,7 @@
 ---
 title: "La gestión del riesgo volcánico en España"
 category: "Colaboraciones"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/la-gestion-del-riesgo-volcanico-en-espana.pdf"
 sidebar_image: ""
 sidebar_text: "A pesar de que el fenómeno volcánico en España no solo se encuentra presente en Canarias, la Directriz Básica de Planificación de Protección Civil ante el Riesgo Volcánico en España, aprobada por el Consejo de Ministros el 19 de enero de 1996 (BOE, 1996), describe y delimita que la única zona del territorio nacional con volcanismo activo expuesta al riesgo volcánico es la Comunidad Autónoma de Canarias."
 weight: 5

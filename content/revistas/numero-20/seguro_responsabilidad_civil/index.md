@@ -1,7 +1,7 @@
 ---
 title: "El seguro de responsabilidad civil derivado de la circulación de vehículos de motor no cubre al conductor asegurado por la muerte de sus familiares causada por su propia conducta Sentencia de la Sala 1ª del Tribunal Supremo de 2 de abril de 2024. Ponente: Sr. Seoane Spiegelberg"
 category: "Jurisprudencia"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/el-seguro-de-responsabilidad-civil-derivado-de-la-circulacion-de-vehiculos-de-motor-no-cubre-al-conductor-asegurado-por-la-muerte-de-sus-familiares-causada-por-su-propia-conducta.pdf"
 sidebar_image: "/images/numero-20/foto_portada_seguro_responsabilidad_civil.jpg"
 sidebar_text: "La responsabilidad civil supone siempre un daño a otro. Así lo indica el artículo 1902 del Código Civil: «el que cause un daño a otro…». Por tanto, cuando alguien se causa un daño a sí mismo, no estamos ante un supuesto de responsabilidad civil."
 weight: 7

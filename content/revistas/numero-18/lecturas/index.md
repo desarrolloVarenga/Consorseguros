@@ -1,7 +1,7 @@
 ---
 title: "Manual de riesgos operacionales de Agers"
 category: "Reseñas"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/manual-de-riesgos-operacionales-de-agers.pdf"
 sidebar_image: "/images/numero-18/foto_portada18_lecturas.jpg"
 sidebar_text: "Los  cambios están creando impactos en todos los componentes del sistema climático: la atmósfera, los océanos, la criosfera y la biosfera y, por tanto, en todas las actividades económicas humanas que dependen y están relacionadas con ellos. Todos estos elementos están actualmente desequilibrados y por eso, como veremos, el término crisis climática es el más adecuado para describir los retos presentes y, sin duda, futuros, que debe enfrentar la humanidad. "
 weight: 8

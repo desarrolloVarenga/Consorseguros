@@ -1,7 +1,7 @@
 ---
 title: "Estudios sobre previsiones de impacto económico del cambio climático"
 category: "Reseñas"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/estudios-sobre-previsiones-de-impacto-economico-del-cambio-climatico.pdf"
 sidebar_image: "/images/numero-4/estudios_cambio_climatico.jpg"
 sidebar_text: "Se han publicado recientemente dos informes sobre la estimación de los impactos previsibles del cambio climático a los distintos sectores de la economía. En concreto, comentaremos aquí el informe de 2014 del Centro de Investigación Conjunto de la Comisión Europea (JRC, por sus siglas en inglés) “Impactos climáticos en Europa”, que es el informe de síntesis final del proyecto PESETA II (Proyection of Economic impacts of climate change in Sectors of the European Union based on boTtom-up Analysis) y el informe de 2015 de la Organización para la Cooperación y el Desarrollo Económicos (OCDE) “Consecuencias económicas del cambio climático”."
 weight: 6

@@ -5,7 +5,7 @@ image: "/images/numero-23/foto_portada_dana_valencia.jpg"
 sidebar_image: ""
 sidebar_text: "The economic dimension of the catastrophe marks a turning point in the history of insurance in Spain. Both in terms of volume and speed of payment, the management of this flood is already a compulsory case study. By March 2025, barely four months after the event, CCS had already paid out more than €2.6 billion. By November 2025, the amount paid had exceeded €4 billion, with a claim resolution rate of 98.3%."
 summary: "The cut-off low (DANA in Spanish) that struck the Region of Valencia at the end of October 2024 went beyond meteorological chronicles to become the largest flood-related loss ever managed by Consorcio de Compensación de Seguros (CCS)."
-pdf_download: "/pdf/num24/ICARIA.pdf"
+pdf_download: "/pdf/valencia_floods.pdf"
 weight: 7
 authors:
   - name: "Celedonio Villamayor Pozo"

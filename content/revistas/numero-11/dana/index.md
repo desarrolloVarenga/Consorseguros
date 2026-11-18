@@ -1,7 +1,7 @@
 ---
 title: "Las depresiones aisladas en niveles altos (DANA): su naturaleza y sus efectos"
 category: "Análisis"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/las-depresiones-aisladas-en-niveles-altos-dana-su-naturaleza-y-sus-efectos.pdf"
 sidebar_image: ""
 sidebar_text: ""
 weight: 2

@@ -1,7 +1,7 @@
 ---
 title: "Historical documentation on the August 1983 flooding in the Basque Country"
 category: "In depth"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/historical-documentation-on-the-august-1983-flooding-in-the-basque-country.pdf"
 sidebar_image: ""
 sidebar_text: ""
 weight: 2

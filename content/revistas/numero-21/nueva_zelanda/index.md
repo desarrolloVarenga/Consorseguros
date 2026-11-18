@@ -1,7 +1,7 @@
 ---
 title: "El sistema asegurador de riesgos naturales en Nueva Zelanda se basa en las lecciones del pasado"
 category: "Colaboraciones"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/el-sistema-asegurador-de-riesgos-naturales-en-nueva-zelanda-se-basa-en-las-lecciones-del-pasado.pdf"
 sidebar_image: ""
 sidebar_text: "La nueva legislación cambió el nombre del programa de Comisión de Terremotos (EQC, por su nombre en inglés) a Comisión de Riesgos Naturales (Natural Hazards Commission). Este nuevo nombre es un indicativo importante para que los propietarios sepan que la cobertura está disponible para una serie de riesgos naturales, no solamente terremotos. No se han incluido nuevos peligros, el nuevo nombre solo sirve para recalcar que la cobertura está disponible para un conjunto de peligros más allá del sísmico."
 weight: 4

@@ -1,7 +1,7 @@
 ---
 title: "Editorial"
 category: "Editorial"
-pdf_download: "/pdf/num24/editorial.pdf"
+pdf_download: "/pdf/editorial-24.pdf"
 sidebar_image: "/images/numero-24/foto_portada_editorial_24.jpg"
 sidebar_text: "Con este número alcanzamos el hito de 195 contribuciones, generosamente aportadas por muchos expertos desde que comenzamos la andadura de esta revista en otoño de 2014. Todas estas contribuciones siguen en línea, en español y en inglés, en acceso libre para todas las personas interesadas en conocer más sobre el CCS, los riesgos y el papel del seguro en su gestión y en su reducción."
 weight: 1

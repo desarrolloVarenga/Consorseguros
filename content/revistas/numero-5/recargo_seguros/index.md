@@ -1,7 +1,7 @@
 ---
 title: "Novedades en el seguro de riesgos extraordinarios y el seguro obligatorio de responsabilidad civil de automóviles"
 category: "Actualidad"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/novedades-en-el-seguro-de-riesgos-extraordinarios-y-el-seguro-obligatorio-de-responsabilidad-civil-de-automoviles.pdf"
 sidebar_image: "/images/numero-5/recargo_seguros_01.jpg"
 sidebar_text: "Las novedades afectan a los dos ámbitos principales en los que el CCS realiza su actividad aseguradora: el seguro de riesgos extraordinarios y el seguro obligatorio de responsabilidad civil de automóviles. En esencia, suponen una ampliación de coberturas y una paralela reducción de los recargos a favor del CCS que abonan los asegurados en sus recibos de prima de seguro del automóvil."
 weight: 1

@@ -1,7 +1,7 @@
 ---
 title: "Amendments introduced by the voluntary jurisdiction act (law 15/2015) and of interest to the insurance industry"
 category: "Contributions"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/2015-and-of-interest-to-the-insurance-industry.pdf"
 sidebar_image: "/images/numero-7/LJV.jpg"
 sidebar_text: "The chief amendment which the LJV introduces is that, before it came into force, if there were discrepancies between the adjusters designated by the insurer and the insured and there was no agreement on the designation of the third adjuster, it was the judge of the court of first instance in the place where the assets were located who had the competence to designate him or her.\n\nNow the designation of the third adjuster can be processed either through the home Commercial Court of the insured, where it is the court clerk (the justice administration lawyer under the reform made legally operative in the Organic Law on the Judiciary via LO 7/2015) who will appoint him in the event of a lack of agreement between the parties, or else before the notary public in the manner laid down in art. 80 of the Notarial Profession Act of 28 May 1862, (hereafter the LN)."
 weight: 6

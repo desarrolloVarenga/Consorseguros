@@ -1,7 +1,7 @@
 ---
 title: "Climate change on the coast and adaptation measures"
 category: "Colaboraciones"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/climate-change-on-the-coast-and-adaptation-measures.pdf"
 sidebar_image: ""
 sidebar_text: "Protection measures consist of developing structures that reduce exposure to flooding and lessen the frequency of adverse impacts associated with ESL return periods and the rise in the MSL. Within this category there is a wide range of possibilities, so the right solution will depend on a multi-disciplinary analysis that includes morpho-dynamic, construction-related, functional, administrative or environmental determinants. If coastal protection is properly designed, it is very efficient in reducing damage associated with ESLs and so, even if it should prove necessary to make something of an investment in them, this effort is more than repaid by the lower expense on repairs or environmental restoration."
 weight: 4

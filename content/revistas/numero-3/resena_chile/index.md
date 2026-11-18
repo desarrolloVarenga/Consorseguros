@@ -1,7 +1,7 @@
 ---
 title: "La recuperación económica de Chile tras el terremoto de febrero de 2010"
 category: "Reseñas"
-pdf_download: "/almacen/pdf/la-recuperacion-economica-de-chile-tras-el-terremoto-de-febrero-de-2010.pdf"
+pdf_download: "/pdf/la-recuperacion-economica-de-chile-tras-el-terremoto-de-febrero-de-2010.pdf"
 sidebar_image: "/images/numero-3/terremoto_chile2010.jpg"
 sidebar_text: "Sorprendentemente, un año después del desastre la economía chilena estaba creciendo un 6%, cuando la economía mundial estaba aún tambaleándose por los efectos de la crisis financiera de 2008-2009. La gestión de la crisis obtuvo el reconocimiento internacional: la OCDE hizo a Chile miembro permanente en 2010 y fue uno de los países invitados por el G20 a participar en su cumbre de 2012 celebrada en Ciudad de México."
 weight: 6

@@ -1,7 +1,7 @@
 ---
 title: "Guía para la reducción de la vulnerabilidad de los edificios frente a las inundaciones"
 category: "Actualidad CCS"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/guia-para-la-reduccion-de-la-vulnerabilidad-de-los-edificios-frente-a-las-inundaciones.pdf"
 sidebar_image: "/images/numero-7/guia_reduccion_vulnerabilidad_edificios.png"
 sidebar_text: "Portada de la Guía para la Reducción de la Vulnerabilidad de los edificios frente a las inundaciones."
 weight: 10

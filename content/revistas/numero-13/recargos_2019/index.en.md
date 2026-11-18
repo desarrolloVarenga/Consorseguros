@@ -1,7 +1,7 @@
 ---
 title: "2019 Surcharges: effect of the Decision dated 28 March 2018"
 category: "Colaboraciones"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/2019-surcharges-effect-of-the-decision-dated-28-march-2018.pdf"
 sidebar_image: "/images/numero-13/foto_portada13_recargos2019.jpg"
 sidebar_text: "According to estimates resulting from actuarial studies carried out when drawing up the current rate for exceptional risk coverage, after switching over from applying the 2006 Decision to applying the 2018 Decision to the same sums insured, the Consorcio's surcharges were to be lowered by an average annual amount of 13.3 %. Estimates by type of insurance: Property damage: an 11 % decrease. Personal injury: a 42 % decrease. Business interruption (BI): a 30 % decrease."
 weight: 5

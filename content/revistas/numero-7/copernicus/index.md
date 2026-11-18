@@ -1,7 +1,7 @@
 ---
 title: "El Servicio de Cambio Climático de Copérnicus: perspectiva del sector asegurador"
 category: "Reseñas"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/el-servicio-de-cambio-climatico-de-copernicus-perspectiva-del-sector-asegurador.pdf"
 sidebar_image: "/images/numero-7/copernicus.png"
 sidebar_text: "El Servicio de Cambio Climático de Copernicus, o C3S, por sus siglas en inglés, se centra específicamente en los retos medioambientales y para la sociedad inducidos por los cambios climáticos de origen antrópico. El C3S, cuyos contenidos se están haciendo públicos progresivamente en internet, proporcionará acceso a información para la vigilancia y el pronóstico del cambio climático."
 weight: 7

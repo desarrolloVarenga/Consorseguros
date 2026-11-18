@@ -1,7 +1,7 @@
 ---
 title: "Study of hazard levels in relation to tsunamis along the Spanish coastline"
 category: "Reviews"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/study-of-hazard-levels-in-relation-to-tsunamis-along-the-spanish-coastline.pdf"
 sidebar_image: "/images/numero-6/Maremoto01.png"
 sidebar_text: "Despite limitations which the authors themselves acknowledge, this is a very interesting study which is also to a large extent a pioneering one, of the level of the tsunami hazard in Spain. It will have to be supplemented with others of a more specific and detailed nature and will allow the various autonomic and local governments to make a start on developing their own tsunami emergency management plans."
 weight: 1

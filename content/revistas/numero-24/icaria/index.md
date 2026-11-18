@@ -5,7 +5,7 @@ image: "/images/numero-24/foto_portada_ICARIA.jpg"
 sidebar_image: "/images/numero-24/foto_portada_ICARIA.jpg"
 sidebar_text: "El ámbito de estudio comprendió los 36 municipios del AMB, con una superficie aproximada de 636 km². La complejidad territorial del área analizada —que combina zonas densamente urbanizadas, infraestructuras críticas, áreas industriales y sectores costeros especialmente expuestos— obligó a desarrollar un modelo de gran escala y elevado nivel de detalle."
 summary: "En las últimas dos décadas, las inundaciones globales han afectado a más de 1.600 millones de personas, generando pérdidas económicas multimillonarias (UNDRR, 2020). Las áreas urbanas son especialmente vulnerables a estos eventos debido a su alta densidad demográfica e infraestructural, lo que propicia fallos en cascada en los servicios esenciales"
-pdf_download: "/pdf/num24/ICARIA.pdf"
+pdf_download: "/pdf/proyecto_icaria.pdf"
 weight: 3
 authors:
   - name: "Àlex de la Cruz Coronas "

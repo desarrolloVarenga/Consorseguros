@@ -1,7 +1,7 @@
 ---
 title: "Análisis de los daños por inundación en España a nivel municipal"
 category: "Análisis"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/analisis-de-los-danos-por-inundacion-en-espana-a-nivel-municipal.pdf"
 sidebar_image: "/images/numero-14/foto_portada14_inundacion.png"
 sidebar_text: "En este trabajo se presenta una herramienta, un visor, que permite visualizar las indemnizaciones por inundación abonadas por el CCS –sin considerar en este caso la inundación costera o embate de mar–, por municipio, en el periodo de los últimos 15 años comprendidos entre 2006 y 2020. La información que contiene este visor, que aprovecha el potencial del caudal de datos de indemnizaciones por inundación que posee el Consorcio de Compensación de Seguros se pone aquí a disposición de todos los interesados. El mayor valor de estos datos y de este visor es, sin duda, facilitar la toma de conciencia sobre el riesgo de inundación y servir de indicador para la adopción de medidas de reducción del riesgo por las administraciones competentes y por los propios asegurados. "
 weight: 2

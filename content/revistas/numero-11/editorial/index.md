@@ -1,7 +1,7 @@
 ---
 title: "Editorial"
 category: "Editorial"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/editorial11.pdf"
 sidebar_image: "/images/numero-11/foto_portada11_editorial.jpg"
 sidebar_text: "Entre el 10 y el 15 de septiembre de 2019, una depresión aislada en niveles altos (DANA) descolgada de la corriente en chorro circumpolar se situó sobre el mar Mediterráneo, caliente tras absorber todo el calor del verano, y propició una situación de precipitaciones intensas sobre todo el cuadrante suroriental de la península y las islas Baleares, que fueron especialmente torrenciales en las provincias de Murcia y Alicante. La conjunción de factores meteorológicos y territoriales, incluyendo ahí los demográficos y económicos, ha hecho que este episodio de inundación haya sido el que ha generado más reclamaciones al seguro de riesgos extraordinarios por este concepto, aproximadamente 67.000, siendo hasta la fecha el segundo episodio de inundación más caro en la historia del Consorcio de Compensación de Seguros (CCS), con una estimación actual de daños algo superior a 500 millones de euros. Por eso hemos dedicado este número de la revista digital Consorseguros a tratar este tema, las depresiones aisladas en niveles altos, en concreto, y el riesgo de inundación, en general."
 weight: 1

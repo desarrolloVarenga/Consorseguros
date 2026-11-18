@@ -1,7 +1,7 @@
 ---
 title: "Insurance for cultural assets. An insurance broker's perspective"
 category: "Contributions"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/cultural-heritage-assets.pdf"
 sidebar_image: "/images/numero-17/foto_portada17_aseguramiento de bienes culturales.jpg"
 sidebar_text: "Damage assessments have to be based on the value immediately prior to occurrence of the loss and the value, if any, after the loss (indemnity principle). The parties commonly set the value of the insured interest in the policy pursuant to the principle of free will as provided in section 28 of the Spanish Insurance Act [Ley de Contrato de Seguro] to avoid disputes over the value of the insured object. The parties are thus both bound by the agreed value, which is helpful should an indemnity have to be paid. Otherwise, the insured's own valuation will be taken as the maximum sum the owner of the insured interest is entitled to receive in case of a loss. Anecdotally, it can be mentioned that some museums only take out insurance on transporting works to exhibitions or for temporary loans. The insurance and reinsurance market has only limited capacity to cover the extremely high value of museum collections. Coverage by the Government, directly or in combination with private insurers, is an option in these cases."
 weight: 3

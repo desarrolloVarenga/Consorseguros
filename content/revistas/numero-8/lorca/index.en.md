@@ -1,7 +1,7 @@
 ---
 title: "Buildings demolished and for which the Consorcio de Compensación de Seguros paid compensations after the 2011 Lorca Earthquake"
 category: "Current Affairs"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/buildings-demolished-and-for-which-the-consorcio-de-compensacion-de-seguros-paid-compensations-after-the-2011-lorca-earthquake.pdf"
 sidebar_image: ""
 sidebar_text: "The Consorcio de Compensación de Seguros received more than 32,000 claims for compensation from the insured affected by the earthquake. To assess the insurable losses, it assigned somewhat more than 200 insurance experts and technical advisers. Taken overall, the amount of compensation paid by the Consorcio totalled 485 million euros."
 weight: 12

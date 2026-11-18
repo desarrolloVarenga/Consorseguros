@@ -5,7 +5,7 @@ image: "/images/numero-23/foto_portada_vision.jpg"
 sidebar_image: "/images/numero-23/foto_portada_vision.jpg"
 sidebar_text: "The regional branch team, like Valencian society as a whole, felt a special connection and solidarity with the victims, those affected, and those harmed by this major catastrophe. As residents of Valencia, we shared the pain and suffering of those affected"
 summary: "The Regional Branch of Consorcio de Compensación de Seguros (CCS) in Valencia plays a crucial role in managing extraordinary risks."
-pdf_download: "/pdf/num24/ICARIA.pdf"
+pdf_download: "/pdf/view.pdf"
 weight: 9
 authors:
   - name: "Luis Delibes Senna-Cheribbo"

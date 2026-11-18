@@ -1,7 +1,7 @@
 ---
 title: "Storm Klaus"
 category: "Contributions"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/storm-klaus.pdf"
 sidebar_image: "/images/numero-16/foto_portada16_KLAUS.jpg"
 sidebar_text: "While the CCS has had to deal with extremely large and harmful catastrophes, such as the Lorca earthquake and the September 2019 cut-off low, which undoubtedly pushed the CCS's handling capacity with its own resources to the limit, in the case of Klaus the unprecedented number of indemnity claims far outstripped that capacity. The CCS was therefore confronted with a major challenge: managing a loss event of unprecedented proportions, far exceeding its direct handling capacity; doing so in a coordinated manner with private insurance companies, and all without any reduction in the quality of service provided to policyholders."
 weight: 3

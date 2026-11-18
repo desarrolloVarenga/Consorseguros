@@ -1,7 +1,7 @@
 ---
 title: "Editorial"
 category: "Editorial"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/editorial-21.pdf"
 sidebar_image: "/images/numero-21/foto_portada_editorial_21.jpg"
 sidebar_text: "El sector asegurador, en todo el mundo, está siendo cada vez más proactivo para permitir la asegurabilidad de los riesgos crecientes, y en este número tenemos el privilegio de conocer de primera mano las experiencias de los sistemas de seguro de riesgos catastróficos de Australia, Nueva Zelanda y Turquía, escritos respectivamente por Alexander Drake, Tina Mitchell y Musa Alphan Bahar, en la adaptación de estos sistemas para la cobertura de nuevos riesgos o en su encaje institucional y operativo para la cobertura y también para la prevención."
 weight: 1

@@ -1,7 +1,7 @@
 ---
 title: "The Norwegian natural catastrophe compensation system in the past and the future"
 category: "Contributions"
-pdf_download: "/almacen/pdf/the-norwegian-natural-catastrophe-compensation-system-in-the-past-and-the-future.pdf"
+pdf_download: "/pdf/the-norwegian-natural-catastrophe-compensation-system-in-the-past-and-the-future.pdf"
 weight: 3
 image: "/images/numero-2/Malselv.jpg"
 summary: "Analysis by Gunn Eide (Norwegian Agriculture Agency) of the historical background, evolution, and reform of Norway's natural catastrophe compensation regime—combining the National Natural Disaster Fund and mandatory private natural perils insurance—and its future priorities regarding climate change and risk management."

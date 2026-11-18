@@ -1,7 +1,7 @@
 ---
 title: "Agricultural risk management strategies and climate change"
 category: "Contributions"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/estrategias.pdf"
 sidebar_image: "/images/numero-22/foto_portada_estrategias.jpg"
 sidebar_text: "Climate change will increase the likelihood that threats will emerge and the potential for adverse events to occur, and hence if our aim is to keep the scale of the risks at an acceptable level, the vulnerability of the farming sector will have to be reduced by decreasing exposure and susceptibility to these adverse events or by increasing adaptation. This heightens the importance of prevention and mitigation strategies designed to reduce the negative impacts of adverse events if transferring risks through insurance is to be assumable."
 weight: 7

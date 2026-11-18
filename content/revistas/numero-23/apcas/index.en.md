@@ -5,7 +5,7 @@ image: "/images/numero-23/foto_portada_apcas.jpg"
 sidebar_image: "/images/numero-23/foto_portada_apcas.jpg"
 sidebar_text: "APCAS loss adjusters and partner firms have shown their ability to adapt to the extremely challenging circumstances presented by this event and have contributed the technical knowledge and infrastructure to deal with it, enabling Consorcio and insurers to fulfil their obligations to policyholders."
 summary: "Throughout this year, APCAS has participated in various forums to collaborate in analysing the consequences and circumstances of the cut-off low and the handling of the resulting claims."
-pdf_download: "/pdf/num24/ICARIA.pdf"
+pdf_download: "/pdf/apcas_en.pdf"
 weight: 5
 authors:
   - name: "Francisco de la Puente Álvarez"

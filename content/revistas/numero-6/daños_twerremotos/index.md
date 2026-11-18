@@ -1,7 +1,7 @@
 ---
 title: "Catálogo de daños por terremotos en España, una herramienta para la reducción del riesgo de desastres"
 category: "Actualidad CCS"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/catalogo-de-danos-por-terremotos-en-espana-una-herramienta-para-la-reduccion-del-riesgo-de-desastres.pdf"
 sidebar_image: "/images/numero-6/catalogo_terremotos02.jpg.png"
 sidebar_text: "Puesto que el objetivo fundamental de CDTE es catalogar todos los daños producidos por terremotos en España, la información que recoge se ha agrupado en dos grandes bloques en función de su contenido. El primer bloque, datos generales, contiene información sobre los datos sísmicos, las fuentes y la documentación relativa al evento. El segundo, daños por municipio, aporta los datos disponibles sobre daños personales, en viviendas, en infraestructuras, a la agricultura y ganadería, a la industria, a servicios básicos y en los equipamientos, causados por cada evento."
 weight: 1

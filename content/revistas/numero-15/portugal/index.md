@@ -1,7 +1,7 @@
 ---
 title: "Actividad volcánica y seguro en Portugal"
 category: "Colaboraciones"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/actividad-volcanica-y-seguro-en-portugal.pdf"
 sidebar_image: ""
 sidebar_text: "Con respecto al mercado de seguros patrimoniales en Portugal, los daños materiales causados por erupciones volcánicas están, por lo general, incluidos dentro del ámbito de la cobertura de los fenómenos sísmicos, así como sus respectivas consecuencias, entre las que figuran los terremotos. El lucro cesante producido por este tipo de eventos de la naturaleza puede estar cubierto por el seguro de pérdida de beneficios, que se puede contratar simultáneamente con la cobertura de fenómenos sísmicos."
 weight: 8

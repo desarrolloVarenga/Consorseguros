@@ -1,7 +1,7 @@
 ---
 title: "An international Company's Perspective on Natural Risk Management"
 category: "Contributions"
-pdf_download: "/almacen/pdf/an-international-company-perspective-on-natural-risk-management.pdf"
+pdf_download: "/pdf/an-international-company-perspective-on-natural-risk-management.pdf"
 weight: 4
 image: "/images/numero-2/Refineria-2.jpg"
 summary: "Analysis by Miguel Luque Herrán (Insurance Director at REPSOL) on how an international company identifies, assesses, mitigates, and insures natural risks under the ISO 31.000 framework, detailing key technical policy clauses and the role of public coverage systems."

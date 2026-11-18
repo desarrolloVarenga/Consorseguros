@@ -1,7 +1,7 @@
 ---
 title: "Uso de aplicaciones digitales en la gestión de desastres naturales"
 category: "Colaboraciones"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/uso-de-aplicaciones-digitales-en-la-gestion-de-desastres-naturales.pdf"
 sidebar_image: "/images/numero-18/foto_portada18_aplicaciones_digitales.jpg"
 sidebar_text: "Las aplicaciones digitales pueden integrarse en los planes de prevención, mitigación y gestión de desastres en aquellos lugares donde la población esté familiarizada con el uso de un dispositivo móvil y donde se cuente con una red segura de uso de datos. A pesar de que estas aplicaciones son un servicio cada vez más demandado y necesario, la gran mayoría están desarrolladas y controladas por empresas privadas. Solamente un pequeño porcentaje está desarrollado por entidades públicas que utilizan este medio como servicio público de información, formación y prevención a la población frente a un posible desastre. Esto se añade a que prácticamente todas cuentan con un apartado en su política de privacidad en el que afirman que pueden compartir sus datos con terceros y que pueden vender los datos que se introducen en estas aplicaciones con fines publicitarios o para operaciones comerciales."
 weight: 3

@@ -1,7 +1,7 @@
 ---
 title: "Editorial"
 category: "Editorial"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/editorial-19.pdf"
 sidebar_image: "/images/numero-19/editorial_portada19.jpg"
 sidebar_text: "Estas inundaciones, que además de en el País Vasco produjeron daños en Navarra y Cantabria, aparte de lamentables y catastróficas tanto en términos de daños personales como materiales, fueron un toque de atención y también una oportunidad para producir cambios de calado, cambios que observamos hoy cuando paseamos por las zonas más afectadas, que se han convertido en un recurso turístico y de servicios de primer nivel internacional, y que también implicaron nuevos enfoques para las instituciones involucradas en la gestión hidrológica y la ordenación territorial, en la previsión meteorológica y en la cobertura aseguradora de los daños."
 weight: 1

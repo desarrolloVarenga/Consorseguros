@@ -1,7 +1,7 @@
 ---
 title: "La cobertura de los riesgos de la actividad exterior de las empresas españolas"
 category: "Colaboraciones"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/la-cobertura-de-los-riesgos-de-la-actividad-exterior-de-las-empresas-espanolas.pdf"
 sidebar_image: "/images/numero-5/FRRI.jpg"
 sidebar_text: "En el contexto de libre mercado imperante en las economías más desarrolladas, la cobertura por cuenta de los Estados de los riesgos de las operaciones exteriores viene a complementar a la prestada por las compañías privadas, actuando el Estado como asegurador de último recurso y, especialmente, para operaciones que entrañan intereses estratégicos."
 weight: 4

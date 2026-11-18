@@ -1,7 +1,7 @@
 ---
 title: "Brief overview of the 11th International Conference and Annual General Meeting of IFIGS"
 category: "Reviews"
-pdf_download: "/pdf/num22/editorial.pdf"
+pdf_download: "/pdf/ifigs-2024.pdf"
 sidebar_image: "/images/numero-21/ifigs_logo.png"
 sidebar_text: "IFIGS was established on 15 May 2013 by a group of IGS from around the world and is a not-for-profit international network of both life and non-life IGS. IFIGS's main mission is to enable the exchange of experiences relating to policyholder protection and to foster and provide a channel for international cooperation among IGS and other organisations interested in developing guarantee schemes of this kind to improve the functional structure and operation of IGS and to strengthen policyholder protection against potential insurer insolvency."
 weight: 8
