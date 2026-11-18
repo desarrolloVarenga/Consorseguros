@@ -1,15 +1,6 @@
 {{ define "main" }}
 <!-- Sub-header propio del Número (Barra blanca) -->
-<nav class="issue-nav-bar">
-  <div class="container issue-nav-container">
-    <div class="issue-nav-links">
-      <a href="{{ .Parent.RelPermalink }}">PORTADA</a>
-      <a href="{{ .Parent.RelPermalink }}#sumario">SUMARIO &rsaquo;</a>
-      <a href="#">BUSCADOR</a>
-      <a href="#">CONSEJO EDITORIAL</a>
-    </div>
-  </div>
-</nav>
+{{ partial "issue-nav.html" . }}
 
 <!-- Botón Flotante PDF (Pegado a la derecha de la pantalla) -->
 {{ if .Params.pdf_download }}

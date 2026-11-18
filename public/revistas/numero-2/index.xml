@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Nº 2 Abril 2015 on My New Hugo Project</title>
+		<link>http://localhost:1313/revistas/numero-2/</link>
+		<description>Recent content in Nº 2 Abril 2015 on My New Hugo Project</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/revistas/numero-2/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Editorial</title>
+				<link>http://localhost:1313/revistas/numero-2/editorial/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-2/editorial/</guid>
+				<description>Presentación del segundo número de la revista digital Consorseguros, destacando los análisis sobre los Seguros Agrarios Combinados en España, el sistema noruego de compensación por catástrofes naturales y la gestión de riesgos de la naturaleza en una empresa internacional.</description>
+			</item>
+			<item>
+				<title>El sistema de seguros agrarios combinados en España</title>
+				<link>http://localhost:1313/revistas/numero-2/sistema_seguros_agrarios/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-2/sistema_seguros_agrarios/</guid>
+				<description>Análisis detallado del modelo español de Seguros Agrarios Combinados por Ignacio Machetti Bermejo (Presidente de Agroseguro), repasando sus antecedentes históricos, la colaboración público-privada entre ENESA, el CCS y Agroseguro, la evolución de la contratación y siniestralidad, y la nueva formulación de las primas tras las recomendaciones de la CNMC y la DGSFP.</description>
+			</item>
+			<item>
+				<title>El sistema noruego de compensación por catástrofes naturales en el pasado y el futuro</title>
+				<link>http://localhost:1313/revistas/numero-2/sistema_noruego_compensacion_catastrofes/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-2/sistema_noruego_compensacion_catastrofes/</guid>
+				<description>Análisis de Gunn Eide (Agencia Noruega de Agricultura) sobre la evolución histórica, funcionamiento y reformas del sistema noruego de compensación por desastres naturales, combinando el Fondo Nacional de Desastres Naturales y el seguro obligatorio privado frente a retos futuros como el cambio climático.</description>
+			</item>
+			<item>
+				<title>Perspectiva de una empresa internacional en la gestión de riesgos de la naturaleza</title>
+				<link>http://localhost:1313/revistas/numero-2/perspectiva_empresa_internacional/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-2/perspectiva_empresa_internacional/</guid>
+				<description>Análisis de Miguel Luque Herrán (Director de Seguros de REPSOL) sobre cómo una corporación internacional identifica, evalúa, mitiga y asegura los riesgos de la naturaleza bajo el marco de la norma ISO 31.000, detallando las cláusulas técnicas clave en la contratación de pólizas y el papel de los sistemas públicos de cobertura.</description>
+			</item>
+			<item>
+				<title>Los escritores y el mundo financiero</title>
+				<link>http://localhost:1313/revistas/numero-2/escritores/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-2/escritores/</guid>
+				<description>Repaso divulgativo de Antonio González Estévez (Jefe del Servicio de Atención al Asegurado del CCS) sobre los escritores célebres que trabajaron en el sector bancario y asegurador para sustentar su vocación literaria, cerrando con una reflexión sobre el fraude en el seguro a partir de la película &amp;lsquo;En bandeja de plata&amp;rsquo;.</description>
+			</item>
+			<item>
+				<title>Los riesgos a que nos enfrentamos. Una perspectiva mundial</title>
+				<link>http://localhost:1313/revistas/numero-2/riesgos/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-2/riesgos/</guid>
+				<description>Análisis de Alfonso Nájera Ibáñez (Subdirector de Estudios y Relaciones Internacionales del CCS) sobre la décima edición del informe &amp;lsquo;Global Risks 2015&amp;rsquo; del Foro Económico Mundial, examinando la evolución de los riesgos geopolíticos, medioambientales, sociales, económicos y tecnológicos, así como las cifras de siniestralidad catastrófica de 2014.</description>
+			</item>
+			<item>
+				<title>Jurisprudencia sobre el Consorcio de Compensación de Seguros</title>
+				<link>http://localhost:1313/revistas/numero-2/jurisprudencia/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-2/jurisprudencia/</guid>
+				<description>Análisis jurisprudencial dividido en dos partes: José Antonio Badillo Arias examina el concepto de &amp;lsquo;hecho de la circulación&amp;rsquo; a raíz de la STJUE de 4 de septiembre de 2014 (caso Vnuk), y Santiago Espinosa Blanco comenta la STS de 27 de noviembre de 2014 sobre la exención de constituir depósito para apelar en las acciones de recobro del Consorcio.</description>
+			</item>
+			<item>
+				<title>Actualidad CCS</title>
+				<link>http://localhost:1313/revistas/numero-2/actualidad/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-2/actualidad/</guid>
+				<description>Repaso a las novedades normativas relevantes para el sector asegurador y el Consorcio de Compensación de Seguros en 2015 —incluyendo el Proyecto de Ley de Ordenación, Supervisión y Solvencia (LOSSEAR), la reforma del Código Penal mediante la Ley Orgánica 1/2015 y el nuevo baremo de daños personales en accidentes de circulación—, así como el anuncio de la III Conferencia Mundial del IFIGS en Madrid.</description>
+			</item>
+	</channel>
+</rss>

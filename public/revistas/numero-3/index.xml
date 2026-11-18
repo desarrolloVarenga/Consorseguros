@@ -42,6 +42,13 @@
 				<description>Examen del marco legal y regulador de los seguros en Australia, el análisis de las inundaciones de Queensland (2010-2011) y los incendios del Sábado Negro (2009), y la necesidad de un sistema nacional de seguros frente a desastres naturales.</description>
 			</item>
 			<item>
+				<title>El Consorcio de Compensación de Seguros en la nueva Ley de ordenación, supervisión y solvencia de las entidades aseguradoras y reaseguradoras</title>
+				<link>http://localhost:1313/revistas/numero-3/ley_ordenaci%C3%B3_supervisi%C3%B3n_solvencia/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-3/ley_ordenaci%C3%B3_supervisi%C3%B3n_solvencia/</guid>
+				<description>Análisis de la incidencia de la Ley 20/2015 (LOSSEAR) y del marco de Solvencia II en la actividad del Consorcio de Compensación de Seguros, abordando el seguro de riesgos extraordinarios, la colaboración con la DGSFP, la liquidación de entidades y las nuevas funciones informativas.</description>
+			</item>
+			<item>
 				<title>La recuperación económica de Chile tras el terremoto de febrero de 2010</title>
 				<link>http://localhost:1313/revistas/numero-3/resena_chile/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -54,6 +61,13 @@
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/revistas/numero-3/jurisprudencia/</guid>
 				<description>Comentario de José Antonio Badillo Arias sobre la Sentencia de la Sala 1ª del Tribunal Supremo de 30 de junio de 2015 (RJ 2015/2555), analizando el impago de primas sucesivas, el fraccionamiento del pago de la prima y sus efectos frente a terceros perjudicados.</description>
+			</item>
+			<item>
+				<title>X Conferencia Internacional del Foro Mundial de Sistemas de Cobertura de Catástrofes</title>
+				<link>http://localhost:1313/revistas/numero-3/actualidad/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-3/actualidad/</guid>
+				<description>Crónica de la participación del Consorcio de Compensación de Seguros en la X Conferencia del World Forum of Catastrophe Programmes (WFCP), celebrada en París en septiembre de 2015, donde se presentaron sistemas como FLOOD RE y African Risk Capacity.</description>
 			</item>
 	</channel>
 </rss>

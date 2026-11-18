@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Nº 2 April 2015 on My New Hugo Project</title>
+		<link>http://localhost:1313/en/revistas/numero-2/</link>
+		<description>Recent content in Nº 2 April 2015 on My New Hugo Project</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/en/revistas/numero-2/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Editorial</title>
+				<link>http://localhost:1313/en/revistas/numero-2/editorial/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-2/editorial/</guid>
+				<description>Introduction to the second issue of Consorseguros digital magazine, highlighting analyses on the Spanish Combined Agricultural Insurance system, the Norwegian natural catastrophe compensation system, and natural risk management from an international company&amp;rsquo;s perspective.</description>
+			</item>
+			<item>
+				<title>The system of combined agricultural insurance in Spain</title>
+				<link>http://localhost:1313/en/revistas/numero-2/sistema_seguros_agrarios/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-2/sistema_seguros_agrarios/</guid>
+				<description>Detailed analysis of the Spanish Combined Agricultural Insurance system by Ignacio Machetti Bermejo (President of Agroseguro), reviewing its historical background, public-private collaboration between ENESA, CCS, and Agroseguro, contracting and loss ratio trends, and the new premium formulation following CNMC and DGSFP recommendations.</description>
+			</item>
+			<item>
+				<title>The Norwegian natural catastrophe compensation system in the past and the future</title>
+				<link>http://localhost:1313/en/revistas/numero-2/sistema_noruego_compensacion_catastrofes/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-2/sistema_noruego_compensacion_catastrofes/</guid>
+				<description>Analysis by Gunn Eide (Norwegian Agriculture Agency) of the historical background, evolution, and reform of Norway&amp;rsquo;s natural catastrophe compensation regime—combining the National Natural Disaster Fund and mandatory private natural perils insurance—and its future priorities regarding climate change and risk management.</description>
+			</item>
+			<item>
+				<title>An international Company&#39;s Perspective on Natural Risk Management</title>
+				<link>http://localhost:1313/en/revistas/numero-2/perspectiva_empresa_internacional/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-2/perspectiva_empresa_internacional/</guid>
+				<description>Analysis by Miguel Luque Herrán (Insurance Director at REPSOL) on how an international company identifies, assesses, mitigates, and insures natural risks under the ISO 31.000 framework, detailing key technical policy clauses and the role of public coverage systems.</description>
+			</item>
+			<item>
+				<title>Writers and the financial world</title>
+				<link>http://localhost:1313/en/revistas/numero-2/escritores/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-2/escritores/</guid>
+				<description>An informative overview by Antonio González Estévez (Head of the Customer Care Service for the Insured at the CCS) exploring famous writers who worked in the banking and insurance sectors to support their literary vocations, concluding with a reflection on insurance fraud inspired by the film &amp;lsquo;The Fortune Cookie&amp;rsquo;.</description>
+			</item>
+			<item>
+				<title>The risks we are dealing with. A global perspective</title>
+				<link>http://localhost:1313/en/revistas/numero-2/riesgos/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-2/riesgos/</guid>
+				<description>Analysis by Alfonso Nájera Ibáñez (Deputy Manager for Studies and International Relations at the CCS) of the tenth edition of the World Economic Forum&amp;rsquo;s &amp;lsquo;Global Risks 2015&amp;rsquo; report, examining the evolution of geopolitical, environmental, societal, economic, and technological risks, as well as the 2014 natural catastrophe loss figures.</description>
+			</item>
+			<item>
+				<title>Jurisprudence about the Consorcio de Compensación de Seguros</title>
+				<link>http://localhost:1313/en/revistas/numero-2/jurisprudencia/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-2/jurisprudencia/</guid>
+				<description>Two-part jurisprudential analysis: José Antonio Badillo Arias examines the concept of &amp;lsquo;use of motor vehicle&amp;rsquo; following the CJEU ruling of 4 September 2014 (Vnuk case), and Santiago Espinosa Blanco comments on the Spanish Supreme Court ruling of 27 November 2014 regarding the exemption from paying appeal deposits in CCS recovery proceedings.</description>
+			</item>
+			<item>
+				<title>CCS Update</title>
+				<link>http://localhost:1313/en/revistas/numero-2/actualidad/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-2/actualidad/</guid>
+				<description>Overview of key 2015 legislative and regulatory developments impacting the insurance sector and the Consorcio de Compensación de Seguros —including the Draft Law on the Regulation, Supervision and Solvency of Insurance and Reinsurance Companies, the Penal Code reform (Organic Law 1/2015), and the new personal injury assessment scale for traffic accidents— alongside the announcement of the Third World Conference of IFIGS in Madrid.</description>
+			</item>
+	</channel>
+</rss>

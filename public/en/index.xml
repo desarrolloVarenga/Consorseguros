@@ -92,6 +92,13 @@
 			</item>
 			<item>
 				<title>Editorial</title>
+				<link>http://localhost:1313/en/revistas/numero-2/editorial/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-2/editorial/</guid>
+				<description>Introduction to the second issue of Consorseguros digital magazine, highlighting analyses on the Spanish Combined Agricultural Insurance system, the Norwegian natural catastrophe compensation system, and natural risk management from an international company&amp;rsquo;s perspective.</description>
+			</item>
+			<item>
+				<title>Editorial</title>
 				<link>http://localhost:1313/en/revistas/numero-20/editorial/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/en/revistas/numero-20/editorial/</guid>
@@ -378,6 +385,13 @@
 				<description>Given that the key theme chosen for edition 17 of the magazine Consorseguros Digital is “insuring cultural properties,” on 24 October 2022 we ran an interview at the Ministry of Culture and Sport (Ministerio de Cultura y Deporte, MCD), which was arranged as an informal chat, whose aim was to gain a deeper insight into how the State Guarantee functions for works of cultural interest.</description>
 			</item>
 			<item>
+				<title>The system of combined agricultural insurance in Spain</title>
+				<link>http://localhost:1313/en/revistas/numero-2/sistema_seguros_agrarios/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-2/sistema_seguros_agrarios/</guid>
+				<description>Detailed analysis of the Spanish Combined Agricultural Insurance system by Ignacio Machetti Bermejo (President of Agroseguro), reviewing its historical background, public-private collaboration between ENESA, CCS, and Agroseguro, contracting and loss ratio trends, and the new premium formulation following CNMC and DGSFP recommendations.</description>
+			</item>
+			<item>
 				<title>40 years after the 1983 floodings</title>
 				<link>http://localhost:1313/en/revistas/numero-19/inundaciones_1983/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -504,6 +518,13 @@
 				<description>The National Observatory for Natural Hazards (ONRN) is an example of a public-private partnership that brings together the state, insurers and the reinsurer, founded on concerted governance that embraces territorial groups and partners on voluntary projects to pool data, experience and studies.</description>
 			</item>
 			<item>
+				<title>The Norwegian natural catastrophe compensation system in the past and the future</title>
+				<link>http://localhost:1313/en/revistas/numero-2/sistema_noruego_compensacion_catastrofes/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-2/sistema_noruego_compensacion_catastrofes/</guid>
+				<description>Analysis by Gunn Eide (Norwegian Agriculture Agency) of the historical background, evolution, and reform of Norway&amp;rsquo;s natural catastrophe compensation regime—combining the National Natural Disaster Fund and mandatory private natural perils insurance—and its future priorities regarding climate change and risk management.</description>
+			</item>
+			<item>
 				<title>The reform of the Spanish legal system for the assessment of personal injury damages in traffic accidents. Improvement by consensus and contribution by the insurance sector</title>
 				<link>http://localhost:1313/en/revistas/numero-3/accidentes/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -523,6 +544,13 @@
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/en/revistas/numero-22/radiografia/</guid>
 				<description>Taking an x-ray of an enterprise&amp;rsquo;s situation is no easy matter when it is growing in size year by year and when its impact on society grows along with its size. Furthermore, Agroseguro&amp;rsquo;s impact can be said to have multiple benefits, since the focus of its insurance, crop and livestock insurance for farms, is essential to the survival of most Spanish towns and to food production to feed all those of us who live both in rural areas and in city centres.</description>
+			</item>
+			<item>
+				<title>An international Company&#39;s Perspective on Natural Risk Management</title>
+				<link>http://localhost:1313/en/revistas/numero-2/perspectiva_empresa_internacional/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-2/perspectiva_empresa_internacional/</guid>
+				<description>Analysis by Miguel Luque Herrán (Insurance Director at REPSOL) on how an international company identifies, assesses, mitigates, and insures natural risks under the ISO 31.000 framework, detailing key technical policy clauses and the role of public coverage systems.</description>
 			</item>
 			<item>
 				<title>Anatomy of Artificial Intelligence in the Insurance Value Chain</title>
@@ -756,6 +784,13 @@
 				<description>Consorcio de Compensación de Seguros (CCS) uses the term “claims experience” (siniestralidad for the Spanish) to describe a set of losses covered under Extraordinary Risk Insurance when they occur in one or more geographical zones within a relatively short time-span, which, in the case of those that are meteorologically induced, ranges from 1 to 7 days. What we have come to refer to as “the Gloria claims experience” comprises loss events that took place from 18 to 25 January 2020, and at its core was the “storm Gloria”.</description>
 			</item>
 			<item>
+				<title>The Consorcio de Compensación de Seguros in the new law on the regulation, supervision and solvency of insurance and reinsurance undertakings</title>
+				<link>http://localhost:1313/en/revistas/numero-3/ley_ordenaci%C3%B3_supervisi%C3%B3n_solvencia/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-3/ley_ordenaci%C3%B3_supervisi%C3%B3n_solvencia/</guid>
+				<description>Analysis of the impact of Act 20/2015 (LOSSEAR) and the Solvency II framework on the Consorcio de Compensación de Seguros, covering extraordinary risk insurance, collaboration with the DGSFP, winding-up of undertakings, and new informative functions.</description>
+			</item>
+			<item>
 				<title>The Consorcio de Compensación de Seguros&#39; support for the Multi-peril Agricultural Insurance scheme</title>
 				<link>http://localhost:1313/en/revistas/numero-22/ccs_y_su_apoyo_al_sac/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -817,6 +852,13 @@
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/en/revistas/numero-24/incendios/</guid>
 				<description>Whilst most wildfires are caused by human activity, their behaviour and spread are largely influenced by the characteristics and distribution of forest fuel, which are closely linked to land management. In some regions, such as the Mediterranean, the accumulation of fuel in the landscape due to rural depopulation, together with the expansion of the Wildland-Urban Interface, further increases the risk.</description>
+			</item>
+			<item>
+				<title>Writers and the financial world</title>
+				<link>http://localhost:1313/en/revistas/numero-2/escritores/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-2/escritores/</guid>
+				<description>An informative overview by Antonio González Estévez (Head of the Customer Care Service for the Insured at the CCS) exploring famous writers who worked in the banking and insurance sectors to support their literary vocations, concluding with a reflection on insurance fraud inspired by the film &amp;lsquo;The Fortune Cookie&amp;rsquo;.</description>
 			</item>
 			<item>
 				<title>Amendments introduced by the voluntary jurisdiction act (law 15/2015) and of interest to the insurance industry</title>
@@ -938,6 +980,13 @@
 				<description>The quality of the Advocate General’s Opinion and the fact of its subsequent alignment with the Judgement of the CJEU, with his conclusions delivered in a public hearing on 26 April 2018, warrant that we should pause here to comment on that Opinion, separately from the content of the final ruling of the CJEU of 4 September 2018.</description>
 			</item>
 			<item>
+				<title>The risks we are dealing with. A global perspective</title>
+				<link>http://localhost:1313/en/revistas/numero-2/riesgos/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-2/riesgos/</guid>
+				<description>Analysis by Alfonso Nájera Ibáñez (Deputy Manager for Studies and International Relations at the CCS) of the tenth edition of the World Economic Forum&amp;rsquo;s &amp;lsquo;Global Risks 2015&amp;rsquo; report, examining the evolution of geopolitical, environmental, societal, economic, and technological risks, as well as the 2014 natural catastrophe loss figures.</description>
+			</item>
+			<item>
 				<title>Volcanic eruption risk management in Japan</title>
 				<link>http://localhost:1313/en/revistas/numero-15/japon/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -999,6 +1048,13 @@
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/en/revistas/numero-10/prestige/</guid>
 				<description>The Prestige spilled some 63,000 tonnes of fuel into the sea, which affected 2,980 km of coastline. Although the spill was far smaller than in other previous accidents in Europe, the stretch of coastline hit was actually the largest to date.</description>
+			</item>
+			<item>
+				<title>Jurisprudence about the Consorcio de Compensación de Seguros</title>
+				<link>http://localhost:1313/en/revistas/numero-2/jurisprudencia/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-2/jurisprudencia/</guid>
+				<description>Two-part jurisprudential analysis: José Antonio Badillo Arias examines the concept of &amp;lsquo;use of motor vehicle&amp;rsquo; following the CJEU ruling of 4 September 2014 (Vnuk case), and Santiago Espinosa Blanco comments on the Spanish Supreme Court ruling of 27 November 2014 regarding the exemption from paying appeal deposits in CCS recovery proceedings.</description>
 			</item>
 			<item>
 				<title>Jurisprudence about the Consorcio de Compensación de Seguros</title>
@@ -1104,6 +1160,13 @@
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/en/revistas/numero-21/ifigs/</guid>
 				<description>The International Forum of Insurance Guarantee Schemes (IFIGS) held its eleventh annual meeting in Madrid from 16 to 18 October, hosted by the Consorcio de Compensación de Seguros, the IFIGS chair this year, which marks the 40th anniversary of its winding-up activity of insurance companies.</description>
+			</item>
+			<item>
+				<title>CCS Update</title>
+				<link>http://localhost:1313/en/revistas/numero-2/actualidad/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-2/actualidad/</guid>
+				<description>Overview of key 2015 legislative and regulatory developments impacting the insurance sector and the Consorcio de Compensación de Seguros —including the Draft Law on the Regulation, Supervision and Solvency of Insurance and Reinsurance Companies, the Penal Code reform (Organic Law 1/2015), and the new personal injury assessment scale for traffic accidents— alongside the announcement of the Third World Conference of IFIGS in Madrid.</description>
 			</item>
 			<item>
 				<title>CESVIMAP: Innovation as a service</title>
@@ -1223,6 +1286,13 @@
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/en/revistas/numero-18/lecturas/</guid>
 				<description>The growing evidence that there is something utterly wrong with the climate makes it more and more unnecessary to make efforts to convince sceptics that we are amidst a climate crisis or, as the Spanish legislation states, a climate emergency.</description>
+			</item>
+			<item>
+				<title>Tenth International Conference of the World Forum of Catastrophe Programmes</title>
+				<link>http://localhost:1313/en/revistas/numero-3/actualidad/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-3/actualidad/</guid>
+				<description>Report on the participation of the Consorcio de Compensación de Seguros in the Tenth Conference of the World Forum of Catastrophe Programmes (WFCP), held in Paris in September 2015, featuring presentations on FLOOD RE and African Risk Capacity.</description>
 			</item>
 			<item>
 				<title>The AGERS natural disasters handbook</title>

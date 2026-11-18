@@ -99,6 +99,13 @@
 			</item>
 			<item>
 				<title>Editorial</title>
+				<link>http://localhost:1313/revistas/numero-2/editorial/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-2/editorial/</guid>
+				<description>Presentación del segundo número de la revista digital Consorseguros, destacando los análisis sobre los Seguros Agrarios Combinados en España, el sistema noruego de compensación por catástrofes naturales y la gestión de riesgos de la naturaleza en una empresa internacional.</description>
+			</item>
+			<item>
+				<title>Editorial</title>
 				<link>http://localhost:1313/revistas/numero-20/editorial/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/revistas/numero-20/editorial/</guid>
@@ -287,6 +294,13 @@
 				<description>Comentario sobre la Sentencia de la Sala Primera del Tribunal Supremo de 30 de enero de 2017 relativa a la eficacia frente al CCS de los pactos entre tomador y aseguradora cuando la prima sucesiva se abona pasado el mes de gracia.</description>
 			</item>
 			<item>
+				<title>El sistema de seguros agrarios combinados en España</title>
+				<link>http://localhost:1313/revistas/numero-2/sistema_seguros_agrarios/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-2/sistema_seguros_agrarios/</guid>
+				<description>Análisis detallado del modelo español de Seguros Agrarios Combinados por Ignacio Machetti Bermejo (Presidente de Agroseguro), repasando sus antecedentes históricos, la colaboración público-privada entre ENESA, el CCS y Agroseguro, la evolución de la contratación y siniestralidad, y la nueva formulación de las primas tras las recomendaciones de la CNMC y la DGSFP.</description>
+			</item>
+			<item>
 				<title>Evolución de la normativa reguladora de la cobertura de los riesgos extraordinarios por parte del Consorcio de Compensación de Seguros Serie 1954 - mayo 2023</title>
 				<link>http://localhost:1313/revistas/numero-18/evolucion_normativa/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -446,6 +460,13 @@
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/revistas/numero-15/francia/</guid>
 				<description>Francia forma parte de los pocos países que cuentan con un dispositivo que garantiza una indemnización adecuada de los daños materiales producidos por un fenómeno natural a particulares, empresas y administraciones locales a un precio asequible. Este dispositivo se manifiesta a partir del régimen de indemnización de las catástrofes naturales (Cat Nat en adelante), creado por la ley de 13 de julio de 1982. Se trata de un sistema asegurador que ha permitido paliar una carencia en la cobertura de los riesgos naturales, que estaban muy poco asegurados hasta ese momento.</description>
+			</item>
+			<item>
+				<title>El sistema noruego de compensación por catástrofes naturales en el pasado y el futuro</title>
+				<link>http://localhost:1313/revistas/numero-2/sistema_noruego_compensacion_catastrofes/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-2/sistema_noruego_compensacion_catastrofes/</guid>
+				<description>Análisis de Gunn Eide (Agencia Noruega de Agricultura) sobre la evolución histórica, funcionamiento y reformas del sistema noruego de compensación por desastres naturales, combinando el Fondo Nacional de Desastres Naturales y el seguro obligatorio privado frente a retos futuros como el cambio climático.</description>
 			</item>
 			<item>
 				<title>Entidades para reducir la brecha en la cobertura (PGE): ámbito de las colaboraciones entre el gobierno y el mercado para el seguro de catástrofes</title>
@@ -672,11 +693,25 @@
 				<description>Los volcanes italianos representan bien el amplio espectro de posibles estados de actividad y estilos eruptivos: desde volcanes inactivos hasta actividad persistente, desde el volcán más grande de Europa hasta pequeñas islas volcánicas, Italia enfrenta todo tipo de amenazas reales y potenciales de fuentes volcánicas.</description>
 			</item>
 			<item>
+				<title>Perspectiva de una empresa internacional en la gestión de riesgos de la naturaleza</title>
+				<link>http://localhost:1313/revistas/numero-2/perspectiva_empresa_internacional/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-2/perspectiva_empresa_internacional/</guid>
+				<description>Análisis de Miguel Luque Herrán (Director de Seguros de REPSOL) sobre cómo una corporación internacional identifica, evalúa, mitiga y asegura los riesgos de la naturaleza bajo el marco de la norma ISO 31.000, detallando las cláusulas técnicas clave en la contratación de pólizas y el papel de los sistemas públicos de cobertura.</description>
+			</item>
+			<item>
 				<title>Siniestralidad de Lorca, 11 de mayo de 2011</title>
 				<link>http://localhost:1313/revistas/numero-16/lorca/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/revistas/numero-16/lorca/</guid>
 				<description>El 11 de mayo de 2011 se produjeron dos terremotos con epicentros cercanos a la ciudad de Lorca, el primero, a las 17.05 h, con una magnitud de 4,5 Mw y el segundo, a las 18.47 h, con una magnitud de 5,1 Mw. Dichos terremotos produjeron el fallecimiento de 9 personas, más de 300 heridos, algunos de gravedad, y daños generalizados en los inmuebles de la ciudad, severos en algunos de ellos.</description>
+			</item>
+			<item>
+				<title>El Consorcio de Compensación de Seguros en la nueva Ley de ordenación, supervisión y solvencia de las entidades aseguradoras y reaseguradoras</title>
+				<link>http://localhost:1313/revistas/numero-3/ley_ordenaci%C3%B3_supervisi%C3%B3n_solvencia/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-3/ley_ordenaci%C3%B3_supervisi%C3%B3n_solvencia/</guid>
+				<description>Análisis de la incidencia de la Ley 20/2015 (LOSSEAR) y del marco de Solvencia II en la actividad del Consorcio de Compensación de Seguros, abordando el seguro de riesgos extraordinarios, la colaboración con la DGSFP, la liquidación de entidades y las nuevas funciones informativas.</description>
 			</item>
 			<item>
 				<title>El Consorcio de Compensación de Seguros y su apoyo al sistema de Seguros Agrarios Combinados</title>
@@ -768,6 +803,13 @@
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/revistas/numero-16/gloria/</guid>
 				<description>El Consorcio de Compensación de Seguros (CCS) denomina siniestralidad a un conjunto de siniestros con cobertura del Seguro de Riesgos Extraordinarios sucedidos en una o varias zonas geográficas en un periodo de tiempo relativamente breve, que en el caso de los que tienen origen meteorológico suele oscilar entre 1 y 7 días. La que conocemos como «siniestralidad Gloria» comprende siniestros sucedidos entre el 18 y el 25 de enero de 2020 y tiene su núcleo en la «borrasca Gloria».</description>
+			</item>
+			<item>
+				<title>Los escritores y el mundo financiero</title>
+				<link>http://localhost:1313/revistas/numero-2/escritores/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-2/escritores/</guid>
+				<description>Repaso divulgativo de Antonio González Estévez (Jefe del Servicio de Atención al Asegurado del CCS) sobre los escritores célebres que trabajaron en el sector bancario y asegurador para sustentar su vocación literaria, cerrando con una reflexión sobre el fraude en el seguro a partir de la película &amp;lsquo;En bandeja de plata&amp;rsquo;.</description>
 			</item>
 			<item>
 				<title>Modelos de inundación del Sistema Nacional de Cartografía de zonas inundables vs. inundaciones reales</title>
@@ -938,6 +980,13 @@
 				<description>En noviembre de 1997 se generó una enorme borrasca que produjo riadas de graves consecuencias en las localidades de Badajoz, Valverde de Leganés y Mérida, además de en la comarca de las Vegas Bajas del Guadiana. En el presente artículo se describen los daños producidos por las mismas y las actuaciones de la administración hidráulica para reparar dichos daños y tratar de que no se vuelvan a producir.</description>
 			</item>
 			<item>
+				<title>Los riesgos a que nos enfrentamos. Una perspectiva mundial</title>
+				<link>http://localhost:1313/revistas/numero-2/riesgos/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-2/riesgos/</guid>
+				<description>Análisis de Alfonso Nájera Ibáñez (Subdirector de Estudios y Relaciones Internacionales del CCS) sobre la décima edición del informe &amp;lsquo;Global Risks 2015&amp;rsquo; del Foro Económico Mundial, examinando la evolución de los riesgos geopolíticos, medioambientales, sociales, económicos y tecnológicos, así como las cifras de siniestralidad catastrófica de 2014.</description>
+			</item>
+			<item>
 				<title>Modificaciones introducidas por la Ley de Jurisdicción Voluntaria 15/2015 de interés para el sector asegurador</title>
 				<link>http://localhost:1313/revistas/numero-7/ljv/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -1020,6 +1069,13 @@
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/revistas/numero-5/ambest/</guid>
 				<description>Revisión de un informe de la agencia de calificación A.M. Best sobre las distintas opciones en Europa para el aseguramiento de catástrofes y cómo cada una de ellas intenta resolver los diferentes problemas que se presentan en este tipo de seguro.</description>
+			</item>
+			<item>
+				<title>Jurisprudencia sobre el Consorcio de Compensación de Seguros</title>
+				<link>http://localhost:1313/revistas/numero-2/jurisprudencia/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-2/jurisprudencia/</guid>
+				<description>Análisis jurisprudencial dividido en dos partes: José Antonio Badillo Arias examina el concepto de &amp;lsquo;hecho de la circulación&amp;rsquo; a raíz de la STJUE de 4 de septiembre de 2014 (caso Vnuk), y Santiago Espinosa Blanco comenta la STS de 27 de noviembre de 2014 sobre la exención de constituir depósito para apelar en las acciones de recobro del Consorcio.</description>
 			</item>
 			<item>
 				<title>Jurisprudencia sobre el Consorcio de Compensación de Seguros</title>
@@ -1125,6 +1181,13 @@
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/revistas/numero-15/portugal/</guid>
 				<description>En la actualidad no hay en Portugal, como en otros países europeos, un fondo de catástrofes o una cobertura específica para los fenómenos sísmicos. A pesar de haberse producido varios intentos en este sentido, la única protección disponible procede del seguro privado.</description>
+			</item>
+			<item>
+				<title>Actualidad CCS</title>
+				<link>http://localhost:1313/revistas/numero-2/actualidad/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-2/actualidad/</guid>
+				<description>Repaso a las novedades normativas relevantes para el sector asegurador y el Consorcio de Compensación de Seguros en 2015 —incluyendo el Proyecto de Ley de Ordenación, Supervisión y Solvencia (LOSSEAR), la reforma del Código Penal mediante la Ley Orgánica 1/2015 y el nuevo baremo de daños personales en accidentes de circulación—, así como el anuncio de la III Conferencia Mundial del IFIGS en Madrid.</description>
 			</item>
 			<item>
 				<title>Aproveche este momento para integrar inteligencia artificial en su empresa</title>
@@ -1251,6 +1314,13 @@
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/revistas/numero-7/resultados_estudios_ce/</guid>
 				<description>Reseña sobre el informe de la Comisión Europea relativo al aseguramiento de riesgos de desastre hidrometeorológico y climático y el informe de la Agencia Europea del Medio Ambiente sobre adaptación y reducción de riesgos.</description>
+			</item>
+			<item>
+				<title>X Conferencia Internacional del Foro Mundial de Sistemas de Cobertura de Catástrofes</title>
+				<link>http://localhost:1313/revistas/numero-3/actualidad/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-3/actualidad/</guid>
+				<description>Crónica de la participación del Consorcio de Compensación de Seguros en la X Conferencia del World Forum of Catastrophe Programmes (WFCP), celebrada en París en septiembre de 2015, donde se presentaron sistemas como FLOOD RE y African Risk Capacity.</description>
 			</item>
 			<item>
 				<title>XI Conferencia Internacional y Asamblea General Anual de IFIGS</title>

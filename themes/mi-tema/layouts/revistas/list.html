@@ -1,15 +1,6 @@
 {{ define "main" }}
 <!-- Sub-header propio del Número (Barra blanca superior) -->
-<nav class="issue-nav-bar">
-  <div class="container issue-nav-container">
-    <div class="issue-nav-links">
-      <a href="{{ .RelPermalink }}" class="active">PORTADA</a>
-      <a href="#sumario">SUMARIO &rsaquo;</a>
-      <a href="#">BUSCADOR</a>
-      <a href="#">CONSEJO EDITORIAL</a>
-    </div>
-  </div>
-</nav>
+{{ partial "issue-nav.html" . }}
 
 <!-- Hero Principal del Número (Con la imagen de cabecera y el botón de PDF anclado) -->
 <section class="numero-hero" style="background-image: url('{{ .Params.cover_image | default "/images/num-24/portada.jpg" | relURL }}');">
