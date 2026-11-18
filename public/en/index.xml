@@ -224,6 +224,13 @@
 				<description>Analysis of the historical background, procedures, legal context, funding, and figures of the Spanish system for the liquidation of insurance companies managed by the CCS.</description>
 			</item>
 			<item>
+				<title>Welcome to the new digital magazine CONSORSEGUROS</title>
+				<link>http://localhost:1313/en/revistas/numero-1/editorial/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-1/editorial/</guid>
+				<description>This is the first issue of the digital magazine CONSORSEGUROS and its publication marks a new way for the Consorcio de Compensación de Seguros to show its presence within the wider context of Spanish and international insurance.</description>
+			</item>
+			<item>
 				<title>12th meeting of the World Forum of Catastrophe Programmes in Madrid</title>
 				<link>http://localhost:1313/en/revistas/numero-9/analisis/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -278,6 +285,13 @@
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/en/revistas/numero-20/ia_perspectivas/</guid>
 				<description>Both the economy and society as a whole are caught up in a pervasive digital transformation, and in recent years significant advances in using new technologies have been made in the financial sector and within that sector, the insurance subsector. These advances are here to stay.</description>
+			</item>
+			<item>
+				<title>Assessment of geological risk in the Canary Islands: the GeoMEP project</title>
+				<link>http://localhost:1313/en/revistas/numero-1/evaluacion_riesgos_geologicos_canarias/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-1/evaluacion_riesgos_geologicos_canarias/</guid>
+				<description>The assessment of the losses which may be potentially caused by a natural disaster in a given scenario is an essential exercise in the insurance industry for the estimation of the necessary financial resources to deal with the disaster. Since it is not possible to use statistical data, due to the low frequency of causative catastrophic events, the development of modelling techniques was increasingly generalized after the hurricane Andrew (August 1992) as a way to forecast the damage. GeoMEP, a loss evaluation method for geologic risks, has been developed on the base of an agreement of collaboration between the Geological and Mining Institute of Spain (IGME) and the Consorcio de Compensación de Seguros (CCS). In the preliminary stage, GeoMEP has focused on Canary Islands as a pilot project, which can be extended to other regions of Spain.</description>
 			</item>
 			<item>
 				<title>Cultural heritage assets</title>
@@ -474,6 +488,13 @@
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/en/revistas/numero-5/ocde/</guid>
 				<description>Overview of the main findings from the OECD Conference on the Financial Management of Flood Risk held in Paris in May 2016, exploring the evolving nature of flood risk, public financial management challenges, and approaches to insurability and affordability.</description>
+			</item>
+			<item>
+				<title>Out-of-Court dispute resolution mechanisms in the insurance sector</title>
+				<link>http://localhost:1313/en/revistas/numero-1/mecanismos_extrajudiciales/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-1/mecanismos_extrajudiciales/</guid>
+				<description>Causes of dispute and types of claims in the insurance field. Methods of out-of-court dispute resolution in the insurance field. Proposed rules in the insurance field.</description>
 			</item>
 			<item>
 				<title>Pilot cases for adapting to flood risk</title>
@@ -679,6 +700,13 @@
 				<description>In episodes of flooding, the most important variables for assessing flood risks are the velocity and level reached by the water, as well as how long it remains there. There are several ways of assessing the risk associated with a river flooding event as a function of these parameters.</description>
 			</item>
 			<item>
+				<title>The Lorca earthquake: Lessons for reconstruction</title>
+				<link>http://localhost:1313/en/revistas/numero-1/terremoto_lorca/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-1/terremoto_lorca/</guid>
+				<description>Given the extent of the damage caused by the Lorca earthquake, the scale of reconstruction required greatly exceeds the mere re-erection of its buildings.</description>
+			</item>
+			<item>
 				<title>The Sendai Framework for disaster risk reduction 2015-2030. Progress achieved in its implementation</title>
 				<link>http://localhost:1313/en/revistas/numero-7/sendai/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -691,6 +719,13 @@
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/en/revistas/numero-15/itali/</guid>
 				<description>Italian volcanoes well represent the wide spectrum of possible states of activities and eruptive styles: from dormant volcanoes to persistent activity, from the largest volcano in Europe to small volcanic islands, Italy faces all sorts of actual and potential threats from volcanic sources.</description>
+			</item>
+			<item>
+				<title>&#34;History of Insurance in Spain. Fundación Mapfre&#34;</title>
+				<link>http://localhost:1313/en/revistas/numero-1/historia_seguro_espana/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-1/historia_seguro_espana/</guid>
+				<description>Historical study on the whole Spanish insurance sector from a national perspective</description>
 			</item>
 			<item>
 				<title>2019 Surcharges: effect of the Decision dated 28 March 2018</title>
@@ -931,6 +966,13 @@
 				<description>The (re)insurance sector is a fundamental actor to participate, absorb, and evaluate the current and potential contributions of what we have called Natural Assurance Schemes (NAS).</description>
 			</item>
 			<item>
+				<title>OECD study of flood risk management. The Seine, Île-de-France. 2014</title>
+				<link>http://localhost:1313/en/revistas/numero-1/estudio_ocde/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-1/estudio_ocde/</guid>
+				<description>Analysis and recommendations on public policies to improve flood risk prevention in Île-de-France</description>
+			</item>
+			<item>
 				<title>Recent World Bank publications on disaster risk finance</title>
 				<link>http://localhost:1313/en/revistas/numero-5/banco_mundial/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -1048,6 +1090,13 @@
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/en/revistas/numero-10/prestige/</guid>
 				<description>The Prestige spilled some 63,000 tonnes of fuel into the sea, which affected 2,980 km of coastline. Although the spill was far smaller than in other previous accidents in Europe, the stretch of coastline hit was actually the largest to date.</description>
+			</item>
+			<item>
+				<title>Jurisprudence about the Consorcio de Compensación de Seguros</title>
+				<link>http://localhost:1313/en/revistas/numero-1/jurisprudencia/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-1/jurisprudencia/</guid>
+				<description>Sentence comment on limitation of actions for claims arising from road accidents in Catalonia and jurisprudence reports concerning the duties of CCS.</description>
 			</item>
 			<item>
 				<title>Jurisprudence about the Consorcio de Compensación de Seguros</title>
@@ -1260,6 +1309,13 @@
 				<description>This is a timely note that gives context to all the issues currently on the table in the debate on how to respond from an insurance standpoint to this type of risk which had never previously materialized with such force in our lifetimes.</description>
 			</item>
 			<item>
+				<title>Participation of the CCS in the Third OECD International Meeting on Terrorism Risk Insurance</title>
+				<link>http://localhost:1313/en/revistas/numero-1/terrorismo/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-1/terrorismo/</guid>
+				<description>Report on the participation of the CCS in the Third OECD International Meeting on Terrorism Risk Insurance held in Washington D.C. and presentation of the International Terrorism Insurance Platform.</description>
+			</item>
+			<item>
 				<title>Payment of the premium after six months from its due date. A covenant between the policyholder and the insurer is not enforceable against Consorcio de Compensación de Seguros, whose legal relationships with each of them are different, even though they stem from the same policy</title>
 				<link>http://localhost:1313/en/revistas/numero-11/jurisprudencia/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -1342,6 +1398,13 @@
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/en/revistas/numero-17/covid19/</guid>
 				<description>The health situation caused by COVID-19 first made itself felt in China in late 2019 and subsequently spread to Europe in early 2020, leading the World Health Organization to raise the level of the COVID-19 public health emergency to an international pandemic on 11 March 2020.</description>
+			</item>
+			<item>
+				<title>Day-Long meeting on seismic damage assessment and intervention, in the framework of the Special Seismic Risk Plan of the Community of Valencia</title>
+				<link>http://localhost:1313/en/revistas/numero-1/peligrosidad_sismica_espa%C3%B1a/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-1/peligrosidad_sismica_espa%C3%B1a/</guid>
+				<description>Report on the day-long meeting organised by the Regional Government of Valencia and the IVE on seismic risk prevention, damage assessment, and post-earthquake interventions with CCS participation.</description>
 			</item>
 			<item>
 				<title>Exceptional harm in Law 35/2015 of 22 September reforming the system for the assessment of damages for harm or loss caused to victims in traffic accidents</title>
@@ -1468,6 +1531,13 @@
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/en/contacto/</guid>
 				<description></description>
+			</item>
+			<item>
+				<title>Editors Board</title>
+				<link>http://localhost:1313/en/revistas/numero-1/consejo-editorial/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-1/consejo-editorial/</guid>
+				<description>&lt;p&gt;The Consorcio de Compensación de Seguros digital magazine “Consorseguros” (CCS) is published every six months, its content particularly addressing matters related to the Consorcio’s activities in various fields of insurance, reflecting on and analysing them.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Editors Board</title>

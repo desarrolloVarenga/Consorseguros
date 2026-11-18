@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Nº 1 September 2014 on My New Hugo Project</title>
+		<link>http://localhost:1313/en/revistas/numero-1/</link>
+		<description>Recent content in Nº 1 September 2014 on My New Hugo Project</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/en/revistas/numero-1/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Welcome to the new digital magazine CONSORSEGUROS</title>
+				<link>http://localhost:1313/en/revistas/numero-1/editorial/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-1/editorial/</guid>
+				<description>This is the first issue of the digital magazine CONSORSEGUROS and its publication marks a new way for the Consorcio de Compensación de Seguros to show its presence within the wider context of Spanish and international insurance.</description>
+			</item>
+			<item>
+				<title>Assessment of geological risk in the Canary Islands: the GeoMEP project</title>
+				<link>http://localhost:1313/en/revistas/numero-1/evaluacion_riesgos_geologicos_canarias/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-1/evaluacion_riesgos_geologicos_canarias/</guid>
+				<description>The assessment of the losses which may be potentially caused by a natural disaster in a given scenario is an essential exercise in the insurance industry for the estimation of the necessary financial resources to deal with the disaster. Since it is not possible to use statistical data, due to the low frequency of causative catastrophic events, the development of modelling techniques was increasingly generalized after the hurricane Andrew (August 1992) as a way to forecast the damage. GeoMEP, a loss evaluation method for geologic risks, has been developed on the base of an agreement of collaboration between the Geological and Mining Institute of Spain (IGME) and the Consorcio de Compensación de Seguros (CCS). In the preliminary stage, GeoMEP has focused on Canary Islands as a pilot project, which can be extended to other regions of Spain.</description>
+			</item>
+			<item>
+				<title>Out-of-Court dispute resolution mechanisms in the insurance sector</title>
+				<link>http://localhost:1313/en/revistas/numero-1/mecanismos_extrajudiciales/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-1/mecanismos_extrajudiciales/</guid>
+				<description>Causes of dispute and types of claims in the insurance field. Methods of out-of-court dispute resolution in the insurance field. Proposed rules in the insurance field.</description>
+			</item>
+			<item>
+				<title>The Lorca earthquake: Lessons for reconstruction</title>
+				<link>http://localhost:1313/en/revistas/numero-1/terremoto_lorca/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-1/terremoto_lorca/</guid>
+				<description>Given the extent of the damage caused by the Lorca earthquake, the scale of reconstruction required greatly exceeds the mere re-erection of its buildings.</description>
+			</item>
+			<item>
+				<title>&#34;History of Insurance in Spain. Fundación Mapfre&#34;</title>
+				<link>http://localhost:1313/en/revistas/numero-1/historia_seguro_espana/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-1/historia_seguro_espana/</guid>
+				<description>Historical study on the whole Spanish insurance sector from a national perspective</description>
+			</item>
+			<item>
+				<title>OECD study of flood risk management. The Seine, Île-de-France. 2014</title>
+				<link>http://localhost:1313/en/revistas/numero-1/estudio_ocde/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-1/estudio_ocde/</guid>
+				<description>Analysis and recommendations on public policies to improve flood risk prevention in Île-de-France</description>
+			</item>
+			<item>
+				<title>Jurisprudence about the Consorcio de Compensación de Seguros</title>
+				<link>http://localhost:1313/en/revistas/numero-1/jurisprudencia/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-1/jurisprudencia/</guid>
+				<description>Sentence comment on limitation of actions for claims arising from road accidents in Catalonia and jurisprudence reports concerning the duties of CCS.</description>
+			</item>
+			<item>
+				<title>Participation of the CCS in the Third OECD International Meeting on Terrorism Risk Insurance</title>
+				<link>http://localhost:1313/en/revistas/numero-1/terrorismo/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-1/terrorismo/</guid>
+				<description>Report on the participation of the CCS in the Third OECD International Meeting on Terrorism Risk Insurance held in Washington D.C. and presentation of the International Terrorism Insurance Platform.</description>
+			</item>
+			<item>
+				<title>Day-Long meeting on seismic damage assessment and intervention, in the framework of the Special Seismic Risk Plan of the Community of Valencia</title>
+				<link>http://localhost:1313/en/revistas/numero-1/peligrosidad_sismica_espa%C3%B1a/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-1/peligrosidad_sismica_espa%C3%B1a/</guid>
+				<description>Report on the day-long meeting organised by the Regional Government of Valencia and the IVE on seismic risk prevention, damage assessment, and post-earthquake interventions with CCS participation.</description>
+			</item>
+			<item>
+				<title>Editors Board</title>
+				<link>http://localhost:1313/en/revistas/numero-1/consejo-editorial/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-1/consejo-editorial/</guid>
+				<description>&lt;p&gt;The Consorcio de Compensación de Seguros digital magazine “Consorseguros” (CCS) is published every six months, its content particularly addressing matters related to the Consorcio’s activities in various fields of insurance, reflecting on and analysing them.&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>

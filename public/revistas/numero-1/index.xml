@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Nº 1 Septiembre 2014 on My New Hugo Project</title>
+		<link>http://localhost:1313/revistas/numero-1/</link>
+		<description>Recent content in Nº 1 Septiembre 2014 on My New Hugo Project</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/revistas/numero-1/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Bienvenidos a la nueva revista digital CONSORSEGUROS</title>
+				<link>http://localhost:1313/revistas/numero-1/editorial/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-1/editorial/</guid>
+				<description>Este es el primer número de la revista digital CONSORSEGUROS, cuya publicación constituye una nueva forma de presencia del Consorcio de Compensación de Seguros (CCS) en el amplio marco del seguro nacional e internacional.</description>
+			</item>
+			<item>
+				<title>La evaluación de los riesgos geológicos en las Islas Canarias: el proyecto GeoMEP</title>
+				<link>http://localhost:1313/revistas/numero-1/evaluacion_riesgos_geologicos_canarias/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-1/evaluacion_riesgos_geologicos_canarias/</guid>
+				<description>Movidos por un interés compartido en el conocimiento de los riesgos naturales, el IGME y el CCS firmaron un acuerdo para evaluar los riesgos geológicos en las Islas Canarias (proyecto GeoMEP) y poder estimar así los recursos necesarios para hacerles frente; en particular los derivados de inundaciones, terremotos y volcanes.</description>
+			</item>
+			<item>
+				<title>Mecanismos extrajudiciales de resolución de conflictos en el sector asegurador</title>
+				<link>http://localhost:1313/revistas/numero-1/mecanismos_extrajudiciales/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-1/mecanismos_extrajudiciales/</guid>
+				<description>Causas de los conflictos y tipología de las reclamaciones en el ámbito asegurador. Métodos de resolución extrajudicial de conflictos en este sector. Propuestas normativas en tramitación en el ámbito asegurador.</description>
+			</item>
+			<item>
+				<title>El terremoto de Lorca: lecciones para la reconstrucción</title>
+				<link>http://localhost:1313/revistas/numero-1/terremoto_lorca/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-1/terremoto_lorca/</guid>
+				<description>La extensión de los daños producidos por el terremoto de Lorca obliga a plantear la reconstrucción de la ciudad a un nivel que excede en mucho la simple reconstrucción de sus edificios.</description>
+			</item>
+			<item>
+				<title>&#34;Historia del seguro en España&#34;, Fundación Mapfre</title>
+				<link>http://localhost:1313/revistas/numero-1/historia_seguro_espana/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-1/historia_seguro_espana/</guid>
+				<description>Un completo análisis desde los antecedentes del seguro en la antigüedad hasta la evolución del seguro privado en el siglo XXI.</description>
+			</item>
+			<item>
+				<title>Estudio de la OCDE sobre la gestión de los riesgos de inundación. El Sena en Isla de Francia, 2014</title>
+				<link>http://localhost:1313/revistas/numero-1/estudio_ocde/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-1/estudio_ocde/</guid>
+				<description>Análisis y recomendaciones de políticas públicas para mejorar la prevención de inundación en Isla de Francia</description>
+			</item>
+			<item>
+				<title>Jurisprudencia sobre el Consorcio de Compensación de Seguros</title>
+				<link>http://localhost:1313/revistas/numero-1/jurisprudencia/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-1/jurisprudencia/</guid>
+				<description>Comentario de sentencia sobre prescripción de acciones en accidentes de circulación en Cataluña y reseñas de jurisprudencia relativas a las funciones del CCS.</description>
+			</item>
+			<item>
+				<title>Participación del CCS en la Tercera Conferencia Internacional de la OCDE sobre Seguro de Terrorismo</title>
+				<link>http://localhost:1313/revistas/numero-1/terrorismo/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-1/terrorismo/</guid>
+				<description>Crónica de la participación del CCS en la Tercera Conferencia Internacional de la OCDE sobre Seguro de Terrorismo celebrada en Washington D.C. y presentación de la Plataforma Internacional de Seguro de Terrorismo.</description>
+			</item>
+			<item>
+				<title>Jornada sobre evaluación e intervención de daños por sismo, en el marco del Plan Especial frente a Riesgo Sísmico de la Comunidad Valenciana</title>
+				<link>http://localhost:1313/revistas/numero-1/peligrosidad_sismica_espa%C3%B1a/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-1/peligrosidad_sismica_espa%C3%B1a/</guid>
+				<description>Crónica de la jornada organizada por la Generalitat Valenciana y el IVE sobre prevención, evaluación e intervención ante daños sísmicos con participación del CCS.</description>
+			</item>
+			<item>
+				<title>Consejo Editorial</title>
+				<link>http://localhost:1313/revistas/numero-1/consejo-editorial/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-1/consejo-editorial/</guid>
+				<description>&lt;p&gt;La revista digital “Consorseguros”, del Consorcio de Compensación de Seguros (CCS), tiene periodicidad semestral. Sus contenidos están orientados especialmente al tratamiento de temas relacionados con las actividades que desarrolla el CCS en varios ámbitos del seguro, aportando sobre ellos elementos de reflexión y análisis.&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>

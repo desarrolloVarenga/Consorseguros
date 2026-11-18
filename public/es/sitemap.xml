@@ -14,6 +14,18 @@
                 href="http://localhost:1313/en/revistas/numero-6/reaseguro_terrorismo/"
                 />
   </url><url>
+    <loc>http://localhost:1313/revistas/numero-1/editorial/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/revistas/numero-1/editorial/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/revistas/numero-1/editorial/"
+                />
+  </url><url>
     <loc>http://localhost:1313/revistas/numero-6/da%C3%B1os_twerremotos/</loc>
     <xhtml:link
                 rel="alternate"
@@ -520,6 +532,18 @@
                 href="http://localhost:1313/en/revistas/numero-20/ia_perspectivas/"
                 />
   </url><url>
+    <loc>http://localhost:1313/revistas/numero-1/evaluacion_riesgos_geologicos_canarias/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/revistas/numero-1/evaluacion_riesgos_geologicos_canarias/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/revistas/numero-1/evaluacion_riesgos_geologicos_canarias/"
+                />
+  </url><url>
     <loc>http://localhost:1313/revistas/numero-17/mcu/</loc>
     <xhtml:link
                 rel="alternate"
@@ -880,6 +904,18 @@
                 href="http://localhost:1313/en/revistas/numero-6/analisis_legislacion_banca/"
                 />
   </url><url>
+    <loc>http://localhost:1313/revistas/numero-1/mecanismos_extrajudiciales/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/revistas/numero-1/mecanismos_extrajudiciales/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/revistas/numero-1/mecanismos_extrajudiciales/"
+                />
+  </url><url>
     <loc>http://localhost:1313/revistas/numero-13/mejora_valoracion/</loc>
     <xhtml:link
                 rel="alternate"
@@ -1084,6 +1120,18 @@
                 href="http://localhost:1313/en/revistas/numero-21/nueva_zelanda/"
                 />
   </url><url>
+    <loc>http://localhost:1313/revistas/numero-1/terremoto_lorca/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/revistas/numero-1/terremoto_lorca/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/revistas/numero-1/terremoto_lorca/"
+                />
+  </url><url>
     <loc>http://localhost:1313/revistas/numero-18/modelizacion_computacional/</loc>
     <xhtml:link
                 rel="alternate"
@@ -1178,6 +1226,18 @@
                 rel="alternate"
                 hreflang="en-US"
                 href="http://localhost:1313/en/revistas/numero-16/lorca/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/revistas/numero-1/historia_seguro_espana/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/revistas/numero-1/historia_seguro_espana/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/revistas/numero-1/historia_seguro_espana/"
                 />
   </url><url>
     <loc>http://localhost:1313/revistas/numero-3/ley_ordenaci%C3%B3_supervisi%C3%B3n_solvencia/</loc>
@@ -1530,6 +1590,18 @@
                 href="http://localhost:1313/en/revistas/numero-10/seguro_medioambiental/"
                 />
   </url><url>
+    <loc>http://localhost:1313/revistas/numero-1/estudio_ocde/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/revistas/numero-1/estudio_ocde/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/revistas/numero-1/estudio_ocde/"
+                />
+  </url><url>
     <loc>http://localhost:1313/revistas/numero-4/estudios_cambio_climatico/</loc>
     <xhtml:link
                 rel="alternate"
@@ -1792,6 +1864,18 @@
                 rel="alternate"
                 hreflang="en-US"
                 href="http://localhost:1313/en/revistas/numero-5/ambest/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/revistas/numero-1/jurisprudencia/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/revistas/numero-1/jurisprudencia/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/revistas/numero-1/jurisprudencia/"
                 />
   </url><url>
     <loc>http://localhost:1313/revistas/numero-2/jurisprudencia/</loc>
@@ -2178,6 +2262,18 @@
                 href="http://localhost:1313/en/revistas/numero-11/jurisprudencia/"
                 />
   </url><url>
+    <loc>http://localhost:1313/revistas/numero-1/terrorismo/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/revistas/numero-1/terrorismo/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/revistas/numero-1/terrorismo/"
+                />
+  </url><url>
     <loc>http://localhost:1313/revistas/numero-24/proyecto_impacto/</loc>
     <xhtml:link
                 rel="alternate"
@@ -2332,6 +2428,18 @@
                 rel="alternate"
                 hreflang="en-US"
                 href="http://localhost:1313/en/revistas/numero-9/centro_zaragoza/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/revistas/numero-1/peligrosidad_sismica_espa%C3%B1a/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/revistas/numero-1/peligrosidad_sismica_espa%C3%B1a/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/revistas/numero-1/peligrosidad_sismica_espa%C3%B1a/"
                 />
   </url><url>
     <loc>http://localhost:1313/revistas/numero-4/jurisprudencia/</loc>
@@ -2802,6 +2910,19 @@
                 href="http://localhost:1313/en/revistas/numero-2/"
                 />
   </url><url>
+    <loc>http://localhost:1313/revistas/numero-1/</loc>
+    <lastmod>2024-06-27T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/revistas/numero-1/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/revistas/numero-1/"
+                />
+  </url><url>
     <loc>http://localhost:1313/tags/blue/</loc>
     <lastmod>2023-03-15T11:00:00-07:00</lastmod>
   </url><url>
@@ -2859,6 +2980,18 @@
                 rel="alternate"
                 hreflang="en-US"
                 href="http://localhost:1313/en/categories/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/revistas/numero-1/consejo-editorial/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/revistas/numero-1/consejo-editorial/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/revistas/numero-1/consejo-editorial/"
                 />
   </url><url>
     <loc>http://localhost:1313/revistas/numero-10/consejo-editorial/</loc>

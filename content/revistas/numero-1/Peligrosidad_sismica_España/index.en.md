@@ -1,0 +1,40 @@
+---
+title: "Day-Long meeting on seismic damage assessment and intervention, in the framework of the Special Seismic Risk Plan of the Community of Valencia"
+category: "News"
+pdf_download: "/pdf/day-long-meeting-on-seismic-damage-assessment-and-intervention-in-the-framework-of-the-special-seismic-risk-plan-of-the-community-of-valencia.pdf"
+sidebar_image: ""
+sidebar_text: ""
+weight: 9
+image: "/images/numero-1/Peligrosidad_sismica_España_720x508.jpg"
+summary: "Report on the day-long meeting organised by the Regional Government of Valencia and the IVE on seismic risk prevention, damage assessment, and post-earthquake interventions with CCS participation."
+---
+
+A day-long meeting on seismic risk and earthquake damage, organised by the Governance Secretariat of the Regional Government of Valencia and the Valencia Building Institute (IVE), was held in the Community of Valencia during the month of September, addressing the issue from the dual point of view of prevention as well as of post-earthquake interventions. The final objective of the course was to form a “Group of Volunteer Inspectors” made up by technicians capable of mobilising themselves and intervene in a seismic event of certain significance, as foreseen in the Seismic Risk Plan of the Community of Valencia.
+
+The Meeting was held on two dates and at two different venues -Alicante and Valencia- and was attended by specialised technical personnel of the CCS, since, independently of the ultimate purpose of the Meeting mentioned above, many of the issues addressed are to a large extent connected with the damage compensation activity carried out by the CCS in the scope of extraordinary risks, as evidenced by the handling of the more than 32,000 claims stemming from the Lorca earthquake in May 2011. In effect, proper knowledge of the types of damages caused by an earthquake; the application of appropriate techniques for the stabilisation of the buildings and infrastructures affected; or the implementation of optimum solutions for the repair of the elements damaged are clear examples of aspects that can significantly facilitate the management of an earthquake, both from the perspective of public safety as well as from that of the compensation for damages by the insurance system. Moreover, awareness of the prevention work carried out and of the protocol for the activation of personnel contained in the Special Seismic Risk Plans, pursuant to the Basic Civil Defence Seismic Risk Guidelines, enables the CCS to become familiar with the framework in which it would have to operate in the event of an earthquake in the Community of Valencia.
+
+The aforementioned Day-Long Meeting, comprised by twelve talks, was structured into three major sections.
+
+## 1. General concepts, seismic hazard, and vulnerability
+
+The first section, of a theoretical nature, addressed the general concepts of earthquakes, explaining how they occur, how they are propagated in the form of seismic waves, the way in which the terrain through which they pass exerts an influence and how their measurement and classification is approached, in terms of the energy released or their magnitude –Richter Scale- or the effects and damages caused to existing constructions or intensity - European Macroseismic Scale (EMS-98). On the basis of the foregoing, Spain’s seismic hazard map (the strongest earthquake that could occur in a specific area for a period of 500 years) was presented.
+
+Once the possible scope of an earthquake is analysed in the context of the geographical area where it occurs, the criteria and recommendations contained in the seismic-resistant standards to be taken into account in new constructions were discussed, for the purpose of mitigating damages and to prevent such structures, or any of their elements, from collapsing, which could cause the loss of human life or severe personal injuries. With respect to existing constructions, the Meeting referred to the work carried out in order to assess the vulnerability of such structures, and this was used for preparing the vulnerability map of the Community of Valencia.
+
+## 2. Damage types, stabilisation, repair, and prevention
+
+In the second section, which was more technical and practical, the various types of damages caused by an earthquake to different kinds of structures were presented in relation to their construction technique, volume, slenderness or finishes. The scope or hazard rating of the structures was discussed in relation to the elements affected, providing the guidelines necessary for stabilising the buildings with urgent bracings and selective demolitions of elements depending on the degree of damage, in such a way as to enable urgent inspections to be carried out safely by technicians in order to classify the condition of the structures, thereby making it possible to make the appropriate decisions with respect to how repairs should be undertaken.
+
+On arriving at this point, a description was given, on the one hand, of the various repair techniques to be carried out, depending on whether the element to be repaired is structural or not and taking into account the degree of damage suffered following an earthquake. The analysis included examples of actual repairs carried out in Lorca, examples which are very familiar to CCS itself, as can be expected. The exposition of the examples, made in a critical spirit, evidenced what the CCS already had the opportunity to ascertain in the course of the complex management of the compensation payments for the Lorca earthquake, that is, that many of the repair solutions proposed or carried out are not exempt from technical controversies and that often the most costly solution is not necessarily the safest or the most recommendable. This is an aspect which has an enormous impact on the management of the claims arising from an earthquake from the insurance perspective, making it especially difficult and complex.
+
+In this section details were also provided with respect to the possible preventive interventions to be carried out before an earthquake occurs in those buildings –or in some of their parts- which can consider as especially sensitive on account of the purpose for which they are used (e.g.: schools, hospitals or evacuation routes from public buildings), with the ultimate aim of increasing their resistance to earthquakes and preventing injuries to the users of such facilities.
+
+## 3. Special Seismic Risk Plan of the Community of Valencia
+
+The third and last section was devoted to the presentation of the Special Seismic Risk Plan of the Community of Valencia, developed in response to the fact that there are areas in the Community where grade 7 earthquakes are foreseeable for a period of 500 years. It must be kept in mind –and this was stressed- that this is a region with a record of significant seismic activity, as is also the case in the neighbouring Region of Murcia where the importance of having a Special Seismic Risk Plan in place in the Autonomous Community of the Region of Murcia was demonstrated when the Lorca earthquake occurred.
+
+And to conclude the Day-Long Meeting, the activation protocol for the personnel of the Seismic Damage Assessment Unit was presented, together with the quick-damage-assessment checklist to be filled out in the event of an earthquake.
+
+The Meeting was attended by a large number of technicians and served to raise the awareness of those present of the importance of being adequately prepared in the face of a possible event of this nature. This is a real threat and, as almost all of the speakers mentioned, we are now in a period of seismic calm in Spain of almost one hundred and thirty years (since the earthquake in Andalusia on 25 December 1884), which means that the current seismic risk is very high.
+
+{{< figura src="/images/numero-1/Peligrosidad_sismica_España_720x508.jpg" caption="*Source*: National Geographic Institute" >}}

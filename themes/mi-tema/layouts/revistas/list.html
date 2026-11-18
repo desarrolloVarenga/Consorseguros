@@ -27,7 +27,7 @@
 <!-- Parrilla de Artículos (Editorial + Colaboraciones) -->
 <main class="container page-content">
   <div class="articles-grid">
-    {{ range .Pages.ByWeight }}
+    {{ range (where .Pages "Params.category" "!=" nil).ByWeight }}
     <article class="article-card-num">
       
       <!-- Miniatura de la tarjeta (Carga imagen tanto para Editorial como para el resto) -->

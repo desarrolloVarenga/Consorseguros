@@ -1,0 +1,40 @@
+---
+title: "Jornada sobre evaluación e intervención de daños por sismo, en el marco del Plan Especial frente a Riesgo Sísmico de la Comunidad Valenciana"
+category: "Actualidad CCS"
+pdf_download: "/pdf/jornada-sobre-evaluacion-e-intervencion-de-danos-por-sismo-en-el-marco-del-plan-especial-frente-a-riesgo-sismico-de-la-comunidad-valenciana.pdf"
+sidebar_image: ""
+sidebar_text: ""
+weight: 9
+image: "/images/numero-1/Peligrosidad_sismica_España_720x508.jpg"
+summary: "Crónica de la jornada organizada por la Generalitat Valenciana y el IVE sobre prevención, evaluación e intervención ante daños sísmicos con participación del CCS."
+---
+
+Durante el mes de septiembre se ha impartido en la Comunidad Valenciana, organizada por la Secretaría de Gobernación de la Generalitat Valenciana y el Instituto Valenciano de Edificación (IVE), una jornada relativa al riesgo sísmico y los daños que provoca, enfocada desde el doble punto de vista de su prevención y de las intervenciones a realizar una vez que se produce el mismo. El objetivo final del curso es constituir una “Bolsa de inspectores voluntarios” formada por técnicos capaces de movilizarse e intervenir ante un evento sísmico de cierta gravedad, tal como está previsto en el Plan de Riesgo Sísmico de la Comunidad Valenciana.
+
+La Jornada se celebró en dos fechas y en dos sedes diferentes -Alicante y Valencia-, y a la misma asistió personal técnico especializado del CCS, ya que, independientemente de la finalidad última antes señalada, muchos de los temas abordados tienen en buena medida una indudable vinculación con la actividad indemnizatoria que desarrolla el CCS en el ámbito de los riesgos extraordinarios, como así ha puesto de manifiesto la gestión de los más de 32.000 siniestros producidos por el terremoto de Lorca en mayo de 2011. En efecto, el adecuado conocimiento de la tipología de daños producidos por un sismo; la aplicación de técnicas eficaces de estabilización de construcciones e infraestructuras afectadas; o la implantación de soluciones idóneas de reparación de los elementos dañados son claros ejemplos de aspectos que pueden facilitar de modo muy significativo la gestión de un terremoto, tanto desde la óptica de la seguridad ciudadana como desde la del resarcimiento de los daños por el sistema asegurador. Además, el conocimiento del trabajo de prevención llevado a cabo y del protocolo de activación de personal previsto en los Planes Especiales antes el Riesgo Sísmico, de acuerdo con lo establecido en la Directriz Básica de Protección Civil ante el Riesgo Sísmico, permiten al CCS acercarse al marco en el que se desenvolvería su gestión en el caso de producirse un terremoto en la Comunidad Valenciana.
+
+La citada Jornada, compuesta por doce ponencias, se estructuró en tres grandes bloques.
+
+## 1. Conceptos generales, peligrosidad y vulnerabilidad sísmica
+
+El primer bloque, de índole teórica, trató acerca de los conceptos generales sobre el sismo, explicando cómo se produce, cómo se propaga en forma de ondas sísmicas, en qué forma influye el terreno que atraviesan, y cómo se aborda su medición y su clasificación atendiendo a la energía liberada o su magnitud -escala Richter- o a los efectos y daños producidos en las distintas construcciones existentes o intensidad - escala Macrosísmica Europea (EMS-98)-. Sobre la base de lo anterior, se presentó el mapa de peligrosidad sísmica de España (terremoto más fuerte que pueda producirse en una determinada zona para un periodo de 500 años).
+
+Una vez analizado el alcance que un terremoto puede llegar a tener según el área geográfica donde se produzca, se expusieron los criterios y recomendaciones contemplados en las normas sismorresistentes a tener en cuenta en las nuevas construcciones, con el fin de que sufran los menores daños posibles y no se produzcan derrumbamientos de las mismas o de algunos de sus elementos que pudieran acarrear pérdidas de vidas humanas o daños personales severos. En lo que a las construcciones ya existentes se refiere, se expuso el trabajo llevado a cabo para evaluar la vulnerabilidad de las mismas, elaborándose de esta forma el mapa de vulnerabilidad de la Comunidad Valenciana.
+
+## 2. Tipologías de daños, estabilización, reparación y prevención
+
+En el segundo bloque, de carácter más técnico y práctico, se presentaron las distintas tipologías de daños ocasionados por un sismo en las diferentes construcciones en función de su técnica constructiva, su volumen, esbeltez o acabados. Se expuso el alcance o peligrosidad de los mismos en función de los elementos afectados y se dieron las pautas necesarias para estabilizar las construcciones con apuntalamientos de urgencias y demoliciones selectivas de diversos elementos en función de su afección, de forma que puedan llevarse a cabo y de forma segura las inspecciones de carácter urgente realizadas por los técnicos para catalogar el estado de las construcciones, permitiendo con ello tomar las decisiones oportunas respecto a la forma de acometer las reparaciones.
+
+Llegados a este punto se expusieron, por un lado, las distintas técnicas de reparación a llevar a cabo según el elemento que deba repararse sea o no estructural y teniendo en cuenta su grado de afección tras un sismo. El análisis incluyó ejemplos de reparaciones reales llevadas a cabo en Lorca, ejemplos bien conocidos, como es natural, por el propio CCS. La exposición de los ejemplos, realizada con un espíritu crítico, puso de manifiesto lo que el CCS ya tuvo la oportunidad de constatar en el transcurso de la compleja gestión de las indemnizaciones por el terremoto de Lorca, esto es, que muchas de las soluciones de reparación propuestas o llevadas a cabo no están exentas de polémica técnica y que con frecuencia la solución más costosa no es necesariamente la más segura ni la más recomendable. Es este un aspecto que tiene una enorme incidencia en la gestión aseguradora de la siniestralidad de terremoto y que la hace especialmente difícil y compleja.
+
+También en este bloque se detallaron las posibles intervenciones de prevención a realizar antes de la producción de un terremoto en aquellos edificios –o en algunas de sus partes- que pueden considerarse especialmente sensibles por el uso al que están destinados (vgr.: colegios, hospitales o vías de evacuación de edificios públicos), con el fin último de incrementar su resistencia al mismo y evitar que se produzcan daños a sus usuarios.
+
+## 3. Plan Especial frente al Riesgo Sísmico de la Comunidad Valenciana
+
+El tercer y último bloque se destinó a la presentación del Plan Especial frente al Riesgo Sísmico de la Comunidad Valenciana, desarrollado por existir, dentro de la misma, áreas donde son previsibles sismos de intensidad de grado VII para un periodo de 500 años. No debe de olvidarse- y así se recalcó- que se trata de una región con un historial de actividad sísmica importante, como también le ocurre a la colindante Región de Murcia, donde quedó de manifiesto lo valioso que fue contar en el terremoto de Lorca con el correspondiente Plan Especial frente a Riesgo Sísmico en la Comunidad Autónoma de la Región de Murcia.
+
+Ya para concluir la Jornada se presentó el protocolo de activación del personal de la Unidad de Evaluación de Daños por Sismo y la ficha de evaluación rápida de daños a cumplimentar en caso de sismo.
+
+La Jornada contó con la participación de numerosos técnicos y sirvió para concienciar a los asistentes de la importancia de estar adecuadamente preparados ante un posible evento de esta índole, cuya amenaza es real puesto que, como coincidieron casi todos los ponentes, nos encontramos en un periodo de quietud sísmica en España de casi ciento treinta años (desde el terremoto que se produjo en Andalucía el 25 de diciembre de 1884), lo que hace que el riesgo sísmico actual sea muy elevado.
+
+{{< figura src="/images/numero-1/Peligrosidad_sismica_España_720x508.jpg" caption="*Fuente*: Instituto Geográfico Nacional" >}}

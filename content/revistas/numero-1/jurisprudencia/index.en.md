@@ -1,0 +1,161 @@
+---
+title: "Jurisprudence about the Consorcio de Compensación de Seguros"
+category: "Reviews"
+pdf_download: "/pdf/jurisprudence-about-the-consorcio-de-compensacion-de-seguros.pdf"
+sidebar_image: "/images/numero-1/jurisprudencia01.jpg"
+sidebar_text: ""
+weight: 7
+image: "/images/numero-1/jurisprudencia01.jpg"
+summary: "Sentence comment on limitation of actions for claims arising from road accidents in Catalonia and jurisprudence reports concerning the duties of CCS."
+authors:
+- name: "José A. Badillo Arias"
+- institution: "Regional Representative of the Consorcio de Compensación de Seguros in Madrid"
+---
+
+## Sentence comment
+
+### Limitation of actions. Period of limitation for claims arising from road accidents when these take place within the territory of the Autonomous Community of Catalonia.
+
+#### Sentence no. 534/2013 of 6 September 2013, Chamber 1 of the Supreme Court. Reporter: Mr Salas Carceller.
+
+## 1. Introduction
+
+Via final appeal for annulment to it, this interesting sentence by the Supreme Court settles the problem of the diverseness of decisions that were being made in the case of road accidents taking place in Catalonia as regards limitation of actions. Up until that time there had been decisions by Catalan Higher Provincial Courts that set a limitation period of three years for claims to be brought arising from tortious liability, citing article 121-21 d) of the Catalan Civil Code, whereas others established a period of one year, as suggested by article 7.1 of the “LRCSCVM” (Law on Road Motor Vehicle Liability and Insurance).
+
+Basically some Higher Provincial Courts interpreted that Catalan law applied in this area, whereas others held the view that, since this involved a road accident, it should be dealt with via Spanish national legislation, in this case the LRCSCVM as it concerns a commercial issue.
+
+The Supreme Court has used this sentence to lay down its jurisprudential doctrine as regards this matter. Moreover it has done this, as has regularly tended to be the case in connection with major discrepancies of minor jurisprudence, through a sentence with a full assembly in Courtroom 1, which may be understood to constitute jurisprudence of the Supreme Court pursuant to article 1.6 of the Civil Code.
+
+## 2. Factual circumstances
+
+An action was brought by the claimant for damage caused by an unidentified vehicle in which application was made for the Consorcio de Compensación de Seguros (CCS) to be ordered to pay the sum claimed plus the applicable interest.
+
+The Counsel for the State acting for CCS contested the claim, citing limitation of actions on the grounds that the window of one year in which proceedings could have been instituted had been passed. Initially the defence of limitation was rejected and CCS was ordered to pay the sum claimed plus interest and costs.
+
+Subsequently CCS filed an appeal against this ruling, which was also dismissed. The State Counsel therefore filed an appeal for annulment to the Supreme Court, alleging special interest regarding the doctrine of the latter and in doing so adducing contradictory sentences handed down by various Catalan Higher Provincial Courts in relation to the matter of limitation.
+
+## 3. Legal arguments
+
+The sentence contested had considered that the applicable period for claims on the grounds of tort was three years as established generally in the Catalan Civil Code, in article 121-21 d) thereof. The final appeal to the Supreme Court filed on behalf of CCS was therefore based on violation of the one year limitation period for the action in question pursuant to article 7 of Royal Legislative Decree 8/2004 endorsing the revised text of the LRCSCVM.
+
+With respect to this discrepancy concerning the limitation period, there are sentences that have been handed down either way by various Catalan Higher Provincial Courts, some in favour of a one year limitation period and others holding that limitation should be three years, depending on whether Spanish national legislation is applied, as in the first case, or autonomous law, as in the second case.
+
+The sentences by the Catalan Higher Provincial Courts which apply the three-year limitation period argue for doing this pursuant to the Catalan Civil Code, as this was in force at the time of the accident and the latter took place within this Autonomous Community, which suggests that Catalan Civil Law has territorial effectiveness and should be applied in precedence over any other legislation.
+
+On the other hand there are other sentences, also by Catalan Higher Provincial Courts, which argue in favour of the contention to the contrary in the sense that the limitation period should be one year. According to these Higher Courts, Catalan Civil Law does not cover those matters for which State legislation has competence such as commercial law, of which insurance legislation is a part. The provisions of Catalan Civil Law take precedence, except in those cases where general precepts directly apply. According to this doctrinal convention the Law on Road Motor Vehicle Liability and Insurance is “*lex specialis*”, which implies that the action in tort should be framed within the context of a special law the nature of which can never be changed.
+
+In the light of the contradictory decisions handed down as regards this matter, the full assembly in session of Chamber 1 of the Supreme Court decided to admit the final appeal that had been filed on behalf of CCS, taking the view that article 7.1 of the LRCSCVM must apply, which determines the limitation period of one year within which to demand payment to the aggrieved party of the amount for damage suffered to their person or property.
+
+To summarise, in the high court’s opinion the action against CCS is rooted in special right which is not conferred upon the aggrieved party by Catalan civil legislation, but instead by article 11.1.b) of the LRCSCVM and article 11.3 of the Revised Text of the CCS Legal Statute. By this reasoning, and the CCS obligation having come into being from this particular law, the applicable limitation period must be construed as that which the law itself lays down for requiring satisfaction of this obligation through the courts, which is the period of one year. This is what article 1090 of the Civil Code provides when it says that obligations arising from the law shall be regulated by the principles of the rule that has established them.
+
+In article 149.1.6 of the Spanish Constitution it also lays down that the State has exclusive jurisdiction as regards commercial law, for which reason the rules of this law apply across the whole of Spanish soil, and the principle of territoriality cannot operate to claim that the Catalan rule applies.
+
+The appeal to the Supreme court for overturn was thus upheld on all these grounds and the action that initiated the process was dismissed as there was no doubt as to the fact that the limitation period of one year was over when this was brought.
+
+## 4. Conclusions
+
+It was established here as jurisprudential doctrine that in the case of the party harmed in a road accident in Catalonia taking direct action against the insurer of the vehicle driven by the party responsible for the accident or against CCS, according to the LRCSCVM the limitation period will be one year, and not three as indicated in the Catalan Civil Code for actions in tort.
+
+This sentence lays down jurisprudential doctrine on this matter and avoids interpretations that might lead to anomalous situations such as might arise from applying two different limitation periods for the same occurrence. This will therefore stop continued overuse of the judicial system for matters in Catalonia where the debate centres on calculation of the limitation period with regard to claims for damage to persons or property that derive from road accidents.
+
+---
+
+## Jurisprudence reports
+
+## 1. Sentences concerning the duties of CCS in relation to Compulsory Car Insurance.
+
+**A) Action for recovery against CCS for damage caused by an unknown vehicle which was parked inappropriately on a pedestrian crossing.**
+
+> **Sentence no. 149/2014 of May 5, 2014, the Madrid Higher Provincial Court**
+>
+> A pedestrian was run over by the driver of a vehicle insured with LDA. The company, which paid the aggrieved party for bodily harm, considered that the running over took place partly because there was a vehicle badly parked on a pedestrian crossing, which was a hindrance to the visibility of the driver of the vehicle insured with LDA. On these grounds it thus claimed 50% from CCS of the compensation that it had paid out.
+>
+> Two issues arise from this case: on the one hand, what we are dealing with is a road traffic incident, which is something that does not pose any doubt for the Court, given that the vehicle which ran over the pedestrian was moving; on the other hand, as regards liability for the running over, the Court understands that this should not be attributed to another, unknown vehicle which, though badly parked, was not involved in the collision. Likewise the care taken by the driver of the vehicle to avoid injury is considered insufficient by reason of various articles in the General Drivers’ Regulations (arts. 17, 45, and 46). The ruling by the Court of First Instance was thus reversed which had found that both the driver insured with LDA and the unknown vehicle were to blame.
+
+**B) Compensation to a minor for the death of his mother when she was travelling in an uninsured vehicle. It is irrelevant whether the deceased knew that the vehicle was uninsured in that the aggrieved party suffering the damage liable for compensation on account of the death of his mother is a son of minority age.**
+
+> **Sentence no. 749/2013 of 28 November 2013, Chamber 1 of the Supreme Court.**
+>
+> Via his guardian ad litem the victim’s son of minority age brought a claim against CCS and his father for the sum of 172,981.89 euros.
+>
+> The claim arose from the death of the minor’s mother in a road accident when she was travelling in the vehicle being driven by his father, a co-defendant and in default. Through its lawyers the State contested the claim on behalf of CCS, alleging that the deceased (the driver’s wife and mother of the claimant) was aware that the vehicle was uninsured and that this rules out liability on the part of CCS pursuant to article 11.1 LRCSCVM (Law on Road Motor Vehicle Liability and Insurance).
+>
+> The ruling by the Court of First Instance admitted the claim and sentenced CCS and the co-defendant jointly and severally to pay the minor an indemnity for the sum of 172,981.89. The State lawyers appealed against the ruling and the Guadalajara Higher Provincial Court (Section 1) handed down a sentence on 19 July 2011 admitting the appeal and absolving CCS.
+>
+> The claimant’s representative filed an appeal to the Supreme Court for judicial review, which was admitted. The high court referred to the wording of article 11 of the LRCSCVM, which lays down as a duty of CCS in section 1 b) thereof that of providing compensation for damage to persons and property caused by an uninsured vehicle (as is the situation in this case) and to section g), paragraph two, which in such circumstances states: *“damage to persons and property is disqualified from indemnity by the Consorcio which is suffered by persons voluntarily occupying the vehicle causing the loss or damage in the knowledge that said vehicle was not insured or had been stolen whenever the Consorcio can prove that they were aware of such circumstances"*.
+>
+> In this regard, since the sentence contested considered it proven that the deceased (the mother of the claimant) was aware of the absence of insurance, the situation whereby CCS is absolved of liability as referred to above ought to apply. The courtroom nevertheless alluded to the fact that in the Annex to the Law, section one provides that the status of being an “aggrieved party”, and therefore the person suffering the harm in the event of the decease of the victim, does not lie with the victim themself, but instead with those persons listed in Table I, among these, in the present case, the offspring of minority age, and so the court thus considered that the grounds cited for exoneration from the obligation to compensate cannot be applied on the part of CCS, as he had nothing to do with the absence of insurance.
+
+**C) Vehicle crash without proven guilt. Each company has to assume all the damages for the other vehicle.**
+
+> **Sentence no. 359/2013 of 8 November 2013, the Granada Higher Provincial Court.**
+>
+> In this case the question is raised of the criterion which should be adhered to when it is not possible to determine the vehicle causing the accident in a collision between two vehicles. According to the Supreme Court the remedy of proportionate compensation (applied in the ruling by the Court of First Instance) is only fitting when the specific percentage or degree of causal impact on the part of each of the vehicles can be confirmed.
+>
+> In cases of uncertainty regarding cause, such as here, where it has not been possible to confirm the specific percentage of each vehicle’s contribution to the end result, the appropriate procedure is to declare each of the drivers wholly liable for the personal injury caused to the occupants of the other vehicle pursuant to the doctrine of cross-sentences as indicated in the sentences given by Chamber 1 of the Supreme Court on 10 September 2012 and 4 February 2013.
+
+**D) Action for recovery by CCS regarding the driver of a quad-type vehicle that was being used on the road while uninsured on account of the damages paid out to the occupant thereof.**
+
+> **Sentence no. 537/2013 of 19 September 2013, the Murcia Higher Provincial Court.**
+>
+> The ordinary appeal by CCS was admitted against the driver of a quad-type vehicle in relation to damages paid out to the occupant thereof.
+>
+> The sentence passed by the Court of First Instance upheld that the occupant of the vehicle was exclusively to blame as the cause of the accident. Nonetheless, the Murcia Higher Provincial Court contended that the judge at the Court of First Instance had made an error in weighing up the evidence as the premises were not present to support the exclusive guilt of the victim given the negligent behaviour of the defendant, to wit, on the one hand not being licenced to carry passengers in that class of vehicle and, on the other hand, not being insured.
+>
+> The presence of exclusive culpability on the part of the victim requires, as far as one can infer from the jurisprudence of the Supreme Court, the accident to have taken place in a way wholly involving the action of the victim and the driver of the vehicle to have absolutely nothing whatsoever to do with the cause of the loss.
+
+**E) Liability of CCS for damage caused by a stolen vehicle in a police chase.**
+
+> **Sentence no. 149/2013 of 20 September 2013, the Madrid Higher Provincial Court.**
+>
+> The ordinary appeal filed by CCS versus D. Daniel was partly admitted. D. Daniel was the driver of a stolen vehicle which caused damage to a police vehicle and bodily harm to the officers in the course of a chase.
+>
+> The sentence turns on determining the liability of CCS in events. Specifically the issue is raised of whether the injuries suffered by the officers arose as the result of a road traffic event, and consequently whether they should be assumed by CCS or, on the other hand, whether they cannot be classified as such. The Higher Provincial Court decided that the boundaries need to be established between the injuries suffered as a result of any impact caused by the vehicle (considered to be road traffic-related) and those suffered as a result of overpowering the party being pursued and the struggle involved, which it does not hold to be covered since they do not come under road traffic risk.
+
+**F) Theft of a vehicle in which the owner thereof is run over in trying to stop it.**
+
+> **Sentence no. 8/2014 of 13 March 2014, the Malaga Higher Provincial Court.**
+>
+> The question is raised in this case of whether CCS should indemnify the bodily injury to the owner of a stolen vehicle who was run over while trying to avert the theft, as well as the property damage to the vehicle stolen.
+>
+> The Court of First Instance ruled in favour of compensating the owner, both as regards the bodily injury suffered when run over, as well as the property damage to the vehicle stolen itself. On the other hand, the Higher Provincial Court overturned this decision, understanding that the vehicle owner should be indemnified for the bodily injury suffered in the theft, but that there should be no compensation for the property damage affecting the stolen vehicle.
+>
+> The reasoning behind this is based on article 11 of the LRCSCVM (Law on Road Motor Vehicle Liability and Insurance), where it determines compensation by CCS for *“damage to persons and property caused by a vehicle parked normally in Spain, which, while being insured, has been stolen”*. As a result the sentence states that this rule refers to damage caused “by” the vehicle and not “to” the vehicle itself.
+
+## 2. Sentence concerning the duties of CCS in relation to Extraordinary Risk Insurance.
+
+**A) The impact caused by a rubbish container which moved due to flooding and caused loss to a parked vehicle was held to be direct damage and consequently covered by CCS.**
+
+> **Sentence no. 18/2014 of 10 January 2014, the Seville Higher Provincial Court.**
+>
+> In this matter the ordinary appeal filed by CCS against Euro Insurance Limited S.L. was rejected. The appellant was ordered to pay the indemnity arising from a flood loss event, in which the damage caused by a rubbish container was considered to be direct when it was moved along by storm water and hit a parked vehicle.
+>
+> There is no discussion in the case about the existence of an extraordinary risk, but instead this hinges on whether to class the loss to the vehicle as direct or indirect damage. The ruling against CCS was thus based on the fact that the damage could not be considered to be indirect, and therefore not covered, as may inferred from article 6 of the Extraordinary Risk Insurance Regulations. On the other hand the Court categorizes it as direct damage, and therefore it falls within the scope of the cover provided by CCS.
+
+**B) The collapse of a home is not deemed to be an extraordinary risk, despite there having been adverse weather phenomena in the days leading up to the event.**
+
+> **Sentence no. 381/2013 of 15 November 2013, the Granada Higher Provincial Court.**
+>
+> The ordinary appeal filed by private individuals against CCS was dismissed. The crux of the legal argumentation centred on clarifying whether the collapse of the home was as a result or not of the rainfall and atypical cyclonic storm which occurred just days earlier and if this was a case of liability of CCS arising from cover under extraordinary risk insurance.
+>
+> The sentence maintains that the atmospheric factors were not the decisive cause in the loss, but instead the structural and building work-related flaws in the home noted in the expert testimony, for which reason this cannot be classed as an extraordinary risk.
+
+**C) Lorry accident from falling into a sinkhole that had opened up in the road surface. Despite the copious rainfall some days before, this is not considered to have been due to any extraordinary risk covered by CCS.**
+
+> **Sentence no. 155/2013 of 24 September 2013, the Extremadura High Court of Justice.**
+>
+> A lorry had an accident when it fell into a sinkhole that had opened up in the road surface. A sentence was passed whereby this event was held to be a case of force majeure and the City Council and the concession contract-holding company charged with the maintenance work for the urban thoroughfares and the sewerage system were cleared of liability.
+>
+> In the ordinary appeal both the City Council and the company in question claimed that the appearance of the sinkhole had been due to the exceptional rainfall over the two months prior to the loss and the notable rise in the water level of the river Guadiana, for which reason their understanding was that liability should lie with CCS.
+>
+> Nevertheless in the ruling on the appeal the applicant’s claim was adjudged to be valid, the court indicating that the case could not be classified within circumstances of force majeure since it did not meet the requirements for this as it was not unforeseeable and unpreventable. For the courtroom the adjuster’s report had proven that the poor state of the sewers was what had caused the loss-inducing outcome. The court thus argued public service liability on the part of the Administration, as the maintenance work for the urban thoroughfares and the sewerage system is the competence of the City Council and it exonerated the concession company and CCS.
+
+**D) Tree-fall onto a parked car as a result of an Atypical Cyclonic Storm.**
+
+> **Sentence no. 331/2013 of 26 September 2013, the Balearic Islands Higher Provincial Court.**
+>
+> The ordinary appeal was dismissed and the sentence by the Court of First Instance was upheld. The facts at issue and legal reasoning turn on the fall of a tree located in a garden belonging to an owners’ association onto the vehicle of the claimant as a result of an atypical cyclonic storm. The aggrieved party brought a claim in the litigation against the insurer (Liberty Seguros), the residents’ association and CCS.
+>
+> In its legal reasoning the courtroom first pointed out the absence of blame on the part of the owners’ association, since declaring a risk to be extraordinary means there is no culpability due to the existence of force majeure. The ruling stated that no liability whatsoever arises from the fact of not having taken steps to prevent a risk which, by definition in law, was unforeseeable.
+>
+> Secondly liability was adjudged on the part of the insurer Liberty Seguros, in that it did not confirm that extraordinary risk was excluded from the policy, and therefore it was not appropriate to rule against CCS, entering judgment against both of them being mutually exclusive. The requirements of article 4 of the Extraordinary Risk Insurance Regulations were not satisfied such that liability might be attributable to CCS.
