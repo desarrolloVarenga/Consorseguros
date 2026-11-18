@@ -69,5 +69,12 @@
 				<guid>http://localhost:1313/en/revistas/numero-19/rese%C3%B1a/</guid>
 				<description>Disaster Insurance Reimagined is a timely book, available in open access, written by Paula Jarzabkowski, Konstantinos Chalkias, Eugenia Cacciatori and Rebecca Bednarek, that addresses these questions on the basis of a five-year study of 17 &amp;lsquo;Protection Gap Entities&amp;rsquo; (PGEs) - not-for-profit entities that provide insurance in 49 countries.</description>
 			</item>
+			<item>
+				<title>Editors Board</title>
+				<link>http://localhost:1313/en/revistas/numero-19/consejo-editorial/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-19/consejo-editorial/</guid>
+				<description>&lt;p&gt;The Consorcio de Compensación de Seguros digital magazine “Consorseguros” (CCS) is published every six months, its content particularly addressing matters related to the Consorcio’s activities in various fields of insurance, reflecting on and analysing them.&lt;/p&gt;</description>
+			</item>
 	</channel>
 </rss>

@@ -76,5 +76,12 @@
 				<guid>http://localhost:1313/revistas/numero-9/centro_zaragoza/</guid>
 				<description>El pasado 27 de septiembre tuvo lugar la ?IV Jornada sobre Biomecánica de impactos? en el Paraninfo de la Universidad de Zaragoza. La jornada se inició con la presentación de las ponencias y los ponentes que las iban a impartir por parte de David Casademont, presidente de la entidad organizadora, el Centro Zaragoza.</description>
 			</item>
+			<item>
+				<title>Consejo Editorial</title>
+				<link>http://localhost:1313/revistas/numero-9/consejo-editorial/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-9/consejo-editorial/</guid>
+				<description>&lt;p&gt;La revista digital “Consorseguros”, del Consorcio de Compensación de Seguros (CCS), tiene periodicidad semestral. Sus contenidos están orientados especialmente al tratamiento de temas relacionados con las actividades que desarrolla el CCS en varios ámbitos del seguro, aportando sobre ellos elementos de reflexión y análisis.&lt;/p&gt;</description>
+			</item>
 	</channel>
 </rss>

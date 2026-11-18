@@ -62,5 +62,12 @@
 				<guid>http://localhost:1313/en/revistas/numero-18/lecturas/</guid>
 				<description>The growing evidence that there is something utterly wrong with the climate makes it more and more unnecessary to make efforts to convince sceptics that we are amidst a climate crisis or, as the Spanish legislation states, a climate emergency.</description>
 			</item>
+			<item>
+				<title>Editors Board</title>
+				<link>http://localhost:1313/en/revistas/numero-18/consejo-editorial/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-18/consejo-editorial/</guid>
+				<description>&lt;p&gt;The Consorcio de Compensación de Seguros digital magazine “Consorseguros” (CCS) is published every six months, its content particularly addressing matters related to the Consorcio’s activities in various fields of insurance, reflecting on and analysing them.&lt;/p&gt;</description>
+			</item>
 	</channel>
 </rss>

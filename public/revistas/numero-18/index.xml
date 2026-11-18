@@ -69,5 +69,12 @@
 				<guid>http://localhost:1313/revistas/numero-18/lecturas/</guid>
 				<description>La creciente evidencia de que al clima le está pasando algo grave hace que cada vez haga menos falta intentar convencer a los escépticos de que estamos inmersos en una crisis climática o, como establece la legislación española, en una emergencia climática.</description>
 			</item>
+			<item>
+				<title>Consejo Editorial</title>
+				<link>http://localhost:1313/revistas/numero-18/consejo-editorial/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-18/consejo-editorial/</guid>
+				<description>&lt;p&gt;La revista digital “Consorseguros”, del Consorcio de Compensación de Seguros (CCS), tiene periodicidad semestral. Sus contenidos están orientados especialmente al tratamiento de temas relacionados con las actividades que desarrolla el CCS en varios ámbitos del seguro, aportando sobre ellos elementos de reflexión y análisis.&lt;/p&gt;</description>
+			</item>
 	</channel>
 </rss>

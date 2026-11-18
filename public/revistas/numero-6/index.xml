@@ -76,5 +76,12 @@
 				<guid>http://localhost:1313/revistas/numero-6/analisis_legislacion_banca/</guid>
 				<description>Análisis del impacto del apoyo financiero público tras la crisis y del nuevo marco legislativo e institucional europeo de recuperación y resolución bancaria (BRRD, SRM, SRB y SRF).</description>
 			</item>
+			<item>
+				<title>Consejo Editorial</title>
+				<link>http://localhost:1313/revistas/numero-6/consejo-editorial/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-6/consejo-editorial/</guid>
+				<description>&lt;p&gt;La revista digital “Consorseguros”, del Consorcio de Compensación de Seguros (CCS), tiene periodicidad semestral. Sus contenidos están orientados especialmente al tratamiento de temas relacionados con las actividades que desarrolla el CCS en varios ámbitos del seguro, aportando sobre ellos elementos de reflexión y análisis.&lt;/p&gt;</description>
+			</item>
 	</channel>
 </rss>

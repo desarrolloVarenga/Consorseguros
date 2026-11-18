@@ -83,5 +83,12 @@
 				<guid>http://localhost:1313/revistas/numero-17/aon/</guid>
 				<description>El Barómetro de Catástrofes 2021 es el primer informe en España que cuantifica y analiza los desastres naturales más relevantes ocurridos en nuestro país en el año anterior: sus causas, su naturaleza, las consecuencias en términos de vidas humanas, los daños materiales y los costes para las instituciones y el sector asegurador, incluyendo índices y métricas de resiliencia y vulnerabilidad social.</description>
 			</item>
+			<item>
+				<title>Consejo Editorial</title>
+				<link>http://localhost:1313/revistas/numero-17/consejo-editorial/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-17/consejo-editorial/</guid>
+				<description>&lt;p&gt;La revista digital “Consorseguros”, del Consorcio de Compensación de Seguros (CCS), tiene periodicidad semestral. Sus contenidos están orientados especialmente al tratamiento de temas relacionados con las actividades que desarrolla el CCS en varios ámbitos del seguro, aportando sobre ellos elementos de reflexión y análisis.&lt;/p&gt;</description>
+			</item>
 	</channel>
 </rss>

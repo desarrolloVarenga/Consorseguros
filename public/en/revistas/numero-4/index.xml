@@ -83,5 +83,12 @@
 				<guid>http://localhost:1313/en/revistas/numero-4/agers/</guid>
 				<description>Review of the Natural Disasters Handbook published by AGERS (presented on 2 December 2015), focusing on risk management and the role of the Consorcio de Compensación de Seguros in Spain.</description>
 			</item>
+			<item>
+				<title>Editors Board</title>
+				<link>http://localhost:1313/en/revistas/numero-4/consejo-editorial/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-4/consejo-editorial/</guid>
+				<description>&lt;p&gt;The Consorcio de Compensación de Seguros digital magazine “Consorseguros” (CCS) is published every six months, its content particularly addressing matters related to the Consorcio’s activities in various fields of insurance, reflecting on and analysing them.&lt;/p&gt;</description>
+			</item>
 	</channel>
 </rss>

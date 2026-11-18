@@ -76,5 +76,12 @@
 				<guid>http://localhost:1313/en/revistas/numero-6/analisis_legislacion_banca/</guid>
 				<description>Analysis of public financial support following the financial crisis and the new European legislative and institutional framework for bank recovery and resolution (BRRD, SRM, SRB, and SRF).</description>
 			</item>
+			<item>
+				<title>Editors Board</title>
+				<link>http://localhost:1313/en/revistas/numero-6/consejo-editorial/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-6/consejo-editorial/</guid>
+				<description>&lt;p&gt;The Consorcio de Compensación de Seguros digital magazine “Consorseguros” (CCS) is published every six months, its content particularly addressing matters related to the Consorcio’s activities in various fields of insurance, reflecting on and analysing them.&lt;/p&gt;</description>
+			</item>
 	</channel>
 </rss>

@@ -62,5 +62,12 @@
 				<guid>http://localhost:1313/en/revistas/numero-22/fsfc/</guid>
 				<description>Los sistemas agroalimentarios enfrentan riesgos múltiples, simultáneos y cada vez más interconectados, que superan la capacidad de los modelos tradicionales de asistencia y financiamiento. El desafío es garantizar que el sistema siga funcionando cuando todo lo demás falla: que las cosechas lleguen a los mercados, que los ingresos rurales no se derrumben y que el acceso a alimentos no se interrumpa ante cada shock.</description>
 			</item>
+			<item>
+				<title>Editors Board</title>
+				<link>http://localhost:1313/en/revistas/numero-22/consejo-editorial/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-22/consejo-editorial/</guid>
+				<description>&lt;p&gt;The Consorcio de Compensación de Seguros digital magazine “Consorseguros” (CCS) is published every six months, its content particularly addressing matters related to the Consorcio’s activities in various fields of insurance, reflecting on and analysing them.&lt;/p&gt;</description>
+			</item>
 	</channel>
 </rss>

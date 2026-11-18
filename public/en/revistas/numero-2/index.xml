@@ -69,5 +69,12 @@
 				<guid>http://localhost:1313/en/revistas/numero-2/actualidad/</guid>
 				<description>Overview of key 2015 legislative and regulatory developments impacting the insurance sector and the Consorcio de Compensación de Seguros —including the Draft Law on the Regulation, Supervision and Solvency of Insurance and Reinsurance Companies, the Penal Code reform (Organic Law 1/2015), and the new personal injury assessment scale for traffic accidents— alongside the announcement of the Third World Conference of IFIGS in Madrid.</description>
 			</item>
+			<item>
+				<title>Editors Board</title>
+				<link>http://localhost:1313/en/revistas/numero-2/consejo-editorial/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-2/consejo-editorial/</guid>
+				<description>&lt;p&gt;The Consorcio de Compensación de Seguros digital magazine “Consorseguros” (CCS) is published every six months, its content particularly addressing matters related to the Consorcio’s activities in various fields of insurance, reflecting on and analysing them.&lt;/p&gt;</description>
+			</item>
 	</channel>
 </rss>

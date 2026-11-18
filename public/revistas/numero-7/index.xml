@@ -83,5 +83,12 @@
 				<guid>http://localhost:1313/revistas/numero-7/guia/</guid>
 				<description>Presentación de la Guía para la reducción de la vulnerabilidad de los edificios frente a las inundaciones, elaborada en el marco del convenio entre el Consorcio de Compensación de Seguros y la Dirección General del Agua.</description>
 			</item>
+			<item>
+				<title>Consejo Editorial</title>
+				<link>http://localhost:1313/revistas/numero-7/consejo-editorial/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-7/consejo-editorial/</guid>
+				<description>&lt;p&gt;La revista digital “Consorseguros”, del Consorcio de Compensación de Seguros (CCS), tiene periodicidad semestral. Sus contenidos están orientados especialmente al tratamiento de temas relacionados con las actividades que desarrolla el CCS en varios ámbitos del seguro, aportando sobre ellos elementos de reflexión y análisis.&lt;/p&gt;</description>
+			</item>
 	</channel>
 </rss>

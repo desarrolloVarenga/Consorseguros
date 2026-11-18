@@ -1,0 +1,50 @@
+{{ define "main" }}
+
+<!-- Misma barra de navegación del número -->
+{{ partial "issue-nav.html" . }}
+
+<div class="container consejo-container">
+  
+  <!-- Título principal en rojo -->
+  <h1 class="consejo-main-title">{{ .Title }}</h1>
+
+  <!-- Bloque Presidenta / Presidente -->
+  {{ with .Params.presidenta }}
+  <section class="consejo-section">
+    <h2 class="consejo-subtitle">{{ $.Params.presidenta_titulo | default "Presidenta" }}</h2>
+    <div class="consejo-person">
+      <strong>{{ .nombre }}</strong>
+      {{ range .cargos }}
+        <p>{{ . }}</p>
+      {{ end }}
+    </div>
+  </section>
+  {{ end }}
+
+  <hr class="consejo-divider">
+
+  <!-- Bloque Miembros en cuadrícula de 3 columnas -->
+  {{ with .Params.miembros }}
+  <section class="consejo-section">
+    <h2 class="consejo-subtitle">{{ if eq $.Lang "en" }}Members{{ else }}Miembros{{ end }}</h2>
+    
+    <div class="miembros-grid">
+      {{ range . }}
+      <div class="consejo-person">
+        <strong>{{ .nombre }}</strong>
+        <p>{{ .cargo }}</p>
+      </div>
+      {{ end }}
+    </div>
+  </section>
+  {{ end }}
+
+  <hr class="consejo-divider">
+
+  <!-- Texto descriptivo inferior (el cuerpo del .md) -->
+  <footer class="consejo-footer-text">
+    {{ .Content }}
+  </footer>
+
+</div>
+{{ end }}

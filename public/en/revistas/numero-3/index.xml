@@ -69,5 +69,12 @@
 				<guid>http://localhost:1313/en/revistas/numero-3/actualidad/</guid>
 				<description>Report on the participation of the Consorcio de Compensación de Seguros in the Tenth Conference of the World Forum of Catastrophe Programmes (WFCP), held in Paris in September 2015, featuring presentations on FLOOD RE and African Risk Capacity.</description>
 			</item>
+			<item>
+				<title>Editors Board</title>
+				<link>http://localhost:1313/en/revistas/numero-3/consejo-editorial/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-3/consejo-editorial/</guid>
+				<description>&lt;p&gt;The Consorcio de Compensación de Seguros digital magazine “Consorseguros” (CCS) is published every six months, its content particularly addressing matters related to the Consorcio’s activities in various fields of insurance, reflecting on and analysing them.&lt;/p&gt;</description>
+			</item>
 	</channel>
 </rss>

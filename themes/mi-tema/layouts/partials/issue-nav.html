@@ -1,6 +1,6 @@
 {{ $revista := . }}
 {{ if .IsPage }}
-  {{ $revista = .Parent }}
+{{ $revista = .Parent }}
 {{ end }}
 
 <!-- Definir textos y orden de categorías según el idioma -->
@@ -11,57 +11,57 @@
 {{ $ordenCategorias := slice "EDITORIAL" "ANÁLISIS" "COLABORACIONES" "RESEÑAS" "ACTUALIDAD CCS" }}
 
 {{ if eq .Lang "en" }}
-  {{ $txtPortada = "COVER" }}
-  {{ $txtSumario = "CONTENTS" }}
-  {{ $txtBuscador = "SEARCH" }}
-  {{ $txtConsejo = "EDITORIAL BOARD" }}
-  <!-- Ajusta estos nombres exactamente a los que pongas en el "category" de tus .md en inglés -->
-  {{ $ordenCategorias = slice "EDITORIAL" "ANALYSIS" "CONTRIBUTIONS" "REVIEWS" "CCS NEWS" }}
+{{ $txtPortada = "COVER" }}
+{{ $txtSumario = "CONTENTS" }}
+{{ $txtBuscador = "SEARCH" }}
+{{ $txtConsejo = "EDITORIAL BOARD" }}
+<!-- Ajusta estos nombres exactamente a los que pongas en el "category" de tus .md en inglés -->
+{{ $ordenCategorias = slice "EDITORIAL" "ANALYSIS" "CONTRIBUTIONS" "REVIEWS" "CCS NEWS" }}
 {{ end }}
 
 <nav class="issue-nav-bar">
   <div class="container issue-nav-container">
     <div class="issue-nav-links">
       <a href="{{ $revista.RelPermalink }}">{{ $txtPortada }}</a>
-      
+
       <div class="sumario-dropdown">
         <a href="{{ $revista.RelPermalink }}#sumario" class="sumario-trigger">
           {{ $txtSumario }} <span class="chevron">&#8964;</span>
         </a>
-        
+
         <div class="mega-menu-panel">
           <div class="container mega-menu-grid">
-            
+
             {{ $articulosPorCat := $revista.Pages.GroupByParam "category" }}
 
             <!-- 1. Pintar las categorías en el orden oficial del idioma -->
             {{ range $catNombre := $ordenCategorias }}
-              {{ range $articulosPorCat }}
-                {{ if eq (upper .Key) $catNombre }}
-                  <div class="mega-menu-col">
-                    <h4 class="mega-menu-title">{{ .Key }}</h4>
-                    <ul class="mega-menu-list">
-                      {{ range .Pages.ByWeight }}
-                        <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
-                      {{ end }}
-                    </ul>
-                  </div>
+            {{ range $articulosPorCat }}
+            {{ if eq (upper .Key) $catNombre }}
+            <div class="mega-menu-col">
+              <h4 class="mega-menu-title">{{ .Key }}</h4>
+              <ul class="mega-menu-list">
+                {{ range .Pages.ByWeight }}
+                <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
                 {{ end }}
-              {{ end }}
+              </ul>
+            </div>
+            {{ end }}
+            {{ end }}
             {{ end }}
 
             <!-- 2. Categorías extra -->
             {{ range $articulosPorCat }}
-              {{ if not (in $ordenCategorias (upper .Key)) }}
-                <div class="mega-menu-col">
-                  <h4 class="mega-menu-title">{{ .Key }}</h4>
-                  <ul class="mega-menu-list">
-                    {{ range .Pages.ByWeight }}
-                      <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
-                    {{ end }}
-                  </ul>
-                </div>
-              {{ end }}
+            {{ if not (in $ordenCategorias (upper .Key)) }}
+            <div class="mega-menu-col">
+              <h4 class="mega-menu-title">{{ .Key }}</h4>
+              <ul class="mega-menu-list">
+                {{ range .Pages.ByWeight }}
+                <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+                {{ end }}
+              </ul>
+            </div>
+            {{ end }}
             {{ end }}
 
           </div>
@@ -69,7 +69,7 @@
       </div>
 
       <a href="#">{{ $txtBuscador }}</a>
-      <a href="#">{{ $txtConsejo }}</a>
+      <a href="{{ $revista.RelPermalink }}consejo-editorial/">{{ $txtConsejo }}</a>
     </div>
   </div>
 </nav>

@@ -76,5 +76,12 @@
 				<guid>http://localhost:1313/revistas/numero-11/comparativa/</guid>
 				<description>La situación que motiva este estudio, y este número de la revista Consorseguros, es el episodio de inundación producida por la DANA que afectó, principalmente, al cuadrante suroriental peninsular entre el 10 y el 15 de septiembre de 2019. Se trata de la siniestralidad por inundación con mayor número de tramitaciones en la historia del CCS.</description>
 			</item>
+			<item>
+				<title>Consejo Editorial</title>
+				<link>http://localhost:1313/revistas/numero-11/consejo-editorial/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/revistas/numero-11/consejo-editorial/</guid>
+				<description>&lt;p&gt;La revista digital “Consorseguros”, del Consorcio de Compensación de Seguros (CCS), tiene periodicidad semestral. Sus contenidos están orientados especialmente al tratamiento de temas relacionados con las actividades que desarrolla el CCS en varios ámbitos del seguro, aportando sobre ellos elementos de reflexión y análisis.&lt;/p&gt;</description>
+			</item>
 	</channel>
 </rss>

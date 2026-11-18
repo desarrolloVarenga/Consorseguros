@@ -76,5 +76,12 @@
 				<guid>http://localhost:1313/en/revistas/numero-12/viviendo/</guid>
 				<description>There is a more or less apocryphal legend which suggests that the ironic aphorism &amp;lsquo;may you live in interesting times&amp;rsquo; originates from a 17th century Chinese curse. Whatever its source, the fact is that the present at the Consorcio de Compensación de Seguros (CCS), both for the institution and those who are part of it, has been an almost continuous stream of &amp;lsquo;interesting times&amp;rsquo; over the past few months.</description>
 			</item>
+			<item>
+				<title>Editors Board</title>
+				<link>http://localhost:1313/en/revistas/numero-12/consejo-editorial/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/revistas/numero-12/consejo-editorial/</guid>
+				<description>&lt;p&gt;The Consorcio de Compensación de Seguros digital magazine “Consorseguros” (CCS) is published every six months, its content particularly addressing matters related to the Consorcio’s activities in various fields of insurance, reflecting on and analysing them.&lt;/p&gt;</description>
+			</item>
 	</channel>
 </rss>
