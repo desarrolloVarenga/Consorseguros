@@ -1466,4 +1466,16 @@ h3 {
     gap: 16px;
   }
 }
+.link-buscador-simple {
+  color: #333333;
+  text-decoration: none;
+  font-size: 0.95rem;
+  font-weight: 300;
+  letter-spacing: 0.5px;
+  text-transform: uppercase;
+  transition: color 0.2s;
+}
+.link-buscador-simple:hover {
+  color: #9e0b22;
+}
 /*# sourceMappingURL=style.css.map */

@@ -81,11 +81,24 @@
         <img src="/images/logo_Consorseguros.png" alt="{{ .Site.Title }}">
       </a>
     </div>
+
     <div class="header-actions">
-      <span>{{ if eq .Language.Lang "en" }}Previous issues{{ else }}Revistas anteriores{{ end }}</span>
-      <a href="{{ "/revistas/" | relLangURL }}" class="btn-primary">
-        {{ if eq .Language.Lang "en" }}View all issues{{ else }}Ver todos los números{{ end }}
-      </a>
+      {{ if and (eq .Section "revistas") .Parent.IsHome }}
+        <!-- Solo en el listado general /revistas/ -->
+        {{ $urlBuscador := "/buscador/" | relLangURL }}
+        {{ if eq .Language.Lang "en" }}
+          {{ $urlBuscador = "/search/" | relLangURL }}
+        {{ end }}
+        <a href="{{ $urlBuscador }}" class="link-buscador-simple">
+          {{ if eq .Language.Lang "en" }}CONTENT SEARCH{{ else }}BUSCADOR DE CONTENIDOS{{ end }}
+        </a>
+      {{ else }}
+        <!-- En el resto de páginas de la web -->
+        <span>{{ if eq .Language.Lang "en" }}Previous issues{{ else }}Revistas anteriores{{ end }}</span>
+        <a href="{{ "/revistas/" | relLangURL }}" class="btn-primary">
+          {{ if eq .Language.Lang "en" }}View all issues{{ else }}Ver todos los números{{ end }}
+        </a>
+      {{ end }}
     </div>
   </div>
 </header>
