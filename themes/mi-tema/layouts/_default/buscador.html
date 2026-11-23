@@ -1,0 +1,186 @@
+{{ define "main" }}
+
+{{ $lblTexto := "Introduce texto a buscar:" }}
+{{ $lblSecciones := "Secciones:" }}
+{{ $optTodas := "Todas" }}
+{{ $lblNumeros := "Números:" }}
+{{ $optTodosNumeros := "Todos los números" }}
+{{ $btnBuscar := "Buscar" }}
+{{ $txtSinResultados := "No se han encontrado resultados." }}
+{{ $txtSubir := "SUBIR" }}
+{{ $categorias := slice "Editorial" "Análisis" "Colaboraciones" "Reseñas" "Actualidad" "Jurisprudencia" }}
+
+{{ if eq .Lang "en" }}
+  {{ $lblTexto = "Enter text to search:" }}
+  {{ $lblSecciones = "Sections:" }}
+  {{ $optTodas = "All" }}
+  {{ $lblNumeros = "Issues:" }}
+  {{ $optTodosNumeros = "All issues" }}
+  {{ $btnBuscar = "Search" }}
+  {{ $txtSinResultados = "No results found." }}
+  {{ $txtSubir = "TOP" }}
+  {{ $categorias = slice "Editorial" "Analysis" "Contributions" "Reviews" "News" "Case Law" }}
+{{ end }}
+
+<!-- Ajusta "revistas" si tu carpeta principal de números se llama distinto -->
+{{ $seccionRevistas := .Site.GetPage "section" "revistas" }}
+
+<div class="buscador-page-wrapper">
+  <div class="container buscador-container">
+    
+    <h1 class="buscador-main-title">{{ .Title }}</h1>
+
+    <form id="contentSearchForm" class="buscador-form">
+      
+      <!-- Campo de texto -->
+      <div class="form-group">
+        <label for="searchText">{{ $lblTexto }}</label>
+        <input type="text" id="searchText" name="q" autocomplete="off">
+      </div>
+
+      <!-- Dos columnas de filtros -->
+      <div class="filters-row">
+        
+        <!-- Filtro 1: Secciones -->
+        <div class="form-group">
+          <label for="searchSection">{{ $lblSecciones }}</label>
+          <select id="searchSection" name="section">
+            <option value="">{{ $optTodas }}</option>
+            {{ range $categorias }}
+              <option value="{{ lower . }}">{{ . }}</option>
+            {{ end }}
+          </select>
+        </div>
+
+        <!-- Filtro 2: Números -->
+        <div class="form-group">
+          <label for="searchIssue">{{ $lblNumeros }}</label>
+          <select id="searchIssue" name="issue">
+            <option value="">{{ $optTodosNumeros }}</option>
+            {{ with $seccionRevistas }}
+              {{ range .Sections.ByDate }}
+                <option value="{{ .RelPermalink }}">{{ .Title }}</option>
+              {{ end }}
+            {{ end }}
+          </select>
+        </div>
+
+      </div>
+
+      <!-- Botón Buscar -->
+      <div class="form-actions">
+        <button type="submit" class="btn-buscar">{{ $btnBuscar }}</button>
+      </div>
+
+    </form>
+
+    <!-- Bloque de resultados (oculto hasta pulsar Buscar) -->
+    <div id="searchResultsWrapper" class="search-results-wrapper" style="display: none;">
+      <hr class="search-divider">
+      
+      <div id="searchResultsList" class="search-results-list"></div>
+
+      <div class="search-back-top">
+        <a href="#">{{ $txtSubir }} <span class="up-circle">&#8593;</span></a>
+      </div>
+    </div>
+
+  </div>
+</div>
+
+<script>
+document.addEventListener('DOMContentLoaded', async function() {
+  const form = document.getElementById('contentSearchForm');
+  const textInput = document.getElementById('searchText');
+  const sectionSelect = document.getElementById('searchSection');
+  const issueSelect = document.getElementById('searchIssue');
+  const resultsWrapper = document.getElementById('searchResultsWrapper');
+  const resultsList = document.getElementById('searchResultsList');
+
+  const jsonUrl = '{{ "index.json" | relLangURL }}';
+  const txtSinResultados = '{{ $txtSinResultados }}';
+  let indexData = [];
+
+  try {
+    const res = await fetch(jsonUrl);
+    indexData = await res.json();
+  } catch (e) {
+    console.error('Error cargando index.json:', e);
+  }
+
+  function normalizar(texto) {
+    if (!texto) return '';
+    return String(texto)
+      .toLowerCase()
+      .normalize("NFD")
+      .replace(/[\u0300-\u036f]/g, "");
+  }
+
+  function ejecutarBusqueda() {
+    const query = normalizar(textInput.value.trim());
+    const selectedSection = normalizar(sectionSelect.value.trim());
+    const selectedIssue = issueSelect.value.trim();
+
+    if (!query && !selectedSection && !selectedIssue) {
+      resultsWrapper.style.display = 'none';
+      resultsList.innerHTML = '';
+      return;
+    }
+
+    const filtrados = indexData.filter(item => {
+      // 1. Texto en título, contenido o autores (soporta string o array)
+      let matchText = true;
+      if (query) {
+        const inTitle = normalizar(item.title).includes(query);
+        const inContent = normalizar(item.content).includes(query);
+        const authorsStr = Array.isArray(item.authors) 
+          ? item.authors.map(a => (a && typeof a === 'object') ? a.name : a).join(' ')
+          : (item.authors || '');
+        const inAuthors = normalizar(authorsStr).includes(query);
+        
+        matchText = inTitle || inContent || inAuthors;
+      }
+
+      // 2. Sección
+      let matchSection = true;
+      if (selectedSection) {
+        const catStr = Array.isArray(item.category) ? item.category.join(' ') : item.category;
+        matchSection = normalizar(catStr).includes(selectedSection);
+      }
+
+      // 3. Número
+      let matchIssue = true;
+      if (selectedIssue) {
+        matchIssue = item.issueLink === selectedIssue;
+      }
+
+      return matchText && matchSection && matchIssue;
+    });
+
+    resultsWrapper.style.display = 'block';
+
+    if (filtrados.length === 0) {
+      resultsList.innerHTML = `<p class="no-results-msg">${txtSinResultados}</p>`;
+      return;
+    }
+
+    resultsList.innerHTML = filtrados.map(item => `
+      <article class="search-result-item">
+        <h2 class="result-item-title">
+          <a href="${item.permalink}">${item.title}</a>
+        </h2>
+        <div class="result-item-badges">
+          <span class="badge-tag"><span class="badge-dot">&#8857;</span> ${item.category}</span>
+          <span class="badge-tag">${item.issue}</span>
+        </div>
+      </article>
+    `).join('');
+  }
+
+  form.addEventListener('submit', function(e) {
+    e.preventDefault();
+    ejecutarBusqueda();
+  });
+});
+</script>
+{{ end }}

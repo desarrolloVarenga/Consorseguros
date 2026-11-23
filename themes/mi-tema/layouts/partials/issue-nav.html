@@ -68,7 +68,7 @@
         </div>
       </div>
 
-      <a href="#">{{ $txtBuscador }}</a>
+      <a href="{{ if eq .Lang "en" }}{{ "search/" | relLangURL }}{{ else }}{{ "buscador/" | relLangURL }}{{ end }}">{{ $txtBuscador }}</a>
       <a href="{{ $revista.RelPermalink }}consejo-editorial/">{{ $txtConsejo }}</a>
     </div>
   </div>

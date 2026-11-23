@@ -1,0 +1,366 @@
+<!DOCTYPE html>
+<html lang="es">
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+  
+    <link rel="stylesheet" href="/css/style.css">
+</head>
+<body>
+  <header class="site-header">
+  
+  <div class="top-bar">
+    <div class="container">
+      <nav class="top-nav">
+        
+        
+        <div class="subscription-dropdown-container">
+          <button id="sub-toggle-btn" class="sub-toggle-btn">
+            Suscripción
+          </button>
+          
+          
+          <div id="sub-dropdown-menu" class="sub-dropdown-menu">
+            <p class="sub-intro">
+              Envíanos tu mail y te informaremos puntualmente de la publicación de nuevos números
+            </p>
+            
+            <form action="#" method="POST" class="sub-form">
+              <div class="form-group">
+                <label for="sub-nombre">Nombre</label>
+                <input type="text" id="sub-nombre" name="nombre">
+              </div>
+
+              <div class="form-group">
+                <label for="sub-apellidos">Apellidos</label>
+                <input type="text" id="sub-apellidos" name="apellidos">
+              </div>
+
+              <div class="form-group">
+                <label for="sub-email">Email *</label>
+                <input type="email" id="sub-email" name="email" required>
+              </div>
+
+              <div class="form-checkbox">
+                <input type="checkbox" id="sub-privacy" required>
+                <label for="sub-privacy">
+                  
+                    He leído y acepto el <a href="/aviso-legal/">aviso legal</a> y la <a href="/politica-privacidad/">política de privacidad</a>.
+                  
+                </label>
+              </div>
+
+              <p class="legal-text">
+                En cumplimiento de la normativa vigente en materia de protección de datos personales...
+              </p>
+
+              <button type="submit" class="btn-submit">
+                Suscribirse
+              </button>
+            </form>
+          </div>
+        </div>
+
+        
+        <a href="/contacto/">&gt; Contacto</a>
+        
+        
+        
+          
+            <a href="/en/search/">&gt; English</a>
+          
+        
+
+      </nav>
+    </div>
+  </div>
+
+  
+  <div class="main-header container">
+    <div class="logo">
+      <a href="/">
+        <img src="/images/logo_Consorseguros.png" alt="My New Hugo Project">
+      </a>
+    </div>
+    <div class="header-actions">
+      <span>Revistas anteriores</span>
+      <a href="/revistas/" class="btn-primary">
+        Ver todos los números
+      </a>
+    </div>
+  </div>
+</header>
+
+  <main>
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="buscador-page-wrapper">
+  <div class="container buscador-container">
+    
+    <h1 class="buscador-main-title">Buscador de contenidos</h1>
+
+    <form id="contentSearchForm" class="buscador-form">
+      
+      
+      <div class="form-group">
+        <label for="searchText">Introduce texto a buscar:</label>
+        <input type="text" id="searchText" name="q" autocomplete="off">
+      </div>
+
+      
+      <div class="filters-row">
+        
+        
+        <div class="form-group">
+          <label for="searchSection">Secciones:</label>
+          <select id="searchSection" name="section">
+            <option value="">Todas</option>
+            
+              <option value="editorial">Editorial</option>
+            
+              <option value="análisis">Análisis</option>
+            
+              <option value="colaboraciones">Colaboraciones</option>
+            
+              <option value="reseñas">Reseñas</option>
+            
+              <option value="actualidad">Actualidad</option>
+            
+              <option value="jurisprudencia">Jurisprudencia</option>
+            
+          </select>
+        </div>
+
+        
+        <div class="form-group">
+          <label for="searchIssue">Números:</label>
+          <select id="searchIssue" name="issue">
+            <option value="">Todos los números</option>
+            
+              
+                <option value="/revistas/numero-1/">Nº 1 Septiembre 2014</option>
+              
+                <option value="/revistas/numero-2/">Nº 2 Abril 2015</option>
+              
+                <option value="/revistas/numero-3/">Nº 3 Octubre 2015</option>
+              
+                <option value="/revistas/numero-4/">Nº 4 Abril 2016</option>
+              
+                <option value="/revistas/numero-5/">Nº 5 Octubre 2016</option>
+              
+                <option value="/revistas/numero-6/">Nº 6 Mayo 2017</option>
+              
+                <option value="/revistas/numero-7/">Nº 7 Otoño 2017</option>
+              
+                <option value="/revistas/numero-8/">Nº 8 Primavera 2018</option>
+              
+                <option value="/revistas/numero-9/">Nº 9 Otoño 2018</option>
+              
+                <option value="/revistas/numero-10/">Nº 10 Primavera 2019</option>
+              
+                <option value="/revistas/numero-11/">Nº 11 Otoño 2019</option>
+              
+                <option value="/revistas/numero-12/">Nº 12 Primavera 2020</option>
+              
+                <option value="/revistas/numero-13/">Nº 13 Otoño 2020</option>
+              
+                <option value="/revistas/numero-14/">Nº 14 Primavera 2021</option>
+              
+                <option value="/revistas/numero-15/">Nº 15 Otoño 2021</option>
+              
+                <option value="/revistas/numero-16/">Nº 16 Primavera 2022</option>
+              
+                <option value="/revistas/numero-17/">Nº 17 Otoño 2022</option>
+              
+                <option value="/revistas/numero-18/">Nº 18 Primavera 2023</option>
+              
+                <option value="/revistas/numero-19/">Nº 19 Otoño 2023</option>
+              
+                <option value="/revistas/numero-20/">Nº 20 Primavera 2024</option>
+              
+                <option value="/revistas/numero-21/">Nº 21 Autumn 2024</option>
+              
+                <option value="/revistas/numero-22/">Nº 22 Primavera 2025</option>
+              
+                <option value="/revistas/numero-23/">Nº 23 Otoño 2025</option>
+              
+                <option value="/revistas/numero-24/">Nº 24 Primavera 2026</option>
+              
+            
+          </select>
+        </div>
+
+      </div>
+
+      
+      <div class="form-actions">
+        <button type="submit" class="btn-buscar">Buscar</button>
+      </div>
+
+    </form>
+
+    
+    <div id="searchResultsWrapper" class="search-results-wrapper" style="display: none;">
+      <hr class="search-divider">
+      
+      <div id="searchResultsList" class="search-results-list"></div>
+
+      <div class="search-back-top">
+        <a href="#">SUBIR <span class="up-circle">&#8593;</span></a>
+      </div>
+    </div>
+
+  </div>
+</div>
+
+<script>
+document.addEventListener('DOMContentLoaded', async function() {
+  const form = document.getElementById('contentSearchForm');
+  const textInput = document.getElementById('searchText');
+  const sectionSelect = document.getElementById('searchSection');
+  const issueSelect = document.getElementById('searchIssue');
+  const resultsWrapper = document.getElementById('searchResultsWrapper');
+  const resultsList = document.getElementById('searchResultsList');
+
+  const jsonUrl = '\/index.json';
+  const txtSinResultados = 'No se han encontrado resultados.';
+  let indexData = [];
+
+  try {
+    const res = await fetch(jsonUrl);
+    indexData = await res.json();
+  } catch (e) {
+    console.error('Error cargando index.json:', e);
+  }
+
+  function normalizar(texto) {
+    if (!texto) return '';
+    return String(texto)
+      .toLowerCase()
+      .normalize("NFD")
+      .replace(/[\u0300-\u036f]/g, "");
+  }
+
+  function ejecutarBusqueda() {
+    const query = normalizar(textInput.value.trim());
+    const selectedSection = normalizar(sectionSelect.value.trim());
+    const selectedIssue = issueSelect.value.trim();
+
+    if (!query && !selectedSection && !selectedIssue) {
+      resultsWrapper.style.display = 'none';
+      resultsList.innerHTML = '';
+      return;
+    }
+
+    const filtrados = indexData.filter(item => {
+      
+      let matchText = true;
+      if (query) {
+        const inTitle = normalizar(item.title).includes(query);
+        const inContent = normalizar(item.content).includes(query);
+        const authorsStr = Array.isArray(item.authors) 
+          ? item.authors.map(a => (a && typeof a === 'object') ? a.name : a).join(' ')
+          : (item.authors || '');
+        const inAuthors = normalizar(authorsStr).includes(query);
+        
+        matchText = inTitle || inContent || inAuthors;
+      }
+
+      
+      let matchSection = true;
+      if (selectedSection) {
+        const catStr = Array.isArray(item.category) ? item.category.join(' ') : item.category;
+        matchSection = normalizar(catStr).includes(selectedSection);
+      }
+
+      
+      let matchIssue = true;
+      if (selectedIssue) {
+        matchIssue = item.issueLink === selectedIssue;
+      }
+
+      return matchText && matchSection && matchIssue;
+    });
+
+    resultsWrapper.style.display = 'block';
+
+    if (filtrados.length === 0) {
+      resultsList.innerHTML = `<p class="no-results-msg">${txtSinResultados}</p>`;
+      return;
+    }
+
+    resultsList.innerHTML = filtrados.map(item => `
+      <article class="search-result-item">
+        <h2 class="result-item-title">
+          <a href="${item.permalink}">${item.title}</a>
+        </h2>
+        <div class="result-item-badges">
+          <span class="badge-tag"><span class="badge-dot">&#8857;</span> ${item.category}</span>
+          <span class="badge-tag">${item.issue}</span>
+        </div>
+      </article>
+    `).join('');
+  }
+
+  form.addEventListener('submit', function(e) {
+    e.preventDefault();
+    ejecutarBusqueda();
+  });
+});
+</script>
+
+  </main>
+
+  <footer class="site-footer">
+    <div class="container footer-content">
+        <div class="footer-left">
+            <img src="/images/logo_CCS.png" alt="Consorcio de Compensación de Seguros" class="footer-logo">
+            <ul class="footer-links">
+                <li><a href="#">Aviso Legal</a></li>
+                <li><a href="#">Política de Privacidad</a></li>
+                <li><a href="#">Política de Cookies</a></li>
+                <li><a href="#">Accesibilidad</a></li>
+            </ul>
+            <p class="copyright">© CONSORCIO DE COMPENSACIÓN DE SEGUROS E.P.E.</p>
+        </div>
+        <div class="footer-right">
+            <img src="/images/gob.png" alt="Gobierno de España" class="gov-logo">
+        </div>
+    </div>
+    <script>
+  document.addEventListener("DOMContentLoaded", function () {
+    const toggleBtn = document.getElementById("sub-toggle-btn");
+    const dropdownMenu = document.getElementById("sub-dropdown-menu");
+
+    if (toggleBtn && dropdownMenu) {
+      toggleBtn.addEventListener("click", function (e) {
+        e.stopPropagation();
+        dropdownMenu.classList.toggle("active");
+      });
+
+      dropdownMenu.addEventListener("click", function (e) {
+        e.stopPropagation();
+      });
+
+      document.addEventListener("click", function () {
+        dropdownMenu.classList.remove("active");
+      });
+    }
+  });
+</script>
+</footer>
+</body>
+</html>

@@ -15,3 +15,6 @@ defaultContentLanguageInSubdir = false
     languageName = "English"
     languageCode = "en-US"
     weight = 2
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
