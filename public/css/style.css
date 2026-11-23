@@ -1478,4 +1478,24 @@ h3 {
 .link-buscador-simple:hover {
   color: #9e0b22;
 }
+.top-bar-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.issue-badge-link {
+  color: #ffffff;
+  text-decoration: none;
+  display: inline-flex;
+  align-items: baseline;
+  gap: 14px;
+  font-size: 0.95rem;
+}
+.issue-number {
+  font-weight: 700;
+  font-size: 1.05rem;
+}
+.issue-season {
+  font-weight: 600;
+}
 /*# sourceMappingURL=style.css.map */

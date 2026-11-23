@@ -1,7 +1,24 @@
 <header class="site-header">
   <!-- Topbar Roja -->
   <div class="top-bar">
-    <div class="container">
+    <div class="container top-bar-container">
+      
+      <!-- Identificador de revista (solo dentro de un número concreto o sus artículos) -->
+      <div class="top-bar-issue">
+        {{ if and (eq .Section "revistas") (not .Parent.IsHome) }}
+          {{ $revista := . }}
+          {{ if .IsPage }}
+            {{ $revista = .Parent }}
+          {{ end }}
+          <a href="{{ $revista.RelPermalink }}" class="issue-badge-link">
+            <span class="issue-number">{{ $revista.Title }}</span>
+            {{ with $revista.Params.subtitle }}
+              <span class="issue-season">{{ . }}</span>
+            {{ end }}
+          </a>
+        {{ end }}
+      </div>
+
       <nav class="top-nav">
         
         <!-- Contenedor Suscripción -->
