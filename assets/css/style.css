@@ -1835,3 +1835,31 @@ h3 {
 .issue-season {
   font-weight: 600;
 }
+
+/* Enlaces dentro del desplegable de suscripción (sobre fondo claro) */
+.sub-dropdown-menu a {
+  color: #9e0b22;
+  text-decoration: underline;
+}
+
+/* Asegurar que los enlaces de reCAPTCHA se vean bien y no queden blancos */
+.recaptcha-text,
+.recaptcha-text a {
+  color: #666666 !important;
+  font-size: 0.75rem;
+  line-height: 1.4;
+}
+
+/* Separación y legibilidad de los textos legales */
+.legal-text {
+  color: #555555;
+  font-size: 0.78rem;
+  line-height: 1.45;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.recaptcha-text {
+  margin-top: 8px;
+  margin-bottom: 14px;
+}

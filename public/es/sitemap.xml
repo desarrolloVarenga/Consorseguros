@@ -2970,6 +2970,18 @@
                 href="http://localhost:1313/en/"
                 />
   </url><url>
+    <loc>http://localhost:1313/aviso-legal/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/aviso-legal/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/aviso-legal/"
+                />
+  </url><url>
     <loc>http://localhost:1313/buscador/</loc>
     <xhtml:link
                 rel="alternate"
@@ -3292,6 +3304,18 @@
                 rel="alternate"
                 hreflang="en-US"
                 href="http://localhost:1313/en/contacto/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/politica-privacidad/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/politica-privacidad/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/politica-privacidad/"
                 />
   </url>
 </urlset>

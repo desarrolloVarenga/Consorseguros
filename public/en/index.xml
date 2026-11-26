@@ -1707,5 +1707,19 @@
 				<guid>http://localhost:1313/en/revistas/numero-9/consejo-editorial/</guid>
 				<description>&lt;p&gt;The Consorcio de Compensación de Seguros digital magazine “Consorseguros” (CCS) is published every six months, its content particularly addressing matters related to the Consorcio’s activities in various fields of insurance, reflecting on and analysing them.&lt;/p&gt;</description>
 			</item>
+			<item>
+				<title>Legal notice</title>
+				<link>http://localhost:1313/en/aviso-legal/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/aviso-legal/</guid>
+				<description>General information, purpose of the website, terms of use, intellectual and industrial property, user obligations, exclusions of guarantees and liability, and applicable legislation and jurisdiction of the Consorseguros website.</description>
+			</item>
+			<item>
+				<title>Privacy Policy</title>
+				<link>http://localhost:1313/en/politica-privacidad/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/politica-privacidad/</guid>
+				<description>Information on the data controller, processing purposes, legal basis, recipients, retention periods, security measures, international transfers, data subject rights, and Register of Processing Activities of Consorcio de Compensación de Seguros.</description>
+			</item>
 	</channel>
 </rss>

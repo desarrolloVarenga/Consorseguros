@@ -1498,4 +1498,25 @@ h3 {
 .issue-season {
   font-weight: 600;
 }
+.sub-dropdown-menu a {
+  color: #9e0b22;
+  text-decoration: underline;
+}
+.recaptcha-text,
+.recaptcha-text a {
+  color: #666666 !important;
+  font-size: 0.75rem;
+  line-height: 1.4;
+}
+.legal-text {
+  color: #555555;
+  font-size: 0.78rem;
+  line-height: 1.45;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.recaptcha-text {
+  margin-top: 8px;
+  margin-bottom: 14px;
+}
 /*# sourceMappingURL=style.css.map */
