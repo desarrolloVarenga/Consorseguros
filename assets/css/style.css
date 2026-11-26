@@ -1863,3 +1863,144 @@ h3 {
   margin-top: 8px;
   margin-bottom: 14px;
 }
+
+@media (max-width: 768px) {
+  html,
+  body {
+    overflow-x: hidden;
+    max-width: 100%;
+  }
+
+  .container {
+    padding: 0 14px;
+  }
+
+  /* Topbar y navegación superior */
+  .top-bar-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    gap: 6px;
+  }
+
+  .top-nav {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-end;
+    align-items: center;
+    gap: 8px;
+  }
+
+  .top-nav a {
+    margin-left: 0;
+    font-size: 0.78rem;
+  }
+
+  /* Desplegable de suscripción dentro de la pantalla en móvil */
+  .subscription-dropdown-container {
+    position: static;
+  }
+
+  #sub-dropdown-menu,
+  .sub-dropdown-menu {
+    position: fixed;
+    top: 42px;
+    left: 12px;
+    right: 12px;
+    width: auto;
+    max-width: calc(100vw - 24px);
+    max-height: calc(100vh - 58px);
+    overflow-y: auto;
+    box-sizing: border-box;
+    padding: 16px;
+    z-index: 1000;
+  }
+
+  .sub-dropdown-menu *,
+  .sub-dropdown-menu *::before,
+  .sub-dropdown-menu *::after {
+    box-sizing: border-box;
+    max-width: 100%;
+  }
+
+  .sub-dropdown-menu input[type="text"],
+  .sub-dropdown-menu input[type="email"] {
+    width: 100%;
+  }
+
+  /* Header principal */
+  .main-header {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 10px;
+    padding: 12px 14px;
+  }
+
+  .logo img {
+    max-width: 210px;
+    height: auto;
+  }
+
+  .header-actions {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 8px;
+    font-size: 0.85rem;
+  }
+
+  .btn-primary {
+    margin-left: 0;
+    padding: 6px 12px;
+    font-size: 0.85rem;
+  }
+
+  /* Navegación del número */
+  .issue-nav-links {
+    flex-wrap: wrap;
+    gap: 8px 14px;
+    font-size: 0.8rem;
+  }
+
+  /* Hero */
+  .hero-home {
+    height: auto;
+    min-height: 320px;
+  }
+
+  .hero-title,
+  .hero-home .hero-title {
+    font-size: 1.55rem;
+    line-height: 1.25;
+    max-width: 100%;
+    margin-bottom: 16px;
+  }
+
+  .badge-issue {
+    padding: 9px 15px;
+    font-size: 0.95rem;
+  }
+
+  /* Cuadrícula de artículos a 1 columna */
+  .articles-grid,
+  .issue-articles-grid,
+  .grid-articulos,
+  .cards-grid {
+    display: grid;
+    grid-template-columns: 1fr !important;
+    gap: 16px;
+  }
+
+  /* Footer */
+  .footer-content {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 14px;
+  }
+
+  .footer-links {
+    flex-wrap: wrap;
+    gap: 10px;
+  }
+}
