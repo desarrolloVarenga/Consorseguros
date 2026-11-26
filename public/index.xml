@@ -1750,6 +1750,20 @@
 				<description></description>
 			</item>
 			<item>
+				<title>Declaración de Accesibilidad</title>
+				<link>http://localhost:1313/accesibilidad/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/accesibilidad/</guid>
+				<description>Compromiso de accesibilidad del Consorcio de Compensación de Seguros conforme al Real Decreto 1112/2018, situación de cumplimiento, contenido no accesible, preparación, contacto, reclamaciones y contenido opcional.</description>
+			</item>
+			<item>
+				<title>Política de Cookies</title>
+				<link>http://localhost:1313/politica-cookies/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/politica-cookies/</guid>
+				<description>Información sobre el uso de cookies, responsable del tratamiento, cookies técnicas y analíticas, consentimiento, revocación, transferencias internacionales y derechos en el sitio web del Consorcio de Compensación de Seguros.</description>
+			</item>
+			<item>
 				<title>Política de Privacidad</title>
 				<link>http://localhost:1313/politica-privacidad/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>

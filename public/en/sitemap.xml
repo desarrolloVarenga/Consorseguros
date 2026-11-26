@@ -2932,6 +2932,18 @@
                 href="http://localhost:1313/en/revistas/numero-14/ume/"
                 />
   </url><url>
+    <loc>http://localhost:1313/en/accesibilidad/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/accesibilidad/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/accesibilidad/"
+                />
+  </url><url>
     <loc>http://localhost:1313/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
@@ -2966,6 +2978,18 @@
                 rel="alternate"
                 hreflang="en-US"
                 href="http://localhost:1313/en/search/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/en/politica-cookies/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/politica-cookies/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/politica-cookies/"
                 />
   </url><url>
     <loc>http://localhost:1313/en/revistas/numero-1/consejo-editorial/</loc>
