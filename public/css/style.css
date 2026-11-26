@@ -1633,4 +1633,22 @@ h3 {
     gap: 10px;
   }
 }
+@media (max-width: 768px) {
+  .top-bar .container,
+  .top-bar-container {
+    padding-right: 12px;
+  }
+  .top-nav {
+    gap: 10px;
+    padding-right: 4px;
+  }
+  .top-nav a,
+  .top-nav button {
+    margin-right: 2px;
+  }
+  #sub-dropdown-menu,
+  .sub-dropdown-menu {
+    z-index: 9999 !important;
+  }
+}
 /*# sourceMappingURL=style.css.map */
