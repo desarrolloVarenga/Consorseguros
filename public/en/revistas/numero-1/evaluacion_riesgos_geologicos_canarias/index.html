@@ -895,27 +895,34 @@ document.addEventListener('keydown', function(event) {
             <img src="/images/gob.png" alt="Gobierno de España" class="gov-logo">
         </div>
     </div>
+
+    <div class="footer-bottom-bar">
+        <div class="container footer-bottom-content">
+            <span>Web actualizada y mantenida por <a href="https://varenga.es/" target="_blank" rel="noopener noreferrer">Varenga</a></span>
+        </div>
+    </div>
+
     <script>
-  document.addEventListener("DOMContentLoaded", function () {
-    const toggleBtn = document.getElementById("sub-toggle-btn");
-    const dropdownMenu = document.getElementById("sub-dropdown-menu");
+      document.addEventListener("DOMContentLoaded", function () {
+        const toggleBtn = document.getElementById("sub-toggle-btn");
+        const dropdownMenu = document.getElementById("sub-dropdown-menu");
 
-    if (toggleBtn && dropdownMenu) {
-      toggleBtn.addEventListener("click", function (e) {
-        e.stopPropagation();
-        dropdownMenu.classList.toggle("active");
-      });
+        if (toggleBtn && dropdownMenu) {
+          toggleBtn.addEventListener("click", function (e) {
+            e.stopPropagation();
+            dropdownMenu.classList.toggle("active");
+          });
 
-      dropdownMenu.addEventListener("click", function (e) {
-        e.stopPropagation();
-      });
+          dropdownMenu.addEventListener("click", function (e) {
+            e.stopPropagation();
+          });
 
-      document.addEventListener("click", function () {
-        dropdownMenu.classList.remove("active");
+          document.addEventListener("click", function () {
+            dropdownMenu.classList.remove("active");
+          });
+        }
       });
-    }
-  });
-</script>
+    </script>
 </footer>
 </body>
 </html>
